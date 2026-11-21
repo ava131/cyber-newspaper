@@ -1,6 +1,6 @@
 # 赛博日报 · 项目档案
 
-> **2026-11-21 版本管理**：GitHub私有仓库为`https://github.com/ava131/cyber-newspaper`，主分支`main`。新增`README.md`说明现有功能、代码与Agent分工、运行命令及未完成事项。历期成品和复现材料纳入版本管理；本机`config/mail.json`、`.local/`、生成邮件、页面检查截图及Python缓存不入仓。邮件测试改用示例配置，可在没有真实邮件账号和钥匙串凭证的环境运行。
+> **2026-11-21 版本管理**：按用户要求，GitHub仓库已改为公开：`https://github.com/ava131/cyber-newspaper`，主分支`main`。新增`README.md`说明现有功能、代码与Agent分工、运行命令及未完成事项。历期成品和复现材料纳入版本管理；本机`config/mail.json`、`.local/`、生成邮件、页面检查截图及Python缓存不入仓。邮件测试改用示例配置，可在没有真实邮件账号和钥匙串凭证的环境运行。
 
 > **2026-11-21 QQ邮件首投成功提交**：已配置`1144709817@qq.com`发至`otis_chang@163.com`。新增`pipeline/mail_delivery.py`及本机配置页`pipeline/mail_setup.py`；正文为天气与四栏导读，附件为完整六版HTML。用户已通过本机页面填写授权码，Mac钥匙串读取及真实QQ认证成功。15:25:15北京时间，QQ服务器接受首封周末刊（`accepted`）；163实际收件待用户确认。同一期重复投递已拦截，8项离线测试通过。操作见`config/MAIL_SETUP.md`。尚未设置定时投递。
 
