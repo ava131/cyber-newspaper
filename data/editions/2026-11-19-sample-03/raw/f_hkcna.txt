@@ -1,0 +1,1420 @@
+<!DOCTYPE html>
+<html lang="zh_CN">
+<head>
+  <meta charset="utf-8"/>
+  
+      
+      <script>
+        function handleOpenUrl() {
+          const origin = window.location.origin;
+          const pathname = window.location.pathname;
+          if (pathname && pathname.startsWith('/about')) {
+            return;
+          }
+          // const params = new URLSearchParams(window.location.search);
+          // const mobileUrl = params.get("mobileUrl");
+          // const windowsUrl = params.get("windowsUrl");
+          const userAgent = navigator.userAgent || "";
+          const platform = navigator.platform || "";
+          const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile/i.test(userAgent);
+          const isWindows = /Windows/i.test(userAgent) || /Win/i.test(platform);
+          const deviceType = isMobile ? "mobile browser" : isWindows ? "Windows browser" : "desktop browser";
+
+          if (isMobile) {
+            if (pathname && pathname.startsWith('/h5')) {
+              return;
+            } else {
+              window.location.replace(origin + '/h5' + pathname + window.location.search);
+            }
+          } else {
+            if (pathname && !pathname.startsWith('/h5')) {
+              return;
+            } else {
+              window.location.replace(origin + pathname.replace("/h5", '') + window.location.search);
+            }
+          }
+
+        };
+        handleOpenUrl();
+      </script>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+      <link rel="icon" sizes="any" mask="" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/favicon.ico" />
+      <link rel="stylesheet" type="text/css" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/css/root.css"/>
+      <link rel="stylesheet" type="text/css" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/css/layout.css"/>
+      <link rel="stylesheet" type="text/css" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/swiper/swiper-bundle-7.4.1.min.css"/>
+      <link rel="stylesheet" type="text/css" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/css/carousel.css"/>
+      <link rel="stylesheet" type="text/css" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/css/carousel-v2.css"/>
+      <link rel="stylesheet" type="text/css" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/css/index.css"/>
+      <link rel="stylesheet" type="text/css" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/css/parts-story.css"/>
+      <link rel="stylesheet" type="text/css" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/css/index-search.css"/>
+    
+      <link rel="stylesheet" type="text/css" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/css/parts-column.css"/>
+      <link rel="stylesheet" type="text/css" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/css/parts-comment.css"/>
+    
+  <meta property="og:title" content="每日金融数据（2026年11月19日）" />
+  <meta property="twitter:title" content="每日金融数据（2026年11月19日）" />
+  
+  
+  
+  
+  
+  
+  <meta property="og:url" content="https://www.hkcna.hk/cn/content/s6afe5b6fe4b04d9df119f1e9.html" />
+  <meta property="twitter:url" content="https://www.hkcna.hk/cn/content/s6afe5b6fe4b04d9df119f1e9.html" />
+  <link rel="shortcut icon" href="https://www.hkcna.hk/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://www.hkcna.hk/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/favicon.ico" />
+  <meta property="og:type" content="article" />
+  <meta name="image" content="https://static.hkcna.hk/dams-res/editing/image/202610/23/6adabed6e4b03345dff15775.jpg" />
+  <meta name="og:image" content="https://static.hkcna.hk/dams-res/editing/image/202610/23/6adabed6e4b03345dff15775.jpg" />
+  <meta property="twitter:image" content="https://static.hkcna.hk/dams-res/editing/image/202610/23/6adabed6e4b03345dff15775.jpg" />
+  <meta property="og:image:alt" content="每日金融数据（2026年11月19日）"  />
+  <meta property="twitter:image:alt" content="每日金融数据（2026年11月19日）" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta data-rh="true" property="twitter:card" content="summary_large_image" />
+  <meta property="og:site_name" content="香港新闻网" />
+  <link rel="stylesheet" type="text/css" href="/static/6a06cd19e4b05731cf1d1b70/ztsweb/css/content-share.css"/>
+  <title>每日金融数据（2026年11月19日）</title>
+  
+      <script>
+        /*<![CDATA[*/
+        window.$AppContext = "\/6a06cd19e4b05731cf1d1b70\/";
+        var site = {"uuid":"6a06cd19e4b05731cf1d1b70","created":"2026-05-15T15:36:58.000+08:00","createdBy":"69fc2794e4b0cda3d9160ce4","updated":"2026-09-27T15:51:04.000+08:00","updatedBy":"6a17e894e4b03ac80f78b01f","deleted":false,"type":"WEBSITE","name":"\u65B0\u95FB\u7F51\u7F51\u7AD9","displayOrder":1,"siteId":"6a06c8ffe4b05731cf1d1b47","schema":"https","domain":"www.hkcna.hk","port":443,"indexTemplateUuid":"6a06cddce4b05731cf1d1b7a","indexTemplateName":"ztsweb","indexTemplateFile":"index","columnTemplateUuid":"6a06cddce4b05731cf1d1b7a","columnTemplateName":"ztsweb","columnTemplateFile":"column","specialTemplateUuid":"6a06cddce4b05731cf1d1b7a","specialTemplateName":"ztsweb","specialTemplateFile":"special","contentTemplateUuid":"6a06cddce4b05731cf1d1b7a","contentTemplateName":"ztsweb","contentTemplateFile":"content","cacheEnabled":false,"indexMaxAge":0,"columnMaxAge":0,"contentMaxAge":0,"contentUrlPattern":0,"payToRead":false,"loginToRead":false,"thirdParty":false,"disabled":false,"lastSynchronized":"2026-09-27T15:51:04.000+08:00","theme":"","jsonPageSize":0,"jsonPageLimit":0,"url":"https:\/\/www.hkcna.hk\/cn"};
+        // 处理site.staticServerUrl 处理多余的h5、hk、cn等
+        let staticServerUrl = "https:\/\/www.hkcna.hk\/cn";
+        if (staticServerUrl) {
+          staticServerUrl = staticServerUrl.replace('/h5', '').replace('/hk', '').replace('/cn', '');
+        }
+        var baseStaticUrl = staticServerUrl + "\/static\/6a06cd19e4b05731cf1d1b70\/ztsweb\/";
+        let covers = [{"uuid":"6adabed690e8510b9be9aff3","type":"16:9","tags":["plain"],"url":"https:\/\/static.hkcna.hk\/dams-res\/editing\/image\/202610\/23\/6adabed6e4b03345dff15775.jpg","width":640,"height":360,"compressed":false,"size":0,"previewSize":0}];
+        let coverImageUrl = '';
+        if (covers && covers.length > 0) {
+          coverImageUrl = covers[0].url;
+        }
+        let wapUrlPath =  "h5";
+        let storyUrl = window.location.origin + '/' + wapUrlPath + window.location.pathname;
+        var _base = {
+          wapUrlPath: wapUrlPath,
+          searchKeyword: null,
+          langType: "zh-CN",
+          baseStaticUrl: baseStaticUrl,
+          channelId: "6a06cd19e4b05731cf1d1b70",
+          columnId: "69ae34b5e4b08072d0078beb",
+          id: "s6afe5b6fe4b04d9df119f1e9",
+          contentType: "0",
+          story: {"id":"s6afe5b6fe4b04d9df119f1e9","oid":"s6afe5b6fe4b04d9df119f1e9","title":"\u6BCF\u65E5\u91D1\u878D\u6570\u636E\uFF082026\u5E7411\u670819\u65E5\uFF09","deleted":0,"updated":"2026-11-19T02:14:07.913+0000","properties":{"columnCategories":[],"appColumnCategories":[],"publishStatus":"1"},"content":"<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">\u9999\u6E2F\u65B0\u95FB\u7F5111\u670819\u65E5\u7535 \u76D8\u70B9\u56FD\u5185\u5916\u91D1\u878D\u6570\u636E\uFF08\u4EE5\u4E0B\u8D27\u5E01\u5355\u4F4D\u9664\u7279\u522B\u6CE8\u660E\u5916\uFF0C\u5747\u4E3A\u4EBA\u6C11\u5E01\u3002\uFF09<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">1\u3001\u5468\u4E09\uFF0811\u670818\u65E5\uFF09\uFF0C\u4E0A\u8BC1\u6307\u6570\u62A53587.83\u70B9\uFF0C\u4E0A\u6DA80.09%\uFF0C\u6210\u4EA4\u989D6502.32\u4EBF\u3002\u6DF1\u8BC1\u6210\u6307\u62A510659.41\u70B9\uFF0C\u4E0A\u6DA80.20%\uFF0C\u6210\u4EA4\u989D7194.71\u4EBF\u3002\u521B\u4E1A\u677F\u6307\u62A52311.62\u70B9\uFF0C\u4E0A\u6DA80.85%\uFF0C\u6210\u4EA4\u989D3414.33\u4EBF\u3002\u6CAA\u6DF1\u4E24\u5E02\u6210\u4EA4\u989D1.37\u4E07\u4EBF\uFF0C\u5237\u65B0\u5E74\u5185\u65B0\u4F4E\uFF0C\u8F83\u4E0A\u4E00\u4E2A\u4EA4\u6613\u65E5\u7F29\u91CF880\u4EBF\u3002\u5168\u5E02\u573A\u8D854100\u53EA\u4E2A\u80A1\u4E0B\u8DCC\u3002\u76D8\u9762\u4E0A\uFF0C\u901A\u4FE1\u670D\u52A1\u3001\u5143\u4EF6\u3001\u6E2F\u53E3\u822A\u8FD0\u3001IT\u670D\u52A1\u7B49\u677F\u5757\u6DA8\u5E45\u5C45\u524D\uFF0C\u5F71\u89C6\u9662\u7EBF\u3001\u8D35\u91D1\u5C5E\u3001\u6E38\u620F\u3001\u533B\u7597\u670D\u52A1\u7B49\u677F\u5757\u8DCC\u5E45\u5C45\u524D\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">2\u3001\u5468\u4E09\uFF0811\u670818\u65E5\uFF09\uFF0C\u6052\u751F\u6307\u6570\u8DCC0.91%\uFF0C\u62A523294.75\u70B9\u3002\u6052\u751F\u79D1\u6280\u6307\u6570\u8DCC0.58%\uFF0C\u62A53736.33\u70B9\u3002\u56FD\u4F01\u6307\u6570\u8DCC0.86%\uFF0C\u62A57836.27\u70B9\u3002\u677F\u5757\u4E2A\u80A1\u65B9\u9762\uFF0C\u5927\u578B\u79D1\u6280\u80A1\u591A\u6570\u4E0B\u8DCC\uFF0C\u9EC4\u91D1\u80A1\u8868\u73B0\u4E0D\u4F73\uFF0C\u534A\u5BFC\u4F53\u677F\u5757\u56DE\u6696\u3002\u5357\u5411\u8D44\u91D1\u51C0\u6D41\u516527.50\u4EBF\u6E2F\u5143\u3002\u5176\u4E2D\uFF0C\u6E2F\u80A1\u901A\uFF08\u6CAA\uFF09\u51C0\u6D41\u516522.99\u4EBF\u6E2F\u5143\uFF0C\u6E2F\u80A1\u901A\uFF08\u6DF1\uFF09\u51C0\u6D41\u51654.51\u4EBF\u6E2F\u5143\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">3\u3001\u622A\u81F311\u670818\u65E5\uFF0C\u5317\u4EA4\u6240\u4E0A\u5E02\u516C\u53F8356\u5BB6\uFF0C\u5F53\u65E5\u65E0\u65B0\u589E\u3002\u603B\u5E02\u503C7214.62\u4EBF\u5143\uFF0C\u6210\u4EA4\u91D1\u989D104.77\u4EBF\u5143\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">4\u3001\u4E24\u5E02\u878D\u8D44\u4F59\u989D\uFF1A\u622A\u81F311\u670817\u65E5\uFF0C\u4E0A\u4EA4\u6240\u878D\u8D44\u4F59\u989D\u62A511519.89\u4EBF\u5143\uFF0C\u8F83\u524D\u4E00\u4EA4\u6613\u65E5\u51CF\u5C1178.24\u4EBF\u5143\uFF1B\u6DF1\u4EA4\u6240\u878D\u8D44\u4F59\u989D\u62A510577.82\u4EBF\u5143\uFF0C\u8F83\u524D\u4E00\u4EA4\u6613\u65E5\u51CF\u5C11107.80\u4EBF\u5143\uFF1B\u4E24\u5E02\u5408\u8BA122097.71\u4EBF\u5143\uFF0C\u8F83\u524D\u4E00\u4EA4\u6613\u65E5\u51CF\u5C11186.04\u4EBF\u5143\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">5\u3001\u65B0\u4E09\u677F\uFF1A11\u670818\u65E5\uFF0C\u5408\u8BA1\u6302\u724C5733\u5BB6\u516C\u53F8\uFF0C\u5F53\u65E5\u589E\u52A02\u5BB6\uFF0C\u6210\u4EA4\u91D1\u989D1.30\u4EBF\u3002\u4E09\u677F\u6210\u6307\u62A5684.51\uFF0C\u8DCC0.31%\uFF0C\u6210\u4EA4\u989D0.64\u4EBF\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">6\u3001\u56FD\u5185\u5546\u54C1\u671F\u8D27\uFF1A\u622A\u81F311\u670818\u65E5\u4E0B\u5348\u6536\u76D8\uFF0C\u591A\u6570\u6536\u8DCC\uFF0C\u4E59\u4E8C\u9187\u3001\u94C2\u8DCC\u8D854%\uFF0C\u7126\u7164\u8DCC\u8FD14%\uFF0C\u539F\u6CB9\u3001\u5BF9\u4E8C\u7532\u82EF\u3001\u6CAA\u9521\u3001\u7EAF\u82EF\u3001\u4E19\u70EF\u3001\u56FD\u9645\u94DC\u3001\u6CAA\u94DC\u3001PTA\u8DCC\u8D853%\uFF0C\u82EF\u4E59\u70EF\u3001BR\u6A61\u80F6\u3001\u751F\u732A\u3001\u94AF\u3001\u6CAA\u91D1\u3001\u6CAA\u94DD\u3001\u6CA5\u9752\u8DCC\u8D852%\u3002\u6DA8\u5E45\u65B9\u9762\uFF0C\u78B3\u9178\u9502\u3001\u6CAA\u954D\u3001\u4E0D\u9508\u94A2\u3001\u767D\u7CD6\u3001\u73BB\u7483\u6DA8\u8D851%\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">7\u3001\u56FD\u503A\uFF1A11\u670818\u65E5\uFF0C2\u5E74\u671F\u56FD\u503A\u671F\u8D27\u4E3B\u529B\u5408\u7EA6TS2612\u4E0A\u884C0.02%\u81F3102.658\uFF1B5\u5E74\u671F\u56FD\u503A\u671F\u8D27\u4E3B\u529B\u5408\u7EA6TF2612\u4E0B\u884C0.01%\u81F3106.765\uFF1B10\u5E74\u671F\u56FD\u503A\u671F\u8D27\u4E3B\u529B\u5408\u7EA6T2612\u4E0A\u884C0.05%\u81F3110.035\u300210\u5E74\u671F\u56FD\u503A\u5229\u7387\u8DCC1.63BP\uFF0C\u81F31.59%\uFF1B10\u5E74\u671F\u56FD\u5F00\u503A\u5229\u7387\u6DA80.56BP\uFF0C\u81F31.70%<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">8\u3001\u592E\u884C\uFF1A\u516C\u5F00\u5E02\u573A11\u670818\u65E5\u8FDB\u884C7002\u4EBF\u5143\u4EBA\u6C11\u5E01\u9694\u591C\u9006\u56DE\u8D2D\u64CD\u4F5C\uFF0C\u5F53\u65E5\u51C0\u56DE\u7B3C138\u4EBF\u5143\u4EBA\u6C11\u5E01\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">9\u3001Shibor\uFF1A\u9694\u591C\u62A51.2930%\uFF0C\u4E0B\u8DCC1.00\u4E2A\u57FA\u70B9\u30027\u5929\u62A51.3881%\uFF0C\u4E0B\u8DCC1.19\u4E2A\u57FA\u70B9\u30023\u4E2A\u6708\u62A51.4000%\uFF0C\u4E0A\u6DA80.00\u4E2A\u57FA\u70B9\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">10\u3001\u4EBA\u6C11\u5E01\uFF1A\u5728\u5CB8\u4EBA\u6C11\u5E01\u5151\u7F8E\u514316:30\u6536\u76D8\uFF0C\u62A56.6653\uFF0C\u6DA80.0030%\uFF0C\u4EBA\u6C11\u5E01\u4E2D\u95F4\u4EF7\u62A56.7118\uFF0C\u6DA80.0209%\uFF0C\u521B2022\u5E74\u4EE5\u6765\u65B0\u9AD8\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">\u6D77\u5916<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">11\u3001\u4E9A\u6D32\uFF1A\u65E5\u7ECF225\u6307\u6570\u6DA80.28%\uFF0C\u62A559024.28\u70B9\u3002\u97E9\u56FDKOSPI\u6307\u6570\u6DA81.99%\uFF0C\u62A55067.44\u70B9\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">12\u3001\u7F8E\u80A1\uFF1A\u9053\u743C\u65AF\u6536\u8DCC1.11%\uFF0C\u62A550198.17\u70B9\uFF1B\u7EB3\u65AF\u8FBE\u514B\u6536\u6DA80.42%\uFF0C\u62A524429.88\u70B9\uFF1B\u6807\u666E500\u6536\u8DCC 0.23%\uFF0C\u62A57323.63\u70B9\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">13\u3001\u6B27\u6D32\uFF1A\u9053\u743C\u65AF\u6536\u8DCC1.11%\uFF0C\u62A550198.17\u70B9\uFF1B\u7EB3\u65AF\u8FBE\u514B\u6536\u6DA80.42%\uFF0C\u62A524429.88\u70B9\uFF1B\u6807\u666E500\u6536\u8DCC 0.23%\uFF0C\u62A57323.63\u70B9\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">14\u3001\u9EC4\u91D1\uFF1ACOMEX\u9EC4\u91D1\u671F\u8D27\u6536\u8DCC3.58%\uFF0C\u62A53725.7\u7F8E\u5143\/\u76CE\u53F8\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">15\u3001\u539F\u6CB9\uFF1AWTI\u539F\u6CB9\u671F\u8D27\u6536\u8DCC3.53%\uFF0C\u62A582.97\u7F8E\u5143 \/ \u6876\uFF1B\u5E03\u4F26\u7279\u539F\u6CB9\u671F\u8D27\u6536\u8DCC1.73%\uFF0C\u62A591.53 \u7F8E\u5143 \/ \u6876\u3002<\/p> \n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">16\u3001\u6CE2\u7F57\u7684\u6D77\u5E72\u6563\u8D27\u6307\u6570\uFF1A\u6DA80.73%\uFF0C\u62A52914\u70B9\u3002\uFF08\u5B8C\uFF09<\/p>","secretLevel":0,"indexed":1,"storySerialId":"W202611190024","ftTitle":"\u6BCF\u65E5\u91D1\u878D\u6578\u64DA\uFF082026\u5E7411\u670819\u65E5\uFF09","ftContent":"<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">\u9999\u6E2F\u65B0\u805E\u7DB211\u670819\u65E5\u96FB\u0026nbsp; \u76E4\u9EDE\u570B\u5167\u5916\u91D1\u878D\u6578\u64DA\uFF08\u4EE5\u4E0B\u8CA8\u5E63\u55AE\u4F4D\u9664\u7279\u5225\u8A3B\u660E\u5916\uFF0C\u5747\u70BA\u4EBA\u6C11\u5E63\u3002\uFF09<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">1\u3001\u5468\u4E09\uFF0811\u670818\u65E5\uFF09\uFF0C\u4E0A\u8B49\u6307\u6578\u58313587.83\u9EDE\uFF0C\u4E0A\u6F320.09%\uFF0C\u6210\u4EA4\u984D6502.32\u5104\u3002\u6DF1\u8B49\u6210\u6307\u583110659.41\u9EDE\uFF0C\u4E0A\u6F320.20%\uFF0C\u6210\u4EA4\u984D7194.71\u5104\u3002\u5275\u696D\u677F\u6307\u58312311.62\u9EDE\uFF0C\u4E0A\u6F320.85%\uFF0C\u6210\u4EA4\u984D3414.33\u5104\u3002\u6EEC\u6DF1\u5169\u5E02\u6210\u4EA4\u984D1.37\u842C\u5104\uFF0C\u5237\u65B0\u5E74\u5167\u65B0\u4F4E\uFF0C\u8F03\u4E0A\u4E00\u500B\u4EA4\u6613\u65E5\u7E2E\u91CF880\u5104\u3002\u5168\u5E02\u5834\u8D854100\u96BB\u500B\u80A1\u4E0B\u8DCC\u3002\u76E4\u9762\u4E0A\uFF0C\u901A\u4FE1\u670D\u52D9\u3001\u5143\u4EF6\u3001\u6E2F\u53E3\u822A\u904B\u3001IT\u670D\u52D9\u7B49\u677F\u584A\u6F32\u5E45\u5C45\u524D\uFF0C\u5F71\u8996\u9662\u7DDA\u3001\u8CB4\u91D1\u5C6C\u3001\u904A\u6232\u3001\u91AB\u7642\u670D\u52D9\u7B49\u677F\u584A\u8DCC\u5E45\u5C45\u524D\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">2\u3001\u5468\u4E09\uFF0811\u670818\u65E5\uFF09\uFF0C\u6052\u751F\u6307\u6578\u8DCC0.91%\uFF0C\u583123294.75\u9EDE\u3002\u6052\u751F\u79D1\u6280\u6307\u6578\u8DCC0.58%\uFF0C\u58313736.33\u9EDE\u3002\u570B\u4F01\u6307\u6578\u8DCC0.86%\uFF0C\u58317836.27\u9EDE\u3002\u677F\u584A\u500B\u80A1\u65B9\u9762\uFF0C\u5927\u578B\u79D1\u6280\u80A1\u591A\u6578\u4E0B\u8DCC\uFF0C\u9EC3\u91D1\u80A1\u8868\u73FE\u4E0D\u4F73\uFF0C\u534A\u5C0E\u9AD4\u677F\u584A\u56DE\u6696\u3002\u5357\u5411\u8CC7\u91D1\u51C8\u6D41\u516527.50\u5104\u6E2F\u5143\u3002\u5176\u4E2D\uFF0C\u6E2F\u80A1\u901A\uFF08\u6EEC\uFF09\u51C8\u6D41\u516522.99\u5104\u6E2F\u5143\uFF0C\u6E2F\u80A1\u901A\uFF08\u6DF1\uFF09\u51C8\u6D41\u51654.51\u5104\u6E2F\u5143\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">3\u3001\u622A\u81F311\u670818\u65E5\uFF0C\u5317\u4EA4\u6240\u4E0A\u5E02\u516C\u53F8356\u5BB6\uFF0C\u7576\u65E5\u7121\u65B0\u589E\u3002\u7E3D\u5E02\u503C7214.62\u5104\u5143\uFF0C\u6210\u4EA4\u91D1\u984D104.77\u5104\u5143\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">4\u3001\u5169\u5E02\u878D\u8CC7\u9918\u984D\uFF1A\u622A\u81F311\u670817\u65E5\uFF0C\u4E0A\u4EA4\u6240\u878D\u8CC7\u9918\u984D\u583111519.89\u5104\u5143\uFF0C\u8F03\u524D\u4E00\u4EA4\u6613\u65E5\u6E1B\u5C1178.24\u5104\u5143\uFF1B\u6DF1\u4EA4\u6240\u878D\u8CC7\u9918\u984D\u583110577.82\u5104\u5143\uFF0C\u8F03\u524D\u4E00\u4EA4\u6613\u65E5\u6E1B\u5C11107.80\u5104\u5143\uFF1B\u5169\u5E02\u5408\u8A0822097.71\u5104\u5143\uFF0C\u8F03\u524D\u4E00\u4EA4\u6613\u65E5\u6E1B\u5C11186.04\u5104\u5143\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">5\u3001\u65B0\u4E09\u677F\uFF1A11\u670818\u65E5\uFF0C\u5408\u8A08\u639B\u724C5733\u5BB6\u516C\u53F8\uFF0C\u7576\u65E5\u589E\u52A02\u5BB6\uFF0C\u6210\u4EA4\u91D1\u984D1.30\u5104\u3002\u4E09\u677F\u6210\u6307\u5831684.51\uFF0C\u8DCC0.31%\uFF0C\u6210\u4EA4\u984D0.64\u5104\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">6\u3001\u570B\u5167\u5546\u54C1\u671F\u8CA8\uFF1A\u622A\u81F311\u670818\u65E5\u4E0B\u5348\u6536\u76E4\uFF0C\u591A\u6578\u6536\u8DCC\uFF0C\u4E59\u4E8C\u9187\u3001\u9251\u8DCC\u8D854%\uFF0C\u7126\u7164\u8DCC\u8FD14%\uFF0C\u539F\u6CB9\u3001\u5C0D\u4E8C\u7532\u82EF\u3001\u6EEC\u932B\u3001\u7D14\u82EF\u3001\u4E19\u70EF\u3001\u570B\u969B\u9285\u3001\u6EEC\u9285\u3001PTA\u8DCC\u8D853%\uFF0C\u82EF\u4E59\u70EF\u3001BR\u6A61\u81A0\u3001\u751F\u8C6C\u3001\u9200\u3001\u6EEC\u91D1\u3001\u6EEC\u92C1\u3001\u701D\u9752\u8DCC\u8D852%\u3002\u6F32\u5E45\u65B9\u9762\uFF0C\u78B3\u9178\u92F0\u3001\u6EEC\u93B3\u3001\u4E0D\u93FD\u92FC\u3001\u767D\u7CD6\u3001\u73BB\u7483\u6F32\u8D851%\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">7\u3001\u570B\u50B5\uFF1A11\u670818\u65E5\uFF0C2\u5E74\u671F\u570B\u50B5\u671F\u8CA8\u4E3B\u529B\u5408\u7D04TS2612\u4E0A\u884C0.02%\u81F3102.658\uFF1B5\u5E74\u671F\u570B\u50B5\u671F\u8CA8\u4E3B\u529B\u5408\u7D04TF2612\u4E0B\u884C0.01%\u81F3106.765\uFF1B10\u5E74\u671F\u570B\u50B5\u671F\u8CA8\u4E3B\u529B\u5408\u7D04T2612\u4E0A\u884C0.05%\u81F3110.035\u300210\u5E74\u671F\u570B\u50B5\u5229\u7387\u8DCC1.63BP\uFF0C\u81F31.59%\uFF1B10\u5E74\u671F\u570B\u958B\u50B5\u5229\u7387\u6F320.56BP\uFF0C\u81F31.70%<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">8\u3001\u592E\u884C\uFF1A\u516C\u958B\u5E02\u583411\u670818\u65E5\u9032\u884C7002\u5104\u5143\u4EBA\u6C11\u5E63\u9694\u591C\u9006\u56DE\u8CFC\u64CD\u4F5C\uFF0C\u7576\u65E5\u51C8\u56DE\u7C60138\u5104\u5143\u4EBA\u6C11\u5E63\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">9\u3001Shibor\uFF1A\u9694\u591C\u58311.2930%\uFF0C\u4E0B\u8DCC1.00\u500B\u57FA\u9EDE\u30027\u5929\u58311.3881%\uFF0C\u4E0B\u8DCC1.19\u500B\u57FA\u9EDE\u30023\u500B\u6708\u58311.4000%\uFF0C\u4E0A\u6F320.00\u500B\u57FA\u9EDE\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">10\u3001\u4EBA\u6C11\u5E63\uFF1A\u5728\u5CB8\u4EBA\u6C11\u5E63\u514C\u7F8E\u514316:30\u6536\u76E4\uFF0C\u58316.6653\uFF0C\u6F320.0030%\uFF0C\u4EBA\u6C11\u5E63\u4E2D\u9593\u50F9\u58316.7118\uFF0C\u6F320.0209%\uFF0C\u52752022\u5E74\u4EE5\u4F86\u65B0\u9AD8\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">\u6D77\u5916<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">11\u3001\u4E9E\u6D32\uFF1A\u65E5\u7D93225\u6307\u6578\u6F320.28%\uFF0C\u583159024.28\u9EDE\u3002\u97D3\u570BKOSPI\u6307\u6578\u6F321.99%\uFF0C\u58315067.44\u9EDE\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">12\u3001\u7F8E\u80A1\uFF1A\u9053\u74CA\u65AF\u6536\u8DCC1.11%\uFF0C\u583150198.17\u9EDE\uFF1B\u7D0D\u65AF\u9054\u514B\u6536\u6F320.42%\uFF0C\u583124429.88\u9EDE\uFF1B\u6A19\u666E500\u6536\u8DCC 0.23%\uFF0C\u58317323.63\u9EDE\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">13\u3001\u6B50\u6D32\uFF1A\u9053\u74CA\u65AF\u6536\u8DCC1.11%\uFF0C\u583150198.17\u9EDE\uFF1B\u7D0D\u65AF\u9054\u514B\u6536\u6F320.42%\uFF0C\u583124429.88\u9EDE\uFF1B\u6A19\u666E500\u6536\u8DCC 0.23%\uFF0C\u58317323.63\u9EDE\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">14\u3001\u9EC3\u91D1\uFF1ACOMEX\u9EC3\u91D1\u671F\u8CA8\u6536\u8DCC3.58%\uFF0C\u58313725.7\u7F8E\u5143\/\u76CE\u53F8\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">15\u3001\u539F\u6CB9\uFF1AWTI\u539F\u6CB9\u671F\u8CA8\u6536\u8DCC3.53%\uFF0C\u583182.97\u7F8E\u5143 \/ \u6876\uFF1B\u5E03\u502B\u7279\u539F\u6CB9\u671F\u8CA8\u6536\u8DCC1.73%\uFF0C\u583191.53 \u7F8E\u5143 \/ \u6876\u3002<\/p>\n<p style=\"margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;\">16\u3001\u6CE2\u7F85\u7684\u6D77\u4E7E\u6563\u8CA8\u6307\u6578\uFF1A\u6F320.73%\uFF0C\u58312914\u9EDE\u3002\uFF08\u5B8C\uFF09<\/p>","storyType":"COMPO","predecessor":"CO6afe5b6fe4b0106e6d2a7134","contentType":"0","contributors":[{"uuid":"69ddfa3be4b0145835eafd58","name":"\u9322\u6797\u971E","title":"contributors_executiveProducer"}],"authors":[{"uuid":"69ddfa3be4b0145835eafd5e","name":"\u738B\u4E30\u94C3","ftName":"\u738B\u8C50\u9234","group":"69b3bbd5e4b0749cfecd960b","groupName":"\u6DF1\u5EA6\u5831\u5C0E\u90E8","avatar":""}],"editors":[{"uuid":"69ddfa3be4b0145835eafd5e","name":"\u738B\u8C50\u9234","ftName":"\u738B\u8C50\u9234","group":"69b3bbd5e4b0749cfecd960b","groupName":"\u6DF1\u5EA6\u5831\u5C0E\u90E8"}],"coverStyle":0,"coverImages":[{"uuid":"6adabed690e8510b9be9aff3","type":"16:9","tags":["plain"],"url":"https:\/\/static.hkcna.hk\/dams-res\/editing\/image\/202610\/23\/6adabed6e4b03345dff15775.jpg","width":640,"height":360,"compressed":false,"size":0,"previewSize":0},{"uuid":"6adabed6078f4e21559749c9","type":"16:9","tags":["big"],"url":"https:\/\/static.hkcna.hk\/dams-res\/editing\/image\/202610\/23\/6adabed6e4b0b0d7663d7288.jpg","width":778,"height":438,"compressed":false,"size":0,"previewSize":0}],"htmlTitle":"\u6BCF\u65E5\u91D1\u878D\u6570\u636E\uFF082026\u5E7411\u670819\u65E5\uFF09","ftHtmlTitle":"\u6BCF\u65E5\u91D1\u878D\u6578\u64DA\uFF082026\u5E7411\u670819\u65E5\uFF09","posterImage":{"width":-1,"height":-1,"compressed":false,"size":0,"previewSize":0},"source":"\u7EFC\u7F16","ftSource":"\u7D9C\u7DE8","genres":"\u7EFC\u5408\u6D88\u606F","ftGenres":"\u7D9C\u5408\u6D88\u606F","secret":0,"publishStatus":1,"wordCount":1484,"channelId":"6a06cd19e4b05731cf1d1b70","columnId":"69ae34b5e4b08072d0078beb","columnIds":["69ae34b5e4b08072d0078beb"],"publishTime":"2026-11-19T02:14:07.763+0000","originalId":"CO6afe5468e4b0106e6d2a6f16","pgcUser":{},"publisher":{"uuid":"69ddfa3be4b0145835eafd58","name":"\u9322\u6797\u971E"},"region":"\u5176\u4ED6\u5730\u533A","ftRegion":"\u5176\u4ED6\u5730\u5340","topics":["\u8D22\u7ECF"],"ftTopics":["\u8CA1\u7D93"],"storySource":"\u9999\u6E2F\u65B0\u95FB\u7F51","ftStorySource":"\u9999\u6E2F\u65B0\u805E\u7DB2","submission":"xwwpt","assessmentGrade":-1,"column":{"uuid":"69ae34b5e4b08072d0078beb","created":"2026-03-09T10:47:18.000+08:00","createdBy":"698c4052e4b0b24ae079156a","updated":"2026-08-07T14:20:23.000+08:00","updatedBy":"69e1ec58e4b0145835eafe0f","deleted":false,"name":"\u8D22\u7ECF","nameTw":"\u8CA1\u7D93","alias":"","code":"finance","type":0,"level":0,"channelId":"6a06cd19e4b05731cf1d1b70","cacheEnabled":false,"loginToRead":false,"payToRead":false,"thirdParty":false,"allowStoryTypes":"","displayOrder":5,"columnTemplateUuid":"6a06cddce4b05731cf1d1b7a","columnTemplateName":"ztsweb","columnTemplateFile":"column-finance","disabled":false,"coverImageUrl":"","customStorySort":true,"aggregationId":"","iconUrl":"","storySortListSize":10,"syncColumnStorys":false,"offline":false,"canPush":false,"unshared":false,"unsubscribeable":false,"displayCount":0,"appShowTitle":true,"fullName":"\u8D22\u7ECF","url":"https:\/\/www.hkcna.hk\/cn\/finance","ftFullName":"\u8CA1\u7D93","position":0},"exported":false,"collection":false,"selection":false,"needHandleTitle":false,"useThymeleaf":false,"useThymeleafDetail":false,"url":"https:\/\/www.hkcna.hk\/cn\/content\/s6afe5b6fe4b04d9df119f1e9.html","textContent":"\u9999\u6E2F\u65B0\u95FB\u7F5111\u670819\u65E5\u7535\u00A0 \u76D8\u70B9\u56FD\u5185\u5916\u91D1\u878D\u6570\u636E\uFF08\u4EE5\u4E0B\u8D27\u5E01\u5355\u4F4D\u9664\u7279\u522B\u6CE8\u660E\u5916\uFF0C\u5747\u4E3A\u4EBA\u6C11\u5E01\u3002\uFF09\n1\u3001\u5468\u4E09\uFF0811\u670818\u65E5\uFF09\uFF0C\u4E0A\u8BC1\u6307\u6570\u62A53587.83\u70B9\uFF0C\u4E0A\u6DA80.09%\uFF0C\u6210\u4EA4\u989D6502.32\u4EBF\u3002\u6DF1\u8BC1\u6210\u6307\u62A510659.41\u70B9\uFF0C\u4E0A\u6DA80.20%\uFF0C\u6210\u4EA4\u989D7194.71\u4EBF\u3002\u521B\u4E1A\u677F\u6307\u62A52311.62\u70B9\uFF0C\u4E0A\u6DA80.85%\uFF0C\u6210\u4EA4\u989D3414.33\u4EBF\u3002\u6CAA\u6DF1\u4E24\u5E02\u6210\u4EA4\u989D1.37\u4E07\u4EBF\uFF0C\u5237\u65B0\u5E74\u5185\u65B0\u4F4E\uFF0C\u8F83\u4E0A\u4E00\u4E2A\u4EA4\u6613\u65E5\u7F29\u91CF880\u4EBF\u3002\u5168\u5E02\u573A\u8D854100\u53EA\u4E2A\u80A1\u4E0B\u8DCC\u3002\u76D8\u9762\u4E0A\uFF0C\u901A\u4FE1\u670D\u52A1\u3001\u5143\u4EF6\u3001\u6E2F\u53E3\u822A\u8FD0\u3001IT\u670D\u52A1\u7B49\u677F\u5757\u6DA8\u5E45\u5C45\u524D\uFF0C\u5F71\u89C6\u9662\u7EBF\u3001\u8D35\u91D1\u5C5E\u3001\u6E38\u620F\u3001\u533B\u7597\u670D\u52A1\u7B49\u677F\u5757\u8DCC\u5E45\u5C45\u524D\u3002\n2\u3001\u5468\u4E09\uFF0811\u670818\u65E5\uFF09\uFF0C\u6052\u751F\u6307\u6570\u8DCC0.91%\uFF0C\u62A523294.75\u70B9\u3002\u6052\u751F\u79D1\u6280\u6307\u6570\u8DCC0.58%\uFF0C\u62A53736.33\u70B9\u3002\u56FD\u4F01\u6307\u6570\u8DCC0.86%\uFF0C\u62A57836.27\u70B9\u3002\u677F\u5757\u4E2A\u80A1\u65B9\u9762\uFF0C\u5927\u578B\u79D1\u6280\u80A1\u591A\u6570\u4E0B\u8DCC\uFF0C\u9EC4\u91D1\u80A1\u8868\u73B0\u4E0D\u4F73\uFF0C\u534A\u5BFC\u4F53\u677F\u5757\u56DE\u6696\u3002\u5357\u5411\u8D44\u91D1\u51C0\u6D41\u516527.50\u4EBF\u6E2F\u5143\u3002\u5176\u4E2D\uFF0C\u6E2F\u80A1\u901A\uFF08\u6CAA\uFF09\u51C0\u6D41\u516522.99\u4EBF\u6E2F\u5143\uFF0C\u6E2F\u80A1\u901A\uFF08\u6DF1\uFF09\u51C0\u6D41\u51654.51\u4EBF\u6E2F\u5143\u3002\n3\u3001\u622A\u81F311\u670818\u65E5\uFF0C\u5317\u4EA4\u6240\u4E0A\u5E02\u516C\u53F8356\u5BB6\uFF0C\u5F53\u65E5\u65E0\u65B0\u589E\u3002\u603B\u5E02\u503C7214.62\u4EBF\u5143\uFF0C\u6210\u4EA4\u91D1\u989D104.77\u4EBF\u5143\u3002\n4\u3001\u4E24\u5E02\u878D\u8D44\u4F59\u989D\uFF1A\u622A\u81F311\u670817\u65E5\uFF0C\u4E0A\u4EA4\u6240\u878D\u8D44\u4F59\u989D\u62A511519.89\u4EBF\u5143\uFF0C\u8F83\u524D\u4E00\u4EA4\u6613\u65E5\u51CF\u5C1178.24\u4EBF\u5143\uFF1B\u6DF1\u4EA4\u6240\u878D\u8D44\u4F59\u989D\u62A510577.82\u4EBF\u5143\uFF0C\u8F83\u524D\u4E00\u4EA4\u6613\u65E5\u51CF\u5C11107.80\u4EBF\u5143\uFF1B\u4E24\u5E02\u5408\u8BA122097.71\u4EBF\u5143\uFF0C\u8F83\u524D\u4E00\u4EA4\u6613\u65E5\u51CF\u5C11186.04\u4EBF\u5143\u3002\n5\u3001\u65B0\u4E09\u677F\uFF1A11\u670818\u65E5\uFF0C\u5408\u8BA1\u6302\u724C5733\u5BB6\u516C\u53F8\uFF0C\u5F53\u65E5\u589E\u52A02\u5BB6\uFF0C\u6210\u4EA4\u91D1\u989D1.30\u4EBF\u3002\u4E09\u677F\u6210\u6307\u62A5684.51\uFF0C\u8DCC0.31%\uFF0C\u6210\u4EA4\u989D0.64\u4EBF\u3002\n6\u3001\u56FD\u5185\u5546\u54C1\u671F\u8D27\uFF1A\u622A\u81F311\u670818\u65E5\u4E0B\u5348\u6536\u76D8\uFF0C\u591A\u6570\u6536\u8DCC\uFF0C\u4E59\u4E8C\u9187\u3001\u94C2\u8DCC\u8D854%\uFF0C\u7126\u7164\u8DCC\u8FD14%\uFF0C\u539F\u6CB9\u3001\u5BF9\u4E8C\u7532\u82EF\u3001\u6CAA\u9521\u3001\u7EAF\u82EF\u3001\u4E19\u70EF\u3001\u56FD\u9645\u94DC\u3001\u6CAA\u94DC\u3001PTA\u8DCC\u8D853%\uFF0C\u82EF\u4E59\u70EF\u3001BR\u6A61\u80F6\u3001\u751F\u732A\u3001\u94AF\u3001\u6CAA\u91D1\u3001\u6CAA\u94DD\u3001\u6CA5\u9752\u8DCC\u8D852%\u3002\u6DA8\u5E45\u65B9\u9762\uFF0C\u78B3\u9178\u9502\u3001\u6CAA\u954D\u3001\u4E0D\u9508\u94A2\u3001\u767D\u7CD6\u3001\u73BB\u7483\u6DA8\u8D851%\u3002\n7\u3001\u56FD\u503A\uFF1A11\u670818\u65E5\uFF0C2\u5E74\u671F\u56FD\u503A\u671F\u8D27\u4E3B\u529B\u5408\u7EA6TS2612\u4E0A\u884C0.02%\u81F3102.658\uFF1B5\u5E74\u671F\u56FD\u503A\u671F\u8D27\u4E3B\u529B\u5408\u7EA6TF2612\u4E0B\u884C0.01%\u81F3106.765\uFF1B10\u5E74\u671F\u56FD\u503A\u671F\u8D27\u4E3B\u529B\u5408\u7EA6T2612\u4E0A\u884C0.05%\u81F3110.035\u300210\u5E74\u671F\u56FD\u503A\u5229\u7387\u8DCC1.63BP\uFF0C\u81F31.59%\uFF1B10\u5E74\u671F\u56FD\u5F00\u503A\u5229\u7387\u6DA80.56BP\uFF0C\u81F31.70%\n8\u3001\u592E\u884C\uFF1A\u516C\u5F00\u5E02\u573A11\u670818\u65E5\u8FDB\u884C7002\u4EBF\u5143\u4EBA\u6C11\u5E01\u9694\u591C\u9006\u56DE\u8D2D\u64CD\u4F5C\uFF0C\u5F53\u65E5\u51C0\u56DE\u7B3C138\u4EBF\u5143\u4EBA\u6C11\u5E01\u3002\n9\u3001Shibor\uFF1A\u9694\u591C\u62A51.2930%\uFF0C\u4E0B\u8DCC1.00\u4E2A\u57FA\u70B9\u30027\u5929\u62A51.3881%\uFF0C\u4E0B\u8DCC1.19\u4E2A\u57FA\u70B9\u30023\u4E2A\u6708\u62A51.4000%\uFF0C\u4E0A\u6DA80.00\u4E2A\u57FA\u70B9\u3002\n10\u3001\u4EBA\u6C11\u5E01\uFF1A\u5728\u5CB8\u4EBA\u6C11\u5E01\u5151\u7F8E\u514316:30\u6536\u76D8\uFF0C\u62A56.6653\uFF0C\u6DA80.0030%\uFF0C\u4EBA\u6C11\u5E01\u4E2D\u95F4\u4EF7\u62A56.7118\uFF0C\u6DA80.0209%\uFF0C\u521B2022\u5E74\u4EE5\u6765\u65B0\u9AD8\u3002\n\u6D77\u5916\n11\u3001\u4E9A\u6D32\uFF1A\u65E5\u7ECF225\u6307\u6570\u6DA80.28%\uFF0C\u62A559024.28\u70B9\u3002\u97E9\u56FDKOSPI\u6307\u6570\u6DA81.99%\uFF0C\u62A55067.44\u70B9\u3002\n12\u3001\u7F8E\u80A1\uFF1A\u9053\u743C\u65AF\u6536\u8DCC1.11%\uFF0C\u62A550198.17\u70B9\uFF1B\u7EB3\u65AF\u8FBE\u514B\u6536\u6DA80.42%\uFF0C\u62A524429.88\u70B9\uFF1B\u6807\u666E500\u6536\u8DCC 0.23%\uFF0C\u62A57323.63\u70B9\u3002\n13\u3001\u6B27\u6D32\uFF1A\u9053\u743C\u65AF\u6536\u8DCC1.11%\uFF0C\u62A550198.17\u70B9\uFF1B\u7EB3\u65AF\u8FBE\u514B\u6536\u6DA80.42%\uFF0C\u62A524429.88\u70B9\uFF1B\u6807\u666E500\u6536\u8DCC 0.23%\uFF0C\u62A57323.63\u70B9\u3002\n14\u3001\u9EC4\u91D1\uFF1ACOMEX\u9EC4\u91D1\u671F\u8D27\u6536\u8DCC3.58%\uFF0C\u62A53725.7\u7F8E\u5143\/\u76CE\u53F8\u3002\n15\u3001\u539F\u6CB9\uFF1AWTI\u539F\u6CB9\u671F\u8D27\u6536\u8DCC3.53%\uFF0C\u62A582.97\u7F8E\u5143 \/ \u6876\uFF1B\u5E03\u4F26\u7279\u539F\u6CB9\u671F\u8D27\u6536\u8DCC1.73%\uFF0C\u62A591.53 \u7F8E\u5143 \/ \u6876\u3002\n16\u3001\u6CE2\u7F57\u7684\u6D77\u5E72\u6563\u8D27\u6307\u6570\uFF1A\u6DA80.73%\uFF0C\u62A52914\u70B9\u3002\uFF08\u5B8C\uFF09","columnName":"\u8D22\u7ECF","jsonUrl":"https:\/\/www.hkcna.hk\/cn\/content\/s6afe5b6fe4b04d9df119f1e9.json","layoutStyle":"0","pageCount":1,"webPreviewUrl":"https:\/\/www.hkcna.hk\/cn\/content\/s6afe5b6fe4b04d9df119f1e9.html","imageCount":0,"covers":[{"uuid":"6adabed690e8510b9be9aff3","type":"16:9","tags":["plain"],"url":"https:\/\/static.hkcna.hk\/dams-res\/editing\/image\/202610\/23\/6adabed6e4b03345dff15775.jpg","width":640,"height":360,"compressed":false,"size":0,"previewSize":0}],"locked":false},
+          dtliveStatus: 0,
+          originalId: "CO6afe5468e4b0106e6d2a6f16",
+          uisProxy: 'https://interact.hkcna.hk',
+          cassProxy: 'https://search.hkcna.hk',
+          reporterProxy: 'https://web.hkcna.hk',
+          liveProxy: '//web.hkcna.hk',
+          darsProxy: 'https://web.hkcna.hk/',
+          bjhProxy:'https://web.hkcna.hk/',
+          mpsPublisher:null,
+          logoUrl: baseStaticUrl + "img\/wxsharelogo.png",
+          wxsignurl: 'https://www.hkcna.hk/wxshare/rest/api/v1/credential/sign/wxaecd6d3b211d4d51'
+        };
+        var config = {
+          title: "\u6BCF\u65E5\u91D1\u878D\u6570\u636E\uFF082026\u5E7411\u670819\u65E5\uFF09",
+          langType: "zh-CN",
+          description: "",
+          image: coverImageUrl,
+          source: "\u7EFC\u7F16",
+          url: storyUrl,
+          channelId: "6a06cd19e4b05731cf1d1b70"
+        };
+         var globalUserDetail = null;
+        /*]]>*/
+      </script>
+      
+      <script type="text/javascript" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/jquery-4.0.0.min.js"></script>
+    	<script type="text/javascript" charset="utf-8" rel="stylesheet" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/jsrender.min.js"></script>
+      <script type="text/javascript" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/swiper/swiper-bundle-7.4.1.min.js"></script>
+      <script type="text/javascript" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/common.js"></script>
+      <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/lazyImage.js"></script>
+      <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/apiClient.js"></script>
+    
+    
+</head>
+<body>
+  <!-- 快捷操作 -->
+  
+      
+      <div class="zts-tools-side-nav-share">
+        <aside class="zts-tools-side-nav-share-main zts-tools-side-nav-share-main-active" id="zts-tools-side-nav-hover" style="display:none;" aria-label="栏目导航">
+          <ul class="ns-layout-tools-shares-list" id="ns-layout-tools-shares-list-hover">
+            <div class="ns-layout-tools-shares-item-new" style="--index: 6;">
+                <img class="tools-shares-item-new-img" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/right/right-blue-facebook.svg" />
+                <div class="footer-social-popover footer-social-popover-left">
+                  <a href="https://www.facebook.com/TongMediaHK" class="footer-social-popover-item" target="_blank">
+                    <img alt="通傳媒" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/facebook-selected.png" />
+                    <span>通传媒
+                      </span>
+                  </a>
+                  <a href="https://www.facebook.com/TongShuoHK2.0" class="footer-social-popover-item" target="_blank">
+                    <img alt="通說2.0" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/facebook-selected.png" />
+                    <span>通说2.0
+                      </span>
+                  </a>
+                  <a href="https://www.facebook.com/hongkongteatime" class="footer-social-popover-item" target="_blank">
+                    <img alt="T-Time HK" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/facebook-selected.png" />
+                    <span>T-Time HK
+                      </span>
+                  </a>
+              </div>
+            </div>
+            <div class="ns-layout-tools-shares-item-new" style="--index: 5;">
+              <img class="tools-shares-item-new-img" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/right/right-blue-youtube.svg"/>
+              <div class="footer-social-popover footer-social-popover-left">
+                <a href="https://www.youtube.com/c/tongvisual" class="footer-social-popover-item" target="_blank">
+                  <img alt="通視" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/youtube-selected.png" />
+                  <span>通 视
+                    </span>
+                </a>
+                <a href="https://www.youtube.com/@T-TimeHK" class="footer-social-popover-item" target="_blank">
+                  <img alt="T-Time HK" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/youtube-selected.png" />
+                  <span>T-Time HK
+                    </span>
+                </a>
+              </div>
+            </div>
+            <div class="ns-layout-tools-shares-item-new" style="--index: 4;">
+              <img class="tools-shares-item-new-img" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/right/right-blue-webo.svg"/>
+              <div class="footer-social-popover footer-social-popover-left">
+                <a href="https://m.weibo.cn/u/5999251130" class="footer-social-popover-item" target="_blank">
+                  <img alt="香港中通社" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/weibo-selected.png" />
+                  <span>香港中通社
+                    </span>
+                </a>
+              </div>
+            </div>
+            <div class="ns-layout-tools-shares-item-new" style="--index: 3;">
+              <img class="tools-shares-item-new-img" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/right/right-blue-wechat.svg"/>
+              <div class="footer-social-popover footer-social-popover-left">
+                <a class="footer-social-popover-item footer-social-popover-item-wx-tongshuo" target="_blank">
+                  <img alt="通説" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/gzh-selected.png" />
+                  <img alt="通説" class="footer-social-wx-gzh footer-social-wx-gzh-hidden" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/wx-tongshuo.png" />
+                  <span>通说
+                    </span>
+                </a>
+                <a href="" class="footer-social-popover-item" target="_blank">
+                  <img class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/wechat-video-selected.png" />
+                  <span>香港中通社
+                    </span>
+                </a>
+              </div>
+            </div>
+            <div class="ns-layout-tools-shares-item-new" style="--index: 2;">
+              <img class="tools-shares-item-new-img" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/right/right-blue-douyin.svg"/>
+              <div class="footer-social-popover footer-social-popover-left">
+                <a href="https://v.douyin.com/ed_Bj2CcLxw/" class="footer-social-popover-item" target="_blank">
+                  <img alt="通 視" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/douyin-selected.png" />
+                  <span>通 视
+                    </span>
+                </a>
+              </div>
+            </div>
+            <div class="ns-layout-tools-shares-item-new" style="--index: 1;">
+              <img class="tools-shares-item-new-img" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/right/right-blue-x.svg"/>
+              <div class="footer-social-popover footer-social-popover-left">
+                <a href="https://x.com/TongMediaHK" class="footer-social-popover-item" target="_blank">
+                  <img alt="通傳媒" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/x-selected.png" />
+                  <span>通传媒
+                    </span>
+                </a>
+                <a href="https://x.com/Tong_Shuo" class="footer-social-popover-item" target="_blank">
+                  <img alt="通說" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/x-selected.png" />
+                  <span>通 说
+                    </span>
+                </a>
+              </div>
+            </div>
+            <div class="ns-layout-tools-shares-item-new" style="--index: 0;">
+              <img class="tools-shares-item-new-img" style="width: 48px;" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/right/right-blue-ins.svg"/>
+              <div class="footer-social-popover footer-social-popover-left">
+                <a href="https://www.instagram.com/ttimehongkong?igsh=MWlnZXYybTZndGcyYg==" class="footer-social-popover-item" target="_blank">
+                  <img alt="T-Time HK" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/ins-selected.png" />
+                  <span>T-Time HK
+                    </span>
+                </a>
+              </div>
+            </div>
+          </ul>
+          <div class="zts-tools-side-nav__app" id="zts-tools-side-nav__app" onmouseenter="rightToolsMouseEnter()">
+           	<div class="zts-tools-side-nav__app_qrcode">
+              <img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/app-download.png"/>
+            </div>
+            <button class="zts-tools-side-nav__app_btn" type="button" aria-label="二维码" id="nav-app">
+              APP下载
+              
+            </button>
+          </div>
+          <div class="zts-tools-side-nav__footer" id="zts-tools-side-nav__footer" onmouseenter="rightToolsMouseEnter()">
+            <button class="zts-tools-side-nav__top" type="button" aria-label="返回顶部" id="backToTop"></button>
+          </div>
+        </aside>
+        <script>
+          document.getElementById('backToTop').onclick = function () {
+              window.scrollTo({
+                top: 0,
+                behavior: 'smooth'  // 平滑滚动
+              });
+          };
+        </script>
+      </div>
+    
+    
+  <!-- 头部 -->
+  
+      <div class="ns-layout-header">
+        <div class="ns-layout-logo">
+          <div class="ns-layout-warp">
+            <img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/top-web-logo.svg"/>
+            <div class="ns-logo-description">
+              <span class="ns-logn-desc-span">
+                
+                香港中国通讯社
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+  
+      <div class="global-header-top-nav">
+        <div class="global-header-top-nav-body">
+          <div class="global-header-top-nav-left">
+            <ul class="top-nav-list">
+              
+                
+                  
+                    
+                      <li class=" top-nav-item ">
+                        <span class="top-nav-label"><a href="/">首页</a></span>
+                        
+                        
+                        
+                      </li>
+                    
+                  
+                
+                  
+                    
+                      <li class="has-children top-nav-item ">
+                        
+                        <span class="top-nav-label"><a href="//www.hkcna.hk/cn/news">新闻</a></span>
+                        <span class="has-children-span"></span>
+                        <ul class="top-sub-nav">
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/news/gangao">港澳</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/news/taiwan">台湾·两岸</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/news/mainland">内地</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/news/international">国际</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/news/dawanqu">大湾区</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/news/telecom">电讯</a></span></li>
+                            
+                          
+                        </ul>
+                      </li>
+                    
+                  
+                
+                  
+                    
+                      <li class=" top-nav-item ">
+                        
+                        <span class="top-nav-label"><a href="//www.hkcna.hk/cn/rec">推荐</a></span>
+                        
+                        
+                      </li>
+                    
+                  
+                
+                  
+                    
+                      <li class=" top-nav-item ">
+                        
+                        <span class="top-nav-label"><a href="//www.hkcna.hk/cn/talk">来论</a></span>
+                        
+                        
+                      </li>
+                    
+                  
+                
+                  
+                    
+                      <li class=" top-nav-item active">
+                        
+                        <span class="top-nav-label"><a href="//www.hkcna.hk/cn/finance">财经</a></span>
+                        
+                        
+                      </li>
+                    
+                  
+                
+                  
+                    
+                      <li class="has-children top-nav-item ">
+                        
+                        <span class="top-nav-label"><a href="//www.hkcna.hk/cn/culture">文化</a></span>
+                        <span class="has-children-span"></span>
+                        <ul class="top-sub-nav">
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/culture/tourism">旅游</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/culture/guofeng">国风</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/culture/food">美食</a></span></li>
+                            
+                          
+                        </ul>
+                      </li>
+                    
+                  
+                
+                  
+                    
+                      <li class=" top-nav-item ">
+                        
+                        <span class="top-nav-label"><a href="//www.hkcna.hk/cn/technology">科技</a></span>
+                        
+                        
+                      </li>
+                    
+                  
+                
+                  
+                    
+                      <li class="has-children top-nav-item ">
+                        
+                        <span class="top-nav-label"><a href="//www.hkcna.hk/cn/chinese">华人</a></span>
+                        <span class="has-children-span"></span>
+                        <ul class="top-sub-nav">
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/chinese/chinesenews">华人新闻</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/chinese/media">华媒资讯</a></span></li>
+                            
+                          
+                        </ul>
+                      </li>
+                    
+                  
+                
+                  
+                    
+                      <li class="has-children top-nav-item ">
+                        
+                        <span class="top-nav-label"><a href="//www.hkcna.hk/cn/video">视频</a></span>
+                        <span class="has-children-span"></span>
+                        <ul class="top-sub-nav">
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/video/news">新闻</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/video/columns">专栏</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/video/opinions">观点</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/video/shortvideo">短视频</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/video/live">直播</a></span></li>
+                            
+                          
+                        </ul>
+                      </li>
+                    
+                  
+                
+                  
+                    
+                      <li class="has-children top-nav-item ">
+                        
+                        <span class="top-nav-label"><a href="//www.hkcna.hk/cn/gallery">图集</a></span>
+                        <span class="has-children-span"></span>
+                        <ul class="top-sub-nav">
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/gallery/gangao">港澳</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/gallery/taiwan">台湾</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/gallery/shenzhou">神州</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/gallery/global">环球</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/gallery/stories">故事</a></span></li>
+                            
+                          
+                        </ul>
+                      </li>
+                    
+                  
+                
+                  
+                    
+                      <li class="has-children top-nav-item ">
+                        
+                        <span class="top-nav-label"><a href="//www.hkcna.hk/cn/hktong">香港通</a></span>
+                        <span class="has-children-span"></span>
+                        <ul class="top-sub-nav">
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/hktong/club">社团</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/hktong/knowhongkong">知香港</a></span></li>
+                            
+                          
+                            
+                              <li class="top-sub-nav-item"><span class="top-sub-nav-item-label"><a href="//www.hkcna.hk/cn/hktong/serviceconsultation">服务资讯</a></span></li>
+                            
+                          
+                        </ul>
+                      </li>
+                    
+                  
+                
+                  
+                    
+                      <li class=" top-nav-item ">
+                        
+                        <span class="top-nav-label"><a href="//www.hkcna.hk/cn/subject">专题</a></span>
+                        
+                        
+                      </li>
+                    
+                  
+                
+              
+            </ul>
+          </div>
+          <div class="global-header-top-nav-right" onclick="entryFeed()">
+            <div class="global-top-nav-system-item global-top-nav-entry">
+              <!-- <img class="nav-feed-img" cms:pr-src="img/nav-feed.png"/> -->
+              <img class="nav-feed-img" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/feed/entry-logo.png"/>
+              <img class="nav-feed-img-title" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/feed/entry-title.svg"/>
+            </div>
+            <div class="global-top-nav-system-item global-top-nav-system">
+              <span>
+                供稿系统
+                
+              </span>
+            </div>
+          </div>
+         <!-- <div class="global-top-nav-system-item global-top-nav-search">
+          		<img cms:pr-src="img/search.png"/>
+          </div>
+          <div class="global-top-nav-system-item global-top-nav-turn">
+            <span>繁</span>
+          </div>
+          <div class="global-top-nav-system-item global-top-nav-entry">
+            <img cms:pr-src="img/entry.png"/>
+          </div>
+          <div class="global-top-nav-system-item global-top-nav-system">
+            <div class="global-top-nav-system-box">
+              <p>
+                <span>香港中國通訊社</span>
+              </p>
+              <p>
+                <span>圖文信息發布系統</span>
+              </p>
+            </div>
+          </div> -->
+     	 </div>
+      </div>
+    
+  <!-- 快捷操作 -->
+  
+      <div class="ns-layout-tools-top">
+        <div class="ns-layout-tools-top-shares">
+          <div class="ns-layout-tools-top-shares-line"></div>
+          <div class="ns-layout-tools-top-shares-list">
+            <div class="ns-layout-tools-top-shares-line"></div>
+            <div class="ns-layout-tools-top-div ns-layout-tools-top-shares-item ns-layout-tools-top-shares-search" id="ns-layout-tools-top-shares-search" onclick="openSearch()">
+              <img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/search-blue.png"/>
+            </div>
+            <div class="ns-layout-tools-top-div ns-layout-tools-top-shares-item ns-layout-tools-top-shares-search-input" id="ns-layout-tools-top-shares-search-input">
+              <span class="ant-input-search ant-input-affix-wrapper" style="width: 200px;">
+                <input id="search-input" type="text" class="ant-input" value="" placeholder="请输入检索词"/>
+                <span class="ant-input-suffix" onclick="searchStoryList()" id="searchBtn"><i aria-label="图标: search" tabindex="-1" class="anticon anticon-search ant-input-search-icon"><svg viewBox="64 64 896 896" data-icon="search" width="1em" height="1em" fill="currentColor" aria-hidden="true" focusable="false" class=""><path d="M909.6 854.5L649.9 594.8C690.2 542.7 712 479 712 412c0-80.2-31.3-155.4-87.9-212.1-56.6-56.7-132-87.9-212.1-87.9s-155.5 31.3-212.1 87.9C143.2 256.5 112 331.8 112 412c0 80.1 31.3 155.5 87.9 212.1C256.5 680.8 331.8 712 412 712c67 0 130.6-21.8 182.7-62l259.7 259.6a8.2 8.2 0 0 0 11.6 0l43.6-43.5a8.2 8.2 0 0 0 0-11.6zM570.4 570.4C528 612.7 471.8 636 412 636s-116-23.3-158.4-65.6C211.3 528 188 471.8 188 412s23.3-116.1 65.6-158.4C296 211.3 352.2 188 412 188s116.1 23.2 158.4 65.6S636 352.2 636 412s-23.3 116.1-65.6 158.4z"></path></svg></i></span></span>
+               <!-- ===== 新增下拉框 ===== -->
+              <select id="searchLogicSelect" class="search-logic-select">
+                <option value="and">
+                  与
+                  
+                </option>
+                <option value="or">或</option>
+              </select>
+
+              <!-- ===== 新增单选框组 ===== -->
+              <div class="search-radio-div-box">
+                <div class="search-radio-item">
+                  <input type="radio" name="search-type-status" value="title" checked="" />
+                  <div>
+                    标题
+                    
+                  </div>
+                </div>
+                <div class="search-radio-item">
+                  <input type="radio" name="search-type-status" value="content" />
+                  <div>正文</div>
+                </div>
+                <div class="search-radio-item">
+                  <input type="radio" name="search-type-status" value="fulltext"/><div>全文</div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="ns-layout-tools-top-div ns-layout-tools-top-shares-item ns-layout-tools-top-shares-user" onclick="login()">
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M20 5.80078C21.918 5.80078 23.7773 6.17578 25.5273 6.91406C27.2188 7.62891 28.7383 8.65234 30.043 9.95703C31.3477 11.2617 32.3711 12.7812 33.0859 14.4727C33.8242 16.2227 34.1992 18.082 34.1992 20C34.1992 21.918 33.8242 23.7773 33.0859 25.5273C32.3711 27.2188 31.3477 28.7383 30.043 30.043C28.7383 31.3477 27.2188 32.3711 25.5273 33.0859C23.7773 33.8242 21.918 34.1992 20 34.1992C18.082 34.1992 16.2227 33.8242 14.4727 33.0859C12.7812 32.3711 11.2617 31.3477 9.95703 30.043C8.65234 28.7383 7.62891 27.2188 6.91406 25.5273C6.17578 23.7773 5.80078 21.918 5.80078 20C5.80078 18.082 6.17578 16.2227 6.91406 14.4727C7.62891 12.7812 8.65234 11.2617 9.95703 9.95703C11.2617 8.65234 12.7812 7.62891 14.4727 6.91406C16.2227 6.17578 18.082 5.80078 20 5.80078ZM20 3.84766C11.0781 3.84766 3.84766 11.0781 3.84766 20C3.84766 28.9219 11.0781 36.1523 20 36.1523C28.9219 36.1523 36.1523 28.9219 36.1523 20C36.1523 11.0781 28.9219 3.84766 20 3.84766Z" fill="#1E468B"/>
+                <path d="M15.8594 15.6641C15.8594 16.7622 16.2956 17.8154 17.0721 18.5919C17.8487 19.3684 18.9018 19.8047 20 19.8047C21.0982 19.8047 22.1513 19.3684 22.9279 18.5919C23.7044 17.8154 24.1406 16.7622 24.1406 15.6641C24.1406 14.5659 23.7044 13.5127 22.9279 12.7362C22.1513 11.9597 21.0982 11.5234 20 11.5234C18.9018 11.5234 17.8487 11.9597 17.0721 12.7362C16.2956 13.5127 15.8594 14.5659 15.8594 15.6641Z" fill="#1E468B"/>
+                <path d="M20.0977 21.125C15.9922 21.125 12.4805 23.8125 11.0508 27.6172C12.1523 28.707 13.4102 29.5742 14.7969 30.1914C16.3672 30.8945 18.0391 31.25 19.7617 31.25C21.4844 31.25 23.1562 30.8945 24.7266 30.1914C26.2461 29.5117 27.6094 28.5391 28.7812 27.2969C28.8359 27.2383 28.8867 27.1797 28.9414 27.125C27.4102 23.5859 24.0273 21.125 20.0977 21.125Z" fill="#1E468B"/>
+              </svg>
+            </div>
+            <div class="ns-layout-tools-top-div ns-layout-tools-top-shares-item ns-layout-tools-top-shares-language">
+              <div class="language-text " onclick="languageChange('zh-HK')">繁</div>
+					 <div class="language-text language-text-active" onclick="languageChange('zh-CN')">简</div>
+            </div>
+				 <div></div>
+          </div>
+          <div class="ns-layout-tools-top-shares-line ns-layout-tools-top-shares-line-after"></div>
+        </div>
+      </div>
+    
+  <div class="global-content story-content story-content-display-flex">
+    <div class="story-content-left">
+      <div class="story-content-title">
+        每日金融数据（2026年11月19日）
+      </div>
+      <div class="story-content-divide"></div>
+      <div class="story-content-shares">
+        <div> 分享到： </div>
+        <div class="story-content-shares-item story-content-shares-wechat" id="story-content-shares-wechat-qrcode" onclick="ShareTool.shareweixin()">
+          <img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/wechat.png"/>
+        </div>
+        <div class="story-content-shares-item story-content-shares-weibo" onclick="ShareTool.shareweibo()">
+          <img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/weibo.png"/>
+        </div>
+        <div class="story-content-shares-item story-content-shares-x" onclick="ShareTool.sharetwitter()">
+          <img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/x.png"/>
+        </div>
+        <div class="story-content-shares-item story-content-shares-facebook" onclick="ShareTool.sharefacebook()">
+          <img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/tools/facebook.png"/>
+        </div>
+      </div>
+      <div class="story-content-body">
+        <div class="story-content-body-header">
+          <div class="story-publish-time">2026-11-19 10:14</div>
+          
+            <div class="story-divide"></div>
+            <div class="story-source">
+              稿件来源：香港新闻网
+              
+            </div>
+          
+          <div class="story-header-right">【 字号：
+            <span onclick="editFontSize('story-content-body-content', 'add')">大</span>
+            <span onclick="editFontSize('story-content-body-content', 'middle')">中</span>
+            <span onclick="editFontSize('story-content-body-content', 'sub')">小</span>  】</div>
+        </div>
+        <div class="story-content-body-content">
+          
+          
+          <div>
+            <div id="story-content-id"><p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">香港新闻网11月19日电 盘点国内外金融数据（以下货币单位除特别注明外，均为人民币。）</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">1、周三（11月18日），上证指数报3587.83点，上涨0.09%，成交额6502.32亿。深证成指报10659.41点，上涨0.20%，成交额7194.71亿。创业板指报2311.62点，上涨0.85%，成交额3414.33亿。沪深两市成交额1.37万亿，刷新年内新低，较上一个交易日缩量880亿。全市场超4100只个股下跌。盘面上，通信服务、元件、港口航运、IT服务等板块涨幅居前，影视院线、贵金属、游戏、医疗服务等板块跌幅居前。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">2、周三（11月18日），恒生指数跌0.91%，报23294.75点。恒生科技指数跌0.58%，报3736.33点。国企指数跌0.86%，报7836.27点。板块个股方面，大型科技股多数下跌，黄金股表现不佳，半导体板块回暖。南向资金净流入27.50亿港元。其中，港股通（沪）净流入22.99亿港元，港股通（深）净流入4.51亿港元。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">3、截至11月18日，北交所上市公司356家，当日无新增。总市值7214.62亿元，成交金额104.77亿元。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">4、两市融资余额：截至11月17日，上交所融资余额报11519.89亿元，较前一交易日减少78.24亿元；深交所融资余额报10577.82亿元，较前一交易日减少107.80亿元；两市合计22097.71亿元，较前一交易日减少186.04亿元。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">5、新三板：11月18日，合计挂牌5733家公司，当日增加2家，成交金额1.30亿。三板成指报684.51，跌0.31%，成交额0.64亿。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">6、国内商品期货：截至11月18日下午收盘，多数收跌，乙二醇、铂跌超4%，焦煤跌近4%，原油、对二甲苯、沪锡、纯苯、丙烯、国际铜、沪铜、PTA跌超3%，苯乙烯、BR橡胶、生猪、钯、沪金、沪铝、沥青跌超2%。涨幅方面，碳酸锂、沪镍、不锈钢、白糖、玻璃涨超1%。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">7、国债：11月18日，2年期国债期货主力合约TS2612上行0.02%至102.658；5年期国债期货主力合约TF2612下行0.01%至106.765；10年期国债期货主力合约T2612上行0.05%至110.035。10年期国债利率跌1.63BP，至1.59%；10年期国开债利率涨0.56BP，至1.70%</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">8、央行：公开市场11月18日进行7002亿元人民币隔夜逆回购操作，当日净回笼138亿元人民币。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">9、Shibor：隔夜报1.2930%，下跌1.00个基点。7天报1.3881%，下跌1.19个基点。3个月报1.4000%，上涨0.00个基点。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">10、人民币：在岸人民币兑美元16:30收盘，报6.6653，涨0.0030%，人民币中间价报6.7118，涨0.0209%，创2022年以来新高。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">海外</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">11、亚洲：日经225指数涨0.28%，报59024.28点。韩国KOSPI指数涨1.99%，报5067.44点。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">12、美股：道琼斯收跌1.11%，报50198.17点；纳斯达克收涨0.42%，报24429.88点；标普500收跌 0.23%，报7323.63点。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">13、欧洲：道琼斯收跌1.11%，报50198.17点；纳斯达克收涨0.42%，报24429.88点；标普500收跌 0.23%，报7323.63点。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">14、黄金：COMEX黄金期货收跌3.58%，报3725.7美元/盎司。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">15、原油：WTI原油期货收跌3.53%，报82.97美元 / 桶；布伦特原油期货收跌1.73%，报91.53 美元 / 桶。</p> 
+<p style="margin-top: 5px; margin-bottom: 20px; text-align: justify; text-indent: 2em;">16、波罗的海干散货指数：涨0.73%，报2914点。（完）</p></div>
+          </div>
+          
+          
+        </div>
+        <div class="story-content-body-footer">
+          <div class="story-footer-right-user">
+            【编辑：
+             
+            王豐鈴】
+          </div>
+        </div>
+      </div>
+      <div class="story-content-footer">
+        <div class="story-content-footer-recommened">
+          <div class="recommened-title">
+            <div class="story-content-footer-line"></div>
+            <div class="recommened-name">
+              相关新闻
+              
+            </div>
+            <div class="story-content-footer-line"></div>
+          </div>
+          <div class="recommened-content-list">
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="story-content-right">
+      
+    
+    <div class="global-column-type-i">
+      
+        <div class="global-column-type-i-name" data-zts-column="" id="zts-rec" data-zts-column-name="推荐">
+          <div class="global-column-type-i-name-logo">
+              <img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/vector-bg.png" />
+              <img class=" global-column-type-i-name-logo-vector" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/vector.png" />
+          </div>
+          <div class="global-column-type-i-name-text">
+            <span>推荐</span>
+          </div>
+        </div>
+      
+      <div class="global-column-type-i-content">
+        <!-- 稿件列表 -->
+        
+          
+            
+              <div class="global-column-type-i-content-top">
+                <div class="global-column-type-i-content-img">
+                  <a title="港剧《玫瑰战争》内地掀热议 获赞剧情有张力故事不悬浮" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe703be4b04d9df119f28f.html">
+                    <img class="column-type-i-content-image lazy-image" border="0" data-src="//static.hkcna.hk/dams-res/editing/image/202611/19/6afe9c64e4b0855d0a3975b5.jpg" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/320x180.png"/>
+                    <img class="column-type-i-content-image-bg lazy-image" border="0" data-src="//static.hkcna.hk/dams-res/editing/image/202611/19/6afe9c64e4b0855d0a3975b5.jpg" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/320x180.png"/>
+                  </a>
+                  <div class="global-column-type-i-content-title">
+                    <a class="font-over-limit-2" title="港剧《玫瑰战争》内地掀热议 获赞剧情有张力故事不悬浮" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe703be4b04d9df119f28f.html">港剧《玫瑰战争》内地掀热议 获赞剧情有张力故事不悬浮</a>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="global-column-type-i-content-item">
+                <div class="global-column-type-i-content-item-title">
+                  <a class="font-over-limit-1" title="美媒实地探访深圳：这里不仅是科技之城，更是中华美食之都" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe5f39e4b04d9df119f21c.html">美媒实地探访深圳：这里不仅是科技之城，更是中华美食之都</a>
+                </div>
+              </div>
+            
+              
+              <div class="global-column-type-i-content-item">
+                <div class="global-column-type-i-content-item-title">
+                  <a class="font-over-limit-1" title="（APEC）深圳的璀璨夜景，美到连特朗普都破了例" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe5812e4b04d9df119f1e3.html">（APEC）深圳的璀璨夜景，美到连特朗普都破了例</a>
+                </div>
+              </div>
+            
+              
+              <div class="global-column-type-i-content-item">
+                <div class="global-column-type-i-content-item-title">
+                  <a class="font-over-limit-1" title="赖瑞隆被曝存款98%是人民币 台舆论讽：“抗中”是工作，“亲中”是生活" target="_blank" href="https://www.hkcna.hk/cn/content/s6afd75cbe4b089a2db401896.html">赖瑞隆被曝存款98%是人民币 台舆论讽：“抗中”是工作，“亲中”是生活</a>
+                </div>
+              </div>
+            
+              
+              <div class="global-column-type-i-content-item">
+                <div class="global-column-type-i-content-item-title">
+                  <a class="font-over-limit-1" title="（APEC）活力、创新……APEC客人这样评价“深圳印象”" target="_blank" href="https://www.hkcna.hk/cn/content/s6afd6eede4b04d9df119f018.html">（APEC）活力、创新……APEC客人这样评价“深圳印象”</a>
+                </div>
+              </div>
+            
+              
+              <div class="global-column-type-i-content-item">
+                <div class="global-column-type-i-content-item-title">
+                  <a class="font-over-limit-1" title="深圳“科技地陪”走红 外国游客解锁特色“落地签”" target="_blank" href="https://www.hkcna.hk/cn/content/s6afd6de3e4b089a2db401848.html">深圳“科技地陪”走红 外国游客解锁特色“落地签”</a>
+                </div>
+              </div>
+            
+          
+        
+      </div>
+    </div>
+  
+    
+    <div class="global-column-type-b">
+      
+        <div class="global-column-type-b-top">
+          <div class="global-column-type-b-name" data-zts-column="" id="zts-talk" data-zts-column-name="来论">
+            <div class="global-column-type-b-name-text">
+              <span>来论</span>
+            </div>
+          </div>
+          <div class="global-column-type-a-more">
+            <div class="global-column-type-a-more-text">
+              <span><a title="阅读更多" target="_blank" href="https://www.hkcna.hk/cn/talk">更 多&gt;</a></span>
+            </div>
+          </div>
+        </div>
+      
+      <div class="global-column-type-b-content">
+        <!-- 稿件列表 -->
+        
+          
+            
+              <div class="global-column-type-b-content-item">
+                <div class="global-column-type-b-content-item-left">
+                  <div class="global-column-type-b-content-title">
+                    <a class="font-over-limit-2" title="董观志：聚焦政策 破解湾区文旅“旺丁不旺财”的现实难题" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe95ffe4b04d9df119f2cc.html">董观志：聚焦政策 破解湾区文旅“旺丁不旺财”的现实难题</a>
+                  </div>
+                  <div class="global-column-type-b-content-desc">
+                    <a class="font-over-limit-2" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe95ffe4b04d9df119f2cc.html"></a>
+                  </div>
+                </div>
+                <div class="global-column-type-b-content-item-right">
+                  <div class="global-column-type-b-content-img">
+                    <a title="董观志：聚焦政策 破解湾区文旅“旺丁不旺财”的现实难题" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe95ffe4b04d9df119f2cc.html">
+                      <img class="column-type-b-content-image lazy-image" border="0" data-src="//static.hkcna.hk/dams-res/editing/image/202611/09/6af195cbe4b06f03454b2a22.jpg" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/160x90.png"/>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="global-column-type-b-content-item">
+                <div class="global-column-type-b-content-item-left">
+                  <div class="global-column-type-b-content-title">
+                    <a class="font-over-limit-2" title="杨流昌：以开放与创新共筑亚太新局" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe5cdae4b04d9df119f1f1.html">杨流昌：以开放与创新共筑亚太新局</a>
+                  </div>
+                  <div class="global-column-type-b-content-desc">
+                    <a class="font-over-limit-2" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe5cdae4b04d9df119f1f1.html"></a>
+                  </div>
+                </div>
+                <div class="global-column-type-b-content-item-right">
+                  <div class="global-column-type-b-content-img">
+                    <a title="杨流昌：以开放与创新共筑亚太新局" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe5cdae4b04d9df119f1f1.html">
+                      <img class="column-type-b-content-image lazy-image" border="0" data-src="//static.hkcna.hk/dams-res/editing/image/202611/19/6afe5b73e4b0855d0a3970cc.jpg" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/160x90.png"/>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="global-column-type-b-content-item">
+                <div class="global-column-type-b-content-item-left">
+                  <div class="global-column-type-b-content-title">
+                    <a class="font-over-limit-2" title="（送陈卓仪审）（APEC）屠海鸣：APEC“拉手”不“松手” 倡导“延链”不“断链”" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe5b11e4b089a2db401a76.html">（送陈卓仪审）（APEC）屠海鸣：APEC“拉手”不“松手” 倡导“延链”不“断链”</a>
+                  </div>
+                  <div class="global-column-type-b-content-desc">
+                    <a class="font-over-limit-2" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe5b11e4b089a2db401a76.html"></a>
+                  </div>
+                </div>
+                <div class="global-column-type-b-content-item-right">
+                  <div class="global-column-type-b-content-img">
+                    <a title="（送陈卓仪审）（APEC）屠海鸣：APEC“拉手”不“松手” 倡导“延链”不“断链”" target="_blank" href="https://www.hkcna.hk/cn/content/s6afe5b11e4b089a2db401a76.html">
+                      <img class="column-type-b-content-image lazy-image" border="0" data-src="//static.hkcna.hk/dams-res/editing/image/202610/24/6adc55b2e4b0b0d7663d8bec.jpg" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/160x90.png"/>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            
+          
+        
+      </div>
+    </div>
+  
+    
+    <div class="global-column-type-e">
+      <div class="global-column-type-b-top">
+        <div class="global-column-type-b-name global-column-type-e-name">
+          <div class="global-column-type-b-name-text">
+            <span>点击排行</span>
+          </div>
+        </div>
+        <div class="global-column-type-a-more global-column-type-e-more-hour" onclick="showRank('1')">
+          <div class="global-column-type-a-more-text">
+            <span><a target="_blank" >24小时</a></span>
+          </div>
+        </div>
+        <div class="global-column-type-a-more global-column-type-e-more-week" onclick="showRank('2')">
+          <div class="global-column-type-a-more-text">
+            <span><a target="_blank" >一周</a></span>
+          </div>
+        </div>
+      </div>
+      
+        
+          <div class="global-column-type-e-content" id="global-column-type-e-content-hour">
+            
+              
+                <div class="global-column-type-e-content-item">
+                  <div class="column-type-e-content-item-rank-suffix"></div>
+                  <div class="column-type-e-content-item-rank">
+                    <span>1</span>
+                  </div>
+                  <div class="column-type-e-content-item-title">
+                    <a title="俄方确认克里米亚大桥“结构损坏”，已向普京汇报" target="_blank" href="https://www.hkcna.hk/cn/content/s6afd087de4b04d9df119ee44.html">俄方确认克里米亚大桥“结构损坏”，已向普京汇报</a>
+                  </div>
+                </div>
+              
+                <div class="global-column-type-e-content-item">
+                  <div class="column-type-e-content-item-rank-suffix"></div>
+                  <div class="column-type-e-content-item-rank">
+                    <span>2</span>
+                  </div>
+                  <div class="column-type-e-content-item-title">
+                    <a title="（APEC）从APEC峰会接待车，看中国国产汽车发展历程" target="_blank" href="https://www.hkcna.hk/cn/content/s6afcff4de4b089a2db40160c.html">（APEC）从APEC峰会接待车，看中国国产汽车发展历程</a>
+                  </div>
+                </div>
+              
+                <div class="global-column-type-e-content-item">
+                  <div class="column-type-e-content-item-rank-suffix"></div>
+                  <div class="column-type-e-content-item-rank">
+                    <span>3</span>
+                  </div>
+                  <div class="column-type-e-content-item-title">
+                    <a title="赖瑞隆被曝存款98%是人民币 台舆论讽：“抗中”是工作，“亲中”是生活" target="_blank" href="https://www.hkcna.hk/cn/content/s6afd75cbe4b089a2db401896.html">赖瑞隆被曝存款98%是人民币 台舆论讽：“抗中”是工作，“亲中”是生活</a>
+                  </div>
+                </div>
+              
+                <div class="global-column-type-e-content-item">
+                  <div class="column-type-e-content-item-rank-suffix"></div>
+                  <div class="column-type-e-content-item-rank">
+                    <span>4</span>
+                  </div>
+                  <div class="column-type-e-content-item-title">
+                    <a title="香江观察：APEC窗口下，大湾区如何把握机遇、留下红利？" target="_blank" href="https://www.hkcna.hk/cn/content/s6afd0256e4b04d9df119ee03.html">香江观察：APEC窗口下，大湾区如何把握机遇、留下红利？</a>
+                  </div>
+                </div>
+              
+                <div class="global-column-type-e-content-item">
+                  <div class="column-type-e-content-item-rank-suffix"></div>
+                  <div class="column-type-e-content-item-rank">
+                    <span>5</span>
+                  </div>
+                  <div class="column-type-e-content-item-title">
+                    <a title="（APEC）工商领导人峰会巨头云集 在“奇迹之城”深圳续写新“亚太奇迹”" target="_blank" href="https://www.hkcna.hk/cn/content/s6afc8d4ee4b04d9df119edb1.html">（APEC）工商领导人峰会巨头云集 在“奇迹之城”深圳续写新“亚太奇迹”</a>
+                  </div>
+                </div>
+              
+                <div class="global-column-type-e-content-item">
+                  <div class="column-type-e-content-item-rank-suffix"></div>
+                  <div class="column-type-e-content-item-rank">
+                    <span>6</span>
+                  </div>
+                  <div class="column-type-e-content-item-title">
+                    <a title="QS世界大学可持续发展排名：香港11校上榜港大居首" target="_blank" href="https://www.hkcna.hk/cn/content/s6afd0f80e4b04d9df119ee7c.html">QS世界大学可持续发展排名：香港11校上榜港大居首</a>
+                  </div>
+                </div>
+              
+                <div class="global-column-type-e-content-item">
+                  <div class="column-type-e-content-item-rank-suffix"></div>
+                  <div class="column-type-e-content-item-rank">
+                    <span>7</span>
+                  </div>
+                  <div class="column-type-e-content-item-title">
+                    <a title="（APEC）鸿蒙、荣耀、比亚迪 中外记者解码“科技之城”深圳" target="_blank" href="https://www.hkcna.hk/cn/content/s6afd0437e4b089a2db40169b.html">（APEC）鸿蒙、荣耀、比亚迪 中外记者解码“科技之城”深圳</a>
+                  </div>
+                </div>
+              
+                <div class="global-column-type-e-content-item">
+                  <div class="column-type-e-content-item-rank-suffix"></div>
+                  <div class="column-type-e-content-item-rank">
+                    <span>8</span>
+                  </div>
+                  <div class="column-type-e-content-item-title">
+                    <a title="黄仁勋表态愿重任英伟达CEO  董事会称无意让其回任" target="_blank" href="https://www.hkcna.hk/cn/content/s6afcf74ae4b089a2db4015ee.html">黄仁勋表态愿重任英伟达CEO  董事会称无意让其回任</a>
+                  </div>
+                </div>
+              
+                <div class="global-column-type-e-content-item">
+                  <div class="column-type-e-content-item-rank-suffix"></div>
+                  <div class="column-type-e-content-item-rank">
+                    <span>9</span>
+                  </div>
+                  <div class="column-type-e-content-item-title">
+                    <a title="（APEC）外媒记者逛深圳，他们的“打卡点”有哪些？" target="_blank" href="https://www.hkcna.hk/cn/content/s6afd17f4e4b04d9df119eecf.html">（APEC）外媒记者逛深圳，他们的“打卡点”有哪些？</a>
+                  </div>
+                </div>
+              
+                <div class="global-column-type-e-content-item">
+                  <div class="column-type-e-content-item-rank-suffix"></div>
+                  <div class="column-type-e-content-item-rank">
+                    <span>10</span>
+                  </div>
+                  <div class="column-type-e-content-item-title">
+                    <a title="“平时艺文，选时援军”！台当局10年砸16亿养亲绿艺人" target="_blank" href="https://www.hkcna.hk/cn/content/s6afcf858e4b089a2db4015f1.html">“平时艺文，选时援军”！台当局10年砸16亿养亲绿艺人</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+        <div class="global-column-type-e-content global-column-type-e-content-week" id="global-column-type-e-content-week">
+
+            
+              
+              <div class="global-column-type-e-content-item">
+                <div class="column-type-e-content-item-rank-suffix"></div>
+                <div class="column-type-e-content-item-rank">
+                  <span>1</span>
+                </div>
+                <div class="column-type-e-content-item-title">
+                  <a title="盼两岸恢复对话，岛内260多名学者发起“两岸和平倡议”" target="_blank" href="https://www.hkcna.hk/cn/content/s6af6641ce4b089a2db400808.html">盼两岸恢复对话，岛内260多名学者发起“两岸和平倡议”</a>
+                </div>
+              </div>
+            
+              <div class="global-column-type-e-content-item">
+                <div class="column-type-e-content-item-rank-suffix"></div>
+                <div class="column-type-e-content-item-rank">
+                  <span>2</span>
+                </div>
+                <div class="column-type-e-content-item-title">
+                  <a title="盘点：台湾“九合一”选举中的那些“奇葩”候选人" target="_blank" href="https://www.hkcna.hk/cn/content/s6afc25d4e4b04d9df119ec45.html">盘点：台湾“九合一”选举中的那些“奇葩”候选人</a>
+                </div>
+              </div>
+            
+              <div class="global-column-type-e-content-item">
+                <div class="column-type-e-content-item-rank-suffix"></div>
+                <div class="column-type-e-content-item-rank">
+                  <span>3</span>
+                </div>
+                <div class="column-type-e-content-item-title">
+                  <a title="（APEC）2026年APEC工商领导人峰会将举行 这些亮点不容错过" target="_blank" href="https://www.hkcna.hk/cn/content/s6afa5192e4b04d9df119e76b.html">（APEC）2026年APEC工商领导人峰会将举行 这些亮点不容错过</a>
+                </div>
+              </div>
+            
+              <div class="global-column-type-e-content-item">
+                <div class="column-type-e-content-item-rank-suffix"></div>
+                <div class="column-type-e-content-item-rank">
+                  <span>4</span>
+                </div>
+                <div class="column-type-e-content-item-title">
+                  <a title="香港故事｜幻彩咏香江完成使命 维港光影换方式延续" target="_blank" href="https://www.hkcna.hk/cn/content/s6af9045ee4b089a2db400dfb.html">香港故事｜幻彩咏香江完成使命 维港光影换方式延续</a>
+                </div>
+              </div>
+            
+              <div class="global-column-type-e-content-item">
+                <div class="column-type-e-content-item-rank-suffix"></div>
+                <div class="column-type-e-content-item-rank">
+                  <span>5</span>
+                </div>
+                <div class="column-type-e-content-item-title">
+                  <a title="民进党新北市长参选人被“神将”撞断门牙 岛内专家竟称“好兆头”" target="_blank" href="https://www.hkcna.hk/cn/content/s6afa6213e4b04d9df119e7c9.html">民进党新北市长参选人被“神将”撞断门牙 岛内专家竟称“好兆头”</a>
+                </div>
+              </div>
+            
+              <div class="global-column-type-e-content-item">
+                <div class="column-type-e-content-item-rank-suffix"></div>
+                <div class="column-type-e-content-item-rank">
+                  <span>6</span>
+                </div>
+                <div class="column-type-e-content-item-title">
+                  <a title="（APEC）从中俄美到全球南方，大国外交迎来“窗口时刻”" target="_blank" href="https://www.hkcna.hk/cn/content/s6af55f0ce4b089a2db400500.html">（APEC）从中俄美到全球南方，大国外交迎来“窗口时刻”</a>
+                </div>
+              </div>
+            
+              <div class="global-column-type-e-content-item">
+                <div class="column-type-e-content-item-rank-suffix"></div>
+                <div class="column-type-e-content-item-rank">
+                  <span>7</span>
+                </div>
+                <div class="column-type-e-content-item-title">
+                  <a title="钱言：黄仁勋的“后真相时刻 ”  辞职并未终了" target="_blank" href="https://www.hkcna.hk/cn/content/s6af9042ee4b04d9df119e629.html">钱言：黄仁勋的“后真相时刻 ”  辞职并未终了</a>
+                </div>
+              </div>
+            
+              <div class="global-column-type-e-content-item">
+                <div class="column-type-e-content-item-rank-suffix"></div>
+                <div class="column-type-e-content-item-rank">
+                  <span>8</span>
+                </div>
+                <div class="column-type-e-content-item-title">
+                  <a title="吴蓉：三个月流量120亿！从《持械入宋》火爆看AI短剧产业的破局" target="_blank" href="https://www.hkcna.hk/cn/content/s6afa7c88e4b04d9df119e874.html">吴蓉：三个月流量120亿！从《持械入宋》火爆看AI短剧产业的破局</a>
+                </div>
+              </div>
+            
+              <div class="global-column-type-e-content-item">
+                <div class="column-type-e-content-item-rank-suffix"></div>
+                <div class="column-type-e-content-item-rank">
+                  <span>9</span>
+                </div>
+                <div class="column-type-e-content-item-title">
+                  <a title="香港中通社成立70年   社长张红：努力打造媒体中的“超级联系人”" target="_blank" href="https://www.hkcna.hk/cn/content/s6af6ca36e4b089a2db400a17.html">香港中通社成立70年   社长张红：努力打造媒体中的“超级联系人”</a>
+                </div>
+              </div>
+            
+              <div class="global-column-type-e-content-item">
+                <div class="column-type-e-content-item-rank-suffix"></div>
+                <div class="column-type-e-content-item-rank">
+                  <span>10</span>
+                </div>
+                <div class="column-type-e-content-item-title">
+                  <a title="台军都买不到100%的“MIT”无人机，沈伯洋一下弄来了500架？" target="_blank" href="https://www.hkcna.hk/cn/content/s6afc1ebfe4b089a2db40149f.html">台军都买不到100%的“MIT”无人机，沈伯洋一下弄来了500架？</a>
+                </div>
+              </div>
+            
+          
+        </div>
+          
+      
+      <script>
+        function showRank(type) {
+          	if (type === '1') {
+              document.getElementById('global-column-type-e-content-week').style.display = 'none';
+              document.getElementById('global-column-type-e-content-hour').style.display = 'block';
+            } else if (type === '2') {
+              document.getElementById('global-column-type-e-content-hour').style.display = 'none';
+              document.getElementById('global-column-type-e-content-week').style.display = 'block';
+            }
+        }
+      </script>
+    </div>
+  
+  
+    </div>
+  </div>
+  <div id="showBigPicContainer" style="display:none;position: fixed; inset: 0px; z-index: 9999999;">
+    <div onclick="this.parentNode.style.display='none'" style="position:absolute;top:0;left:0;right:0;bottom:0;background-color:#000000;opacity:0.7"></div>
+    <div id="bigPicSlideBoxDiv" style="position: absolute; top: 20px; left: 50%; bottom: 20px; width: 385px; margin-left: -192.5px;">
+      <div id="bigPicSlideBox" class="bigPicSlideBox">
+        <img style="max-width:100%;max-height:100%;" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/864x486.png"/>
+      </div>
+    </div>
+    <script>
+      function showBigPic(bigPic, w, h){
+        var ww = $(window).height()-40;
+        $('#bigPicSlideBoxDiv').css({'width':ww,'margin-left':-ww/2});
+        $('#bigPicSlideBox').html('<img src="'+bigPic+'" style="max-width:100%;max-height:100%;" />');
+        $('#showBigPicContainer').show();
+      }
+    </script>
+  </div>
+  <!-- 尾部 -->
+   
+      <div class="ns-layout-footer-shell">
+        <div class="ns-layout-footer">
+          <div class="ns-layout-footer-logo">
+            <img class="ns-layout-footer-logo-img" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/footer-logo.svg"/>
+          </div>
+          <div class="ns-layout-footer-warp">
+            <div class="footer-left">
+              <div class="footer-left-top">
+                <div class="contact-us">
+                  <li class="contact-us-title">
+                    <span><a href="/cn/about/us.html" target="_blank">
+                      关于我们
+                      </a></span>
+                  </li>
+                  <li class="contact-us-title">
+                    <span><a href="/cn/about/contact-us.html" target="_blank">
+                      联络我们
+                      </a></span>
+                  </li>
+                  <li class="contact-us-title">
+                    <span><a href="/cn/about/privacy-statement.html" target="_blank">
+                      隐私声明
+                      </a></span>
+                  </li>
+                  <li class="contact-us-title">
+                    <span><a href="/cn/about/rule-statement.html" target="_blank">
+                      条款及细则
+                      </a></span>
+                  </li>
+                  <div class="contact-us-link">
+                  </div>
+                </div>
+                <div class="foot-feed">
+                  <h2 class="foot-feed-title">
+                    <a href="https://feed.hkcna.hk/" target="_blank">订阅中通社供稿系统
+                    </a>
+                  </h2>
+                  <div class="foot-feed-info">
+                    <p class="foot-feed-copy">
+                      获取香港中通社独家咨询和精美图片，可通过邮件查询
+                      
+                    </p>
+                    <a class="foot-feed-cta" href="/cn/about/contact-us.html" target="_blank" aria-label="查詢供稿系統">
+                      <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true">
+                        <rect x="1.25" y="2.5" width="13.5" height="11" rx="1.6" fill="none" stroke="#283758" stroke-width="1.4"></rect>
+                        <path d="M2.4 4.1L8 8.2l5.6-4.1" fill="none" stroke="#283758" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path>
+                      </svg>
+                      <span>查询</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="ns-layout-footer-link-wrap">
+                <div class="ns-layout-footer-link-title">
+							<h2> 友情连接
+                      </h2>
+                </div>
+                <div class="ns-layout-footer-link-list">
+                  <div class="ns-layout-footer-link-item">
+                    <a href="https://www.hmo.gov.cn/" target="_blank">
+                      国务院港澳办
+                      
+                    </a>
+                  </div>
+                  <div class="ns-layout-footer-link-item">
+                    <a href="http://www.locpg.gov.cn/" target="_blank">
+                      香港中联办
+                      </a>
+                  </div>
+                  <div class="ns-layout-footer-link-item">
+                    <a href=" https://hk.ocmfa.gov.cn/" target="_blank">
+                      外交部驻港公署
+                      </a>
+                  </div>
+                  <div class="ns-layout-footer-link-item">
+                    <a href="https://www.news.gov.hk/chi/index.html" target="_blank">
+                      香港政府新闻网
+                      </a>
+                  </div>
+                </div>
+                <div class="ns-layout-footer-link-list">
+                  <div class="ns-layout-footer-link-item">
+                    <a href="http://www.takungpao.com/" target="_blank">
+                      大公报
+                      </a>
+                  </div>
+                  <div class="ns-layout-footer-link-item">
+                    <a href="https://www.wenweipo.com/" target="_blank">
+                      文汇网
+                      </a>
+                  </div>
+                  <div class="ns-layout-footer-link-item">
+                    <a href="http://hkcd.com/" target="_blank">
+                      香港商报
+                      </a>
+                  </div>
+                  <div class="ns-layout-footer-link-item">
+                    <a href="https://www.modaily.cn" target="_blank">
+                      澳门日报
+                      </a>
+                  </div>
+                  <div class="ns-layout-footer-link-item">
+                    <a href="http://bau.com.hk" target="_blank">
+                      紫荊网
+                      </a>
+                  </div>
+                  <div class="ns-layout-footer-link-item">
+                    <a href="https://www.orangenews.hk/" target="_blank">
+                      橙新闻
+                      </a>
+                  </div>
+                  <div class="ns-layout-footer-link-item">
+                    <a href="http://www.hkctp.com.hk/" target="_blank">
+                      中国旅游网
+                      </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div></div>
+            <div class="footer-right">
+              <div class="footer-right-foot">
+                <div class="footer-right-foot-content-list">
+                  <div class="footer-right-foot-content-item">
+                    <a target="_blank"><img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/foot-facebook.png"/></a>
+                    <div class="footer-social-popover">
+                      <a href="https://www.facebook.com/TongMediaHK" class="footer-social-popover-item" target="_blank">
+                        <img alt="通傳媒" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/facebook-selected.png" />
+                        <span>通传媒
+                          </span>
+                      </a>
+                      <a href="https://www.facebook.com/TongShuoHK2.0" class="footer-social-popover-item" target="_blank">
+                        <img alt="通說2.0" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/facebook-selected.png" />
+                        <span>通说2.0
+                          </span>
+                      </a>
+                      <a href="https://www.facebook.com/hongkongteatime" class="footer-social-popover-item" target="_blank">
+                        <img alt="T-Time HK" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/facebook-selected.png" />
+                        <span>T-Time HK
+                          </span>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="footer-right-foot-content-item">
+                    <a target="_blank"><img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/foot-x.png"/></a>
+                    <div class="footer-social-popover">
+                      <a href="https://x.com/TongMediaHK" class="footer-social-popover-item" target="_blank">
+                        <img alt="通傳媒" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/x-selected.png" />
+                        <span>通传媒
+                          </span>
+                      </a>
+                      <a href="https://x.com/Tong_Shuo" class="footer-social-popover-item" target="_blank">
+                        <img alt="通說" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/x-selected.png" />
+                        <span>通 说
+                          </span>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="footer-right-foot-content-item">
+                    <a target="_blank"><img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/foot-youtubo.png"/></a>
+                    <div class="footer-social-popover">
+                      <a href="https://www.youtube.com/c/tongvisual" class="footer-social-popover-item" target="_blank">
+                        <img alt="通視" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/youtube-selected.png" />
+                        <span>通 视
+                          </span>
+                      </a>
+                      <a href="https://www.youtube.com/@T-TimeHK" class="footer-social-popover-item" target="_blank">
+                        <img alt="T-Time HK" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/youtube-selected.png" />
+                        <span>T-Time HK
+                          </span>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="footer-right-foot-content-item">
+                    <a target="_blank"><img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/foot-instagram.png"/></a>
+                    <div class="footer-social-popover">
+                      <a href="https://www.instagram.com/ttimehongkong?igsh=MWlnZXYybTZndGcyYg==" class="footer-social-popover-item" target="_blank">
+                        <img alt="T-Time HK" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/ins-selected.png" />
+                        <span>T-Time HK
+                          </span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="footer-right-foot-content-list">
+                  <div class="footer-right-foot-content-item">
+                    <a target="_blank"><img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/foot-weibo.png"/></a>
+                    <div class="footer-social-popover">
+                      <a href="https://m.weibo.cn/u/5999251130" class="footer-social-popover-item" target="_blank">
+                        <img alt="香港中通社" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/weibo-selected.png" />
+                        <span>香港中通社
+                      </span>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="footer-right-foot-content-item">
+                    <a target="_blank"><img style="height:32px;" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/foot-wechat.png"/></a>
+                    <div class="footer-social-popover">
+                      <a class="footer-social-popover-item footer-social-popover-item-wx-tongshuo" target="_blank">
+                        <img alt="通説" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/gzh-selected.png" />
+                        <img alt="通説" class="footer-social-wx-gzh footer-social-wx-gzh-hidden" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/wx-tongshuo.png" />
+                        <span>通说
+                          </span>
+                      </a>
+                      <a href="" class="footer-social-popover-item" target="_blank">
+                        <img class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/wechat-video-selected.png" />
+                        <span>香港中通社
+                      </span>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="footer-right-foot-content-item">
+                    <a target="_blank"><img src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/foot-douyin.png"/></a>
+                    <div class="footer-social-popover">
+                      <a href="https://v.douyin.com/ed_Bj2CcLxw/" class="footer-social-popover-item" target="_blank">
+                        <img alt="通 視" class="footer-social-popover-icon" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/img/footer/douyin-selected.png" />
+                        <span>通 视
+                          </span>
+                      </a>
+                    </div>
+                  </div>
+                  
+                </div>
+              </div>
+              <div class="apps">
+                <h2>APP下载
+                  </h2>
+                <div class="app-actions">
+                  <a class="app-button" href="https://app.hkcna.hk/download.html" target="_blank" aria-label="蘋果商店下載">
+                    <svg width="17" height="17" viewBox="0 0 24 24" aria-hidden="true">
+                      <path fill="#111" d="M16.64 13.38c.03 3.24 2.84 4.32 2.87 4.33-.02.08-.45 1.55-1.48 3.07-.89 1.31-1.82 2.62-3.28 2.65-1.43.03-1.89-.85-3.53-.85-1.63 0-2.15.82-3.5.88-1.4.05-2.46-1.4-3.36-2.71-1.84-2.66-3.25-7.52-1.36-10.8.94-1.63 2.61-2.66 4.42-2.69 1.38-.03 2.68.93 3.52.93.83 0 2.39-1.15 4.03-.98.69.03 2.64.28 3.89 2.11-.1.06-2.32 1.35-2.32 4.06ZM14.06 4.86c.74-.89 1.24-2.13 1.1-3.36-1.06.04-2.34.71-3.09 1.6-.68.79-1.28 2.05-1.12 3.25 1.18.09 2.38-.6 3.11-1.49Z"></path>
+                    </svg>
+                    <span>
+                      苹果商店下载
+                      
+                    </span>
+                  </a>
+                  <a class="app-button" href="https://app.hkcna.hk/download.html" target="_blank" aria-label="谷歌商店下載">
+                    <svg t="1782874959854" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4198" width="14" height="14"><path d="M910.208 599.936c66.368-39.04 66.368-136.768 0-175.872L737.792 322.56 532.48 512l205.248 189.44 172.416-101.504zM680.128 735.36L485.312 555.52 65.92 942.72c12.864 65.856 87.04 103.04 147.392 67.52l466.816-274.88zM64 857.344V166.592L438.144 512 64 857.344zM65.92 81.28l419.392 387.2 194.816-179.84L213.312 13.76C152.96-21.824 78.784 15.36 65.92 81.28z" fill="#000000" p-id="4199"></path></svg>
+                    <span>
+                      谷歌商店下载
+                      
+                    </span>
+                  </a>
+                  <a class="app-button" href="https://app.hkcna.hk/download.html" target="_blank" aria-label="安卓 APK 安裝">
+                    <svg t="1782875113607" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="5857" width="17" height="17"><path d="M270.1 741.7c0 23.4 19.1 42.5 42.6 42.5h48.7v120.4c0 30.5 24.5 55.4 54.6 55.4 30.2 0 54.6-24.8 54.6-55.4V784.1h85v120.4c0 30.5 24.5 55.4 54.6 55.4 30.2 0 54.6-24.8 54.6-55.4V784.1h48.7c23.5 0 42.6-19.1 42.6-42.5V346.4h-486v395.3zM627.2 141.6l44.9-65c2.6-3.8 2-8.9-1.5-11.4-3.5-2.4-8.5-1.2-11.1 2.6l-46.6 67.6c-30.7-12.1-64.9-18.8-100.8-18.8-35.9 0-70.1 6.7-100.8 18.8l-46.6-67.5c-2.6-3.8-7.6-5.1-11.1-2.6-3.5 2.4-4.1 7.4-1.5 11.4l44.9 65c-71.4 33.2-121.4 96.1-127.8 169.6h486c-6.6-73.6-56.7-136.5-128-169.7zM409.5 244.1c-14.8 0-26.9-12-26.9-26.9 0-14.8 12-26.9 26.9-26.9 14.8 0 26.9 12 26.9 26.9-0.1 14.9-12.1 26.9-26.9 26.9z m208.4 0c-14.8 0-26.9-12-26.9-26.9 0-14.8 12-26.9 26.9-26.9 14.8 0 26.9 12 26.9 26.9-0.1 14.9-12.1 26.9-26.9 26.9zM841.3 344.8c-30.2 0-54.6 24.8-54.6 55.4v216.4c0 30.5 24.5 55.4 54.6 55.4 30.2 0 54.6-24.8 54.6-55.4V400.1c0.1-30.6-24.3-55.3-54.6-55.3zM182.7 344.8c-30.2 0-54.6 24.8-54.6 55.4v216.4c0 30.5 24.5 55.4 54.6 55.4 30.2 0 54.6-24.8 54.6-55.4V400.1c0-30.6-24.5-55.3-54.6-55.3z" p-id="5858" fill="#000000"></path></svg>
+                    <span>安卓APK安裝</span>
+                  </a>
+                </div>
+					</div>
+            </div>
+          </div>
+          <div class="about-us">
+            <p><span>Copyright©2009-2026 ALL Rights Reserved</span>
+               &nbsp;香港中国通讯社有限公司 版权所有
+              
+            </p>
+            <p>承印人：香港中国通讯社有限公司
+              
+               &nbsp;&nbsp;&nbsp;  承印地址: 香港南区黄竹坑道21号环汇广场30楼
+              
+            </p>
+          </div>
+        </div>
+      </div>
+    
+  
+        
+        <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/fingerprint.v3.js"></script>
+        <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/share-fingerprint.js"></script>
+        <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/share-tool.js"></script>
+        <script type="text/javascript" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/content.js"></script>
+        <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/qrcode.js"></script>
+        <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/after.js"></script>
+      
+        <script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+        <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/wx-share.js"></script>
+        
+        <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/index-search.js"></script>
+        <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/static/6a06cd19e4b05731cf1d1b70/ztsweb/js/top-tool.js"></script>
+      
+        <!-- <script type="text/javascript" charset="utf-8" rel="stylesheet" cms:pr-src="js/share-comment.js"></script> -->
+      
+  
+</body>
+</html>

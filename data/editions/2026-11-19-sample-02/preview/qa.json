@@ -1,0 +1,121 @@
+{
+  "reports": [
+    {
+      "page": "page-1",
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 1877,
+      "escaped": [],
+      "storyCount": 6,
+      "label": "desktop-1"
+    },
+    {
+      "page": "page-2",
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 2393,
+      "escaped": [],
+      "storyCount": 6,
+      "label": "desktop-2"
+    },
+    {
+      "page": "page-3",
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 1846,
+      "escaped": [],
+      "storyCount": 7,
+      "label": "desktop-3"
+    },
+    {
+      "page": "page-4",
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 1987,
+      "escaped": [],
+      "storyCount": 6,
+      "label": "desktop-4"
+    },
+    {
+      "page": "page-1",
+      "width": 820,
+      "documentWidth": 820,
+      "height": 2010,
+      "escaped": [],
+      "storyCount": 6,
+      "label": "tablet-1"
+    },
+    {
+      "page": "page-2",
+      "width": 820,
+      "documentWidth": 820,
+      "height": 2520,
+      "escaped": [],
+      "storyCount": 6,
+      "label": "tablet-2"
+    },
+    {
+      "page": "page-3",
+      "width": 820,
+      "documentWidth": 820,
+      "height": 2019,
+      "escaped": [],
+      "storyCount": 7,
+      "label": "tablet-3"
+    },
+    {
+      "page": "page-4",
+      "width": 820,
+      "documentWidth": 820,
+      "height": 2105,
+      "escaped": [],
+      "storyCount": 6,
+      "label": "tablet-4"
+    },
+    {
+      "page": "page-1",
+      "width": 390,
+      "documentWidth": 390,
+      "height": 2888,
+      "escaped": [],
+      "storyCount": 6,
+      "label": "mobile-1"
+    },
+    {
+      "page": "page-2",
+      "width": 390,
+      "documentWidth": 390,
+      "height": 4122,
+      "escaped": [],
+      "storyCount": 6,
+      "label": "mobile-2"
+    },
+    {
+      "page": "page-3",
+      "width": 390,
+      "documentWidth": 390,
+      "height": 3458,
+      "escaped": [],
+      "storyCount": 7,
+      "label": "mobile-3"
+    },
+    {
+      "page": "page-4",
+      "width": 390,
+      "documentWidth": 390,
+      "height": 2809,
+      "escaped": [],
+      "storyCount": 6,
+      "label": "mobile-4"
+    }
+  ],
+  "failures": [],
+  "checks": [
+    "4 editions rendered at 1440/820/390 px",
+    "source dialog opens and closes",
+    "14 source records in dialog",
+    "keyboard paging",
+    "no horizontal page overflow",
+    "no uncaught JavaScript exceptions"
+  ]
+}

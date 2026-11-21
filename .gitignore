@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+.local/
+.env
+.env.*
+config/mail.json
+data/editions/*/mail/
+data/editions/*/preview/*.png
+specimen/*.png
+*.pyc

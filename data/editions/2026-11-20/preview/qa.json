@@ -1,0 +1,199 @@
+{
+  "edition": "2026-11-20",
+  "reports": [
+    {
+      "pages": [
+        "page-1",
+        "page-2"
+      ],
+      "displayedPages": [
+        "page-1",
+        "page-2"
+      ],
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 2393,
+      "escaped": [],
+      "storyCount": 15,
+      "label": "desktop-1"
+    },
+    {
+      "pages": [
+        "page-3",
+        "page-4"
+      ],
+      "displayedPages": [
+        "page-3",
+        "page-4"
+      ],
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 3417,
+      "escaped": [],
+      "storyCount": 16,
+      "label": "desktop-2"
+    },
+    {
+      "pages": [
+        "page-5"
+      ],
+      "displayedPages": [
+        "page-5"
+      ],
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 2323,
+      "escaped": [],
+      "storyCount": 8,
+      "label": "desktop-3"
+    },
+    {
+      "pages": [
+        "page-6"
+      ],
+      "displayedPages": [
+        "page-6"
+      ],
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 2749,
+      "escaped": [],
+      "storyCount": 7,
+      "label": "desktop-4"
+    },
+    {
+      "pages": [
+        "page-1",
+        "page-2"
+      ],
+      "displayedPages": [
+        "page-1",
+        "page-2"
+      ],
+      "width": 820,
+      "documentWidth": 820,
+      "height": 4681,
+      "escaped": [],
+      "storyCount": 15,
+      "label": "tablet-1"
+    },
+    {
+      "pages": [
+        "page-3",
+        "page-4"
+      ],
+      "displayedPages": [
+        "page-3",
+        "page-4"
+      ],
+      "width": 820,
+      "documentWidth": 820,
+      "height": 6328,
+      "escaped": [],
+      "storyCount": 16,
+      "label": "tablet-2"
+    },
+    {
+      "pages": [
+        "page-5"
+      ],
+      "displayedPages": [
+        "page-5"
+      ],
+      "width": 820,
+      "documentWidth": 820,
+      "height": 2456,
+      "escaped": [],
+      "storyCount": 8,
+      "label": "tablet-3"
+    },
+    {
+      "pages": [
+        "page-6"
+      ],
+      "displayedPages": [
+        "page-6"
+      ],
+      "width": 820,
+      "documentWidth": 820,
+      "height": 2846,
+      "escaped": [],
+      "storyCount": 7,
+      "label": "tablet-4"
+    },
+    {
+      "pages": [
+        "page-1",
+        "page-2"
+      ],
+      "displayedPages": [
+        "page-1",
+        "page-2"
+      ],
+      "width": 390,
+      "documentWidth": 390,
+      "height": 6757,
+      "escaped": [],
+      "storyCount": 15,
+      "label": "mobile-1"
+    },
+    {
+      "pages": [
+        "page-3",
+        "page-4"
+      ],
+      "displayedPages": [
+        "page-3",
+        "page-4"
+      ],
+      "width": 390,
+      "documentWidth": 390,
+      "height": 8523,
+      "escaped": [],
+      "storyCount": 16,
+      "label": "mobile-2"
+    },
+    {
+      "pages": [
+        "page-5"
+      ],
+      "displayedPages": [
+        "page-5"
+      ],
+      "width": 390,
+      "documentWidth": 390,
+      "height": 4219,
+      "escaped": [],
+      "storyCount": 8,
+      "label": "mobile-3"
+    },
+    {
+      "pages": [
+        "page-6"
+      ],
+      "displayedPages": [
+        "page-6"
+      ],
+      "width": 390,
+      "documentWidth": 390,
+      "height": 4268,
+      "escaped": [],
+      "storyCount": 7,
+      "label": "mobile-4"
+    }
+  ],
+  "failures": [],
+  "checks": [
+    "4 sections rendered at 1440/820/390 px",
+    "source dialog opens and closes",
+    "21 source records in dialog",
+    "keyboard paging",
+    "no horizontal page overflow",
+    "no uncaught JavaScript exceptions",
+    "6 physical pages",
+    "desktop side-by-side pages",
+    "vertical reading toggle",
+    "original painting image loads",
+    "painting enlargement by click and keyboard"
+  ]
+}

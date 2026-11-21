@@ -1,0 +1,112 @@
+{
+  "edition_date": "2026-11-19",
+  "edition_name": "内容试刊 · 第二样",
+  "writer": "GPT-6（本次会话）",
+  "selection": "LLM在本次会话选题、阅读原文、撰稿；未调用其他撰稿模型，未运行独立审稿agent。",
+  "numeric_inputs": {
+    "art_sale_usd_millions": {"value": 190.4, "evidence": "E16", "extracted_by": "llm"},
+    "art_previous_record_usd_millions": {"value": 117.2, "evidence": "E17", "extracted_by": "llm"}
+  },
+  "evidence": [
+    {"id": "E01", "source": "p_meeting", "quote": "11月19日下午，国家主席习近平在深圳会见", "claim": "中美元首于11月19日下午在深圳会见"},
+    {"id": "E02", "source": "p_russia", "quote": "2026年11月18日，国家主席习近平在深圳会见", "claim": "中俄会见发生于11月18日"},
+    {"id": "E03", "source": "p_russia", "quote": "贸易、能源、教育", "claim": "俄方通稿提到的合作领域"},
+    {"id": "E04", "source": "p_trilateral", "quote": "11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤", "claim": "三方会晤为官方事先宣布的安排，本稿未将其写成已经达成协议"},
+    {"id": "E05", "source": "p_airport", "quote": "深圳宝安国际机场迎接", "claim": "习近平在深圳机场迎接特朗普"},
+    {"id": "E06", "source": "f_fed", "quote": "3-3/4 to 4 percent", "claim": "10月会议维持3.75%至4%目标区间"},
+    {"id": "E07", "source": "f_fed", "quote": "further action to raise the target range", "claim": "纪要反映进一步加息倾向"},
+    {"id": "E08", "source": "f_fed", "quote": "December 8–9, 2026", "claim": "下一次FOMC会议日期"},
+    {"id": "E09", "source": "t_aws", "quote": "by up to 40%", "claim": "AWS报告推理成本最多降低40%，不是本项目实测"},
+    {"id": "E10", "source": "t_aws", "quote": "by up to 80%", "claim": "AWS报告TTFT最多降低80%，不是所有场景的收益"},
+    {"id": "E11", "source": "t_aws", "quote": "through the open-source LMCache connector", "claim": "AWS方案通过LMCache连接器接入推理引擎"},
+    {"id": "E12", "source": "t_offload", "quote": "under a 30 ms TPOT constraint", "claim": "FlashOffloading摘要中的服务约束"},
+    {"id": "E13", "source": "t_offload", "quote": "up to 1.91", "claim": "FlashOffloading摘要中的decode最大吞吐提升"},
+    {"id": "E14", "source": "t_quant", "quote": "all seven tested INT2 grids degenerate on generation", "claim": "Beyond Bitwidth摘要报告的INT2生成退化"},
+    {"id": "E15", "source": "t_quant", "quote": "Final checkpoints were not retained", "claim": "论文摘要说明未保留最终checkpoint"},
+    {"id": "E16", "source": "c_vangogh", "quote": "$190.4m", "claim": "梵高作品成交金额1.904亿美元"},
+    {"id": "E17", "source": "c_vangogh", "quote": "$117.2 million set in 2022", "claim": "此前梵高作品拍卖纪录为2022年的1.172亿美元"},
+    {"id": "E18", "source": "c_vangogh", "quote": "painted in 1890", "claim": "本次拍卖作品作于1890年"},
+    {"id": "E19", "source": "c_vangogh", "quote": "a mutually satisfactory resolution", "claim": "BBC报道两家族就流转争议达成解决方案"}
+  ],
+  "pages": [
+    {
+      "id": "politics", "label": "时政", "english": "THE WORLD", "kicker": "深圳 · 大国政治",
+      "headline": "深圳的三张椅子，\n坐着三本不同的账",
+      "deck": "中美元首今天在深圳会见，中俄昨天先谈了一轮。合影容易，真正要看的是：谁想拿什么换什么。",
+      "blocks": [
+        {"id": "p_record", "title": "先看明面上的事", "kind": "report", "placement": "main", "evidence": ["E01", "E02", "E03", "E04", "E05"], "paragraphs": [
+          "新华社报道，习近平今天下午在深圳会见特朗普。前一天，习近平在宝安机场迎接特朗普；同日，中俄领导人也在深圳会见。外交部此前已宣布，今天安排中俄美元首会晤。几场活动叠在一起，让深圳成为这轮大国外交的交汇点。",
+          "中俄会见通稿把稳定双边关系、落实合作放在显眼位置。俄方提到贸易、能源、教育等合作领域。这是公开表达的利益清单；中美会见快讯则只确认会见发生，详细成果还要等后续正式文本。"
+        ]},
+        {"id": "p_accounts", "title": "三方为什么愿意坐下来", "kind": "analysis", "placement": "main", "evidence": ["E01", "E02", "E03", "E04"], "paragraphs": [
+          "把三方放到一张桌上，各方都能拿走不同的东西。北京可以证明自己有能力组织对话；华盛顿可以直接试探另外两方的底价；莫斯科则有机会把自己的关切送进最高层议程。愿意见面，首先说明对话有用；至于让步，得另算一笔账。",
+          "对北京最有利的位置，是同时保有两条畅通的双边关系。对华盛顿而言，分别处理两个对手，通常比让两者在同一议题上绑定更省力。对莫斯科而言，稳定的合作伙伴和新的谈判空间都值钱。这三套算盘有交集，也彼此提防。"
+        ]},
+        {"id": "p_watch", "title": "别只看笑容，看谁付了成本", "kind": "analysis", "placement": "main", "paragraphs": [
+          "判断会谈分量，可以盯住三个动作：原本卡住的事项有没有期限，哪一方作出了需要国内解释的承诺，执行部门有没有接到具体任务。措辞变暖会降低冲突预期；政策和资源真正挪动，才会改变利益分配。",
+          "如果最后只有一张合影，这场会谈仍可能完成了一项工作：让各方确认，桌子还没掀。它能买来时间，但时间之后各自准备做什么，才是下一轮博弈。"
+        ]},
+        {"id": "p_speculation", "title": "茶水间推演：先把桌子摆好", "kind": "speculation", "placement": "feature", "paragraphs": [
+          "大胆猜一笔：三方最容易谈成的，也许是先别把彼此逼到必须翻脸的位置。台上讲合作，台下给下一次讨价还价留通道。神棍版一句话：今天先排座次，明天再报价格。"
+        ]},
+        {"id": "p_brief1", "title": "克里米亚大桥再传遇袭", "kind": "report", "placement": "sidebar", "rss_title": "Crimean Bridge attacked again, Russia says", "paragraphs": ["BBC最新快讯引述俄方称，大桥再次遇袭，交通一度暂停。外交会场之外，战场压力仍在延续。"]},
+        {"id": "p_brief2", "title": "海牙，另一场重要裁决", "kind": "report", "placement": "sidebar", "rss_title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres", "paragraphs": ["BBC的裁决前报道说，国际法院将就缅甸罗兴亚人相关种族灭绝指控作出裁决。这是今天另一项值得留意的国际议程。"]}
+      ]
+    },
+    {
+      "id": "finance", "label": "财经", "english": "MONEY & MARKETS", "kicker": "美联储纪要 · 全球市场 · 演示观察名单",
+      "headline": "钱更贵了，\n故事得重新算账",
+      "deck": "纪要把进一步加息摆回桌面。纳指隔夜收红，英伟达却继续跌；A股内部，科创与创业板也走出了两条线。",
+      "blocks": [
+        {"id": "f_event", "title": "发生了什么：暂停，不等于转向", "kind": "report", "placement": "main", "evidence": ["E06", "E07", "E08"], "paragraphs": ["美联储公布的10月会议纪要显示，当次会议维持3.75%—4%的利率目标区间，但几乎所有与会者认为，后续进一步加息可能适当。下一场议息会议安排在12月8日至9日。眼前利率没动，后续政策的方向却仍偏紧。"]},
+        {"id": "f_read", "title": "对股价意味着什么", "kind": "analysis", "placement": "main", "evidence": ["E07"], "paragraphs": [
+          "股票价格里，一头是企业能赚多少钱，一头是投资者愿意为未来的利润付多少倍。资金价格上去，第二头就更难抬。最怕这种环境的，是眼前利润薄、增长承诺远、又需要持续融资的公司。好业绩能支撑第一头，却未必挡得住估值那头往下压。",
+          "因此，看到一家AI公司交出好数字，先别急着把它翻译成股价该涨。市场还会问：原来的价格已经押了多少增长？这些增长需要多少资本投入？如果资金继续变贵，谁替扩张买单？"
+        ]},
+        {"id": "f_action", "title": "对你的指导：把机会拆成两张清单", "kind": "analysis", "placement": "main", "paragraphs": [
+          "持仓清单先查融资需求和兑现能力：手上现金够不够，订单能不能变成回款，投入增加后利润率有没有跟上。股价跌了，经营没变，可以重新算价格；经营也变了，就该重新算理由。",
+          "观察清单则分开处理。事件驱动看消息落地后能否站住；长期配置看盈利与估值能否同时讲通。只因一场会谈、一份纪要就把整仓押向一个方向，等于让一个标题替你做资产配置。今天更适合筛公司，而不是给所有科技股贴同一个标签。"
+        ]},
+        {"id": "f_nvda", "title": "英伟达：别拿纳指的红，替它解释绿", "kind": "analysis", "placement": "feature", "quote_codes": ["usNVDA", "us.IXIC"], "paragraphs": ["英伟达相对纳指的单日表现落后 {{nvda_gap}} 个百分点。先把公司自身压力与行业共同压力分开：如果指数回暖而它仍弱，就要继续找公司层面的解释，尤其是盈利预期和估值有没有重新配对。别让一句AI板块调整，把个股的差别带过去。"]},
+        {"id": "f_sectors", "title": "A股：同叫科技，走势不是一回事", "kind": "analysis", "placement": "sidebar", "quote_codes": ["sh000688", "sz399006", "sh512480", "sh512800", "sh512660", "sh512170"], "paragraphs": ["科创50相对创业板指领先 {{a_gap}} 个百分点，半导体ETF也强于军工、医疗ETF。今天更像结构分化：拿一个大盘涨跌，解释不了每个行业。侧栏ETF只是对应方向的样本，不是全行业涨跌排名。"]},
+        {"id": "f_watchlist", "title": "观察名单怎么读", "kind": "analysis", "placement": "sidebar", "quote_codes": ["usNVDA", "usMSFT", "usGOOGL", "hk09988", "hk00700"], "paragraphs": ["微软、谷歌与英伟达的隔夜表现分化；港股样本中的腾讯、阿里也有明显跌幅。逐只查看公告、业绩和事件，再与同期指数对照，才容易分清公司出了状况，还是市场整体在重新给风险定价。演示名单和报价时间见下表。"]}
+      ]
+    },
+    {
+      "id": "technology", "label": "科技", "english": "SYSTEMS & IDEAS", "kicker": "AI动态 · 推理系统 · 论文雷达",
+      "headline": "模型读过的东西，\n为什么还要再算一遍？",
+      "deck": "AWS把分布式KV缓存做成托管服务。推理优化的战场，正从一张卡里的算子，延伸到整群机器如何分享已经做过的工作。",
+      "blocks": [
+        {"id": "t_event", "title": "新消息：给GPU集群配一本公共笔记", "kind": "report", "placement": "main", "evidence": ["E09", "E10", "E11"], "paragraphs": ["AWS于11月18日宣布，ElastiCache for Valkey的分布式KV缓存能力正式可用，通过LMCache连接器接入vLLM等引擎。AWS给出的最高收益是推理成本降低40%、首token等待时间降低80%；这是厂商在其测试场景里的报告值。"]},
+        {"id": "t_mechanism", "title": "省掉的到底是什么", "kind": "analysis", "placement": "main", "evidence": ["E11"], "paragraphs": [
+          "一个编码agent反复处理同一份代码库，前缀里有工具定义、系统指令和刚读过的大段文件。请求落到另一台机器，已有的计算结果如果拿不到，就得重算。共享KV缓存让机器先找笔记，再决定要不要从头读。",
+          "值不值得做，取决于一笔很朴素的账：把缓存搬过来，比重新计算便宜多少。前缀复用率、网络传输和缓存容量会一起决定答案。短输入、长输出的任务，与长输入反复复用的agent任务，收益不会一样。"
+        ]},
+        {"id": "t_practice", "title": "对推理优化工作，值得拿走的思路", "kind": "analysis", "placement": "main", "paragraphs": [
+          "做实验时，把冷缓存、同机命中、跨机命中分开测。吞吐提高之后，再看首token和逐token时延有没有守住约束。若请求本来就几乎不复用，优化缓存命中率就可能选错了问题。",
+          "这条线和底层kernel优化可以并行：一条减少每次计算的成本，一条减少需要发生的计算。换平台时，机制值得借鉴；带宽、算子支持和调度代价则需要重测。"
+        ]},
+        {"id": "t_paper1", "title": "FlashOffloading：把容量换成吞吐，要先过时延这一关", "kind": "report", "placement": "paper", "evidence": ["E12", "E13"], "paragraphs": ["11月5日论文回看。摘要报告：在Ascend 910C、GLM-5.2、MTP3、PD分离环境下，将KV缓存卸载到主机DRAM，并优化缓存和计算／搬运重叠；在TPOT 30 ms约束下，decode吞吐最高达到基线的1.91倍。"]},
+        {"id": "t_paper2", "title": "Beyond Bitwidth：低到2bit，也可能低到不能用", "kind": "report", "placement": "paper", "evidence": ["E14", "E15"], "paragraphs": ["11月16日新论文。研究对象是B200上的Qwen3-8B与vLLM，摘要称测试的七组INT2方案均出现生成退化；混合精度配置通过作者设定的最终质量门槛。论文也写明未保留最终checkpoint，逐比特重建复现尚未验证。"]},
+        {"id": "t_industry", "title": "圈内快讯：Anthropic走到上市门口", "kind": "report", "placement": "sidebar", "rss_title": "Anthropic raises $81bn in record IPO", "paragraphs": ["FT今日公开标题和摘要称，Anthropic此次IPO募资约810亿美元，估值约1.5万亿美元，计划周四开始交易。模型公司的资本故事，又到了一个新的关口。"]},
+        {"id": "t_industry_read", "title": "技术编辑的一个问题", "kind": "analysis", "placement": "sidebar", "paragraphs": ["模型公司进入公开市场后，收入增长和算力账单会被更频繁地放到一起看。推理优化的价值，也会更容易被翻译成经营问题：同样一份收入，要烧掉多少计算资源？"]}
+      ]
+    },
+    {
+      "id": "miscellany", "label": "末版", "english": "OFF THE CLOCK", "kicker": "艺术 · 历史 · 一点闲心",
+      "headline": "一棵栗树，\n卖出了森林的价钱",
+      "deck": "梵高《盛开的栗树》拍出1.904亿美元。画布上是花，成交单里还有稀缺、名气，以及一段必须先谈妥的历史。",
+      "blocks": [
+        {"id": "c_event", "title": "花开在1890年，槌落在今天的新闻里", "kind": "report", "placement": "main", "evidence": ["E16", "E17", "E18"], "paragraphs": ["BBC报道，苏富比在纽约以1.904亿美元售出梵高《盛开的栗树》，刷新他此前于2022年创下的1.172亿美元拍卖纪录。这幅画作于1890年，也就是梵高生命最后一段时期。买家身份在报道发出时尚未明确。"]},
+        {"id": "c_history", "title": "落槌之前，先过历史这一关", "kind": "report", "placement": "main", "evidence": ["E19"], "paragraphs": ["拍卖前，这幅画曾因纳粹时期的流转历史引发争议。BBC报道，现藏家与原德国藏家Fischer家族的继承人在拍卖前达成解决方案。解决了交易背后的权属争议，拍卖才继续进行。"]},
+        {"id": "c_price", "title": "有些价格，买的是别人买不到", "kind": "analysis", "placement": "main", "paragraphs": [
+          "一幅画能复制成无数张图片，原作却只有一件。到了顶级拍卖场，买家争的除了画面，还有出处、保存状况、进入收藏体系的资格，以及下一件类似作品什么时候才会出现。",
+          "于是，同一棵树放在不同地方，价格单位也跟着换：苗圃按棵，画廊按件，顶级拍卖场按一次难再遇见的机会。树还是那棵树，竞争对手决定了你要掏多大的钱包。"
+        ]},
+        {"id": "c_joke", "title": "本报财务部表示", "kind": "humor", "placement": "feature", "paragraphs": ["已认真研究本次拍卖。结论是：先买一包栗子。它也具有稀缺性——吃完就没有了。"]},
+        {"id": "c_escher", "title": "另一个艺术家，把数学家看兴奋了", "kind": "report", "placement": "sidebar", "rss_title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds", "paragraphs": ["Quanta昨日刊文谈埃舍尔：他没有受过正规的数学教育，作品里的奇异空间却持续启发数学家。这条可以留到午休读，毕竟楼梯是否真的走得到尽头，今天不用提交验收报告。"]},
+        {"id": "c_margin", "title": "今日无用之用", "kind": "humor", "placement": "sidebar", "paragraphs": ["上午盯利率，下午盯吞吐，晚上看看一棵树。世界也需要一些不能折算成每秒token数的东西。"]}
+      ]
+    }
+  ]
+}

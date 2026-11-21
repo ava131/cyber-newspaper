@@ -1,0 +1,856 @@
+{
+  "edition": "2026-11-21",
+  "collected_at": "2026-11-21T14:22:04.664637+08:00",
+  "enriched_at": "2026-11-21T14:26:51.503001+08:00",
+  "pages": 6,
+  "sections": 4,
+  "feed_sources_requested": 39,
+  "feed_sources_ok": 33,
+  "rss_candidates": 2155,
+  "fetch_requests": 56,
+  "fetch_success": 48,
+  "source_records_adopted": 20,
+  "source_types_adopted": {
+    "document": 12,
+    "rss_item": 6,
+    "quotes": 1,
+    "weather": 1
+  },
+  "source_domains_adopted": 16,
+  "market_instruments": 18,
+  "original_market_field_values": 108,
+  "computed_market_values": 36,
+  "market_comparisons": {
+    "nvda_gap": 8.726053,
+    "a_gap": 0.41784399999999966,
+    "nvda_two_day": -16.845521992580824
+  },
+  "market_context": {
+    "mode": "weekend_closed_markets",
+    "US_snapshot_label": "11/20",
+    "AH_snapshot_label": "11/20",
+    "note": "周末休市；美股、A股及港股均采用11/20已结束交易日的接口快照，各市场时标单独保留。"
+  },
+  "archived_AH_instruments": 0,
+  "llm_content_blocks": 46,
+  "llm_paragraphs": 71,
+  "llm_nonwhitespace_characters": 7471,
+  "characters_by_page": {
+    "politics": 1022,
+    "politics-depth": 1322,
+    "finance": 1177,
+    "finance-stocks": 1346,
+    "technology": 1519,
+    "culture": 1085
+  },
+  "blocks_by_kind": {
+    "report": 17,
+    "analysis": 28,
+    "speculation": 1
+  },
+  "evidence_excerpt_checks": 20,
+  "rss_time_accounting": {
+    "within_24h": 384,
+    "older_than_24h": 1735,
+    "missing_date": 30,
+    "duplicate_url": 6
+  },
+  "writer": "GPT-6（本次会话）",
+  "independent_reviewer_agent": false,
+  "x_status": {
+    "collected_at": "2026-11-21T06:26:51.091609+00:00",
+    "status": "disabled",
+    "posts": [],
+    "requests": 0,
+    "errors": [],
+    "reason": "实时采集需X开发者Bearer Token、可用额度和显式启用；支持导入官方API JSON。"
+  },
+  "artwork": {
+    "path": "raw/monet.jpg",
+    "source": "c_commons",
+    "title": "睡莲池上的桥 / Bridge over a Pond of Water Lilies",
+    "artist": "Claude Monet",
+    "year": "1899",
+    "caption": "莫奈《睡莲池上的桥》，1899年，布面油画，92.7×73.7厘米，大都会艺术博物馆藏。图像取自Wikimedia Commons，来源页标记CC0。",
+    "alt": "莫奈《睡莲池上的桥》：浅绿拱桥横过池塘，睡莲浮在水面，绿色树木与倒影交织。",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bridge_over_a_Pond_of_Water_Lilies_MET_DT1854.jpg/960px-Bridge_over_a_Pond_of_Water_Lilies_MET_DT1854.jpg",
+    "sha256": "dd5e0af83ea059fa5035156a9d7d6360bf7da8b44440472105a88173c78de9e6",
+    "bytes": 578443
+  },
+  "poem_origin": "public_domain_original_verified_against_source",
+  "weather": {
+    "location": "吴江 · 汾湖",
+    "point_label": "汾湖（黎里）预报点",
+    "latitude": 31.04038,
+    "longitude": 120.845,
+    "forecast_grid": {
+      "latitude": 31.036905,
+      "longitude": 120.854095
+    },
+    "timezone": "Asia/Shanghai",
+    "provider": "Open-Meteo",
+    "source_id": "weather_fenhu",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=31.04038&longitude=120.845&timezone=Asia%2FShanghai&current=temperature_2m%2Capparent_temperature%2Cweather_code%2Cwind_speed_10m%2Cwind_direction_10m&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cwind_speed_10m_max%2Csunrise%2Csunset&start_date=2026-11-21&end_date=2026-11-23",
+    "fetched_at": "2026-11-21T14:23:37.038932+08:00",
+    "current": {
+      "time": "2026-11-21T14:15",
+      "temperature": 13.7,
+      "feels_like": 10.0,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_kmh": 9.4,
+      "wind_direction": "西北"
+    },
+    "forecast": [
+      {
+        "date": "2026-11-21",
+        "condition": "晴",
+        "weather_code": 0,
+        "low": 6.2,
+        "high": 13.8,
+        "rain_probability": 0,
+        "max_wind_kmh": 11.1,
+        "sunrise": "2026-11-21T06:28",
+        "sunset": "2026-11-21T16:56"
+      },
+      {
+        "date": "2026-11-22",
+        "condition": "阴",
+        "weather_code": 3,
+        "low": 6.5,
+        "high": 16.0,
+        "rain_probability": 0,
+        "max_wind_kmh": 17.5,
+        "sunrise": "2026-11-22T06:29",
+        "sunset": "2026-11-22T16:55"
+      },
+      {
+        "date": "2026-11-23",
+        "condition": "毛毛雨",
+        "weather_code": 53,
+        "low": 9.1,
+        "high": 17.1,
+        "rain_probability": 28,
+        "max_wind_kmh": 16.1,
+        "sunrise": "2026-11-23T06:29",
+        "sunset": "2026-11-23T16:55"
+      }
+    ],
+    "tip": "早晚添衣",
+    "tip_origin": "deterministic_rules",
+    "units": {
+      "temperature": "°C",
+      "wind": "km/h",
+      "rain_probability": "%"
+    }
+  },
+  "source_records": [
+    {
+      "id": "c_commons",
+      "title": "Wikimedia Commons：莫奈睡莲池上的桥原图及授权",
+      "url": "https://commons.wikimedia.org/wiki/File:Bridge_over_a_Pond_of_Water_Lilies_MET_DT1854.jpg",
+      "final_url": "https://commons.wikimedia.org/wiki/File:Bridge_over_a_Pond_of_Water_Lilies_MET_DT1854.jpg",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:26:49.943439+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/c_commons.txt",
+      "sha256": "a83f3bc1378ca80e3417456007b4e51282dc6bd82d09d0b253fe0cc48c3dac54",
+      "response_bytes": 169206,
+      "short_title": "Wikimedia Commons"
+    },
+    {
+      "id": "c_poem",
+      "title": "维基文库：朱熹《观书有感》",
+      "url": "https://zh.wikisource.org/wiki/%E8%A7%80%E6%9B%B8%E6%9C%89%E6%84%9F",
+      "final_url": "https://zh.wikisource.org/wiki/%E8%A7%80%E6%9B%B8%E6%9C%89%E6%84%9F",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:25:03.967109+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/c_poem.txt",
+      "sha256": "3818f26314ddb2260934b6095392200742899dee74a9ee55d97a3f69336e5ae4",
+      "response_bytes": 63380,
+      "short_title": "维基文库"
+    },
+    {
+      "id": "f_nasdaq",
+      "title": "纳斯达克：11月20日市场图解",
+      "url": "https://www.nasdaq.com/economic-institute/chartstopper-112026",
+      "final_url": "https://www.nasdaq.com/economic-institute/chartstopper-112026",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:25:02.272548+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/f_nasdaq.txt",
+      "sha256": "d73052710423f8100dd96573181901610ed7b255d6c7034087cff32e7aeb63f7",
+      "response_bytes": 182248,
+      "short_title": "纳斯达克"
+    },
+    {
+      "id": "f_nvidia",
+      "title": "NVIDIA：2027财年第三季度业绩（背景）",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "final_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:25:02.275286+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/f_nvidia.txt",
+      "sha256": "2e952b2165b23d8d40abd3fe49976f9e9adab508d8d20d61829c54156193e039",
+      "response_bytes": 397944,
+      "short_title": "NVIDIA"
+    },
+    {
+      "id": "market_quotes",
+      "title": "腾讯行情接口",
+      "url": "https://qt.gtimg.cn/q=sh000001,sz399001,sz399006,sh000688,hkHSI,hkHSTECH,us.DJI,us.IXIC,us.INX,sh512480,sh512800,sh512660,sh512170,usNVDA,usMSFT,usGOOGL,hk09988,hk00700",
+      "final_url": "https://qt.gtimg.cn/q=sh000001,sz399001,sz399006,sh000688,hkHSI,hkHSTECH,us.DJI,us.IXIC,us.INX,sh512480,sh512800,sh512660,sh512170,usNVDA,usMSFT,usGOOGL,hk09988,hk00700",
+      "category": "quotes",
+      "fetched_at": "2026-11-21T14:22:00.042130+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/market_quotes.txt",
+      "sha256": "1f86f3c572096b9e9e3cd1a7fff9760c8348f8590fcbc509dd4f3327409d1374",
+      "response_bytes": 7876,
+      "short_title": "腾讯行情接口"
+    },
+    {
+      "id": "p_joint",
+      "title": "欧盟对外行动署：英欧联合声明",
+      "url": "https://www.eeas.europa.eu/delegations/united-kingdom/eu-united-kingdom-summit-20-november-2026-joint-statement_en",
+      "final_url": "https://www.eeas.europa.eu/delegations/united-kingdom/eu-united-kingdom-summit-20-november-2026-joint-statement_en",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:25:02.266969+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/p_joint.txt",
+      "sha256": "3b05dd21557683233007cf4d6c58cc5f4f7521265644d889e760ae6d1af82319",
+      "response_bytes": 69129,
+      "short_title": "欧盟对外行动署"
+    },
+    {
+      "id": "p_uk_summary",
+      "title": "英国政府：峰会成果说明",
+      "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-explainer-html",
+      "final_url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-explainer-html",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:26:49.937716+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/p_uk_summary.txt",
+      "sha256": "48575455adaa86640da7a653b8ac7ea07fa22ed15cedee4c9d5c9a0bb109d549",
+      "response_bytes": 90363,
+      "short_title": "英国政府"
+    },
+    {
+      "id": "p_uk_text",
+      "title": "英国政府：英欧联合声明全文",
+      "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html",
+      "final_url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:26:49.936936+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/p_uk_text.txt",
+      "sha256": "6a347ad5d745445aebb1e79549f4cb69310a5b2cbc2c2156fd34cf44da4fd1b4",
+      "response_bytes": 139927,
+      "short_title": "英国政府"
+    },
+    {
+      "id": "p_us",
+      "title": "新华社／人民网：特朗普会后表态",
+      "url": "https://world.people.com.cn/n1/2026/1121/c1002-40837945.html",
+      "final_url": "https://world.people.com.cn/n1/2026/1121/c1002-40837945.html",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:25:02.269863+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/p_us.txt",
+      "sha256": "e80e007e9f2badce5db8ad6aca8062317d61524c5d42c23b3f6390b2b2ebbee4",
+      "response_bytes": 41265,
+      "short_title": "新华社／人民网"
+    },
+    {
+      "id": "rss_7e4274b8921a",
+      "title": "Nvidia faces US regulator’s probe into its accounting",
+      "short_title": "Financial Times · RSS摘要",
+      "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+      "category": "rss_item",
+      "published": "2026-11-20T21:58:08+00:00",
+      "fetched_at": "2026-11-21T14:21:53.738183+08:00",
+      "raw_path": "data/editions/2026-11-21/raw/ft.xml",
+      "parent_feed": "ft"
+    },
+    {
+      "id": "rss_84025ed8e849",
+      "title": "Alibaba accelerates pivot to in-house chips after reporting jump in sales",
+      "short_title": "SCMP Business · RSS摘要",
+      "url": "https://www.scmp.com/tech/big-tech/article/3375093/alibabas-ai-bet-paying-cloud-services-drive-10-revenue-jump",
+      "category": "rss_item",
+      "published": "2026-11-19T11:00:22+00:00",
+      "fetched_at": "2026-11-21T14:21:57.505360+08:00",
+      "raw_path": "data/editions/2026-11-21/raw/scmp_business.xml",
+      "parent_feed": "scmp_business"
+    },
+    {
+      "id": "rss_9013294358e3",
+      "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+      "short_title": "Financial Times · RSS摘要",
+      "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
+      "category": "rss_item",
+      "published": "2026-11-20T20:17:29+00:00",
+      "fetched_at": "2026-11-21T14:21:53.738183+08:00",
+      "raw_path": "data/editions/2026-11-21/raw/ft.xml",
+      "parent_feed": "ft"
+    },
+    {
+      "id": "rss_952d5c95525e",
+      "title": "丹麦驱逐俄罗斯武官，俄表示将“适当回应”",
+      "short_title": "中国新闻网国际 · RSS摘要",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735674.shtml",
+      "category": "rss_item",
+      "published": "2026-11-21T03:27:26+00:00",
+      "fetched_at": "2026-11-21T14:21:57.971660+08:00",
+      "raw_path": "data/editions/2026-11-21/raw/chinanews_world.xml",
+      "parent_feed": "chinanews_world"
+    },
+    {
+      "id": "rss_d020b8aa67dc",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "short_title": "BBC Business · RSS摘要",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "category": "rss_item",
+      "published": "2026-11-20T20:54:12+00:00",
+      "fetched_at": "2026-11-21T14:21:56.880902+08:00",
+      "raw_path": "data/editions/2026-11-21/raw/bbc_business.xml",
+      "parent_feed": "bbc_business"
+    },
+    {
+      "id": "rss_f31d2ae11e47",
+      "title": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
+      "short_title": "中国新闻网国际 · RSS摘要",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735659.shtml",
+      "category": "rss_item",
+      "published": "2026-11-21T02:25:04+00:00",
+      "fetched_at": "2026-11-21T14:21:57.971660+08:00",
+      "raw_path": "data/editions/2026-11-21/raw/chinanews_world.xml",
+      "parent_feed": "chinanews_world"
+    },
+    {
+      "id": "t_duplex",
+      "title": "Google Research：Duplex与Gemini商家电话",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "final_url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:25:03.348964+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/t_duplex.txt",
+      "sha256": "07bb2a41db720b2163c7c572e66c8c2be2ad9e40f988d5a22790f811221d8f80",
+      "response_bytes": 173065,
+      "short_title": "Google Research"
+    },
+    {
+      "id": "t_harness",
+      "title": "Hugging Face：Harness Adapters",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "final_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:25:02.493304+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/t_harness.txt",
+      "sha256": "01795135fae777b0a992315898ac134142c8a680ede05d52bab36617487c4705",
+      "response_bytes": 366946,
+      "short_title": "Hugging Face"
+    },
+    {
+      "id": "t_morph",
+      "title": "arXiv：FlashMorph2",
+      "url": "https://arxiv.org/abs/2611.24809",
+      "final_url": "https://arxiv.org/abs/2611.24809",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:25:02.283018+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/t_morph.txt",
+      "sha256": "e2521fee99008ca8a9a0ddf008f45b934180c3836f336dab6aaf891185df17c0",
+      "response_bytes": 40690,
+      "short_title": "arXiv"
+    },
+    {
+      "id": "t_tide",
+      "title": "arXiv：TideCache",
+      "url": "https://arxiv.org/abs/2611.26619",
+      "final_url": "https://arxiv.org/abs/2611.26619",
+      "category": "document",
+      "fetched_at": "2026-11-21T14:25:02.275440+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-21/raw/t_tide.txt",
+      "sha256": "fc061a3106c8801d983201baad70a974d929ae276a68334b0daa9dad69a06073",
+      "response_bytes": 42073,
+      "short_title": "arXiv"
+    },
+    {
+      "id": "weather_fenhu",
+      "title": "Open-Meteo：吴江汾湖定点天气",
+      "url": "https://api.open-meteo.com/v1/forecast?latitude=31.04038&longitude=120.845&timezone=Asia%2FShanghai&current=temperature_2m%2Capparent_temperature%2Cweather_code%2Cwind_speed_10m%2Cwind_direction_10m&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cwind_speed_10m_max%2Csunrise%2Csunset&start_date=2026-11-21&end_date=2026-11-23",
+      "category": "weather",
+      "status": "ok",
+      "fetched_at": "2026-11-21T14:23:37.038932+08:00",
+      "raw_path": "data/editions/2026-11-21/raw/weather_open_meteo.json",
+      "sha256": "a8bda304a5d9cba5a5dbe1adebbb2cac90ddefc3069c7263c6bc8bf4b24e1af1",
+      "response_bytes": 1124,
+      "short_title": "Open-Meteo"
+    }
+  ],
+  "story_provenance": [
+    {
+      "id": "p_event",
+      "kind": "report",
+      "sources": [
+        "p_joint",
+        "p_uk_text"
+      ],
+      "evidence": [
+        "E01",
+        "E02",
+        "E03"
+      ]
+    },
+    {
+      "id": "p_food",
+      "kind": "report",
+      "sources": [
+        "p_uk_summary"
+      ],
+      "evidence": [
+        "E04",
+        "E05"
+      ]
+    },
+    {
+      "id": "p_carbon",
+      "kind": "analysis",
+      "sources": [
+        "p_uk_summary",
+        "p_uk_text"
+      ],
+      "evidence": [
+        "E02"
+      ]
+    },
+    {
+      "id": "p_timing",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_us_after",
+      "kind": "report",
+      "sources": [
+        "p_us"
+      ],
+      "evidence": [
+        "E07"
+      ]
+    },
+    {
+      "id": "p_denmark",
+      "kind": "report",
+      "sources": [
+        "rss_952d5c95525e"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_japan",
+      "kind": "report",
+      "sources": [
+        "rss_f31d2ae11e47"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_geography",
+      "kind": "analysis",
+      "sources": [
+        "p_uk_summary"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_rule_price",
+      "kind": "analysis",
+      "sources": [
+        "p_uk_summary"
+      ],
+      "evidence": [
+        "E04"
+      ]
+    },
+    {
+      "id": "p_domestic",
+      "kind": "analysis",
+      "sources": [
+        "p_uk_summary",
+        "p_uk_text"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_us_wall",
+      "kind": "report",
+      "sources": [
+        "rss_9013294358e3",
+        "rss_d020b8aa67dc"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_compute_border",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_tea",
+      "kind": "speculation",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_youth",
+      "kind": "report",
+      "sources": [
+        "p_uk_summary",
+        "p_uk_text"
+      ],
+      "evidence": [
+        "E03",
+        "E06"
+      ]
+    },
+    {
+      "id": "p_follow",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_prices",
+      "kind": "report",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_goodnews",
+      "kind": "analysis",
+      "sources": [
+        "f_nasdaq",
+        "f_nvidia"
+      ],
+      "evidence": [
+        "E08"
+      ]
+    },
+    {
+      "id": "f_chain",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_ah",
+      "kind": "report",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_bank",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_ipo",
+      "kind": "report",
+      "sources": [
+        "f_nasdaq"
+      ],
+      "evidence": [
+        "E09"
+      ]
+    },
+    {
+      "id": "f_calendar",
+      "kind": "report",
+      "sources": [
+        "f_nasdaq"
+      ],
+      "evidence": [
+        "E10"
+      ]
+    },
+    {
+      "id": "f_weekend",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_nvda",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_probe",
+      "kind": "report",
+      "sources": [
+        "rss_7e4274b8921a"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_ali",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes",
+        "rss_84025ed8e849"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_msftgoog",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_tencent",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_dip",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_liquidity",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_order",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "t_tide_news",
+      "kind": "report",
+      "sources": [
+        "t_tide"
+      ],
+      "evidence": [
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "id": "t_mechanism",
+      "kind": "analysis",
+      "sources": [
+        "t_tide"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "t_experiment",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "t_morph_news",
+      "kind": "report",
+      "sources": [
+        "t_morph"
+      ],
+      "evidence": [
+        "E14"
+      ]
+    },
+    {
+      "id": "t_harness_news",
+      "kind": "report",
+      "sources": [
+        "t_harness"
+      ],
+      "evidence": [
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "id": "t_google",
+      "kind": "report",
+      "sources": [
+        "t_duplex"
+      ],
+      "evidence": [
+        "E17"
+      ]
+    },
+    {
+      "id": "t_hardware",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "t_bottom",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "c_bridge",
+      "kind": "analysis",
+      "sources": [
+        "c_commons"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "c_water",
+      "kind": "analysis",
+      "sources": [
+        "c_commons"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "c_sky",
+      "kind": "analysis",
+      "sources": [
+        "c_commons"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "c_poetry",
+      "kind": "analysis",
+      "sources": [
+        "c_poem"
+      ],
+      "evidence": [
+        "E20"
+      ]
+    },
+    {
+      "id": "c_record",
+      "kind": "report",
+      "sources": [
+        "c_commons"
+      ],
+      "evidence": [
+        "E18",
+        "E19"
+      ]
+    },
+    {
+      "id": "c_fenhu",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "c_question",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    }
+  ],
+  "fetch_failures": [
+    {
+      "id": "zaobao",
+      "title": "联合早报",
+      "url": "https://www.zaobao.com/rss/realtime/china",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-21T14:21:53.732461+08:00",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    },
+    {
+      "id": "un_news",
+      "title": "联合国新闻",
+      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-21T14:21:56.551187+08:00",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "id": "cna_world",
+      "title": "CNA世界",
+      "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=1044",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-21T14:21:56.747550+08:00",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "id": "arxiv_ai",
+      "title": "arXiv cs.AI",
+      "url": "https://rss.arxiv.org/rss/cs.AI",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-21T14:21:58.109908+08:00",
+      "error": "Feed contains no parseable articles"
+    },
+    {
+      "id": "arxiv_cl",
+      "title": "arXiv cs.CL",
+      "url": "https://rss.arxiv.org/rss/cs.CL",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-21T14:21:58.437045+08:00",
+      "error": "Feed contains no parseable articles"
+    },
+    {
+      "id": "nvidia_blog",
+      "title": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/feed/",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-21T14:21:59.509821+08:00",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "id": "p_eu",
+      "title": "欧洲理事会：11月20日英欧峰会成果",
+      "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/20/",
+      "category": "document",
+      "status": "failed",
+      "fetched_at": "2026-11-21T14:25:02.263595+08:00",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "c_art",
+      "title": "大都会艺术博物馆：睡莲池上的桥",
+      "url": "https://www.metmuseum.org/art/collection/search/437127",
+      "category": "document",
+      "status": "failed",
+      "fetched_at": "2026-11-21T14:25:03.517866+08:00",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ]
+}

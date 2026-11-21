@@ -1,0 +1,1095 @@
+
+
+<!DOCTYPE html>
+<html class="govuk-template" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title lang="en">UK-EU Summit 2026 Joint Statement (HTML) - GOV.UK</title>
+
+    <script src="/assets/frontend/govuk_publishing_components/vendor/lux/lux-measurer-d66192b1b665d415e1874e49a48138b7ae339548aa6cdb8687c7f9933e72b969.js" async="async"></script>
+    <script src="/assets/frontend/govuk_publishing_components/rum-custom-data-b9e1806d1da2fa8ef1855d01aa71ba5eb0afc010dd2c4de3672cc7c7a39b0c8c.js" type="module"></script>
+    <script src="/assets/frontend/govuk_publishing_components/rum-loader-a65b10e18ceeba3bd8a2eac507c7f2c513cdc82f35097df903fdea87f1dc2e33.js" async="async" data-lux-reporter-script="/assets/frontend/govuk_publishing_components/vendor/lux/lux-reporter-8a58c323b36d73e12262d8c5e96fc3d791430130a1867da29d56ffacca960a0e.js"></script>
+
+    <meta name="govuk:components_gem_version" content="71.1.0">
+    <script src="/assets/frontend/govuk_publishing_components/load-analytics-d5c92d4ce9f98141170a466427da86ca1ff62f234637bf0776121e6df57b3b67.js" type="module"></script>
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="I1bOKddd1SyND2xL9C9TBe40ylUHIabSoMA__We4PeZUOOa20IHbKWlFDR0IOELEq0qu7Payomm93U3vWKChoQ" />
+
+    <link rel="stylesheet" href="/assets/frontend/application-831172478f45311551976e39dc1fec50042cbf68212de8ee75aa50b31f395997.css" media="all" />
+    <link rel="icon" sizes="48x48" href="/assets/frontend/favicon-24f9fbe064118d58937932e73edafd1d50cb60f7bd84f52308382a309bc2d655.ico">
+    <link rel="icon" sizes="any" href="/assets/frontend/favicon-d962d21b5bb443f546c097ea21b567cde639adef7370da45be5e349ba8d62d33.svg" type="image/svg+xml">
+    <link rel="mask-icon" href="/assets/frontend/govuk-icon-mask-cdf4265165f8d7f9eec54aa2c1dfbb3d8b6d297c5d7919f0313e0836a5804bb6.svg" color="#1d70b8">
+    <link rel="apple-touch-icon" href="/assets/frontend/govuk-icon-180-d45a306f0549414cfa5085f16e4a3816a77558b139e5bc226f23162d1d0decb0.png">
+
+    <meta name="theme-color" content="#1d70b8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:image" content="https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png">
+
+      
+<script type="application/ld+json">
+  {
+  "@context": "http://schema.org",
+  "@type": "FAQPage",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html"
+  },
+  "name": "UK-EU Summit 2026 Joint Statement (HTML)",
+  "datePublished": "2026-11-20T13:31:26+00:00",
+  "dateModified": "2026-11-20T13:31:25+00:00",
+  "text": null,
+  "publisher": {
+    "@type": "Organization",
+    "name": "GOV.UK",
+    "url": "https://www.gov.uk",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gov.uk/assets/frontend/govuk_publishing_components/govuk-logo-b8553f688131fad665e52a8c2df7633f9cd1c0fffb9f69703cc68c728e7b3b74.png"
+    }
+  },
+  "image": [
+    "https://www.gov.uk/assets/frontend/govuk_publishing_components/govuk-schema-placeholder-1x1-2672c0fb7a5d5f947d880522c509ebe7f2be090885883cc94418f6860e812e15.png",
+    "https://www.gov.uk/assets/frontend/govuk_publishing_components/govuk-schema-placeholder-4x3-194fde4197f00e669f6f52c182df2ed707bfb2024c9ef39f7a2ed20da62b90eb.png",
+    "https://www.gov.uk/assets/frontend/govuk_publishing_components/govuk-schema-placeholder-16x9-30e6c0e035636ee6b9dc72ae254bcd4a925182805afe7c5b7170cf2394894b28.png"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Cabinet Office",
+    "url": "https://www.gov.uk/government/organisations/cabinet-office"
+  },
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "COMMON GLOBAL PRIORITIES",
+      "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html#common-global-priorities",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html#common-global-priorities",
+        "text": "\u003cp\u003e7. We reaffirm our unwavering support for Ukraine’s independence, sovereignty and territorial integrity within its internationally recognised borders, and condemn Russia’s unprovoked and unjustified war of aggression as a manifest violation of international law including the UN Charter. We reiterate our call on Russia to immediately end its war of aggression against Ukraine and agree to a full, immediate and unconditional ceasefire. The path to peace in Ukraine cannot be decided without Ukraine. We will continue working in close partnership throughout the negotiating process, with the shared objective of achieving a comprehensive and lasting peace.\u003c/p\u003e\u003cp\u003e8. The military and civilian support to Ukraine by the UK and the EU has been crucial so far in supporting Ukraine in its defence against Russia’s war of aggression. We will continue to provide, in coordination with like-minded partners and allies, political, economic, financial, military, humanitarian and diplomatic support to Ukraine for as long as it takes and call on international partners to swiftly step up their support to help meet Ukraine’s pressing financing and military needs. We will continue to strengthen our coordination to increase pressure on Russia, notably via sanctions, countering its hybrid activities and working towards achieving a comprehensive, just and lasting peace, based on the principles of the UN Charter and international law and underpinned by robust and credible security guarantees for Ukraine. We will continue cooperation on Ukraine’s recovery and reconstruction, including through the Ukraine Facility.\u003c/p\u003e\u003cp\u003e9. We are engaging on the wider Eastern European neighbourhood, including the Black Sea. We also remain committed to support the Republic of Moldova in its efforts to address Russia’s persistent and evolving hybrid attacks and challenges stemming from Russia’s war of aggression against Ukraine.\u003c/p\u003e\u003cp\u003e10. We reaffirm our commitment to the stability and prosperity of the Western Balkans. We agreed to work together on strengthening their internal reform agendas, including the rule of law, democracy, fight against corruption and organised crime, addressing shared security challenges and promoting sustainable economic growth.\u003c/p\u003e\u003cp\u003e11. We reiterate our call for respect for international law, international humanitarian law and protection of civilians, unimpeded access and sustained distribution of humanitarian assistance at scale into and throughout Gaza, and condemn settler violence and settlement expansion in the West Bank. The EU and the UK call on Israel to withdraw its tender for construction in the E1 area. We reiterate our commitment to UNSCR 2803 to deliver peace and stability in Gaza. We are clear that Hamas must permanently decommission its weapons and have no role in the future governance of Gaza. We welcome the Team Gaza initiative and call for international coordination in humanitarian assistance and recovery and reconstruction efforts. We reiterate our support for the Palestinian Authority. We support a comprehensive, just and lasting peace based on the two-state solution, in accordance with relevant UN Security Council Resolutions and the New York Declaration, where two democratic states, Israel and Palestine, live side-by side in peace within secure and recognised borders.\u003c/p\u003e\u003cp\u003e12. We reiterate our full support for Lebanon’s sovereignty and territorial integrity. We call for the full implementation of UNSCR 1701, support the strengthening of the Lebanese Armed Forces and implementation of the US-Israel-Lebanon Trilateral Framework agreed in June. We reaffirm the importance of continued international support in Lebanon including following the end of UNIFIL’s mandate.\u003c/p\u003e\u003cp\u003e13. We condemn Iran’s attacks against countries in the region and on shipping in the Strait of Hormuz and stand in solidarity with our regional partners. We firmly support diplomatic efforts to avoid further conflict in the region and ensure the restoration of freedom of navigation and transit passage, as enshrined in UNCLOS. We reaffirmed our commitment to a lasting diplomatic resolution to address both the Strait of Hormuz and Iran’s nuclear issue. Iran must never acquire a nuclear weapon and must cooperate fully with the IAEA. Iran must stop its destabilising activities in the region and its hybrid attacks on European soil.\u003c/p\u003e\u003cp\u003e14. We condemn the Houthi military escalation in Yemen and against Saudi Arabia and call upon the Houthis to immediately cease all military action, including all attacks against civilian shipping which threaten maritime security in the Red Sea and Bab al-Mandab Strait. We call upon the Houthis to allow humanitarian access to alleviate the suffering of the civilian population.\u003c/p\u003e\u003cp\u003e15. Alongside African partners, we will further deepen cooperation on peace, stability and prosperity in Africa. We reaffirm our shared interest in a secure and prosperous Indo-Pacific and we will strengthen our engagement on and with the region. We will also explore closer cooperation in the Arctic.\u003c/p\u003e\u003cp\u003e16. Cooperation on security and defence is a shared priority, in particular in the face of the long-term threat posed by Russia to our security. This includes working towards building a stronger Europe in a stronger NATO. In the current security environment, for the EU, the mutually reinforcing strategic partnership with NATO is essential for Euro-Atlantic security. For the UK and 23 EU Member States that are also NATO allies, the Atlantic Alliance remains the foundation of their collective defence. We will enhance coordination and strengthen European security, including through support for Ukraine in its defence against Russian aggression.\u003c/p\u003e\u003cp\u003e17. We reaffirm our commitment to effective multilateralism, with the United Nations at its core, respect for international law, and our unwavering support for the international criminal justice system, particularly the International Criminal Court, which is a fundamental part of the rules-based international order. We deeply regret attacks or threats against the Court, its elected officials, its personnel and those cooperating with the Court. Together we will continue to support the impartiality and integrity of the ICC and we stand ready to take all the necessary measures to ensure that the Court continues to operate effectively and fulfils its indispensable mandate.\u003c/p\u003e\u003cp\u003e18. We reaffirm our mutual commitment to a free, sustainable, fair and open rules-based international trade system with the World Trade Organization at its core. We will actively support the WTO reform process in Geneva and step up our cooperation, bilaterally and in dedicated new formats with like-minded partners, including through EU and Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) cooperation, to promote deep and comprehensive reform, while preserving predictability and rules-based international trade. We also support the work done by the OECD which plays an essential role for international economic cooperation.\u003c/p\u003e\u003cp\u003e19. As the United Kingdom assumes the G20 Presidency in 2027, we reaffirm our commitment to the G20’s core mission of international economic cooperation. We will continue to strengthen coordination of macroeconomic policies, safeguard global financial stability and promote strong, sustainable and inclusive growth. Recognising the transformative potential of artificial intelligence for the global economy, we will seek to harness its benefits for growth and prosperity, while promoting its safe and responsible development and use.\u003c/p\u003e\u003cp\u003e20. We agree to pursue and wherever necessary to strengthen EU–UK cooperation on the international dimensions of climate security and to pursue close exchanges, as appropriate, in support of ambitious implementation of the Paris Agreement and the Kunming–Montreal Global Biodiversity Framework, as well as in relevant multilateral negotiations on climate and environmental issues, including on plastics and the ocean. We remain committed to working with partners, for our shared security and prosperity, in accelerating the necessary global energy transition.\u003c/p\u003e"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "BILATERAL PRIORITIES AND ACTIONS",
+      "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html#bilateral-priorities-and-actions",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html#bilateral-priorities-and-actions",
+        "text": "\u003ch3 id=\"i-peace-security-and-defence-development-and-health-security\"\u003eI. Peace, security and defence, development and health security\u003c/h3\u003e\u003cp\u003e21. In an increasingly unstable and volatile world, the EU and UK restate our shared responsibility for the security of Europe. The global context makes strengthening our strategic partnership across the foreign policy, peace, security and defence spectrum a priority. We agree on the need to strengthen our cooperation on security and defence, commensurate with the threats Europe faces and the contribution the EU and the UK can make together, building on the EU-UK security and Defence Partnership and the progress made since its adoption.\u003c/p\u003e\u003cp\u003e22. The EU and the UK agree to stand together, enhancing our strategic partnership on foreign policy, peace, security and defence. We have today committed to a new shared ambition across the range of peace, security and defence cooperation, in recognition of the exceptional breadth and depth of our partnership. We will strengthen our support for Ukraine, and agree closer coordination on countering hybrid threats, maritime security and freedom of navigation, crisis management and defence industrial cooperation, where appropriate, and capability development. We will consult more regularly and connect respective capabilities more effectively and we will coordinate rapidly in response to serious security challenges, translating our partnership into practical cooperation and coordinated action. Given the global security context, we intend to enhance exchanges on defence industrial issues and will identify ways to deepen capability collaboration, taking into account the objective of developing resilient European supply chains and capabilities and addressing critical capability gaps, including through the Capability Coalitions.\u003c/p\u003e\u003cp\u003e23. Since the last Summit and the adoption of the EU-UK Security and Defence Partnership, we have held our High Level Foreign and Security Policy and Security and Defence Dialogues. We will continue regular strategic consultations on Russia/Ukraine, Western Balkans, and hybrid threats. We will further enhance EU-UK dialogue and cooperation on other thematic and geographic areas of joint interest, including holding our first Indo-Pacific strategic consultation and upgrading the existing consultations on Africa and the Middle East. We will also continue strengthening consultation and coordination on global challenges, including within the United Nations as well as in the G7 and G20 frameworks, and advance joint or mutually reinforcing initiatives in key regions and multilateral fora, together with partners from around the world. We will strengthen practical cooperation, including through reciprocal secondments and increased joint training.\u003c/p\u003e\u003cp\u003e24. Ukraine’s security is Europe’s security. Cooperation in support of Ukraine’s security will remain a priority. The EU Military Assistance Mission in support of Ukraine (EUMAM Ukraine) and the UK will continue to support the training of Ukrainian Armed Forces and to coordinate closely with the Coalition of the Willing, co-led by the UK, France and Germany, including in the context of the Multinational Force Ukraine.\u003c/p\u003e\u003cp\u003e25. We welcome the UK’s participation under the EU’s Ukraine Support Loan as a major step forward in our support for Ukraine.\u003c/p\u003e\u003cp\u003e26. All of the above is without prejudice to the specific character of the security and defence policy of certain EU Member States, and taking into account the security and defence interests of all Member States, in accordance with the EU Treaties.\u003c/p\u003e\u003cp\u003e27. The EU and the UK will continue to closely cooperate in crisis management and step up cooperation in the context of civilian missions under the Common Security and Defence Policy. In this context we welcome the conclusion of negotiations on the Framework Participation Agreement for UK participation in EU civilian CSDP missions, enabling a tangible joint contribution to tackle shared threats and challenges, with a particular focus on European security.\u003c/p\u003e\u003cp\u003e28. Recognising that security also depends on the effective deployment of materiel, equipment and personnel, the EU and UK agree that cooperation on military mobility, including logistics, is vitally important. We welcome progress on advancing UK participation in the PESCO Military Mobility and Network of Logistic Hubs projects, and agree to deepen practical cooperation between the EU and UK to support the rapid movement of forces across Europe, ensuring that such cooperation remains fit for purpose and delivers greater efficiency in military mobility arrangements and noting the importance of EU-NATO cooperation in this field.\u003c/p\u003e\u003cp\u003e29. Reaffirming our support for the United Nations Convention on the Law of the Sea and freedom of navigation, we have committed to deepening our engagement on maritime security, including through joint naval activities and enhanced cooperation on the challenges posed by the shadow fleet, countering their operations and activities. To this end, we will enhance information sharing and exchanges of best practices on tackling Russia’s shadow fleet, and coordinate efforts on enforcement actions and countering sanctions circumvention. We will strengthen practical cooperation on the protection and resilience of critical maritime infrastructure. We have committed to the “No Tolls/No Fees” pledge, championing multilateral cooperation, rejecting coercion and unilateral actions or measures that would hamper or impair lawful navigation.\u003c/p\u003e\u003cp\u003e30. To stand together against increasing hybrid and cyber threats intended to destabilise our societies, the EU and the UK have agreed on enhanced cooperation to strengthen our collective preparedness, resilience and response. We will enhance awareness of the threat landscape, improve our preparedness including through exercises, enhance cooperation to impose costs on hostile actors and coordinate responses, as well as to provide support to partners in their effort to increase resilience. We will also share best practice on our own civil and societal resilience, while continuing to cooperate closely in multilateral fora, including on promoting accountability and responsible state behaviour in cyberspace. We have strengthened cooperation on countering foreign information manipulation and interference (FIMI) both bilaterally and in multilateral fora, with a focus on information sharing and collective responses, and will continue to do so.\u003c/p\u003e\u003cp\u003e31. The UK and the EU will develop a dialogue to reinforce cooperation on democratic resilience, focusing on shared challenges, including strengthening the resilience of democratic institutions, safeguarding the integrity of the information space, supporting electoral integrity, as well as supporting relevant stakeholders, including civil society, to increase capacity to defend common democratic principles, and boosting citizens’ engagement and societal resilience. This will include the sharing of information and best practices in these areas.\u003c/p\u003e\u003cp\u003e32. We also intend to explore new avenues of cooperation on cybersecurity under the Trade and Cooperation Agreement to enhance our efforts to prevent, deter and respond to increasingly sophisticated threats.\u003c/p\u003e\u003cp\u003e33. EU and UK positions continue to align across multilateral fora and we will further step up our joint diplomatic outreach. Reinforcing our shared commitment to international law, human rights, democracy and free and fair elections worldwide, we welcome the signature of an Administrative Arrangement enabling UK participation in EU Election Observation Missions.\u003c/p\u003e\u003cp\u003e34. We are enhancing our cooperation on consular affairs, peace mediation and conflict prevention, climate and security, and addressing space threats. We continue engagement on counterterrorism and preventing violent extremism, disarmament, non-proliferation of weapons of mass destruction, as well as countering illicit trade in small arms and light weapons. We are intensively cooperating to ensure that our restrictive measures are aligned as much as possible.\u003c/p\u003e\u003cp\u003e35. We welcome the signature on 24 June 2026 of administrative arrangements in the area of development cooperation, and in international disaster and humanitarian response. These arrangements will contribute to strengthening our global resilience.\u003c/p\u003e\u003cp\u003e36. We look forward to the signature of the Memorandum of Understanding on health security, including matters concerning medical countermeasures, and look forward to finalising the establishment of the Specialised Committee on Health Security within the framework of the Trade and Cooperation Agreement.\u003c/p\u003e\u003ch3 id=\"ii-putting-people-at-the-centre-of-the-eu-uk-relationship\"\u003eII. Putting people at the centre of the EU-UK relationship\u003c/h3\u003e\u003cp\u003e37. We attach key importance to the objective in the Common Understanding of people-to-people ties being at the core of the renewed EU-UK agenda, particularly for the younger generation.\u003c/p\u003e\u003cp\u003e38. We underline the significance of the UK’s participation in Erasmus+ in 2027. The Erasmus+ funding call opened for applications on 18 November 2026. The UK and the EU encourage eligible institutions to apply to make the most of the opportunities offered by the Erasmus+ programme for benefitting learners of all ages, young people and staff across school education, vocational education and training, higher education, adult education, youth and sport. We agree to explore opportunities beyond 2027.\u003c/p\u003e\u003cp\u003e39. We welcome the conclusion of negotiations on a Youth Experience Scheme (YES). The scheme will allow 100 000 young people from the EU and the UK respectively to reside for up to three years to engage in activities such as work, studies, au-pairing, volunteering, or simply travelling, in accordance with our respective legal frameworks. We aim to apply this agreement no later than 2028 and endeavour to ensure that opportunities under the scheme will be available to our young people no later than January 2030.\u003c/p\u003e\u003cp\u003e40. Building on our joint commitments in the 2025 Common Understanding to deepen our people-to-people ties, particularly for the younger generation, and the UK’s association to the Erasmus+ programme in 2027, the UK and the EU share the objective of further increasing opportunities for studying, as well as other activities under Erasmus+ across the UK and the EU. The UK and the EU jointly recognise the importance of our shared strength in higher education to equip our young people with the skills they need to support economic growth and European competitiveness.\u003c/p\u003e\u003cp\u003e41. The EU and UK will therefore work towards a supplementing agreement to the Trade and Cooperation Agreement on tuition fees for EU students in the UK and for UK students in the EU. The Agreement will apply to all students from the other Party irrespective of the immigration pathway. The aim is to increase opportunities for students to study in each other’s territories. We will conclude the negotiations within six months from the date of the summit.\u003c/p\u003e\u003cp\u003e42. We welcome the ongoing successful implementation of the PeacePlus programme and will explore the development of the successor programme 2028-2034. We agree to explore opportunities to further expand contacts and exchanges for the strengthening of people-to-people ties in the EU and the UK beyond 2027.\u003c/p\u003e\u003cp\u003e43. The EU and the UK reaffirm the value of cultural and artistic exchanges, including the activities of touring artists. The EU and the UK should explore further mutually beneficial solutions. This year, the UK and the European Commission held the first High Level Meeting on Culture. The European Commission and the UK will continue to convene in this forum annually.\u003c/p\u003e\u003ch3 id=\"iii-strengthening-our-economies-while-protecting-our-planet-and-its-resources\"\u003eIII. Strengthening our economies while protecting our planet and its resources\u003c/h3\u003e\u003cp\u003e44. We share the view that it is in our joint interest to strengthen our economic relations and generate prosperity, while protecting our planet and its resources. In this light, we recognise the importance of the full, timely and faithful implementation of the Common Understanding and of the Trade and Cooperation Agreement in bringing this agenda forward.\u003c/p\u003e\u003cp\u003e45. We note the decision of the Partnership Council 2/2025 of 19 June 2025 to continue our energy cooperation through an extension of the application of Part Two, Heading One, Title VIII (the Energy Title) of the Trade and Cooperation Agreement until 31 March 2027. We welcome the decision of the Partnership Council to further extend the application of the Energy Title until 31 March 2028. This is in line with our shared political understanding that the Energy Title should be pursued on a continuous basis.\u003c/p\u003e\u003cp\u003e46. We welcome the EU-UK Competition Cooperation Agreement as a supplementing agreement to the Trade and Cooperation Agreement. This is a step forward for enhanced competition cooperation and coordination.\u003c/p\u003e\u003cp\u003e47. We note the decision on full reciprocal access to waters to fish until 30 June 2038, which both parties will fully respect. In light of our international obligations, we reiterate our commitment to work together to ensure sustainability of the fisheries we share, by reinforcing our cooperation, continuing our practice of jointly agreed management measures of shared stocks, as appropriate, and improving the regional planning of measures impacting fishing activities. In particular, we will look at how to reverse the declines in key vulnerable species in the interest of protecting our shared fisheries and coastal communities. We agree on the need to work together collectively with other coastal States to rapidly conclude comprehensive sharing arrangements for stocks of common interest that are managed multilaterally to prevent detrimental effects for our fisheries sectors and coastal communities, as well as to address unsustainable and illegal fishing.\u003c/p\u003e\u003cp\u003e48. We welcome the conclusion of the negotiations on a Common Sanitary and Phytosanitary Area with certain common quality standards (SPS Agreement) which would allow that the vast majority of movements of animals, animal products, plants and plant products between Great Britain and the Crown Dependencies and the EU take place without the certificates or controls that are currently required. These same benefits would be extended to the movements between Great Britain and Northern Ireland, through the interplay of the SPS Agreement and the Windsor Framework, while maintaining Northern Ireland’s unique access to both the UK Internal Market and the EU Single Market. We aim to apply this agreement from 1 March 2028.\u003c/p\u003e\u003cp\u003e49. We welcome the conclusion of the negotiations on linking the EU and the UK Emissions Trading Systems (ETS agreement). This would provide a stable basis for allowing mutual recognition of EU and UK allowances and for exempting EU and UK goods from respective Carbon Border Adjustment Mechanisms subject to respective laws and procedures that we plan to launch without delays. We aim to apply this agreement from 2028.\u003c/p\u003e\u003cp\u003e50. The SPS and ETS agreements will strengthen bilateral trade, while ensuring a level playing field and sustainable development. We look forward to the conclusion of these agreements, together with the Youth Experience Scheme, in accordance with our respective legal frameworks, and their joint and timely entry into force.\u003c/p\u003e\u003cp\u003e51. We welcome our ongoing cooperation on security of energy supply, especially in critical times of geopolitical uncertainty.\u003c/p\u003e\u003cp\u003e52. We welcome the conclusion of exploratory talks in December 2025, and the progress made towards an agreement on the UK’s participation in the EU internal electricity market. Any such agreement would be linked to a UK financial contribution to reducing economic, social and territorial disparities between regions of the EU. The participation of the UK in the EU’s internal electricity market would contribute to enhanced energy security, decrease dependency on fossil fuels, improve the efficiency of electricity trading, facilitate cross border cooperation projects and provide more predictability for market participants and lower electricity costs. We commit to conclude these negotiations in 2027, subject to final agreement by both parties, in order for all the necessary arrangements to take effect as soon as possible.\u003c/p\u003e\u003cp\u003e53. We welcome the significant progress achieved in discussions on the mutual recognition of professional qualifications for architects as provided for in the Trade and Cooperation Agreement. We agree to expedite the conclusion of this process and explore opportunities for arrangements in other professions, including through working together to facilitate further expressions of interest. Within the framework provided by the Trade and Cooperation Agreement, we will also continue the discussions under the dedicated dialogue on the entry and temporary stay of natural persons for business purposes, including the sponsorship scheme and provisions for short term business visitors, with a view to possible improvements where this is in our mutual interest.\u003c/p\u003e\u003cp\u003e54. We intend to launch an EU-UK Digital Partnership early next year to enhance cooperation on digital and technology matters, in areas that could cover secure and resilient connectivity, artificial intelligence, including AI security and safety, critical technologies, including quantum, digital wallets and credentials, trust services, online safety and multilateral cooperation to deepen practical cooperation and to bring actions under a common structure. We consider it to be in our mutual interest to work together to ensure that our societies can take full advantage of the opportunities that science, research, technology and innovation provide, including their ability to safeguard our fundamental values and strengthening our democracies, while safeguarding our regulatory autonomy. This will help us drive innovation, strengthen trade, and benefit businesses and consumers alike.\u003c/p\u003e\u003ch3 id=\"iv-internal-security-and-judicial-cooperation\"\u003eIV. Internal security and judicial cooperation\u003c/h3\u003e\u003cp\u003e55. We recognise the value of the Trade and Cooperation Agreement and the Common Understanding in providing a valuable set of tools to facilitate our cooperation on matters related to law enforcement and judicial cooperation. We welcome the ongoing efforts to enhance cooperation on law enforcement and judicial cooperation in criminal matters with the aim of strengthening the security of both the EU and the UK. We welcome the signature of the Europol liaison officers arrangement and aim to continue to strengthen the UK’s relationship with Europol, recognising our strong existing operational cooperation. We also welcome the launch of the automated searching of vehicle registration data between the EU and the UK, which will render the work of law enforcement authorities more effective across borders. We also welcome continuous and strong cooperation between Eurojust and the UK authorities. We emphasise that further development of judicial cooperation is founded on the reciprocal and full implementation of the Trade and Cooperation Agreement and continued respect for the principles and commitments underpinning it.\u003c/p\u003e\u003cp\u003e56. The EU and the UK recognise the need for close coordination between the UK and the EU Member States on the removal of foreign national offenders. The UK and EU Member States commit to continue bilateral discussions, including on advance notification of such removals into each other’s territories on a reciprocal basis. We also refer to the possibility of encouraging further bilateral engagement on prisoner transfer cooperation, with a view to increasing the timeliness, efficiency and effectiveness of such cooperation.\u003c/p\u003e\u003cp\u003e57. We welcome the newly established cooperation between the EU and the UK on tackling the challenges related to drug trafficking and drug use, formalised through the signature of a working arrangement.\u003c/p\u003e\u003cp\u003e58. The EU and UK will explore the possible inclusion of the UK in the “Prüm international” initiative that the European Commission intends to present in mid-2027 to extend the Prüm framework on data exchange for police cooperation to chosen third country partners.\u003c/p\u003e\u003cp\u003e59. Recognising that the UK is a close partner, and in order to boost security and tackle irregular migration, the EU and the UK will also explore enhancing reciprocal information exchange for law enforcement and border management purposes.\u003c/p\u003e\u003cp\u003e60. We welcome and encourage continuing progress to overcome the difficulties that law enforcement and judicial authorities in one jurisdiction face in obtaining data from electronic service providers offering services in the other jurisdiction. We will continue exploring ways to reinforce mutual and reciprocal exchanges of data on criminal records of third country nationals, in the light of technical developments.\u003c/p\u003e\u003ch3 id=\"v-irregular-migration\"\u003eV. Irregular migration\u003c/h3\u003e\u003cp\u003e61. We welcome the deepened cooperation between the European Commission and the UK on the external dimension of migration. This includes regular information exchange on migration management projects, returns and visa related issues in respect of key countries of origin and transit relevant for irregular migration towards the EU and the UK. We aim to continue our cooperation, finding synergies in our engagement with partner countries and enhancing operational cooperation.\u003c/p\u003e\u003cp\u003e62. We will continue to pursue our cooperation in multinational fora, including in the context of the Global Alliance to Counter Migrant Smuggling, to promote our common values and interests and to partner for an effective management of global migration challenges.\u003c/p\u003e\u003cp\u003e63. We welcome the UK’s participation in the European Migration Network as an observer. This will strengthen exchanges of information and expertise on migration and asylum among the Network’s 35 members and observers.\u003c/p\u003e\u003cp\u003e64. We welcome the ongoing efforts by the European Union Agency for Asylum and the UK to work towards establishing a Working Arrangement to facilitate cooperation on asylum-related matters, in accordance with their respective mandates and legal frameworks and will pursue the discussions with a view to conclude them swiftly. We also welcome the continued cooperation between the UK and Frontex, in particular on risk analysis, information exchange, training and document fraud.\u003c/p\u003e\u003cp\u003e65. We welcome the UK’s participation in the Khartoum and Rabat processes. This will deepen our cooperation with countries of origin and transit, in particular along the Eastern, Central and Western Mediterranean and Atlantic routes.\u003c/p\u003e\u003cp\u003e66. In an era of increased security threats, cooperation between the EU and the UK is essential to address the shared challenges of irregular migration along the Channel and to prevent dangerous crossings. In this context, we welcome the adoption on 16 June 2026 of the European Commission’s Channel Action Plan, which sets forward a comprehensive framework for EU-level action and cooperation with the UK to tackle irregular migration and the criminal networks facilitating it as well as to strengthen border management.\u003c/p\u003e\u003cp\u003e67. We today commit to working closely together on joint activities under the Action Plan. This should include coordinated action to prevent and combat migrant smuggling and trafficking in human beings, including by disrupting the criminal supply chains underpinning them, addressing the drivers of irregular migration, preventing the misuse of legal migration channels and strengthening cooperation along key migratory routes. It should also enable work through relevant agencies, including Frontex, and more reciprocal information exchanges between interested EU Member States and the United Kingdom. Given the shared nature of these challenges, any new joint activities should be underpinned by a joint commitment, including, where appropriate, financial contributions, reflecting the shared roles and responsibilities for them.\u003c/p\u003e\u003cp\u003e68. Building on the implementation of the Channel Action Plan, the EU and UK will strengthen cooperation on shared migration challenges, taking a strategic, coordinated and whole-of-route approach, including through cooperation in priority third countries. To this end, they will establish a Structured Dialogue on migration covering in particular the joint activities under the Channel Action Plan, action against irregular migration and migrant smuggling networks, strategic communication and border management, upstream cooperation and engagement with third countries, returns to third countries, pull factors for irregular migrants and legal pathways. The Dialogue will also provide a framework for developing new ways to prevent and counter irregular migration, including through the exchange of best practices and operational cooperation, in accordance with national, EU and international law, respecting the respective competences of the Union and its Member States, and be based on mutual benefit and reciprocity.\u003c/p\u003e\u003ch3 id=\"vi-building-a-closer-more-resilient-partnership\"\u003eVI. Building a closer, more resilient partnership\u003c/h3\u003e\u003cp\u003e69. Recognising the ties between the EU and the UK, we acknowledge our shared interest in building an even closer partnership. This partnership for economic resilience will be founded on our shared values, openness and democracy. It will be driven by the need to address our economic dependencies by building diversified, resilient supply chains through reciprocal market openness, mutual support and coordination on economic security, and developing a common prosperity and economic security space, with the principles of trust at its core.\u003c/p\u003e\u003cp\u003e70. As an immediate step, we will establish a Dialogue on Economic Security to coordinate our economic security policies. We will cooperate on export controls, on countering technology leakage in critical sectors, on mitigating risks to critical infrastructure, on resilient supply chains, including critical raw materials, tackling vulnerabilities and building on the complementarities of our economies, including early warning for supply disruptions.  The objective of this coordination is to ensure a more effective and efficient response to our common challenges, for example by avoiding the circumvention of the measures we put in place to ensure the resilience of our economies.\u003c/p\u003e\u003cp\u003e71. Through this coordination and as a next step, the EU and the UK commit, on the basis of reciprocity, to strive, wherever possible, to limit negative effects on one another in their measures impacting specific supply chains. Under this partnership, where the EU and the UK agree to cooperate regarding a particular supply chain, the UK would ensure outcomes consistent with the relevant EU measures in order to ensure that the supply chain in question is protected in a consistent way across the EU and UK markets and guard against potential risks of circumvention. We will notably work towards diversified and resilient steel and electric vehicles supply chains, and emerging technologies together. The EU and the UK commit to taking work forward on this partnership as a matter of priority, and to review progress, in particular in these sectors, every four months.\u003c/p\u003e\u003cp\u003e72. We are putting this partnership into action already by providing our steel industries with the necessary protection against negative trade-related effects of overcapacity. We will explore further arrangements for addressing jointly the challenges and trade related negative effects of overcapacity. In light of the unique circumstances on the island of Ireland, recognising the existing solution under the Windsor Framework, a long-term sustainable solution for movement of UK originating steel to Northern Ireland would also be put in place.\u003c/p\u003e"
+      }
+    }
+  ]
+}
+</script>
+
+<link rel="canonical" href="https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html">
+
+<meta property="og:site_name" content="GOV.UK">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html">
+<meta property="og:title" content="UK-EU Summit 2026 Joint Statement (HTML)">
+<meta property="og:description" content="">
+
+  <meta name="twitter:card" content="summary">
+
+
+  <link rel="stylesheet" href="/assets/frontend/views/_html-publication-d183ff6655d34a5cea8d3f6f863d5b6c74654d40325c0a970e8e96ca046b4d07.css" />
+  <link rel="stylesheet" href="/assets/frontend/views/_csv_preview-ddf66f9f13d0fb5e8672480d53d092910344fca34f35e21fc2220e1500143904.css" />
+
+  <meta name="csp-nonce" content="t23x6yG5HBpe6phEgKYLjw==" />
+
+<link title="Search" rel="search" type="application/opensearchdescription+xml" href="/search/opensearch.xml">
+
+  
+  <meta name="govuk:format" content="html_publication">
+  <meta name="govuk:publishing-app" content="whitehall">
+  <meta name="govuk:rendering-app" content="frontend">
+  <meta name="govuk:schema-name" content="html_publication">
+  <meta name="govuk:content-id" content="471ce18f-4723-43bf-bf24-b83312e2fd9f">
+  <meta name="govuk:ga4-base-path" content="/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html">
+  <meta name="govuk:first-published-at" content="2026-11-20T13:31:26+00:00">
+  <meta name="govuk:updated-at" content="2026-11-20T19:34:09+00:00">
+  <meta name="govuk:public-updated-at" content="2026-11-20T13:31:25+00:00">
+  <meta name="govuk:primary-publishing-organisation" content="Cabinet Office">
+  <meta name="govuk:organisations" content="&lt;D2&gt;">
+
+
+
+
+
+
+
+
+  </head>
+  <body class="gem-c-layout-for-public govuk-template__body">
+    <script nonce="t23x6yG5HBpe6phEgKYLjw==">
+//<![CDATA[
+      document.body.className += ' js-enabled' + ('noModule' in HTMLScriptElement.prototype ? ' govuk-frontend-supported' : '');
+
+//]]>
+</script>      
+<div id="global-cookie-message" data-module="cookie-banner" data-nosnippet="" aria-label="Cookies on GOV.UK" class="gem-c-cookie-banner govuk-clearfix govuk-cookie-banner js-banner-wrapper" role="region" hidden="hidden">
+  <div class="govuk-cookie-banner__message govuk-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <h2 class="govuk-cookie-banner__heading govuk-heading-m">Cookies on GOV.UK</h2>
+        <div tabindex="-1" class="govuk-cookie-banner__content gem-c-cookie-banner__confirmation">
+          <div class="gem-c-cookie-banner__content"><p class='govuk-body'>We use some essential cookies to make this website work.</p><p class='govuk-body'>We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.</p><p class='govuk-body'>We also use cookies set by other sites to help us deliver content from their services.</p></div>
+          <p class="gem-c-cookie-banner__confirmation-message--accepted govuk-body" hidden
+            data-ga4-cookie-banner 
+            data-module="ga4-link-tracker"
+            data-ga4-set-indexes
+            data-ga4-link='{"event_name":"navigation","type":"cookie banner","section":"You have accepted additional cookies"}'
+          >You have accepted additional cookies. <span class="gem-c-cookie-banner__confirmation-message">You can <a class="govuk-link" href="/help/cookies">change your cookie settings</a> at any time.</span></p>
+          <p class="gem-c-cookie-banner__confirmation-message--rejected govuk-body" hidden>You have rejected additional cookies. <span class="gem-c-cookie-banner__confirmation-message">You can <a class="govuk-link" href="/help/cookies">change your cookie settings</a> at any time.</span></p>
+        </div>
+      </div>
+    </div>
+    <div class="js-confirmation-buttons govuk-button-group">
+      
+
+  <button class="gem-c-button govuk-button" type="submit" data-accept-cookies="true" data-cookie-types="all">Accept additional cookies</button>
+
+
+      
+
+  <button class="gem-c-button govuk-button" type="submit" data-reject-cookies="true">Reject additional cookies</button>
+
+
+      <a class="govuk-link" href="/help/cookies">View cookies</a>
+    </div>
+    <div hidden class="js-hide-button govuk-button-group">
+      <button
+        class="gem-c-cookie-banner__hide-button govuk-button"
+        data-hide-cookie-banner="true"
+        data-module="ga4-event-tracker"
+         data-ga4-event='{"event_name":"select_content","type":"cookie banner","action":"closed","section":"You have accepted additional cookies"}' >
+          Hide cookie message
+        </button>
+    </div>
+  </div>
+</div>
+      <a data-module="govuk-skip-link" class="gem-c-skip-link govuk-skip-link govuk-!-display-none-print" href="#content">Skip to main content</a>
+
+      <header>
+            <div data-module="ga4-event-tracker ga4-link-tracker" data-ga4-expandable="" class="gem-c-layout-super-navigation-header">
+<div class="gem-c-layout-super-navigation-header__nav-wrapper">
+  <div class="gem-c-layout-super-navigation-header__container govuk-width-container">
+    <nav
+      aria-labelledby="super-navigation-menu-heading"
+      class="gem-c-layout-super-navigation-header__content"
+      data-module="super-navigation-mega-menu">
+      <div class="gem-c-layout-super-navigation-header__header-logo">
+        <a class="govuk-header__homepage-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","external":"false","text":"GOV.UK","section":"Logo","index_link":1,"index_section":0,"index_section_count":2,"index_total":1}' id="logo" aria-label="Go to the GOV.UK homepage" href="/">
+          <svg
+  xmlns="http://www.w3.org/2000/svg"
+  focusable="false"
+  role="img"
+  viewBox="0 0 324 60"
+  height="30"
+  width="162"
+  fill="currentcolor"
+  class="govuk-header__logotype"
+  aria-label="GOV.UK">
+  <title>GOV.UK</title>
+  <g>
+    <circle cx="20" cy="17.6" r="3.7"></circle>
+    <circle cx="10.2" cy="23.5" r="3.7"></circle>
+    <circle cx="3.7" cy="33.2" r="3.7"></circle>
+    <circle cx="31.7" cy="30.6" r="3.7"></circle>
+    <circle cx="43.3" cy="17.6" r="3.7"></circle>
+    <circle cx="53.2" cy="23.5" r="3.7"></circle>
+    <circle cx="59.7" cy="33.2" r="3.7"></circle>
+    <circle cx="31.7" cy="30.6" r="3.7"></circle>
+    <path d="M33.1,9.8c.2-.1.3-.3.5-.5l4.6,2.4v-6.8l-4.6,1.5c-.1-.2-.3-.3-.5-.5l1.9-5.9h-6.7l1.9,5.9c-.2.1-.3.3-.5.5l-4.6-1.5v6.8l4.6-2.4c.1.2.3.3.5.5l-2.6,8c-.9,2.8,1.2,5.7,4.1,5.7h0c3,0,5.1-2.9,4.1-5.7l-2.6-8ZM37,37.9s-3.4,3.8-4.1,6.1c2.2,0,4.2-.5,6.4-2.8l-.7,8.5c-2-2.8-4.4-4.1-5.7-3.8.1,3.1.5,6.7,5.8,7.2,3.7.3,6.7-1.5,7-3.8.4-2.6-2-4.3-3.7-1.6-1.4-4.5,2.4-6.1,4.9-3.2-1.9-4.5-1.8-7.7,2.4-10.9,3,4,2.6,7.3-1.2,11.1,2.4-1.3,6.2,0,4,4.6-1.2-2.8-3.7-2.2-4.2.2-.3,1.7.7,3.7,3,4.2,1.9.3,4.7-.9,7-5.9-1.3,0-2.4.7-3.9,1.7l2.4-8c.6,2.3,1.4,3.7,2.2,4.5.6-1.6.5-2.8,0-5.3l5,1.8c-2.6,3.6-5.2,8.7-7.3,17.5-7.4-1.1-15.7-1.7-24.5-1.7h0c-8.8,0-17.1.6-24.5,1.7-2.1-8.9-4.7-13.9-7.3-17.5l5-1.8c-.5,2.5-.6,3.7,0,5.3.8-.8,1.6-2.3,2.2-4.5l2.4,8c-1.5-1-2.6-1.7-3.9-1.7,2.3,5,5.2,6.2,7,5.9,2.3-.4,3.3-2.4,3-4.2-.5-2.4-3-3.1-4.2-.2-2.2-4.6,1.6-6,4-4.6-3.7-3.7-4.2-7.1-1.2-11.1,4.2,3.2,4.3,6.4,2.4,10.9,2.5-2.8,6.3-1.3,4.9,3.2-1.8-2.7-4.1-1-3.7,1.6.3,2.3,3.3,4.1,7,3.8,5.4-.5,5.7-4.2,5.8-7.2-1.3-.2-3.7,1-5.7,3.8l-.7-8.5c2.2,2.3,4.2,2.7,6.4,2.8-.7-2.3-4.1-6.1-4.1-6.1h10.6,0Z"></path>
+  </g>
+  <circle class="govuk-logo-dot" cx="226" cy="36" r="7.3"></circle>
+  <path d="M93.94 41.25c.4 1.81 1.2 3.21 2.21 4.62 1 1.4 2.21 2.41 3.61 3.21s3.21 1.2 5.22 1.2 3.61-.4 4.82-1c1.4-.6 2.41-1.4 3.21-2.41.8-1 1.4-2.01 1.61-3.01s.4-2.01.4-3.01v.14h-10.86v-7.02h20.07v24.08h-8.03v-5.56c-.6.8-1.38 1.61-2.19 2.41-.8.8-1.81 1.2-2.81 1.81-1 .4-2.21.8-3.41 1.2s-2.41.4-3.81.4a18.56 18.56 0 0 1-14.65-6.63c-1.6-2.01-3.01-4.41-3.81-7.02s-1.4-5.62-1.4-8.83.4-6.02 1.4-8.83a20.45 20.45 0 0 1 19.46-13.65c3.21 0 4.01.2 5.82.8 1.81.4 3.61 1.2 5.02 2.01 1.61.8 2.81 2.01 4.01 3.21s2.21 2.61 2.81 4.21l-7.63 4.41c-.4-1-1-1.81-1.61-2.61-.6-.8-1.4-1.4-2.21-2.01-.8-.6-1.81-1-2.81-1.4-1-.4-2.21-.4-3.61-.4-2.01 0-3.81.4-5.22 1.2-1.4.8-2.61 1.81-3.61 3.21s-1.61 2.81-2.21 4.62c-.4 1.81-.6 3.71-.6 5.42s.8 5.22.8 5.22Zm57.8-27.9c3.21 0 6.22.6 8.63 1.81 2.41 1.2 4.82 2.81 6.62 4.82S170.2 24.39 171 27s1.4 5.62 1.4 8.83-.4 6.02-1.4 8.83-2.41 5.02-4.01 7.02-4.01 3.61-6.62 4.82-5.42 1.81-8.63 1.81-6.22-.6-8.63-1.81-4.82-2.81-6.42-4.82-3.21-4.41-4.01-7.02-1.4-5.62-1.4-8.83.4-6.02 1.4-8.83 2.41-5.02 4.01-7.02 4.01-3.61 6.42-4.82 5.42-1.81 8.63-1.81Zm0 36.73c1.81 0 3.61-.4 5.02-1s2.61-1.81 3.61-3.01 1.81-2.81 2.21-4.41c.4-1.81.8-3.61.8-5.62 0-2.21-.2-4.21-.8-6.02s-1.2-3.21-2.21-4.62c-1-1.2-2.21-2.21-3.61-3.01s-3.21-1-5.02-1-3.61.4-5.02 1c-1.4.8-2.61 1.81-3.61 3.01s-1.81 2.81-2.21 4.62c-.4 1.81-.8 3.61-.8 5.62 0 2.41.2 4.21.8 6.02.4 1.81 1.2 3.21 2.21 4.41s2.21 2.21 3.61 3.01c1.4.8 3.21 1 5.02 1Zm36.32 7.96-12.24-44.15h9.83l8.43 32.77h.4l8.23-32.77h9.83L200.3 58.04h-12.24Zm74.14-7.96c2.18 0 3.51-.6 3.51-.6 1.2-.6 2.01-1 2.81-1.81s1.4-1.81 1.81-2.81a13 13 0 0 0 .8-4.01V13.9h8.63v28.15c0 2.41-.4 4.62-1.4 6.62-.8 2.01-2.21 3.61-3.61 5.02s-3.41 2.41-5.62 3.21-4.62 1.2-7.02 1.2-5.02-.4-7.02-1.2c-2.21-.8-4.01-1.81-5.62-3.21s-2.81-3.01-3.61-5.02-1.4-4.21-1.4-6.62V13.9h8.63v26.95c0 1.61.2 3.01.8 4.01.4 1.2 1.2 2.21 2.01 2.81.8.8 1.81 1.4 2.81 1.81 0 0 1.34.6 3.51.6Zm34.22-36.18v18.92l15.65-18.92h10.82l-15.03 17.32 16.03 26.83h-10.21l-11.44-20.21-5.62 6.22v13.99h-8.83V13.9"></path>
+</svg>
+
+</a></div>      <h2 id="super-navigation-menu-heading" class="govuk-visually-hidden">
+        Navigation menu
+      </h2>
+
+
+      <div class="gem-c-layout-super-navigation-header__navigation-item">
+        <a class="gem-c-layout-super-navigation-header__navigation-item-link" href="/browse"><span class="gem-c-layout-super-navigation-header__navigation-item-link-inner">            Menu
+</span></a>
+        <button aria-controls="super-navigation-menu" aria-expanded="false" aria-label="Show navigation menu" class="gem-c-layout-super-navigation-header__navigation-top-toggle-button" data-text-for-hide="Hide navigation menu" data-text-for-show="Show navigation menu" data-toggle-desktop-group="top" data-toggle-mobile-group="top" data-ga4-event='{"event_name":"select_content","type":"header menu bar","text":"Menu","index_section":1,"index_section_count":2,"section":"Menu"}' hidden="hidden" id="super-navigation-menu-toggle" type="button">
+          <span class="gem-c-layout-super-navigation-header__navigation-top-toggle-button-inner">Menu</span>
+</button>      </div>
+      <div id="super-navigation-menu" hidden="hidden" class="gem-c-layout-super-navigation-header__navigation-dropdown-menu">
+        <div class="govuk-grid-row gem-c-layout-super-navigation-header__navigation-items">
+
+
+            <div class="govuk-grid-column-two-thirds-from-desktop gem-c-layout-super-navigation-header__column--services-and-information">
+              <h3 class="govuk-heading-m gem-c-layout-super-navigation-header__column-header">
+                Services and information
+              </h3>
+              <ul class="gem-c-layout-super-navigation-header__navigation-second-items gem-c-layout-super-navigation-header__navigation-second-items--services-and-information">
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":1,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/benefits">Benefits</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":2,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/births-deaths-marriages">Births, death, marriages and care</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":3,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/business">Business and self-employed</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":4,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/childcare-parenting">Childcare and parenting</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":5,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/citizenship">Citizenship and living in the UK</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":6,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/justice">Crime, justice and the law</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":7,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/disabilities">Disabled people</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":8,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/driving">Driving and transport</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":9,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/education">Education and learning</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":10,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/employing-people">Employing people</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":11,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/environment-countryside">Environment and countryside</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":12,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/housing-local-services">Housing and local services</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":13,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/tax">Money and tax</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":14,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/abroad">Passports, travel and living abroad</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":15,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/visas-immigration">Visas and immigration</a>
+                      
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":16,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="/browse/working">Working, jobs and pensions</a>
+                      
+                    </li>
+              </ul>
+            </div>
+
+            <div class="govuk-grid-column-one-third-from-desktop gem-c-layout-super-navigation-header__column--government-activity">
+              <h3 class="govuk-heading-m gem-c-layout-super-navigation-header__column-header">
+                Government activity
+              </h3>
+              <ul class="gem-c-layout-super-navigation-header__navigation-second-items gem-c-layout-super-navigation-header__navigation-second-items--government-activity">
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":1,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="/government/organisations">Departments</a>
+                      <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">Departments, agencies and public bodies</p>
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":2,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="/search/news-and-communications">News</a>
+                      <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">News stories, speeches, letters and notices</p>
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":3,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="/search/guidance-and-regulation">Guidance and regulation</a>
+                      <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">Detailed guidance, regulations and rules</p>
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":4,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="/search/research-and-statistics">Research and statistics</a>
+                      <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">Reports, analysis and official statistics</p>
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":5,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="/search/policy-papers-and-consultations">Policy papers and consultations</a>
+                      <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">Consultations and strategy</p>
+                    </li>
+                    <li class="gem-c-layout-super-navigation-header__dropdown-list-item">
+                      <a class="govuk-link gem-c-layout-super-navigation-header__navigation-second-item-link gem-c-layout-super-navigation-header__navigation-second-item-link--with-description" data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":6,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="/search/transparency-and-freedom-of-information-releases">Transparency</a>
+                      <p class="gem-c-layout-super-navigation-header__navigation-second-item-description">Data, Freedom of Information releases and corporate reports</p>
+                    </li>
+              </ul>
+            </div>
+        </div>
+</div>      <div class="gem-c-layout-super-navigation-header__search-item">
+        <button id="super-search-menu-toggle" class="gem-c-layout-super-navigation-header__search-toggle-button" aria-controls="super-search-menu" aria-expanded="true" aria-label="Hide search menu" data-text-for-hide="Hide search menu" data-text-for-show="Show search menu" data-toggle-mobile-group="top" data-toggle-desktop-group="top" data-ga4-event='{"event_name":"select_content","type":"header menu bar","text":"Search","index_section":2,"index_section_count":2,"section":"Search"}' hidden="hidden" type="button">
+          <span class="govuk-visually-hidden">
+            Search GOV.UK
+          </span>
+          
+<svg
+  class="gem-c-layout-super-navigation-header__search-toggle-button-link-icon"
+  width="27"
+  height="27"
+  viewBox="0 0 27 27"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  aria-hidden="true"
+  focusable="false">
+  <circle
+    cx="12.0161"
+    cy="11.0161"
+    r="8.51613"
+    stroke="currentColor"
+    stroke-width="3" />
+  <line
+    x1="17.8668"
+    y1="17.3587"
+    x2="26.4475"
+    y2="25.9393"
+    stroke="currentColor"
+    stroke-width="3" />
+</svg>
+
+          <span
+            aria-hidden="true"
+            class="gem-c-layout-super-navigation-header__navigation-top-toggle-close-icon">
+            &times;
+          </span>
+</button>
+        <a class="gem-c-layout-super-navigation-header__search-item-link" href="/search">
+          <span class="govuk-visually-hidden">
+            Search GOV.UK
+          </span>
+          
+<svg
+  class="gem-c-layout-super-navigation-header__search-item-link-icon"
+  width="27"
+  height="27"
+  viewBox="0 0 27 27"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  aria-hidden="true"
+  focusable="false">
+  <circle
+    cx="12.0161"
+    cy="11.0161"
+    r="8.51613"
+    stroke="currentColor"
+    stroke-width="3" />
+  <line
+    x1="17.8668"
+    y1="17.3587"
+    x2="26.4475"
+    y2="25.9393"
+    stroke="currentColor"
+    stroke-width="3" />
+</svg>
+
+</a>      </div>
+      <div id="super-search-menu" hidden="hidden" class="gem-c-layout-super-navigation-header__navigation-dropdown-menu">
+        <div class="gem-c-layout-super-navigation-header__search-container gem-c-layout-super-navigation-header__search-items">
+          <h3 class="govuk-visually-hidden">
+            Search
+          </h3>
+          <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+              <form class="gem-c-layout-super-navigation-header__search-form" id="search" data-module="ga4-search-tracker" data-ga4-search-type="header menu bar" data-ga4-search-url="/search/all" data-ga4-search-section="Search GOV.UK" data-ga4-search-index-section="3" data-ga4-search-index-section-count="3" action="/search/all" method="get" role="search" aria-label="Site-wide">
+                <div class="gem-c-search-with-autocomplete gem-c-search-with-autocomplete--large govuk-!-margin-bottom-0" data-module="gem-search-with-autocomplete" data-source-url="https://www.gov.uk/api/search/autocomplete.json" data-source-key="suggestions">
+  <div data-module="gem-toggle-input-class-on-focus" class="gem-c-search govuk-!-display-none-print gem-c-search--large gem-c-search--on-white gem-c-search--separate-label govuk-!-margin-bottom-0">
+    <label for="search-main-66e808ed" class="govuk-label govuk-label--m gem-c-layout-super-navigation-header__search-label--large-navbar">Search GOV.UK</label>
+  <div class="gem-c-search__item-wrapper">
+    <div class="js-search-input-wrapper">
+      <input enterkeyhint="search" class="gem-c-search__item gem-c-search__input js-class-toggle" id="search-main-66e808ed" name="keywords" title="Search" type="search" value="" autocorrect="off" autocapitalize="off">
+    </div>
+    <div class="gem-c-search__item gem-c-search__submit-wrapper">
+      <button class="gem-c-search__submit" type="submit" enterkeyhint="search">
+        Search
+        
+<svg
+  class="gem-c-search__icon"
+  width="27"
+  height="27"
+  viewBox="0 0 27 27"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  aria-hidden="true"
+  focusable="false">
+  <circle
+    cx="12.0161"
+    cy="11.0161"
+    r="8.51613"
+    stroke="currentColor"
+    stroke-width="3" />
+  <line
+    x1="17.8668"
+    y1="17.3587"
+    x2="26.4475"
+    y2="25.9393"
+    stroke="currentColor"
+    stroke-width="3" />
+</svg>
+
+</button>    </div>
+  </div>
+</div>
+</div>
+</form>            </div>
+          </div>
+        </div>
+</div>    </nav>
+  </div>
+</div>
+</div>
+
+        
+
+</header>
+      
+  
+
+  <div class="govuk-width-container">
+
+      
+<div class="gem-c-contextual-breadcrumbs">
+    
+<script type="application/ld+json">
+  {
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "name": "Home",
+        "@id": "https://www.gov.uk/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "name": "Government",
+        "@id": "https://www.gov.uk/government/all"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "name": "Europe",
+        "@id": "https://www.gov.uk/government/europe"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "name": "UK/EU Summit 2026: Key documents",
+        "@id": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents"
+      }
+    }
+  ]
+}
+</script>
+
+<nav data-module="ga4-link-tracker" aria-label="Breadcrumb" class="gem-c-breadcrumbs govuk-breadcrumbs govuk-!-display-none-print govuk-breadcrumbs--collapse-on-mobile">
+  <ol class="govuk-breadcrumbs__list">
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-ga4-link='{"event_name":"navigation","type":"breadcrumb","index_link":"1","index_total":"4"}' class="govuk-breadcrumbs__link" href="/">Home</a>
+        </li>
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-ga4-link='{"event_name":"navigation","type":"breadcrumb","index_link":"2","index_total":"4"}' class="govuk-breadcrumbs__link" href="/government/all">Government</a>
+        </li>
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-ga4-link='{"event_name":"navigation","type":"breadcrumb","index_link":"3","index_total":"4"}' class="govuk-breadcrumbs__link" href="/government/europe">Europe</a>
+        </li>
+        <li class="govuk-breadcrumbs__list-item">
+          <a data-ga4-link='{"event_name":"navigation","type":"breadcrumb","index_link":"4","index_total":"4"}' class="govuk-breadcrumbs__link" href="/government/publications/ukeu-summit-2026-key-documents">UK/EU Summit 2026: Key documents</a>
+        </li>
+  </ol>
+</nav>
+</div>
+
+    
+
+    <main id="content" class="govuk-main-wrapper  " >
+      <span id="Top"></span>
+      
+  <div class="publication-external">
+    <ul class="organisation-logos">
+        <li class="organisation-logos__logo">
+          
+<div class="gem-c-organisation-logo brand--cabinet-office">
+    <a class="gem-c-organisation-logo__container gem-c-organisation-logo__link gem-c-organisation-logo__crest gem-c-organisation-logo__crest--single-identity brand__border-color" href="/government/organisations/cabinet-office">
+      <span class="gem-c-organisation-logo__name">Cabinet Office</span>
+</a></div>
+        </li>
+    </ul>
+  </div>
+
+  <header class="gem-c-inverse-header gem-c-inverse-header--html-publication-header govuk-!-padding-top-6 govuk-!-padding-bottom-6" dir="ltr">
+    
+  
+<div class="gem-c-heading  gem-c-heading--inverse govuk-!-margin-bottom-0">
+      <span class="govuk-caption-xl gem-c-heading__context" >
+    Guidance
+  </span>
+
+
+  <h1 class="gem-c-heading__text govuk-heading-xl">
+    UK-EU Summit 2026 Joint Statement (HTML)
+</h1></div>
+
+    <p class="gem-c-inverse-header__subtext">Updated 20 November 2026</p>
+</header>
+
+
+
+
+<div id="contents">
+  <div class="govuk-grid-row gem-print-columns-none">
+    <div class="govuk-grid-column-one-quarter-from-desktop sticky-column">
+          <nav data-module="ga4-link-tracker" aria-label="Contents" class="gem-c-contents-list govuk-!-margin-bottom-4">
+    <h2 class="gem-c-contents-list__title">
+      Contents
+</h2>
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered" >
+          <span class="gem-c-contents-list__list-item-dash" aria-hidden="true"></span>
+          <a class="gem-c-contents-list__link govuk-link gem-print-force-link-styles govuk-link--no-underline" data-ga4-link='{"event_name":"select_content","section":"Contents","type":"contents list","index_total":2,"index_link":1}' href="#common-global-priorities">COMMON GLOBAL PRIORITIES</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered" >
+          <span class="gem-c-contents-list__list-item-dash" aria-hidden="true"></span>
+          <a class="gem-c-contents-list__link govuk-link gem-print-force-link-styles govuk-link--no-underline" data-ga4-link='{"event_name":"select_content","section":"Contents","type":"contents list","index_total":2,"index_link":2}' href="#bilateral-priorities-and-actions">BILATERAL PRIORITIES AND ACTIONS</a>
+        </li>
+    </ol>
+</nav>
+      <div class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-bottom-6">
+  
+
+  <button class="gem-c-button__outline gem-c-button__outline--print govuk-!-margin-bottom-0" type="button" rel="alternate" data-module="print-link">Print this page</button>
+
+
+</div>
+    </div>
+
+    <div class="print-metadata">
+      <p>
+  <img class="print-metadata__licence" src="/assets/frontend/open-government-licence-min-93b6a51b518ff99714a1aa2a7d2162735c155ec3cb073c75fb88b2a332fa83d3.png" />
+</p>
+<p>
+  © Crown copyright 2026
+</p>
+<p>
+  This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3">nationalarchives.gov.uk/doc/open-government-licence/version/3</a> or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: <a href="mailto:psi@nationalarchives.gov.uk">psi@nationalarchives.gov.uk</a>.
+</p>
+<p>
+  Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+</p>
+<p>
+  This publication is available at https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html
+</p>
+
+    </div>
+
+    <div class="govuk-grid-column-three-quarters-from-desktop contents-container">
+      <div class="gem-c-govspeak-html-publication">
+  <div data-module="govspeak" class="gem-c-govspeak gem-c-govspeak--direction-ltr govuk-!-margin-bottom-0">
+    
+    
+        <div class="govspeak"><p>We, the Leaders of the European Union (EU) and of the United Kingdom (UK), held our second EU-UK Summit in Brussels on 20 November 2026. Against the backdrop of deepening geopolitical and economic challenges, we reaffirm our support for an ambitious and dynamic relationship that delivers for our citizens and concluded the following:</p>
+
+<p>1. The EU and the UK are neighbours, friends, and like-minded, strategically important partners, facing shared threats and aligned on defending the rules-based international order rooted in the principles of the United Nations Charter. Our partnership reflects the strength of our common values: democracy, the rule of law, and respect for human rights. In the increasingly complex and challenging geopolitical context, we are committed to working closely together within our Strategic Partnership and to fulfil our shared responsibility for the security of Europe and beyond.</p>
+
+<p>2. The first EU-UK Summit of 19 May 2025 marked a significant positive development in our bilateral relations with our new Strategic Partnership. We agreed that this would build on the stable foundation for our relationship set by the Withdrawal Agreement, including the Windsor Framework, and the Trade and Cooperation Agreement and reaffirmed our commitment to their full, timely and faithful implementation. Having jointly reviewed the implementation of the Trade and Cooperation Agreement as required by Article 776 of the Agreement, we affirm that the agreement functions effectively, notwithstanding certain barriers which require that we deploy further efforts to address them.</p>
+
+<p>3. We continue to deliver on the Common Understanding agreed between the European Commission and the UK government on “A renewed agenda for European Union-United Kingdom cooperation”. Building on our shared commitment for a strong partnership, the EU and the UK have agreed on a series of deliverables to further deepen our cooperation.</p>
+
+<p>4. We are implementing the EU-UK Security and Defence Partnership, strengthening our strategic partnership across the foreign policy, peace, security and defence spectrum.</p>
+
+<p>5. We reaffirm our commitment to the full, timely and faithful implementation of the Withdrawal Agreement, welcome progress made and commit to accelerate the work ahead. We will ensure that all citizens are able to fully enjoy their rights, now and in the future. We will protect the Windsor Framework’s vital role in avoiding a hard border on the island of Ireland, bringing benefits to Northern Ireland and protecting the integrity of the UK internal market, while accelerating the delivery of the safeguards for the protection of the EU Single Market in all areas. We will finalise the work to implement the Protocol relating to the Sovereign Base Areas in Cyprus in all its parts.</p>
+
+<p>6. We welcome the signature and provisional application of the EU-UK Agreement in respect of Gibraltar as well as the benefits it brings to the whole region and look forward to its conclusion.</p>
+
+<h2 id="common-global-priorities">COMMON GLOBAL PRIORITIES</h2>
+
+<p>7. We reaffirm our unwavering support for Ukraine’s independence, sovereignty and territorial integrity within its internationally recognised borders, and condemn Russia’s unprovoked and unjustified war of aggression as a manifest violation of international law including the UN Charter. We reiterate our call on Russia to immediately end its war of aggression against Ukraine and agree to a full, immediate and unconditional ceasefire. The path to peace in Ukraine cannot be decided without Ukraine. We will continue working in close partnership throughout the negotiating process, with the shared objective of achieving a comprehensive and lasting peace.</p>
+
+<p>8. The military and civilian support to Ukraine by the UK and the EU has been crucial so far in supporting Ukraine in its defence against Russia’s war of aggression. We will continue to provide, in coordination with like-minded partners and allies, political, economic, financial, military, humanitarian and diplomatic support to Ukraine for as long as it takes and call on international partners to swiftly step up their support to help meet Ukraine’s pressing financing and military needs. We will continue to strengthen our coordination to increase pressure on Russia, notably via sanctions, countering its hybrid activities and working towards achieving a comprehensive, just and lasting peace, based on the principles of the UN Charter and international law and underpinned by robust and credible security guarantees for Ukraine. We will continue cooperation on Ukraine’s recovery and reconstruction, including through the Ukraine Facility.</p>
+
+<p>9. We are engaging on the wider Eastern European neighbourhood, including the Black Sea. We also remain committed to support the Republic of Moldova in its efforts to address Russia’s persistent and evolving hybrid attacks and challenges stemming from Russia’s war of aggression against Ukraine.</p>
+
+<p>10. We reaffirm our commitment to the stability and prosperity of the Western Balkans. We agreed to work together on strengthening their internal reform agendas, including the rule of law, democracy, fight against corruption and organised crime, addressing shared security challenges and promoting sustainable economic growth.</p>
+
+<p>11. We reiterate our call for respect for international law, international humanitarian law and protection of civilians, unimpeded access and sustained distribution of humanitarian assistance at scale into and throughout Gaza, and condemn settler violence and settlement expansion in the West Bank. The EU and the UK call on Israel to withdraw its tender for construction in the E1 area. We reiterate our commitment to UNSCR 2803 to deliver peace and stability in Gaza. We are clear that Hamas must permanently decommission its weapons and have no role in the future governance of Gaza. We welcome the Team Gaza initiative and call for international coordination in humanitarian assistance and recovery and reconstruction efforts. We reiterate our support for the Palestinian Authority. We support a comprehensive, just and lasting peace based on the two-state solution, in accordance with relevant UN Security Council Resolutions and the New York Declaration, where two democratic states, Israel and Palestine, live side-by side in peace within secure and recognised borders.</p>
+
+<p>12. We reiterate our full support for Lebanon’s sovereignty and territorial integrity. We call for the full implementation of UNSCR 1701, support the strengthening of the Lebanese Armed Forces and implementation of the US-Israel-Lebanon Trilateral Framework agreed in June. We reaffirm the importance of continued international support in Lebanon including following the end of UNIFIL’s mandate.</p>
+
+<p>13. We condemn Iran’s attacks against countries in the region and on shipping in the Strait of Hormuz and stand in solidarity with our regional partners. We firmly support diplomatic efforts to avoid further conflict in the region and ensure the restoration of freedom of navigation and transit passage, as enshrined in UNCLOS. We reaffirmed our commitment to a lasting diplomatic resolution to address both the Strait of Hormuz and Iran’s nuclear issue. Iran must never acquire a nuclear weapon and must cooperate fully with the IAEA. Iran must stop its destabilising activities in the region and its hybrid attacks on European soil.</p>
+
+<p>14. We condemn the Houthi military escalation in Yemen and against Saudi Arabia and call upon the Houthis to immediately cease all military action, including all attacks against civilian shipping which threaten maritime security in the Red Sea and Bab al-Mandab Strait. We call upon the Houthis to allow humanitarian access to alleviate the suffering of the civilian population.</p>
+
+<p>15. Alongside African partners, we will further deepen cooperation on peace, stability and prosperity in Africa. We reaffirm our shared interest in a secure and prosperous Indo-Pacific and we will strengthen our engagement on and with the region. We will also explore closer cooperation in the Arctic.</p>
+
+<p>16. Cooperation on security and defence is a shared priority, in particular in the face of the long-term threat posed by Russia to our security. This includes working towards building a stronger Europe in a stronger NATO. In the current security environment, for the EU, the mutually reinforcing strategic partnership with NATO is essential for Euro-Atlantic security. For the UK and 23 EU Member States that are also NATO allies, the Atlantic Alliance remains the foundation of their collective defence. We will enhance coordination and strengthen European security, including through support for Ukraine in its defence against Russian aggression.</p>
+
+<p>17. We reaffirm our commitment to effective multilateralism, with the United Nations at its core, respect for international law, and our unwavering support for the international criminal justice system, particularly the International Criminal Court, which is a fundamental part of the rules-based international order. We deeply regret attacks or threats against the Court, its elected officials, its personnel and those cooperating with the Court. Together we will continue to support the impartiality and integrity of the ICC and we stand ready to take all the necessary measures to ensure that the Court continues to operate effectively and fulfils its indispensable mandate.</p>
+
+<p>18. We reaffirm our mutual commitment to a free, sustainable, fair and open rules-based international trade system with the World Trade Organization at its core. We will actively support the WTO reform process in Geneva and step up our cooperation, bilaterally and in dedicated new formats with like-minded partners, including through EU and Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) cooperation, to promote deep and comprehensive reform, while preserving predictability and rules-based international trade. We also support the work done by the OECD which plays an essential role for international economic cooperation.</p>
+
+<p>19. As the United Kingdom assumes the G20 Presidency in 2027, we reaffirm our commitment to the G20’s core mission of international economic cooperation. We will continue to strengthen coordination of macroeconomic policies, safeguard global financial stability and promote strong, sustainable and inclusive growth. Recognising the transformative potential of artificial intelligence for the global economy, we will seek to harness its benefits for growth and prosperity, while promoting its safe and responsible development and use.</p>
+
+<p>20. We agree to pursue and wherever necessary to strengthen EU–UK cooperation on the international dimensions of climate security and to pursue close exchanges, as appropriate, in support of ambitious implementation of the Paris Agreement and the Kunming–Montreal Global Biodiversity Framework, as well as in relevant multilateral negotiations on climate and environmental issues, including on plastics and the ocean. We remain committed to working with partners, for our shared security and prosperity, in accelerating the necessary global energy transition.</p>
+
+<h2 id="bilateral-priorities-and-actions">BILATERAL PRIORITIES AND ACTIONS</h2>
+
+<h3 id="i-peace-security-and-defence-development-and-health-security">I. Peace, security and defence, development and health security</h3>
+
+<p>21. In an increasingly unstable and volatile world, the EU and UK restate our shared responsibility for the security of Europe. The global context makes strengthening our strategic partnership across the foreign policy, peace, security and defence spectrum a priority. We agree on the need to strengthen our cooperation on security and defence, commensurate with the threats Europe faces and the contribution the EU and the UK can make together, building on the EU-UK security and Defence Partnership and the progress made since its adoption.</p>
+
+<p>22. The EU and the UK agree to stand together, enhancing our strategic partnership on foreign policy, peace, security and defence. We have today committed to a new shared ambition across the range of peace, security and defence cooperation, in recognition of the exceptional breadth and depth of our partnership. We will strengthen our support for Ukraine, and agree closer coordination on countering hybrid threats, maritime security and freedom of navigation, crisis management and defence industrial cooperation, where appropriate, and capability development. We will consult more regularly and connect respective capabilities more effectively and we will coordinate rapidly in response to serious security challenges, translating our partnership into practical cooperation and coordinated action. Given the global security context, we intend to enhance exchanges on defence industrial issues and will identify ways to deepen capability collaboration, taking into account the objective of developing resilient European supply chains and capabilities and addressing critical capability gaps, including through the Capability Coalitions.</p>
+
+<p>23. Since the last Summit and the adoption of the EU-UK Security and Defence Partnership, we have held our High Level Foreign and Security Policy and Security and Defence Dialogues. We will continue regular strategic consultations on Russia/Ukraine, Western Balkans, and hybrid threats. We will further enhance EU-UK dialogue and cooperation on other thematic and geographic areas of joint interest, including holding our first Indo-Pacific strategic consultation and upgrading the existing consultations on Africa and the Middle East. We will also continue strengthening consultation and coordination on global challenges, including within the United Nations as well as in the G7 and G20 frameworks, and advance joint or mutually reinforcing initiatives in key regions and multilateral fora, together with partners from around the world. We will strengthen practical cooperation, including through reciprocal secondments and increased joint training.</p>
+
+<p>24. Ukraine’s security is Europe’s security. Cooperation in support of Ukraine’s security will remain a priority. The EU Military Assistance Mission in support of Ukraine (EUMAM Ukraine) and the UK will continue to support the training of Ukrainian Armed Forces and to coordinate closely with the Coalition of the Willing, co-led by the UK, France and Germany, including in the context of the Multinational Force Ukraine.</p>
+
+<p>25. We welcome the UK’s participation under the EU’s Ukraine Support Loan as a major step forward in our support for Ukraine.</p>
+
+<p>26. All of the above is without prejudice to the specific character of the security and defence policy of certain EU Member States, and taking into account the security and defence interests of all Member States, in accordance with the EU Treaties.</p>
+
+<p>27. The EU and the UK will continue to closely cooperate in crisis management and step up cooperation in the context of civilian missions under the Common Security and Defence Policy. In this context we welcome the conclusion of negotiations on the Framework Participation Agreement for UK participation in EU civilian CSDP missions, enabling a tangible joint contribution to tackle shared threats and challenges, with a particular focus on European security.</p>
+
+<p>28. Recognising that security also depends on the effective deployment of materiel, equipment and personnel, the EU and UK agree that cooperation on military mobility, including logistics, is vitally important. We welcome progress on advancing UK participation in the PESCO Military Mobility and Network of Logistic Hubs projects, and agree to deepen practical cooperation between the EU and UK to support the rapid movement of forces across Europe, ensuring that such cooperation remains fit for purpose and delivers greater efficiency in military mobility arrangements and noting the importance of EU-NATO cooperation in this field.</p>
+
+<p>29. Reaffirming our support for the United Nations Convention on the Law of the Sea and freedom of navigation, we have committed to deepening our engagement on maritime security, including through joint naval activities and enhanced cooperation on the challenges posed by the shadow fleet, countering their operations and activities. To this end, we will enhance information sharing and exchanges of best practices on tackling Russia’s shadow fleet, and coordinate efforts on enforcement actions and countering sanctions circumvention. We will strengthen practical cooperation on the protection and resilience of critical maritime infrastructure. We have committed to the “No Tolls/No Fees” pledge, championing multilateral cooperation, rejecting coercion and unilateral actions or measures that would hamper or impair lawful navigation.</p>
+
+<p>30. To stand together against increasing hybrid and cyber threats intended to destabilise our societies, the EU and the UK have agreed on enhanced cooperation to strengthen our collective preparedness, resilience and response. We will enhance awareness of the threat landscape, improve our preparedness including through exercises, enhance cooperation to impose costs on hostile actors and coordinate responses, as well as to provide support to partners in their effort to increase resilience. We will also share best practice on our own civil and societal resilience, while continuing to cooperate closely in multilateral fora, including on promoting accountability and responsible state behaviour in cyberspace. We have strengthened cooperation on countering foreign information manipulation and interference (FIMI) both bilaterally and in multilateral fora, with a focus on information sharing and collective responses, and will continue to do so.</p>
+
+<p>31. The UK and the EU will develop a dialogue to reinforce cooperation on democratic resilience, focusing on shared challenges, including strengthening the resilience of democratic institutions, safeguarding the integrity of the information space, supporting electoral integrity, as well as supporting relevant stakeholders, including civil society, to increase capacity to defend common democratic principles, and boosting citizens’ engagement and societal resilience. This will include the sharing of information and best practices in these areas.</p>
+
+<p>32. We also intend to explore new avenues of cooperation on cybersecurity under the Trade and Cooperation Agreement to enhance our efforts to prevent, deter and respond to increasingly sophisticated threats.</p>
+
+<p>33. EU and UK positions continue to align across multilateral fora and we will further step up our joint diplomatic outreach. Reinforcing our shared commitment to international law, human rights, democracy and free and fair elections worldwide, we welcome the signature of an Administrative Arrangement enabling UK participation in EU Election Observation Missions.</p>
+
+<p>34. We are enhancing our cooperation on consular affairs, peace mediation and conflict prevention, climate and security, and addressing space threats. We continue engagement on counterterrorism and preventing violent extremism, disarmament, non-proliferation of weapons of mass destruction, as well as countering illicit trade in small arms and light weapons. We are intensively cooperating to ensure that our restrictive measures are aligned as much as possible.</p>
+
+<p>35. We welcome the signature on 24 June 2026 of administrative arrangements in the area of development cooperation, and in international disaster and humanitarian response. These arrangements will contribute to strengthening our global resilience.</p>
+
+<p>36. We look forward to the signature of the Memorandum of Understanding on health security, including matters concerning medical countermeasures, and look forward to finalising the establishment of the Specialised Committee on Health Security within the framework of the Trade and Cooperation Agreement.</p>
+
+<h3 id="ii-putting-people-at-the-centre-of-the-eu-uk-relationship">II. Putting people at the centre of the EU-UK relationship</h3>
+
+<p>37. We attach key importance to the objective in the Common Understanding of people-to-people ties being at the core of the renewed EU-UK agenda, particularly for the younger generation.</p>
+
+<p>38. We underline the significance of the UK’s participation in Erasmus+ in 2027. The Erasmus+ funding call opened for applications on 18 November 2026. The UK and the EU encourage eligible institutions to apply to make the most of the opportunities offered by the Erasmus+ programme for benefitting learners of all ages, young people and staff across school education, vocational education and training, higher education, adult education, youth and sport. We agree to explore opportunities beyond 2027.</p>
+
+<p>39. We welcome the conclusion of negotiations on a Youth Experience Scheme (YES). The scheme will allow 100 000 young people from the EU and the UK respectively to reside for up to three years to engage in activities such as work, studies, au-pairing, volunteering, or simply travelling, in accordance with our respective legal frameworks. We aim to apply this agreement no later than 2028 and endeavour to ensure that opportunities under the scheme will be available to our young people no later than January 2030.</p>
+
+<p>40. Building on our joint commitments in the 2025 Common Understanding to deepen our people-to-people ties, particularly for the younger generation, and the UK’s association to the Erasmus+ programme in 2027, the UK and the EU share the objective of further increasing opportunities for studying, as well as other activities under Erasmus+ across the UK and the EU. The UK and the EU jointly recognise the importance of our shared strength in higher education to equip our young people with the skills they need to support economic growth and European competitiveness.</p>
+
+<p>41. The EU and UK will therefore work towards a supplementing agreement to the Trade and Cooperation Agreement on tuition fees for EU students in the UK and for UK students in the EU. The Agreement will apply to all students from the other Party irrespective of the immigration pathway. The aim is to increase opportunities for students to study in each other’s territories. We will conclude the negotiations within six months from the date of the summit.</p>
+
+<p>42. We welcome the ongoing successful implementation of the PeacePlus programme and will explore the development of the successor programme 2028-2034. We agree to explore opportunities to further expand contacts and exchanges for the strengthening of people-to-people ties in the EU and the UK beyond 2027.</p>
+
+<p>43. The EU and the UK reaffirm the value of cultural and artistic exchanges, including the activities of touring artists. The EU and the UK should explore further mutually beneficial solutions. This year, the UK and the European Commission held the first High Level Meeting on Culture. The European Commission and the UK will continue to convene in this forum annually.</p>
+
+<h3 id="iii-strengthening-our-economies-while-protecting-our-planet-and-its-resources">III. Strengthening our economies while protecting our planet and its resources</h3>
+
+<p>44. We share the view that it is in our joint interest to strengthen our economic relations and generate prosperity, while protecting our planet and its resources. In this light, we recognise the importance of the full, timely and faithful implementation of the Common Understanding and of the Trade and Cooperation Agreement in bringing this agenda forward.</p>
+
+<p>45. We note the decision of the Partnership Council 2/2025 of 19 June 2025 to continue our energy cooperation through an extension of the application of Part Two, Heading One, Title VIII (the Energy Title) of the Trade and Cooperation Agreement until 31 March 2027. We welcome the decision of the Partnership Council to further extend the application of the Energy Title until 31 March 2028. This is in line with our shared political understanding that the Energy Title should be pursued on a continuous basis.</p>
+
+<p>46. We welcome the EU-UK Competition Cooperation Agreement as a supplementing agreement to the Trade and Cooperation Agreement. This is a step forward for enhanced competition cooperation and coordination.</p>
+
+<p>47. We note the decision on full reciprocal access to waters to fish until 30 June 2038, which both parties will fully respect. In light of our international obligations, we reiterate our commitment to work together to ensure sustainability of the fisheries we share, by reinforcing our cooperation, continuing our practice of jointly agreed management measures of shared stocks, as appropriate, and improving the regional planning of measures impacting fishing activities. In particular, we will look at how to reverse the declines in key vulnerable species in the interest of protecting our shared fisheries and coastal communities. We agree on the need to work together collectively with other coastal States to rapidly conclude comprehensive sharing arrangements for stocks of common interest that are managed multilaterally to prevent detrimental effects for our fisheries sectors and coastal communities, as well as to address unsustainable and illegal fishing.</p>
+
+<p>48. We welcome the conclusion of the negotiations on a Common Sanitary and Phytosanitary Area with certain common quality standards (SPS Agreement) which would allow that the vast majority of movements of animals, animal products, plants and plant products between Great Britain and the Crown Dependencies and the EU take place without the certificates or controls that are currently required. These same benefits would be extended to the movements between Great Britain and Northern Ireland, through the interplay of the SPS Agreement and the Windsor Framework, while maintaining Northern Ireland’s unique access to both the UK Internal Market and the EU Single Market. We aim to apply this agreement from 1 March 2028.</p>
+
+<p>49. We welcome the conclusion of the negotiations on linking the EU and the UK Emissions Trading Systems (ETS agreement). This would provide a stable basis for allowing mutual recognition of EU and UK allowances and for exempting EU and UK goods from respective Carbon Border Adjustment Mechanisms subject to respective laws and procedures that we plan to launch without delays. We aim to apply this agreement from 2028.</p>
+
+<p>50. The SPS and ETS agreements will strengthen bilateral trade, while ensuring a level playing field and sustainable development. We look forward to the conclusion of these agreements, together with the Youth Experience Scheme, in accordance with our respective legal frameworks, and their joint and timely entry into force.</p>
+
+<p>51. We welcome our ongoing cooperation on security of energy supply, especially in critical times of geopolitical uncertainty.</p>
+
+<p>52. We welcome the conclusion of exploratory talks in December 2025, and the progress made towards an agreement on the UK’s participation in the EU internal electricity market. Any such agreement would be linked to a UK financial contribution to reducing economic, social and territorial disparities between regions of the EU. The participation of the UK in the EU’s internal electricity market would contribute to enhanced energy security, decrease dependency on fossil fuels, improve the efficiency of electricity trading, facilitate cross border cooperation projects and provide more predictability for market participants and lower electricity costs. We commit to conclude these negotiations in 2027, subject to final agreement by both parties, in order for all the necessary arrangements to take effect as soon as possible.</p>
+
+<p>53. We welcome the significant progress achieved in discussions on the mutual recognition of professional qualifications for architects as provided for in the Trade and Cooperation Agreement. We agree to expedite the conclusion of this process and explore opportunities for arrangements in other professions, including through working together to facilitate further expressions of interest. Within the framework provided by the Trade and Cooperation Agreement, we will also continue the discussions under the dedicated dialogue on the entry and temporary stay of natural persons for business purposes, including the sponsorship scheme and provisions for short term business visitors, with a view to possible improvements where this is in our mutual interest.</p>
+
+<p>54. We intend to launch an EU-UK Digital Partnership early next year to enhance cooperation on digital and technology matters, in areas that could cover secure and resilient connectivity, artificial intelligence, including AI security and safety, critical technologies, including quantum, digital wallets and credentials, trust services, online safety and multilateral cooperation to deepen practical cooperation and to bring actions under a common structure. We consider it to be in our mutual interest to work together to ensure that our societies can take full advantage of the opportunities that science, research, technology and innovation provide, including their ability to safeguard our fundamental values and strengthening our democracies, while safeguarding our regulatory autonomy. This will help us drive innovation, strengthen trade, and benefit businesses and consumers alike.</p>
+
+<h3 id="iv-internal-security-and-judicial-cooperation">IV. Internal security and judicial cooperation</h3>
+
+<p>55. We recognise the value of the Trade and Cooperation Agreement and the Common Understanding in providing a valuable set of tools to facilitate our cooperation on matters related to law enforcement and judicial cooperation. We welcome the ongoing efforts to enhance cooperation on law enforcement and judicial cooperation in criminal matters with the aim of strengthening the security of both the EU and the UK. We welcome the signature of the Europol liaison officers arrangement and aim to continue to strengthen the UK’s relationship with Europol, recognising our strong existing operational cooperation. We also welcome the launch of the automated searching of vehicle registration data between the EU and the UK, which will render the work of law enforcement authorities more effective across borders. We also welcome continuous and strong cooperation between Eurojust and the UK authorities. We emphasise that further development of judicial cooperation is founded on the reciprocal and full implementation of the Trade and Cooperation Agreement and continued respect for the principles and commitments underpinning it.</p>
+
+<p>56. The EU and the UK recognise the need for close coordination between the UK and the EU Member States on the removal of foreign national offenders. The UK and EU Member States commit to continue bilateral discussions, including on advance notification of such removals into each other’s territories on a reciprocal basis. We also refer to the possibility of encouraging further bilateral engagement on prisoner transfer cooperation, with a view to increasing the timeliness, efficiency and effectiveness of such cooperation.</p>
+
+<p>57. We welcome the newly established cooperation between the EU and the UK on tackling the challenges related to drug trafficking and drug use, formalised through the signature of a working arrangement.</p>
+
+<p>58. The EU and UK will explore the possible inclusion of the UK in the “Prüm international” initiative that the European Commission intends to present in mid-2027 to extend the Prüm framework on data exchange for police cooperation to chosen third country partners.</p>
+
+<p>59. Recognising that the UK is a close partner, and in order to boost security and tackle irregular migration, the EU and the UK will also explore enhancing reciprocal information exchange for law enforcement and border management purposes.</p>
+
+<p>60. We welcome and encourage continuing progress to overcome the difficulties that law enforcement and judicial authorities in one jurisdiction face in obtaining data from electronic service providers offering services in the other jurisdiction. We will continue exploring ways to reinforce mutual and reciprocal exchanges of data on criminal records of third country nationals, in the light of technical developments.</p>
+
+<h3 id="v-irregular-migration">V. Irregular migration</h3>
+
+<p>61. We welcome the deepened cooperation between the European Commission and the UK on the external dimension of migration. This includes regular information exchange on migration management projects, returns and visa related issues in respect of key countries of origin and transit relevant for irregular migration towards the EU and the UK. We aim to continue our cooperation, finding synergies in our engagement with partner countries and enhancing operational cooperation.</p>
+
+<p>62. We will continue to pursue our cooperation in multinational fora, including in the context of the Global Alliance to Counter Migrant Smuggling, to promote our common values and interests and to partner for an effective management of global migration challenges.</p>
+
+<p>63. We welcome the UK’s participation in the European Migration Network as an observer. This will strengthen exchanges of information and expertise on migration and asylum among the Network’s 35 members and observers.</p>
+
+<p>64. We welcome the ongoing efforts by the European Union Agency for Asylum and the UK to work towards establishing a Working Arrangement to facilitate cooperation on asylum-related matters, in accordance with their respective mandates and legal frameworks and will pursue the discussions with a view to conclude them swiftly. We also welcome the continued cooperation between the UK and Frontex, in particular on risk analysis, information exchange, training and document fraud.</p>
+
+<p>65. We welcome the UK’s participation in the Khartoum and Rabat processes. This will deepen our cooperation with countries of origin and transit, in particular along the Eastern, Central and Western Mediterranean and Atlantic routes.</p>
+
+<p>66. In an era of increased security threats, cooperation between the EU and the UK is essential to address the shared challenges of irregular migration along the Channel and to prevent dangerous crossings. In this context, we welcome the adoption on 16 June 2026 of the European Commission’s Channel Action Plan, which sets forward a comprehensive framework for EU-level action and cooperation with the UK to tackle irregular migration and the criminal networks facilitating it as well as to strengthen border management.</p>
+
+<p>67. We today commit to working closely together on joint activities under the Action Plan. This should include coordinated action to prevent and combat migrant smuggling and trafficking in human beings, including by disrupting the criminal supply chains underpinning them, addressing the drivers of irregular migration, preventing the misuse of legal migration channels and strengthening cooperation along key migratory routes. It should also enable work through relevant agencies, including Frontex, and more reciprocal information exchanges between interested EU Member States and the United Kingdom. Given the shared nature of these challenges, any new joint activities should be underpinned by a joint commitment, including, where appropriate, financial contributions, reflecting the shared roles and responsibilities for them.</p>
+
+<p>68. Building on the implementation of the Channel Action Plan, the EU and UK will strengthen cooperation on shared migration challenges, taking a strategic, coordinated and whole-of-route approach, including through cooperation in priority third countries. To this end, they will establish a Structured Dialogue on migration covering in particular the joint activities under the Channel Action Plan, action against irregular migration and migrant smuggling networks, strategic communication and border management, upstream cooperation and engagement with third countries, returns to third countries, pull factors for irregular migrants and legal pathways. The Dialogue will also provide a framework for developing new ways to prevent and counter irregular migration, including through the exchange of best practices and operational cooperation, in accordance with national, EU and international law, respecting the respective competences of the Union and its Member States, and be based on mutual benefit and reciprocity.</p>
+
+<h3 id="vi-building-a-closer-more-resilient-partnership">VI. Building a closer, more resilient partnership</h3>
+
+<p>69. Recognising the ties between the EU and the UK, we acknowledge our shared interest in building an even closer partnership. This partnership for economic resilience will be founded on our shared values, openness and democracy. It will be driven by the need to address our economic dependencies by building diversified, resilient supply chains through reciprocal market openness, mutual support and coordination on economic security, and developing a common prosperity and economic security space, with the principles of trust at its core.</p>
+
+<p>70. As an immediate step, we will establish a Dialogue on Economic Security to coordinate our economic security policies. We will cooperate on export controls, on countering technology leakage in critical sectors, on mitigating risks to critical infrastructure, on resilient supply chains, including critical raw materials, tackling vulnerabilities and building on the complementarities of our economies, including early warning for supply disruptions.  The objective of this coordination is to ensure a more effective and efficient response to our common challenges, for example by avoiding the circumvention of the measures we put in place to ensure the resilience of our economies.</p>
+
+<p>71. Through this coordination and as a next step, the EU and the UK commit, on the basis of reciprocity, to strive, wherever possible, to limit negative effects on one another in their measures impacting specific supply chains. Under this partnership, where the EU and the UK agree to cooperate regarding a particular supply chain, the UK would ensure outcomes consistent with the relevant EU measures in order to ensure that the supply chain in question is protected in a consistent way across the EU and UK markets and guard against potential risks of circumvention. We will notably work towards diversified and resilient steel and electric vehicles supply chains, and emerging technologies together. The EU and the UK commit to taking work forward on this partnership as a matter of priority, and to review progress, in particular in these sectors, every four months.</p>
+
+<p>72. We are putting this partnership into action already by providing our steel industries with the necessary protection against negative trade-related effects of overcapacity. We will explore further arrangements for addressing jointly the challenges and trade related negative effects of overcapacity. In light of the unique circumstances on the island of Ireland, recognising the existing solution under the Windsor Framework, a long-term sustainable solution for movement of UK originating steel to Northern Ireland would also be put in place.</p>
+</div>
+
+
+</div></div>
+    </div>
+  </div>
+
+  <div class="govuk-grid-row back-to-top-wrapper">
+    
+<a class="govuk-link gem-c-back-to-top-link govuk-!-display-none-print" href="#contents">
+    <svg class="gem-c-back-to-top-link__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewBox="0 0 13 17" aria-hidden="true" focusable="false">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z" />
+    </svg>
+    Back to top
+</a>
+  </div>
+</div>
+
+    </main>
+  </div>
+  
+
+
+      <div class="govuk-width-container">
+          
+<div data-module="feedback ga4-event-tracker" class="gem-c-feedback govuk-!-display-none-print">
+  
+<div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt" tabindex="-1">
+  <div class="gem-c-feedback__prompt-content">
+    <div class="gem-c-feedback__prompt-questions js-prompt-questions" hidden>
+      <div class="gem-c-feedback__prompt-question-answer">
+        <h2 class="gem-c-feedback__prompt-question">Is this page useful?</h2>
+        <ul class="gem-c-feedback__option-list">
+          <li class="gem-c-feedback__option-list-item govuk-visually-hidden" hidden>
+            <a class="gem-c-feedback__prompt-link" role="button" hidden="hidden" href="/contact/govuk">
+              Maybe
+</a>          </li>
+          <li class="gem-c-feedback__option-list-item">
+            <button class="govuk-button gem-c-feedback__prompt-link js-page-is-useful" data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"Yes","section":"Is this page useful?","tool_name":"Is this page useful?"}'>
+              Yes <span class="govuk-visually-hidden">this page is useful</span>
+</button>          </li>
+          <li class="gem-c-feedback__option-list-item">
+
+            <button class="govuk-button gem-c-feedback__prompt-link js-toggle-form js-page-is-not-useful" aria-controls="page-is-not-useful" data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"No","section":"Is this page useful?","tool_name":"Is this page useful?"}'>
+              No <span class="govuk-visually-hidden">this page is not useful</span>
+</button>          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-success js-prompt-success" role="alert" hidden>
+      Thank you for your feedback
+    </div>
+
+    <div class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-questions--something-is-wrong js-prompt-questions" hidden>
+      <button class="govuk-button gem-c-feedback__prompt-link js-toggle-form js-something-is-wrong" aria-controls="something-is-wrong" data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"Report a problem with this page","section":"Is this page useful?","tool_name":"Is this page useful?"}'>
+        Report a problem with this page
+</button>    </div>
+  </div>
+</div>
+
+  <form action="/contact/govuk/problem_reports"
+  id="something-is-wrong"
+  class="gem-c-feedback__form js-feedback-form"
+  method="post"
+  hidden>
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      <div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-errors" tabindex="-1" hidden></div>
+
+      <input type="hidden" name="url" value="https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html">
+
+      <h2 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h2>
+      <p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Do not include personal or financial information like your National Insurance number or credit card details.</p>
+
+      <div class="govuk-visually-hidden" aria-hidden="true">
+        <label for="giraffe">This field is for robots only. Please leave blank</label>
+        <input id="giraffe" name="giraffe" type="text" pattern=".{0}" tabindex="-1" autocomplete="off">
+      </div>
+
+      <div class="gem-c-textarea govuk-form-group govuk-!-margin-bottom-6">
+    
+  <label for="textarea-b92d4d24" class="gem-c-label govuk-label">What were you doing?</label>
+
+
+
+
+
+  <textarea name="what_doing" class="govuk-textarea" id="textarea-b92d4d24" rows="3" spellcheck="true" aria-describedby="feedback_explanation">
+</textarea>
+     
+</div>
+
+      <div class="gem-c-textarea govuk-form-group govuk-!-margin-bottom-6">
+    
+  <label for="textarea-696a5a70" class="gem-c-label govuk-label">What went wrong?</label>
+
+
+
+
+
+  <textarea name="what_wrong" class="govuk-textarea" id="textarea-696a5a70" rows="3" spellcheck="true">
+</textarea>
+     
+</div>
+
+
+      <div class="gem-c-feedback__button-wrapper">
+        
+
+  <button class="gem-c-button govuk-button govuk-!-margin-bottom-6" type="submit" data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"Send","section":"Help us improve GOV.UK","tool_name":"Help us improve GOV.UK"}'>Send</button>
+
+
+
+        
+
+  <button class="gem-c-button govuk-button gem-c-button--secondary-quiet govuk-!-margin-bottom-0 js-close-form" type="submit" aria-controls="something-is-wrong">Cancel</button>
+
+
+      </div>
+    </div>
+  </div>
+</form>
+
+
+ <script nonce="t23x6yG5HBpe6phEgKYLjw==">
+//<![CDATA[
+  document.addEventListener("DOMContentLoaded", function () {
+    var input = document.querySelector("#giraffe"),
+      form = document.querySelector("#something-is-wrong")
+
+    form.addEventListener("submit", spamCapture);
+
+    function spamCapture(e) {
+      if (input.value.length !== 0) return;
+      e.preventDefault();
+    }
+  });
+
+//]]>
+</script>
+  <div id="page-is-not-useful" class="gem-c-feedback__form gem-c-feedback__form--email gem-c-feedback__js-show js-feedback-form">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds" id="survey-wrapper">
+      <div class="gem-c-feedback__error-summary js-errors" tabindex="-1" hidden></div>
+
+      <h2 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h2>
+      <p id="survey_explanation" class="gem-c-feedback__form-paragraph">
+        To help us improve GOV.UK, we’d like to know more about your visit today.
+        <a href="https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js" class="govuk-link" target="_blank" rel="noopener noreferrer external">Please fill in this survey (opens in a new tab<noscript> and requires JavaScript</noscript>)</a>.
+      </p>
+
+      <div class="gem-c-feedback__close">
+        
+
+  <button class="gem-c-button govuk-button gem-c-button--secondary-quiet govuk-!-margin-bottom-6 js-close-form" type="submit" aria-controls="page-is-not-useful">Cancel</button>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+      </div>
+
+        <footer data-module="ga4-link-tracker" class="gem-c-layout-footer govuk-footer">
+  <div class="govuk-width-container">
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      focusable="false"
+      role="presentation"
+      viewBox="0 0 64 60"
+      height="30"
+      width="32"
+      fill="currentcolor"
+      class="govuk-footer__crown">
+      <g>
+        <circle cx="20" cy="17.6" r="3.7"></circle>
+        <circle cx="10.2" cy="23.5" r="3.7"></circle>
+        <circle cx="3.7" cy="33.2" r="3.7"></circle>
+        <circle cx="31.7" cy="30.6" r="3.7"></circle>
+        <circle cx="43.3" cy="17.6" r="3.7"></circle>
+        <circle cx="53.2" cy="23.5" r="3.7"></circle>
+        <circle cx="59.7" cy="33.2" r="3.7"></circle>
+        <circle cx="31.7" cy="30.6" r="3.7"></circle>
+        <path d="M33.1,9.8c.2-.1.3-.3.5-.5l4.6,2.4v-6.8l-4.6,1.5c-.1-.2-.3-.3-.5-.5l1.9-5.9h-6.7l1.9,5.9c-.2.1-.3.3-.5.5l-4.6-1.5v6.8l4.6-2.4c.1.2.3.3.5.5l-2.6,8c-.9,2.8,1.2,5.7,4.1,5.7h0c3,0,5.1-2.9,4.1-5.7l-2.6-8ZM37,37.9s-3.4,3.8-4.1,6.1c2.2,0,4.2-.5,6.4-2.8l-.7,8.5c-2-2.8-4.4-4.1-5.7-3.8.1,3.1.5,6.7,5.8,7.2,3.7.3,6.7-1.5,7-3.8.4-2.6-2-4.3-3.7-1.6-1.4-4.5,2.4-6.1,4.9-3.2-1.9-4.5-1.8-7.7,2.4-10.9,3,4,2.6,7.3-1.2,11.1,2.4-1.3,6.2,0,4,4.6-1.2-2.8-3.7-2.2-4.2.2-.3,1.7.7,3.7,3,4.2,1.9.3,4.7-.9,7-5.9-1.3,0-2.4.7-3.9,1.7l2.4-8c.6,2.3,1.4,3.7,2.2,4.5.6-1.6.5-2.8,0-5.3l5,1.8c-2.6,3.6-5.2,8.7-7.3,17.5-7.4-1.1-15.7-1.7-24.5-1.7h0c-8.8,0-17.1.6-24.5,1.7-2.1-8.9-4.7-13.9-7.3-17.5l5-1.8c-.5,2.5-.6,3.7,0,5.3.8-.8,1.6-2.3,2.2-4.5l2.4,8c-1.5-1-2.6-1.7-3.9-1.7,2.3,5,5.2,6.2,7,5.9,2.3-.4,3.3-2.4,3-4.2-.5-2.4-3-3.1-4.2-.2-2.2-4.6,1.6-6,4-4.6-3.7-3.7-4.2-7.1-1.2-11.1,4.2,3.2,4.3,6.4,2.4,10.9,2.5-2.8,6.3-1.3,4.9,3.2-1.8-2.7-4.1-1-3.7,1.6.3,2.3,3.3,4.1,7,3.8,5.4-.5,5.7-4.2,5.8-7.2-1.3-.2-3.7,1-5.7,3.8l-.7-8.5c2.2,2.3,4.2,2.7,6.4,2.8-.7-2.3-4.1-6.1-4.1-6.1h10.6,0Z"></path>
+      </g>
+    </svg>
+      <div class="govuk-footer__navigation">
+            <div class="govuk-grid-column-two-thirds govuk-!-display-none-print">
+              <h2 class="govuk-footer__heading govuk-heading-m">Services and information</h2>
+                <ul class="govuk-footer__list govuk-footer__list--columns-2">
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"1","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/benefits">Benefits</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"2","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/births-deaths-marriages">Births, death, marriages and care</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"3","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/business">Business and self-employed</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"4","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/childcare-parenting">Childcare and parenting</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"5","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/citizenship">Citizenship and living in the UK</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"6","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/justice">Crime, justice and the law</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"7","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/disabilities">Disabled people</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"8","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/driving">Driving and transport</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"9","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/education">Education and learning</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"10","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/employing-people">Employing people</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"11","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/environment-countryside">Environment and countryside</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"12","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/housing-local-services">Housing and local services</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"13","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/tax">Money and tax</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"14","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/abroad">Passports, travel and living abroad</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"15","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/visas-immigration">Visas and immigration</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"16","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="/browse/working">Working, jobs and pensions</a>
+                      </li>
+                </ul>
+            </div>
+            <div class="govuk-grid-column-one-third govuk-!-display-none-print">
+              <h2 class="govuk-footer__heading govuk-heading-m">Government activity</h2>
+                <ul class="govuk-footer__list govuk-footer__list--columns-1">
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"1","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="/government/organisations">Departments</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"2","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="/search/news-and-communications">News</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"3","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="/search/guidance-and-regulation">Guidance and regulation</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"4","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="/search/research-and-statistics">Research and statistics</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"5","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="/search/policy-papers-and-consultations">Policy papers and consultations</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"6","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="/search/transparency-and-freedom-of-information-releases">Transparency</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"7","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="/government/how-government-works">How government works</a>
+                      </li>
+                      <li class="govuk-footer__list-item">
+                        <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"8","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="/government/get-involved">Get involved</a>
+                      </li>
+                </ul>
+            </div>
+      </div>
+
+      <hr class="govuk-footer__section-break govuk-!-display-none-print">
+    <div class="govuk-footer__meta">
+      <div class="govuk-footer__meta-item govuk-footer__meta-item--grow">
+          <h2 class="govuk-visually-hidden">Support links</h2>
+          <ul class="govuk-footer__inline-list govuk-!-display-none-print">
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"1","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="/help">Help</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"2","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="/help/privacy-notice">Privacy</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"3","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="/help/cookies">Cookies</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"4","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="/help/accessibility-statement">Accessibility statement</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"5","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="/contact">Contact</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"6","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="/help/terms-conditions">Terms and conditions</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" lang="cy" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"7","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="/cymraeg">Rhestr o Wasanaethau Cymraeg</a>
+              </li>
+              <li class="govuk-footer__inline-list-item">
+                <a class="govuk-footer__link" data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"8","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="/government/organisations/government-digital-service">Government Digital Service</a>
+              </li>
+          </ul>
+          <svg aria-hidden="true" focusable="false" class="govuk-footer__licence-logo" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 483.2 195.7" height="17" width="41">
+            <path
+              fill="currentColor"
+              d="M421.5 142.8V.1l-50.7 32.3v161.1h112.4v-50.7zm-122.3-9.6A47.12 47.12 0 0 1 221 97.8c0-26 21.1-47.1 47.1-47.1 16.7 0 31.4 8.7 39.7 21.8l42.7-27.2A97.63 97.63 0 0 0 268.1 0c-36.5 0-68.3 20.1-85.1 49.7A98 98 0 0 0 97.8 0C43.9 0 0 43.9 0 97.8s43.9 97.8 97.8 97.8c36.5 0 68.3-20.1 85.1-49.7a97.76 97.76 0 0 0 149.6 25.4l19.4 22.2h3v-87.8h-80l24.3 27.5zM97.8 145c-26 0-47.1-21.1-47.1-47.1s21.1-47.1 47.1-47.1 47.2 21 47.2 47S123.8 145 97.8 145" />
+          </svg>
+          <span
+            class="govuk-footer__licence-description"
+            data-ga4-link='{"event_name":"navigation","section":"Licence","index_section":"4","index_link":"1","index_section_count":"5","text":"Open Government Licence v3.0","index_total":"1","type":"footer"}'>
+            All content is available under the <a class="govuk-footer__link" href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated
+          </span>
+      </div>
+      <div
+        class="govuk-footer__meta-item"
+        data-ga4-link='{"event_name":"navigation","section":"Copyright","index_section":"5","index_link":"1","index_section_count":"5","text":"© Crown copyright","index_total":"1","type":"footer"}'>
+        <a class="govuk-footer__link govuk-footer__copyright-logo" href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/">© Crown copyright</a>
+      </div>
+    </div>
+  </div>
+</footer>
+    <script src="/assets/frontend/application-8fe64fc846ff6c349839e73b01a76d3fbc373d266f1f8ef7a9fc749440eed2b0.js" type="module"></script>
+</body></html>

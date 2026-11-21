@@ -1,0 +1,10 @@
+{
+  "sender": "sender@qq.com",
+  "sender_name": "赛博日报",
+  "recipients": ["recipient@example.com"],
+  "smtp_host": "smtp.qq.com",
+  "smtp_port": 465,
+  "security": "ssl",
+  "keychain_service": "cyber-newspaper.smtp.qq.com",
+  "timeout_seconds": 25
+}

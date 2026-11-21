@@ -1,0 +1,968 @@
+{
+  "edition_date": "2026-11-19",
+  "edition_name": "六版扩刊 · 第三样",
+  "writer": "GPT-6（本次会话）",
+  "selection": "LLM在本次会话选题、阅读原文、撰稿；未调用其他撰稿模型，未运行独立审稿agent。",
+  "numeric_inputs": {
+    "art_sale_usd_millions": {
+      "value": 190.4,
+      "evidence": "E16",
+      "extracted_by": "llm"
+    },
+    "art_previous_record_usd_millions": {
+      "value": 117.2,
+      "evidence": "E17",
+      "extracted_by": "llm"
+    }
+  },
+  "evidence": [
+    {
+      "id": "E01",
+      "source": "p_meeting",
+      "quote": "11月19日下午，国家主席习近平在深圳会见",
+      "claim": "中美元首于11月19日下午在深圳会见"
+    },
+    {
+      "id": "E02",
+      "source": "p_russia",
+      "quote": "2026年11月18日，国家主席习近平在深圳会见",
+      "claim": "中俄会见发生于11月18日"
+    },
+    {
+      "id": "E03",
+      "source": "p_russia",
+      "quote": "贸易、能源、教育",
+      "claim": "俄方通稿提到的合作领域"
+    },
+    {
+      "id": "E04",
+      "source": "p_trilateral",
+      "quote": "11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤",
+      "claim": "三方会晤为官方事先宣布的安排，本稿未将其写成已经达成协议"
+    },
+    {
+      "id": "E05",
+      "source": "p_airport",
+      "quote": "深圳宝安国际机场迎接",
+      "claim": "习近平在深圳机场迎接特朗普"
+    },
+    {
+      "id": "E06",
+      "source": "f_fed",
+      "quote": "3-3/4 to 4 percent",
+      "claim": "10月会议维持3.75%至4%目标区间"
+    },
+    {
+      "id": "E07",
+      "source": "f_fed",
+      "quote": "further action to raise the target range",
+      "claim": "纪要反映进一步加息倾向"
+    },
+    {
+      "id": "E08",
+      "source": "f_fed",
+      "quote": "December 8–9, 2026",
+      "claim": "下一次FOMC会议日期"
+    },
+    {
+      "id": "E09",
+      "source": "t_aws",
+      "quote": "by up to 40%",
+      "claim": "AWS报告推理成本最多降低40%，不是本项目实测"
+    },
+    {
+      "id": "E10",
+      "source": "t_aws",
+      "quote": "by up to 80%",
+      "claim": "AWS报告TTFT最多降低80%，不是所有场景的收益"
+    },
+    {
+      "id": "E11",
+      "source": "t_aws",
+      "quote": "through the open-source LMCache connector",
+      "claim": "AWS方案通过LMCache连接器接入推理引擎"
+    },
+    {
+      "id": "E12",
+      "source": "t_offload",
+      "quote": "under a 30 ms TPOT constraint",
+      "claim": "FlashOffloading摘要中的服务约束"
+    },
+    {
+      "id": "E13",
+      "source": "t_offload",
+      "quote": "up to 1.91",
+      "claim": "FlashOffloading摘要中的decode最大吞吐提升"
+    },
+    {
+      "id": "E14",
+      "source": "t_quant",
+      "quote": "all seven tested INT2 grids degenerate on generation",
+      "claim": "Beyond Bitwidth摘要报告的INT2生成退化"
+    },
+    {
+      "id": "E15",
+      "source": "t_quant",
+      "quote": "Final checkpoints were not retained",
+      "claim": "论文摘要说明未保留最终checkpoint"
+    },
+    {
+      "id": "E16",
+      "source": "c_vangogh",
+      "quote": "$190.4m",
+      "claim": "梵高作品成交金额1.904亿美元"
+    },
+    {
+      "id": "E17",
+      "source": "c_vangogh",
+      "quote": "$117.2 million set in 2022",
+      "claim": "此前梵高作品拍卖纪录为2022年的1.172亿美元"
+    },
+    {
+      "id": "E18",
+      "source": "c_vangogh",
+      "quote": "painted in 1890",
+      "claim": "本次拍卖作品作于1890年"
+    },
+    {
+      "id": "E19",
+      "source": "c_vangogh",
+      "quote": "a mutually satisfactory resolution",
+      "claim": "BBC报道两家族就流转争议达成解决方案"
+    },
+    {
+      "id": "E20",
+      "source": "c_lot",
+      "quote": "70 by 58 cm.",
+      "claim": "拍品档案记录尺寸为70×58厘米"
+    },
+    {
+      "id": "E21",
+      "source": "c_lot",
+      "quote": "Executed in Auvers on 24 May 1890.",
+      "claim": "拍品档案记录创作时间地点为1890年5月24日奥维尔"
+    },
+    {
+      "id": "E22",
+      "source": "c_poem",
+      "quote": "明月松間照，清泉石上流。",
+      "claim": "王维《山居秋暝》的原文名句"
+    },
+    {
+      "id": "E23",
+      "source": "f_hkcna",
+      "quote": "全市场超4100只个股下跌",
+      "claim": "11月18日市场宽度，明确与19日分开"
+    },
+    {
+      "id": "E24",
+      "source": "f_hkcna",
+      "quote": "沪深两市成交额1.37万亿",
+      "claim": "11月18日沪深成交额"
+    }
+  ],
+  "pages": [
+    {
+      "id": "politics",
+      "section": "politics",
+      "label": "时政 · 现场",
+      "english": "THE WORLD / NEWS",
+      "kicker": "深圳 · 外交现场与公开文本",
+      "headline": "深圳的三张椅子，\n坐着三本不同的账",
+      "deck": "把官方消息、会谈程序和场外战事放在左页；翻到右页，再拆开大国各自的利益和后续走向。",
+      "block_ids": [
+        "p_record",
+        "p_protocol",
+        "p_text",
+        "p_brief1",
+        "p_brief2",
+        "p_ukraine"
+      ],
+      "blocks": [
+        {
+          "id": "p_record",
+          "title": "先看明面上的事",
+          "kind": "report",
+          "placement": "main",
+          "evidence": [
+            "E01",
+            "E02",
+            "E03",
+            "E04",
+            "E05"
+          ],
+          "paragraphs": [
+            "新华社报道，习近平今天下午在深圳会见特朗普。前一天，习近平在宝安机场迎接特朗普；同日，中俄领导人也在深圳会见。外交部此前已宣布，今天安排中俄美元首会晤。几场活动叠在一起，让深圳成为这轮大国外交的交汇点。",
+            "中俄会见通稿把稳定双边关系、落实合作放在显眼位置。俄方提到贸易、能源、教育等合作领域。这是公开表达的利益清单；中美会见快讯则只确认会见发生，详细成果还要等后续正式文本。"
+          ],
+          "source_ids": [
+            "p_airport",
+            "p_meeting",
+            "p_russia",
+            "p_trilateral"
+          ]
+        },
+        {
+          "id": "p_protocol",
+          "title": "礼宾是一种语言，但合同是另一种",
+          "kind": "analysis",
+          "placement": "main",
+          "evidence": [
+            "E01",
+            "E05"
+          ],
+          "paragraphs": [
+            "机场迎接把重视程度放到了镜头前。这样的画面能改善会谈气氛，也能向国内外解释为什么值得坐下来。读礼宾，读的是双方愿意给这段关系多少政治空间；读成果，才轮到具体政策和执行。两者可以互相帮助，却不能互相代替。",
+            "真正值得翻回去看的，是热烈画面之后的公报。有没有某个议题突然从原则变成了期限？有没有一项原本需要逐次批准的事项，变成了常态机制？这类细节没那么上镜，却能决定企业下一笔订单、人员下一次往来和下一轮摩擦如何处理。"
+          ],
+          "source_ids": [
+            "p_airport",
+            "p_meeting"
+          ]
+        },
+        {
+          "id": "p_text",
+          "title": "把通稿里的动词读一遍",
+          "kind": "analysis",
+          "placement": "main",
+          "paragraphs": [
+            "外交文字很适合先圈动词。讨论，说明议题进入了桌面；同意继续沟通，说明事情还没谈完；决定建立机制，开始涉及执行安排；完成签署，才出现可供核对的文本。动词每往前走一步，政治意愿就多付出一点组织成本。",
+            "再看主语。双方共同承诺，与一方表示希望，分量不同。最后看附件：谁负责、何时开会、如何复核。如果一份报道只把最响亮的形容词摘出来，你读到的多半是气氛。把动词、主语和期限放回去，才能看清进度。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_brief1",
+          "title": "克里米亚大桥再传遇袭",
+          "kind": "report",
+          "placement": "sidebar",
+          "rss_title": "Crimean Bridge attacked again, Russia says",
+          "paragraphs": [
+            "BBC最新快讯引述俄方称，大桥再次遇袭，交通一度暂停。外交会场之外，战场压力仍在延续。"
+          ],
+          "source_ids": [
+            "rss_ecb256426dd1"
+          ]
+        },
+        {
+          "id": "p_brief2",
+          "title": "海牙，另一场重要裁决",
+          "kind": "report",
+          "placement": "sidebar",
+          "rss_title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+          "paragraphs": [
+            "BBC的裁决前报道说，国际法院将就缅甸罗兴亚人相关种族灭绝指控作出裁决。这是今天另一项值得留意的国际议程。"
+          ],
+          "source_ids": [
+            "rss_5a9c64a2d43f"
+          ]
+        },
+        {
+          "id": "p_ukraine",
+          "title": "会场外：乌方称袭击两座炼油厂",
+          "kind": "report",
+          "placement": "sidebar",
+          "rss_title": "乌克兰称袭击俄罗斯两座炼油厂",
+          "paragraphs": [
+            "中新社报道，乌克兰总参谋部表示，乌军于17日至18日袭击俄罗斯克拉斯诺达尔边疆区的两座炼油厂。这里采用的是乌方发布的信息。"
+          ],
+          "source_ids": [
+            "rss_a38af942c1ac"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "politics-depth",
+      "section": "politics",
+      "label": "时政 · 纵深",
+      "english": "THE WORLD / ANALYSIS",
+      "kicker": "大国博弈 · 谈判成本 · 大胆推演",
+      "headline": "同一张合影，\n三种不同的盘算",
+      "deck": "会谈能不能改变局面，取决于各方愿意付出的成本。把目光从握手移到期限、任务和利益交换上。",
+      "block_ids": [
+        "p_accounts",
+        "p_constraints",
+        "p_watch",
+        "p_three_paths",
+        "p_smaller",
+        "p_speculation",
+        "p_gaza",
+        "p_weather"
+      ],
+      "blocks": [
+        {
+          "id": "p_accounts",
+          "title": "三方为什么愿意坐下来",
+          "kind": "analysis",
+          "placement": "main",
+          "evidence": [
+            "E01",
+            "E02",
+            "E03",
+            "E04"
+          ],
+          "paragraphs": [
+            "把三方放到一张桌上，各方都能拿走不同的东西。北京可以证明自己有能力组织对话；华盛顿可以直接试探另外两方的底价；莫斯科则有机会把自己的关切送进最高层议程。愿意见面，首先说明对话有用；至于让步，得另算一笔账。",
+            "对北京最有利的位置，是同时保有两条畅通的双边关系。对华盛顿而言，分别处理两个对手，通常比让两者在同一议题上绑定更省力。对莫斯科而言，稳定的合作伙伴和新的谈判空间都值钱。这三套算盘有交集，也彼此提防。"
+          ],
+          "source_ids": [
+            "p_meeting",
+            "p_russia",
+            "p_trilateral"
+          ]
+        },
+        {
+          "id": "p_constraints",
+          "title": "坐到桌前，也带着各自国内的观众",
+          "kind": "analysis",
+          "placement": "main",
+          "paragraphs": [
+            "谈判并不只发生在三个人之间。领导人还要把结果带回国内，向议会、企业、军方和选民解释。一个能执行的交换，需要让对手也有办法说服自己的支持者。把对方逼到只能公开拒绝的位置，有时会让本来可谈的交易消失。",
+            "这也是很多大国会谈喜欢先从程序入手的原因。恢复联系、成立工作组、安排下一次会面，成本比立即改变核心政策低，却能让双方保留面子。程序看上去温吞，实际作用是给更难的交换铺一条能走的路。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_watch",
+          "title": "别只看笑容，看谁付了成本",
+          "kind": "analysis",
+          "placement": "main",
+          "paragraphs": [
+            "判断会谈分量，可以盯住三个动作：原本卡住的事项有没有期限，哪一方作出了需要国内解释的承诺，执行部门有没有接到具体任务。措辞变暖会降低冲突预期；政策和资源真正挪动，才会改变利益分配。",
+            "如果最后只有一张合影，这场会谈仍可能完成了一项工作：让各方确认，桌子还没掀。它能买来时间，但时间之后各自准备做什么，才是下一轮博弈。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_three_paths",
+          "title": "后续走向：看三个岔路口",
+          "kind": "analysis",
+          "placement": "main",
+          "paragraphs": [
+            "第一条路是技术性缓和：几件可操作的小事先推进，大分歧暂时搁置。它不够传奇，却最容易让企业与人员往来得到实际好处。判断信号是工作层日程变密，具体限制出现可核对的调整。",
+            "第二条路是议题打包：各方把不同领域的让步放到一起，寻找彼此都能接受的组合。这样的交易需要更多执行细节，也更容易因某一环卡住而拖延。第三条路是只有政治展示，政策摩擦照旧。接下来若只有漂亮口号，执行层没有动作，就应把预期往这条路上修。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_smaller",
+          "title": "三张大桌之外，小国最怕什么",
+          "kind": "analysis",
+          "placement": "main",
+          "paragraphs": [
+            "大国关系降温，对周边经济体可能是好事：贸易预期更稳定，企业不必为每次摩擦立刻改一次供应链。但另一种担心也随之而来——自己的利益，会不会在自己不在场的时候被别人打包讨论。",
+            "所以，听到大国协调，既要看它减少了什么冲突，也要看受影响的一方有没有参与后续安排。能把更多国家纳入可执行规则的协调，比三个人都说关系不错，更有可能形成长一点的稳定。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_speculation",
+          "title": "茶水间推演：先把桌子摆好",
+          "kind": "speculation",
+          "placement": "feature",
+          "paragraphs": [
+            "大胆猜一笔：三方最容易谈成的，也许是先别把彼此逼到必须翻脸的位置。北京要稳定的周边与交易空间，华盛顿要可拿回去展示的成果，莫斯科要自己的议题始终留在桌上。眼前先给对方一点余地，换的是下一轮还能讨价还价。神棍版一句话：今天先排座次，明天再报价格。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_gaza",
+          "title": "加沙地面行动再起争议",
+          "kind": "report",
+          "placement": "sidebar",
+          "rss_title": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议",
+          "paragraphs": [
+            "中新社综合报道，以军在加沙中部、黄线以西发动军事行动，哈马斯谴责违反停火协议。谈判与地面行动之间的距离，仍是地区局势的一条风险线。"
+          ],
+          "source_ids": [
+            "rss_8ca305d12520"
+          ]
+        },
+        {
+          "id": "p_weather",
+          "title": "印度东部沿海转移居民避险",
+          "kind": "report",
+          "placement": "sidebar",
+          "rss_title": "强气旋风暴逼近 印度东部沿海逾4.6万人转移避险",
+          "paragraphs": [
+            "中新网引述当地消息称，强气旋风暴逼近印度东部沿海，奥迪沙邦已转移超过4.6万人。大国新闻之外，天气仍在直接改变许多人的今天。"
+          ],
+          "source_ids": [
+            "rss_5ebb755ab9a9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "section": "finance",
+      "label": "财经 · 大盘",
+      "english": "MONEY / MACRO",
+      "kicker": "美联储 · A股港股 · 隔夜美股",
+      "headline": "钱更贵了，\n故事得重新算账",
+      "deck": "美联储纪要偏鹰，市场却不是整齐地涨或跌。把利率、指数与市场宽度接起来，才看得清今天的钱在往哪里走。",
+      "block_ids": [
+        "f_event",
+        "f_transmission",
+        "f_read",
+        "f_breadth",
+        "f_breadth_read",
+        "f_macro_brief",
+        "f_sectors"
+      ],
+      "blocks": [
+        {
+          "id": "f_event",
+          "title": "发生了什么：暂停，不等于转向",
+          "kind": "report",
+          "placement": "main",
+          "evidence": [
+            "E06",
+            "E07",
+            "E08"
+          ],
+          "paragraphs": [
+            "美联储公布的10月会议纪要显示，当次会议维持3.75%—4%的利率目标区间，但几乎所有与会者认为，后续进一步加息可能适当。下一场议息会议安排在12月8日至9日。眼前利率没动，后续政策的方向却仍偏紧。"
+          ],
+          "source_ids": [
+            "f_fed"
+          ]
+        },
+        {
+          "id": "f_transmission",
+          "title": "利率怎样传到股票价格上",
+          "kind": "analysis",
+          "placement": "main",
+          "evidence": [
+            "E07"
+          ],
+          "paragraphs": [
+            "第一段传导发生在估值里。投资者手上如果有收益更高的低风险选择，就会要求股票给出更高的预期回报。价格不动而盈利预期也不动，这笔账就难成立。越依赖很远未来利润的公司，对这次重算通常越敏感。",
+            "第二段发生在企业自己身上。借新钱、续旧债、建设数据中心，资金成本都会进入经营决策。但现金充足、眼前就能产生利润的企业，与靠持续融资支撑扩张的企业，承受力不同。这也是为什么同一条鹰派消息落地，板块内部还会继续分化。"
+          ],
+          "source_ids": [
+            "f_fed"
+          ]
+        },
+        {
+          "id": "f_read",
+          "title": "对股价意味着什么",
+          "kind": "analysis",
+          "placement": "main",
+          "evidence": [
+            "E07"
+          ],
+          "paragraphs": [
+            "股票价格里，一头是企业能赚多少钱，一头是投资者愿意为未来的利润付多少倍。资金价格上去，第二头就更难抬。最怕这种环境的，是眼前利润薄、增长承诺远、又需要持续融资的公司。好业绩能支撑第一头，却未必挡得住估值那头往下压。",
+            "因此，看到一家AI公司交出好数字，先别急着把它翻译成股价该涨。市场还会问：原来的价格已经押了多少增长？这些增长需要多少资本投入？如果资金继续变贵，谁替扩张买单？"
+          ],
+          "source_ids": [
+            "f_fed"
+          ]
+        },
+        {
+          "id": "f_breadth",
+          "title": "A股收盘：指数分化，个股更冷",
+          "kind": "report",
+          "placement": "main",
+          "rss_title": "A股收评：超4800只个股飘绿，三大指数集体收跌",
+          "paragraphs": [
+            "中新网收评称，19日全市场超过4800只个股下跌，三大指数集体收低，科创50上涨。板块方面，电脑硬件、贵金属、文化传媒走弱，半导体、摩托车和酒类飘红。涨的方向并不等于市场整体都好做。"
+          ],
+          "source_ids": [
+            "rss_91854a92b6c9"
+          ]
+        },
+        {
+          "id": "f_breadth_read",
+          "title": "手里的股票，为何总跟指数不一样",
+          "kind": "analysis",
+          "placement": "main",
+          "evidence": [
+            "E23",
+            "E24"
+          ],
+          "paragraphs": [
+            "18日的市场已经出现过类似落差：香港新闻网记录，沪深成交约1.37万亿元，指数小涨，全市场仍有超过4100只股票下跌。这是前一交易日的背景。今天收评里的下跌家数更多，意味着读盘还得多看一层市场宽度。",
+            "市值加权指数可能被少数权重股托住，你持有的股票却分布在另一些地方。看指数，是看一只篮子的总价；看上涨家数、成交与领涨持续性，才更接近大多数持仓的体感。拿一个指数的红色，给整个账户的风险打包盖章，容易漏掉这层差别。"
+          ],
+          "source_ids": [
+            "f_hkcna"
+          ]
+        },
+        {
+          "id": "f_macro_brief",
+          "title": "消费数据短读",
+          "kind": "report",
+          "placement": "sidebar",
+          "rss_title": "商务部：1—10月社会消费商品和服务零售总额同比增长2.5%",
+          "paragraphs": [
+            "中新网引述商务部数据，1—10月社会消费商品和服务零售总额同比增长2.5%。这组宏观口径可以提供消费背景；落到个股，还需对照品类、价格带和企业自己的经营数字。"
+          ],
+          "source_ids": [
+            "rss_15da897db9d5"
+          ]
+        },
+        {
+          "id": "f_sectors",
+          "title": "A股：同叫科技，走势不是一回事",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "quote_codes": [
+            "sh000688",
+            "sz399006",
+            "sh512480",
+            "sh512800",
+            "sh512660",
+            "sh512170"
+          ],
+          "paragraphs": [
+            "科创50相对创业板指领先 {{a_gap}} 个百分点，半导体ETF也强于军工、医疗ETF。今天更像结构分化：拿一个大盘涨跌，解释不了每个行业。侧栏ETF只是对应方向的样本，不是全行业涨跌排名。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-stocks",
+      "section": "finance",
+      "label": "财经 · 个股",
+      "english": "MONEY / WATCHLIST",
+      "kicker": "观察名单 · 经营逻辑 · 交易前的判断",
+      "headline": "股价已经动了，\n你的理由变了吗？",
+      "deck": "把英伟达、微软、谷歌、腾讯和阿里拆开读。价格是一张表，经营是另一张表；两张表对起来，才开始接近决策。",
+      "block_ids": [
+        "f_nvda",
+        "f_company_tencent",
+        "f_company_read",
+        "f_relative",
+        "f_action",
+        "f_checklist",
+        "f_watchlist"
+      ],
+      "blocks": [
+        {
+          "id": "f_nvda",
+          "title": "英伟达：别拿纳指的红，替它解释绿",
+          "kind": "analysis",
+          "placement": "main",
+          "quote_codes": [
+            "usNVDA",
+            "us.IXIC"
+          ],
+          "paragraphs": [
+            "英伟达相对纳指的单日表现落后 {{nvda_gap}} 个百分点。先把公司自身压力与行业共同压力分开：如果指数回暖而它仍弱，就要继续找公司层面的解释，尤其是盈利预期和估值有没有重新配对。别让一句AI板块调整，把个股的差别带过去。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        },
+        {
+          "id": "f_company_tencent",
+          "title": "腾讯：算力扩张，先看现金流怎么走",
+          "kind": "report",
+          "placement": "main",
+          "rss_title": "Tencent says US chip curbs ‘unfortunate’ and may slow AI training in short run",
+          "paragraphs": [
+            "SCMP昨日报道，腾讯第三季度资本开支大幅增加，AI基础设施投入拖累利润与自由现金流；报道也提到芯片限制可能在短期影响训练。这条公司消息与今日港股表现放在一起看，提供了比科技股普跌更具体的观察入口。"
+          ],
+          "source_ids": [
+            "rss_b1eacb0f2acb"
+          ]
+        },
+        {
+          "id": "f_company_read",
+          "title": "AI投入不是只问花了多少",
+          "kind": "analysis",
+          "placement": "main",
+          "paragraphs": [
+            "扩张期的公司可能同时出现收入增长和自由现金流承压。你要判断的是，新增投入在修一条更好的路，还是把旧问题铺得更大。短期利润被压住，本身还不足以下结论；关键是新投入能否在之后的产品、收入和单位成本里找到回声。",
+            "对腾讯、阿里这类平台，可以把观察顺序固定下来：先看主业有没有提供稳定现金，再看AI业务的收入或使用量，最后看新增资本开支与回报之间隔了多久。如果只见支出不断抬升，兑现线索却越来越模糊，就该提高自己要求的安全余量。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "f_relative",
+          "title": "同是科技股，先跟对参照物",
+          "kind": "analysis",
+          "placement": "main",
+          "quote_codes": [
+            "usNVDA",
+            "usMSFT",
+            "usGOOGL",
+            "hk09988",
+            "hk00700"
+          ],
+          "paragraphs": [
+            "英伟达面对的是算力采购、供给与客户回报的链条；微软、谷歌还要同时处理云业务、软件或广告现金流；港股平台又处在不同的交易环境里。五个名字都能放进AI概念，五张利润表却不能合成一张。",
+            "做相对比较时，先选同一个时段、同一个市场的参照，再问具体业务。若公司跌、同业涨，值得找公司层面的新信息；若公司和板块同跌，就继续看它是更抗跌还是更脆弱。跨市场的每日涨跌可以放在一页读，但不要当成同一场比赛的即时名次。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        },
+        {
+          "id": "f_action",
+          "title": "对你的指导：把机会拆成两张清单",
+          "kind": "analysis",
+          "placement": "main",
+          "paragraphs": [
+            "持仓清单先查融资需求和兑现能力：手上现金够不够，订单能不能变成回款，投入增加后利润率有没有跟上。股价跌了，经营没变，可以重新算价格；经营也变了，就该重新算理由。",
+            "观察清单则分开处理。事件驱动看消息落地后能否站住；长期配置看盈利与估值能否同时讲通。只因一场会谈、一份纪要就把整仓押向一个方向，等于让一个标题替你做资产配置。今天更适合筛公司，而不是给所有科技股贴同一个标签。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "f_checklist",
+          "title": "下一次交易前，写下这三句话",
+          "kind": "analysis",
+          "placement": "feature",
+          "paragraphs": [
+            "我买的是什么变化？我预计这个变化要多久才能兑现？出现什么新事实，我会承认自己看错？把这三句写清楚，新闻才容易变成决策依据。否则，涨的时候你会说长期看好，跌的时候又只剩希望它反弹。",
+            "今天这份报纸能帮你把观察对象分开：宏观是否继续收紧，A股强势是否只集中在少数方向，AI公司投入是否开始兑现。下一步的动作，取决于你原来押的是哪一条，而不是哪条标题最响。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "f_watchlist",
+          "title": "观察名单怎么读",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "quote_codes": [
+            "usNVDA",
+            "usMSFT",
+            "usGOOGL",
+            "hk09988",
+            "hk00700"
+          ],
+          "paragraphs": [
+            "微软、谷歌与英伟达隔夜分化，腾讯和阿里的港股报价也明显走弱。观察顺序可以固定：先读公司消息，再看同业，最后看市场。这样，下一次价格突然动起来，你才知道自己要翻哪一页资料。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "section": "technology",
+      "label": "科技",
+      "english": "SYSTEMS & IDEAS",
+      "kicker": "AI动态 · 推理系统 · 论文与代码雷达",
+      "headline": "模型读过的东西，\n为什么还要再算一遍？",
+      "deck": "KV缓存、推理成本和框架更新放到一起读。既看圈内新闻，也看哪些机制值得进入你下一轮实验。",
+      "block_ids": [
+        "t_event",
+        "t_mechanism",
+        "t_practice",
+        "t_paper1",
+        "t_paper2",
+        "t_release",
+        "t_industry",
+        "t_subsidy",
+        "t_industry_read"
+      ],
+      "blocks": [
+        {
+          "id": "t_event",
+          "title": "新消息：给GPU集群配一本公共笔记",
+          "kind": "report",
+          "placement": "main",
+          "evidence": [
+            "E09",
+            "E10",
+            "E11"
+          ],
+          "paragraphs": [
+            "AWS于11月18日宣布，ElastiCache for Valkey的分布式KV缓存能力正式可用，通过LMCache连接器接入vLLM等引擎。AWS给出的最高收益是推理成本降低40%、首token等待时间降低80%；这是厂商在其测试场景里的报告值。"
+          ],
+          "source_ids": [
+            "t_aws"
+          ]
+        },
+        {
+          "id": "t_mechanism",
+          "title": "省掉的到底是什么",
+          "kind": "analysis",
+          "placement": "main",
+          "evidence": [
+            "E11"
+          ],
+          "paragraphs": [
+            "一个编码agent反复处理同一份代码库，前缀里有工具定义、系统指令和刚读过的大段文件。请求落到另一台机器，已有的计算结果如果拿不到，就得重算。共享KV缓存让机器先找笔记，再决定要不要从头读。",
+            "值不值得做，取决于一笔很朴素的账：把缓存搬过来，比重新计算便宜多少。前缀复用率、网络传输和缓存容量会一起决定答案。短输入、长输出的任务，与长输入反复复用的agent任务，收益不会一样。"
+          ],
+          "source_ids": [
+            "t_aws"
+          ]
+        },
+        {
+          "id": "t_practice",
+          "title": "对推理优化工作，值得拿走的思路",
+          "kind": "analysis",
+          "placement": "main",
+          "paragraphs": [
+            "做实验时，把冷缓存、同机命中、跨机命中分开测。吞吐提高之后，再看首token和逐token时延有没有守住约束。若请求本来就几乎不复用，优化缓存命中率就可能选错了问题。",
+            "这条线和底层kernel优化可以并行：一条减少每次计算的成本，一条减少需要发生的计算。换平台时，机制值得借鉴；带宽、算子支持和调度代价则需要重测。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "t_paper1",
+          "title": "FlashOffloading：把容量换成吞吐，要先过时延这一关",
+          "kind": "report",
+          "placement": "paper",
+          "evidence": [
+            "E12",
+            "E13"
+          ],
+          "paragraphs": [
+            "11月5日论文回看。摘要报告：在Ascend 910C、GLM-5.2、MTP3、PD分离环境下，将KV缓存卸载到主机DRAM，并优化缓存和计算／搬运重叠；在TPOT 30 ms约束下，decode吞吐最高达到基线的1.91倍。"
+          ],
+          "source_ids": [
+            "t_offload"
+          ]
+        },
+        {
+          "id": "t_paper2",
+          "title": "Beyond Bitwidth：低到2bit，也可能低到不能用",
+          "kind": "report",
+          "placement": "paper",
+          "evidence": [
+            "E14",
+            "E15"
+          ],
+          "paragraphs": [
+            "11月16日新论文。研究对象是B200上的Qwen3-8B与vLLM，摘要称测试的七组INT2方案均出现生成退化；混合精度配置通过作者设定的最终质量门槛。论文也写明未保留最终checkpoint，逐比特重建复现尚未验证。"
+          ],
+          "source_ids": [
+            "t_quant"
+          ]
+        },
+        {
+          "id": "t_release",
+          "title": "代码雷达：vLLM Ascend 0.32.0rc1",
+          "kind": "report",
+          "placement": "paper",
+          "rss_title": "v0.32.0rc1",
+          "rss_source": "vllm_ascend_releases",
+          "paragraphs": [
+            "11月10日发布记录回看。项目官方Release Feed列出v0.32.0首个候选版，对齐上游vLLM 0.32.0，并增加模型支持和推理优化。关注框架更新时，把发布日期、版本线和具体模型一起记下来，再决定是否值得迁移。"
+          ],
+          "source_ids": [
+            "rss_c717b9808100"
+          ]
+        },
+        {
+          "id": "t_industry",
+          "title": "圈内快讯：Anthropic走到上市门口",
+          "kind": "report",
+          "placement": "sidebar",
+          "rss_title": "Anthropic raises $81bn in record IPO",
+          "paragraphs": [
+            "FT今日公开标题和摘要称，Anthropic此次IPO募资约810亿美元，估值约1.5万亿美元，计划周四开始交易。模型公司的资本故事，又到了一个新的关口。"
+          ],
+          "source_ids": [
+            "rss_136cb5f577db"
+          ]
+        },
+        {
+          "id": "t_subsidy",
+          "title": "国内短讯：辽宁推出算力券",
+          "kind": "report",
+          "placement": "sidebar",
+          "rss_title": "辽宁省算力券政策正式落地实施",
+          "paragraphs": [
+            "中新网报道，辽宁财政与数据部门推出算力券补贴，目标是降低市场主体使用算力的成本。看这类政策，可以进一步追到账单端：谁有资格领、补贴哪类任务、能否形成持续使用。"
+          ],
+          "source_ids": [
+            "rss_c001576464ae"
+          ]
+        },
+        {
+          "id": "t_industry_read",
+          "title": "技术编辑的一个问题",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "paragraphs": [
+            "模型公司进入公开市场后，收入增长和算力账单会被更频繁地放到一起看。推理优化的价值，也会更容易被翻译成经营问题：同样一份收入，要烧掉多少计算资源？"
+          ],
+          "source_ids": []
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "section": "culture",
+      "label": "艺文",
+      "english": "ARTS & LETTERS",
+      "kicker": "每日一幅 · 一诗短读 · 一点哲思",
+      "headline": "先把价格放下，\n看一会儿这棵树",
+      "deck": "今天看梵高《盛开的栗树》，再读王维《山居秋暝》。一页纸，从市场的喧闹里借回一点观看的时间。",
+      "block_ids": [
+        "c_look",
+        "c_brush",
+        "c_context",
+        "c_poetry_read",
+        "c_event",
+        "c_history",
+        "c_question"
+      ],
+      "blocks": [
+        {
+          "id": "c_look",
+          "title": "先看路，再看树，最后看见人",
+          "kind": "analysis",
+          "placement": "main",
+          "paragraphs": [
+            "先把成交价从脑子里拿开。画的下半部是一条浅色道路，从眼前斜向左侧收进去；右边的栗树几乎占满画面，树冠不是轻轻飘着，而是一团团向外伸展。道路把你带进画里，树木把你的目光向上托。",
+            "再找人物。路边的人很小，在庞大的树冠下近乎只是几笔颜色。他们没有把生活演给观众看，只是从这里走过。画面因此有一个有趣的比例：树木像主角，人的日常像一段不停下来的低声伴奏。"
+          ],
+          "source_ids": [
+            "c_lot"
+          ]
+        },
+        {
+          "id": "c_brush",
+          "title": "它没有把每片叶子画清楚，却让你觉得风在动",
+          "kind": "analysis",
+          "placement": "main",
+          "paragraphs": [
+            "树叶由短促、厚重的笔触挤在一起，黄、绿与深色相互穿插。你靠近看，会先见到颜料的方向；退远一点，这些方向又汇成枝叶的起伏。画家给你的不是一张叶片标本表，而是一种正在生长的感觉。",
+            "上方的深蓝把亮色树冠推向前面，下方浅色路面又让眼睛有地方歇一歇。如果整幅画都同样热闹，热闹就会变成噪音。这幅画的劲，在于它一边堆叠，一边留出通道：颜色可以拥挤，目光仍然走得过去。"
+          ],
+          "source_ids": [
+            "c_lot"
+          ]
+        },
+        {
+          "id": "c_context",
+          "title": "一张70×58厘米的画，装下了多少东西",
+          "kind": "report",
+          "placement": "main",
+          "evidence": [
+            "E20",
+            "E21"
+          ],
+          "paragraphs": [
+            "苏富比拍品档案将它记录为布面油画，尺寸70×58厘米，创作于1890年5月24日的奥维尔。知道这两个信息，再看密集的树冠和路上那些小人物，会发现眼前是一张并不巨大的画布，却塞进了强烈的空间与运动。"
+          ],
+          "source_ids": [
+            "c_lot"
+          ]
+        },
+        {
+          "id": "c_poetry_read",
+          "title": "王维的安静，也有声音和人",
+          "kind": "analysis",
+          "placement": "main",
+          "evidence": [
+            "E22"
+          ],
+          "paragraphs": [
+            "这首诗最有意思的地方，是空山并不空。先有雨后与晚秋，再有月光、清泉；接着竹林传来声音，莲叶移动，人才被读者慢慢发现。王维没有宣布此地很安静，而是安排几个细小的动静，让你自己感觉到安静。",
+            "把它与这幅栗树放在一起读，形式上相隔很远，目光走过的路径却有相似处：先被自然包围，再在自然里遇见人。一个用笔触把气息推到眼前，一个用次序把注意力一点点安顿下来。午休时读，正好。"
+          ],
+          "source_ids": [
+            "c_poem"
+          ]
+        },
+        {
+          "id": "c_event",
+          "title": "花开在1890年，槌落在今天的新闻里",
+          "kind": "report",
+          "placement": "sidebar",
+          "evidence": [
+            "E16",
+            "E17",
+            "E18"
+          ],
+          "paragraphs": [
+            "BBC报道，苏富比在纽约以1.904亿美元售出梵高《盛开的栗树》，刷新他此前于2022年创下的1.172亿美元拍卖纪录。这幅画作于1890年，也就是梵高生命最后一段时期。买家身份在报道发出时尚未明确。"
+          ],
+          "source_ids": [
+            "c_vangogh"
+          ]
+        },
+        {
+          "id": "c_history",
+          "title": "落槌之前，先过历史这一关",
+          "kind": "report",
+          "placement": "sidebar",
+          "evidence": [
+            "E19"
+          ],
+          "paragraphs": [
+            "拍卖前，这幅画曾因纳粹时期的流转历史引发争议。BBC报道，现藏家与原德国藏家Fischer家族的继承人在拍卖前达成解决方案。解决了交易背后的权属争议，拍卖才继续进行。"
+          ],
+          "source_ids": [
+            "c_vangogh"
+          ]
+        },
+        {
+          "id": "c_question",
+          "title": "今日留白：知道它很贵，会改变你怎么观看吗",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "paragraphs": [
+            "如果先看画，再看价格，你可能留意颜色、人物和路的方向。若先看价格，再看画，你会本能地寻找它凭什么这么贵。两种观看都真实。今天可以试一个小动作：把题名和价格遮住，先给自己三十秒，再决定最想停在哪个地方。"
+          ],
+          "source_ids": []
+        }
+      ]
+    }
+  ],
+  "spreads": [
+    {
+      "label": "时政",
+      "pages": [
+        "politics",
+        "politics-depth"
+      ]
+    },
+    {
+      "label": "财经",
+      "pages": [
+        "finance",
+        "finance-stocks"
+      ]
+    },
+    {
+      "label": "科技",
+      "pages": [
+        "technology"
+      ]
+    },
+    {
+      "label": "艺文",
+      "pages": [
+        "culture"
+      ]
+    }
+  ],
+  "poem": {
+    "title": "山居秋暝",
+    "author": "王维 · 唐",
+    "source": "c_poem",
+    "lines": [
+      "空山新雨後，天氣晚來秋。",
+      "明月松間照，清泉石上流。",
+      "竹喧歸浣女，蓮動下漁舟。",
+      "隨意春芳歇，王孫自可留。"
+    ],
+    "rights": "古典公版原文；采用维基文库所列文本"
+  },
+  "artwork": {
+    "path": "raw/vangogh.jpg",
+    "source": "c_lot",
+    "title": "盛开的栗树 / Châtaigniers en fleurs",
+    "artist": "Vincent van Gogh",
+    "year": "1890",
+    "caption": "梵高《盛开的栗树》，布面油画，70×58厘米。图片来自苏富比拍品档案，完整呈现，未作AI重绘。",
+    "url": "https://sothebys-md.brightspotcdn.com/dims4/default/c22bbdb/2147483647/strip/false/crop/7093x8593%2B0%2B0/resize/1024x1241%21/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fda%2F7f%2F389287e24b4690f0b14d2f0dec01%2Fn12368-9r749-t1-rx02-v2-a.jpg"
+  }
+}

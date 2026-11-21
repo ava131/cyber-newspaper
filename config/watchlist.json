@@ -1,0 +1,11 @@
+{
+  "status": "demo_not_user_holdings",
+  "description": "样报演示名单，不代表用户持仓；确认后替换。",
+  "stocks": [
+    {"code": "usNVDA", "label": "英伟达", "symbol": "NVDA"},
+    {"code": "usMSFT", "label": "微软", "symbol": "MSFT"},
+    {"code": "usGOOGL", "label": "谷歌", "symbol": "GOOGL"},
+    {"code": "hk09988", "label": "阿里巴巴", "symbol": "9988.HK"},
+    {"code": "hk00700", "label": "腾讯", "symbol": "0700.HK"}
+  ]
+}

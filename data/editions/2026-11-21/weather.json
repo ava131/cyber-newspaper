@@ -1,0 +1,66 @@
+{
+  "location": "吴江 · 汾湖",
+  "point_label": "汾湖（黎里）预报点",
+  "latitude": 31.04038,
+  "longitude": 120.845,
+  "forecast_grid": {
+    "latitude": 31.036905,
+    "longitude": 120.854095
+  },
+  "timezone": "Asia/Shanghai",
+  "provider": "Open-Meteo",
+  "source_id": "weather_fenhu",
+  "url": "https://api.open-meteo.com/v1/forecast?latitude=31.04038&longitude=120.845&timezone=Asia%2FShanghai&current=temperature_2m%2Capparent_temperature%2Cweather_code%2Cwind_speed_10m%2Cwind_direction_10m&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cwind_speed_10m_max%2Csunrise%2Csunset&start_date=2026-11-21&end_date=2026-11-23",
+  "fetched_at": "2026-11-21T14:23:37.038932+08:00",
+  "current": {
+    "time": "2026-11-21T14:15",
+    "temperature": 13.7,
+    "feels_like": 10.0,
+    "condition": "晴",
+    "weather_code": 0,
+    "wind_kmh": 9.4,
+    "wind_direction": "西北"
+  },
+  "forecast": [
+    {
+      "date": "2026-11-21",
+      "condition": "晴",
+      "weather_code": 0,
+      "low": 6.2,
+      "high": 13.8,
+      "rain_probability": 0,
+      "max_wind_kmh": 11.1,
+      "sunrise": "2026-11-21T06:28",
+      "sunset": "2026-11-21T16:56"
+    },
+    {
+      "date": "2026-11-22",
+      "condition": "阴",
+      "weather_code": 3,
+      "low": 6.5,
+      "high": 16.0,
+      "rain_probability": 0,
+      "max_wind_kmh": 17.5,
+      "sunrise": "2026-11-22T06:29",
+      "sunset": "2026-11-22T16:55"
+    },
+    {
+      "date": "2026-11-23",
+      "condition": "毛毛雨",
+      "weather_code": 53,
+      "low": 9.1,
+      "high": 17.1,
+      "rain_probability": 28,
+      "max_wind_kmh": 16.1,
+      "sunrise": "2026-11-23T06:29",
+      "sunset": "2026-11-23T16:55"
+    }
+  ],
+  "tip": "早晚添衣",
+  "tip_origin": "deterministic_rules",
+  "units": {
+    "temperature": "°C",
+    "wind": "km/h",
+    "rain_probability": "%"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {"id":"p_eu","name":"欧洲理事会：11月20日英欧峰会成果","url":"https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/20/"},
+  {"id":"p_joint","name":"欧盟对外行动署：英欧联合声明","url":"https://www.eeas.europa.eu/delegations/united-kingdom/eu-united-kingdom-summit-20-november-2026-joint-statement_en"},
+  {"id":"p_uk","name":"英国政府：英欧峰会成果文件","url":"https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents"},
+  {"id":"p_us","name":"新华社／人民网：特朗普会后表态","url":"https://world.people.com.cn/n1/2026/1121/c1002-40837945.html"},
+  {"id":"f_nasdaq","name":"纳斯达克：11月20日市场图解","url":"https://www.nasdaq.com/economic-institute/chartstopper-112026"},
+  {"id":"f_nvidia","name":"NVIDIA：2027财年第三季度业绩（背景）","url":"https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"},
+  {"id":"t_tide","name":"arXiv：TideCache","url":"https://arxiv.org/abs/2611.26619"},
+  {"id":"t_morph","name":"arXiv：FlashMorph2","url":"https://arxiv.org/abs/2611.24809"},
+  {"id":"t_harness","name":"Hugging Face：Harness Adapters","url":"https://huggingface.co/blog/harness-adapters-at-scale"},
+  {"id":"t_duplex","name":"Google Research：Duplex与Gemini商家电话","url":"https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/"},
+  {"id":"c_art","name":"大都会艺术博物馆：睡莲池上的桥","url":"https://www.metmuseum.org/art/collection/search/437127"},
+  {"id":"c_poem","name":"维基文库：朱熹《观书有感》","url":"https://zh.wikisource.org/wiki/%E8%A7%80%E6%9B%B8%E6%9C%89%E6%84%9F"}
+]

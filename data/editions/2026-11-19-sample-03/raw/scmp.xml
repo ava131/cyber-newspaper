@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<rss version="2.0" xml:base="link" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:media="http://www.rssboard.org/media-rss" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <channel>
+    <title>News - South China Morning Post</title>
+    <link>https://www.scmp.com/rss/91/feed</link>
+    <description>All the latest breaking news from Hong Kong, China and around the world</description>
+    <language>en</language>
+    <image>
+      <url>https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png</url>
+      <title>News - South China Morning Post</title>
+      <link>https://www.scmp.com</link>
+    </image>
+    <atom:link href="https://www.scmp.com/rss/91/feed" rel="self" type="application/rss+xml"/>
+    <item>
+      <author>Brian Rhoads,Neil Denslow</author>
+      <dc:creator>Brian Rhoads,Neil Denslow</dc:creator>
+      <description>President Xi Jinping highlighted the “pioneering significance” of the first trilateral meeting between the leaders of China, the United States and Russia, as Donald Trump pushed for talks on nuclear weapons.
+“When major countries live in harmony, the world enjoys peace,” Xi said at the start of the meeting in Shenzhen. “When major countries clash, the world falls into chaos.”
+Trump said that the three nations are “uniquely positioned to discuss how to reduce the number of nuclear weapons on...</description>
+      <guid isPermaLink="true">https://www.scmp.com/plus/economy/china-economy/article/3375070/xi-trump-putin-trilateral-breaks-historic-ground</guid>
+      <link>https://www.scmp.com/plus/economy/china-economy/article/3375070/xi-trump-putin-trilateral-breaks-historic-ground</link>
+      <pubDate>Thu, 19 Nov 2026 09:22:16 +0000</pubDate>
+      <title>Xi-Trump-Putin trilateral breaks historic ground</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/4d4ffd0b-bdf2-4a7b-9034-d441d4f898b2_4b63c507.jpg?itok=KAiG6lQB&amp;v=1795080133"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/4d4ffd0b-bdf2-4a7b-9034-d441d4f898b2_4b63c507.jpg?itok=KAiG6lQB&amp;v=1795080133" width="4095"/>
+    </item>
+    <item>
+      <author>William Zheng</author>
+      <dc:creator>William Zheng</dc:creator>
+      <description>In high-stakes summitry, seating charts and delegation rosters often speak louder than boilerplate communiques.
+And, as the unprecedented China-US-Russia trilateral meeting unfolds in Shenzhen, the strategic agendas of the three powers can be discerned by the security and economic tsars, top diplomatic strategists and influential technocrats flanking the three leaders.
+Chinese President Xi Jinping and his counterparts Donald Trump and Vladimir Putin met on the sidelines of the Asia-Pacific...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3375069/whos-who-shenzhen-priorities-revealed-xi-trump-putin-summit-rosters</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3375069/whos-who-shenzhen-priorities-revealed-xi-trump-putin-summit-rosters</link>
+      <pubDate>Thu, 19 Nov 2026 09:21:05 +0000</pubDate>
+      <title>Who’s who in Shenzhen: the priorities revealed by Xi-Trump-Putin summit rosters</title>
+      <enclosure length="2534" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/6512db23-d7c4-4569-bcef-0ef61a191172_dff38ea6.jpg?itok=odM-pc9S&amp;v=1795080060"/>
+      <media:content height="1689" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/6512db23-d7c4-4569-bcef-0ef61a191172_dff38ea6.jpg?itok=odM-pc9S&amp;v=1795080060" width="2534"/>
+    </item>
+    <item>
+      <author>Park Chan-kyong</author>
+      <dc:creator>Park Chan-kyong</dc:creator>
+      <description>Students in South Korea worry about wearing thick-rimmed glasses, while others have had buttons on their clothes checked, as the country staged its annual college entrance examination on Thursday under unprecedented security measures to curb cheating through hidden cameras.
+The crackdown, implemented after a series of high-profile AI-assisted cheating scandals, has raised questions about whether the government is protecting the integrity of the country’s most important examination or scrambling...</description>
+      <guid isPermaLink="true">https://www.scmp.com/week-asia/lifestyle-culture/article/3375067/glasses-buttons-south-koreas-anti-cheating-exam-checks-raise-eyebrows</guid>
+      <link>https://www.scmp.com/week-asia/lifestyle-culture/article/3375067/glasses-buttons-south-koreas-anti-cheating-exam-checks-raise-eyebrows</link>
+      <pubDate>Thu, 19 Nov 2026 09:03:28 +0000</pubDate>
+      <title>From glasses to buttons, South Korea’s anti-cheating exam checks raise eyebrows</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/37fff9cb-c359-478d-a386-df1a19248406_824a3935.jpg?itok=y6UwEm6B&amp;v=1795079007"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/37fff9cb-c359-478d-a386-df1a19248406_824a3935.jpg?itok=y6UwEm6B&amp;v=1795079007" width="4095"/>
+    </item>
+    <item>
+      <author>Phoebe Zhang</author>
+      <dc:creator>Phoebe Zhang</dc:creator>
+      <description>Shenzhen residents may have been kept at a distance from the Asia-Pacific Economic Cooperation (Apec) summit their city hosted, but some had the opportunity to encounter dignitaries who made time to explore the Chinese metropolis.
+Social media users posted on Wednesday that they saw Chilean President Jose Antonio Kast at a shop for Pagoda, a leading Chinese fruit chain retailer, discussing business deals with local fruit importers.
+Pagoda opened its first store in 2002 and has risen to become...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3375063/while-locals-lie-low-visiting-apec-leaders-explore-shenzhens-streets-and-shops</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3375063/while-locals-lie-low-visiting-apec-leaders-explore-shenzhens-streets-and-shops</link>
+      <pubDate>Thu, 19 Nov 2026 08:56:32 +0000</pubDate>
+      <title>While locals lie low, visiting Apec leaders explore Shenzhen’s streets and shops</title>
+      <enclosure length="2880" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/10c828df-2ca7-42ed-a0e2-a6e3f2dab655_283128e3.jpg?itok=ll3u6aXr&amp;v=1795078583"/>
+      <media:content height="2304" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/10c828df-2ca7-42ed-a0e2-a6e3f2dab655_283128e3.jpg?itok=ll3u6aXr&amp;v=1795078583" width="2880"/>
+    </item>
+    <item>
+      <author>SCMP’s Asia desk</author>
+      <dc:creator>SCMP’s Asia desk</dc:creator>
+      <description>Elon Musk may be developing one or two islands in the Philippines, according to the country’s ambassador to the United States, who said the world’s richest man was “very interested” in the Southeast Asian nation.
+Jose Manuel Romualdez said on Thursday that he had been told Musk was developing the islands, although he did not identify their locations or provide details about the projects.
+“From what I’m told, Elon Musk comes here quietly very often because he has one or two islands, I’m told,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/week-asia/people/article/3375057/elon-musk-quietly-developing-one-or-two-philippine-islands-manila-envoy-says</guid>
+      <link>https://www.scmp.com/week-asia/people/article/3375057/elon-musk-quietly-developing-one-or-two-philippine-islands-manila-envoy-says</link>
+      <pubDate>Thu, 19 Nov 2026 08:31:43 +0000</pubDate>
+      <title>Elon Musk quietly developing ‘1 or 2’ Philippine islands, Manila envoy says</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/115c2c72-d531-4b90-b875-c81be153573c_9c1a7457.jpg?itok=muom4TO5&amp;v=1795077100"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/115c2c72-d531-4b90-b875-c81be153573c_9c1a7457.jpg?itok=muom4TO5&amp;v=1795077100" width="4095"/>
+    </item>
+    <item>
+      <author>John C. Tsang</author>
+      <dc:creator>John C. Tsang</dc:creator>
+      <description>Hong Kong’s tertiary institutions have long built their world-class reputations on academic rigour. Several of our universities have climbed even higher in prestigious global rankings, cementing our city’s status as an international education hub.
+Yet, as we navigate a rapidly evolving economic era driven by artificial intelligence (AI), the formula for graduate success is fundamentally changing. High global rankings – largely driven by research output – are simply not adequate to future-proof...</description>
+      <guid isPermaLink="true">https://www.scmp.com/opinion/hong-kong-opinion/article/3374793/ai-work-ready-hong-kong-graduates-its-no-longer-academic-question</guid>
+      <link>https://www.scmp.com/opinion/hong-kong-opinion/article/3374793/ai-work-ready-hong-kong-graduates-its-no-longer-academic-question</link>
+      <pubDate>Thu, 19 Nov 2026 08:30:06 +0000</pubDate>
+      <title>AI work-ready Hong Kong graduates? It’s no longer an academic question</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/5bd500ea-4320-4436-b74e-9283ee1565a0_e61215ec.jpg?itok=DOVteOd6&amp;v=1794926562"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/5bd500ea-4320-4436-b74e-9283ee1565a0_e61215ec.jpg?itok=DOVteOd6&amp;v=1794926562" width="4095"/>
+    </item>
+    <item>
+      <author>Albee Zhang</author>
+      <dc:creator>Albee Zhang</dc:creator>
+      <description>All three US presidential Boeing 747s touched down in Manila earlier this week, the first stop on Donald Trump’s Asia tour.
+The US Air Force typically deploys a backup aircraft on major overseas trips, but seeing the entire fleet at a single foreign airport was an unusual sight.
+The jumbo jets are best known for flying as Air Force One, the call sign used by any US Air Force aircraft carrying the sitting president.
+The fleet includes two older Boeing 747-200s, designated VC-25As, that entered...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3375056/qatar-gifted-boeing-747-makes-china-debut-air-force-one-shenzhen</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3375056/qatar-gifted-boeing-747-makes-china-debut-air-force-one-shenzhen</link>
+      <pubDate>Thu, 19 Nov 2026 08:29:35 +0000</pubDate>
+      <title>Qatar-gifted Boeing 747 makes China debut as Air Force One in Shenzhen</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/f857bffb-ac8e-4f75-83b5-ffdb0519be7a_4d964dee.jpg?itok=aKTMGE_T&amp;v=1795076975"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/f857bffb-ac8e-4f75-83b5-ffdb0519be7a_4d964dee.jpg?itok=aKTMGE_T&amp;v=1795076975" width="4095"/>
+    </item>
+    <item>
+      <author>Amber Wang</author>
+      <dc:creator>Amber Wang</dc:creator>
+      <description>Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin began a historic trilateral meeting on Thursday afternoon, marking the first-ever three-way summit between the leaders of the world’s major nuclear powers.
+The meeting is taking place in the southern Chinese city of Shenzhen on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit. If Putin travels to Miami for the Group of 20 (G20) summit next month, the three could have a second...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3375055/xi-trump-and-putin-meet-landmark-trilateral-talks-apec</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3375055/xi-trump-and-putin-meet-landmark-trilateral-talks-apec</link>
+      <pubDate>Thu, 19 Nov 2026 08:28:54 +0000</pubDate>
+      <title>Xi invokes WWII alliance, Trump raises nuclear cuts in 3-way talks with Putin</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/666882e4-1127-45cd-ae64-6c65a18a8ced_0e03e758.jpg?itok=ayNfHUOU&amp;v=1795079307"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/666882e4-1127-45cd-ae64-6c65a18a8ced_0e03e758.jpg?itok=ayNfHUOU&amp;v=1795079307" width="4095"/>
+    </item>
+    <item>
+      <author>Cannix Yau</author>
+      <dc:creator>Cannix Yau</dc:creator>
+      <description>Punters buying Mark Six tickets for next Tuesday’s draw could vie for a jackpot of up to HK$80 million (US$10.2 million) under a new snowball initiative that increases the prize pool as total betting turnover rises.
+Unveiled by the Hong Kong Jockey Club on Thursday as part of the lottery’s 50th-anniversary celebrations, the “Hype Up. Jackpot Up.” campaign lets players collectively unlock a larger snowball reserve for the coming draw by buying more tickets.
+If accumulated turnover reaches HK$70...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3375054/mark-six-players-could-win-hk80-million-jackpot-snowball-draw</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3375054/mark-six-players-could-win-hk80-million-jackpot-snowball-draw</link>
+      <pubDate>Thu, 19 Nov 2026 08:21:50 +0000</pubDate>
+      <title>Mark Six players could win HK$80 million jackpot in snowball draw</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/47204ca8-0041-4656-854d-d5bda4596d36_51565027.jpg?itok=NXRa8RQj&amp;v=1795076508"/>
+      <media:content height="2676" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/47204ca8-0041-4656-854d-d5bda4596d36_51565027.jpg?itok=NXRa8RQj&amp;v=1795076508" width="4095"/>
+    </item>
+    <item>
+      <author>Fan Chen</author>
+      <dc:creator>Fan Chen</dc:creator>
+      <description>The choice of a classic Philippine song about remorse and forgiveness to welcome President Ferdinand Marcos Jnr to the Apec state gala has sparked widespread debate online about whether it was sending a subtle message about the country’s disputes with China.
+A Chinese orchestra played the song “Anak”, which means child, when Marcos entered the hall in Shenzhen before greeting Chinese President Xi Jinping and first lady Peng Liyuan and posing for a photo with the other leaders.
+The song, written...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3375050/was-chinas-choice-welcome-song-philippine-leader-sending-subtle-message</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3375050/was-chinas-choice-welcome-song-philippine-leader-sending-subtle-message</link>
+      <pubDate>Thu, 19 Nov 2026 08:12:15 +0000</pubDate>
+      <title>Was China’s choice of welcome song for Philippine leader sending a subtle message?</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/7818d8cb-f64f-4eab-91a0-509806b52d30_d3efedf5.jpg?itok=466cOnwH&amp;v=1795075903"/>
+      <media:content height="2733" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/7818d8cb-f64f-4eab-91a0-509806b52d30_d3efedf5.jpg?itok=466cOnwH&amp;v=1795075903" width="4096"/>
+    </item>
+    <item>
+      <author>Xinyi Wu</author>
+      <dc:creator>Xinyi Wu</dc:creator>
+      <description>Danny Quah is an economics professor at the National University of Singapore’s Lee Kuan Yew School of Public Policy. He served as the school’s dean between 2018 and 2025, and has consulted for, among others, the World Bank, the Bank of England and the Monetary Authority of Singapore.
+Here, he discusses how the Association of Southeast Asian Nations (Asean) navigates the US-China rivalry, yuan internationalisation in the region and why the “China shock” has played out differently in Southeast...</description>
+      <guid isPermaLink="true">https://www.scmp.com/plus/economy/china-economy/article/3375048/danny-quah-aseans-middle-course-and-prisoners-dilemma-us-china</guid>
+      <link>https://www.scmp.com/plus/economy/china-economy/article/3375048/danny-quah-aseans-middle-course-and-prisoners-dilemma-us-china</link>
+      <pubDate>Thu, 19 Nov 2026 08:07:28 +0000</pubDate>
+      <title>Danny Quah on Asean’s middle course and a prisoner’s dilemma for US, China</title>
+      <enclosure length="2983" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/85ea86d6-22ad-4427-8715-cccc64dd3a45_31398b6a.jpg?itok=wU8dQGR9&amp;v=1795075129"/>
+      <media:content height="2756" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/85ea86d6-22ad-4427-8715-cccc64dd3a45_31398b6a.jpg?itok=wU8dQGR9&amp;v=1795075129" width="2983"/>
+    </item>
+    <item>
+      <author>Eve Qiao</author>
+      <dc:creator>Eve Qiao</dc:creator>
+      <description>Vietnamese leader To Lam and his wife, Ngo Phuong Ly, had just moved on. Russian President Vladimir Putin had yet to appear. In the lull, Peng Liyuan took a step towards her husband, Chinese President Xi Jinping.
+She began to speak, pointing ahead and to her right as Xi’s gaze followed her gesture before returning to her. They stood close while they talked in the brief interval – no more than a minute and a half – before the next guest arrived.
+As China’s first couple welcomed Asia-Pacific...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3375044/side-side-shenzhen-inside-xi-jinping-and-peng-liyuans-first-couple-diplomacy</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3375044/side-side-shenzhen-inside-xi-jinping-and-peng-liyuans-first-couple-diplomacy</link>
+      <pubDate>Thu, 19 Nov 2026 07:47:15 +0000</pubDate>
+      <title>Side by side in Shenzhen: inside Xi Jinping and Peng Liyuan’s first-couple diplomacy</title>
+      <enclosure length="3663" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/9209bd33-ebc1-489b-b15b-dd44bfcc2626_1e3917c8.jpg?itok=3mKLnHTZ&amp;v=1795074427"/>
+      <media:content height="2339" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/9209bd33-ebc1-489b-b15b-dd44bfcc2626_1e3917c8.jpg?itok=3mKLnHTZ&amp;v=1795074427" width="3663"/>
+    </item>
+    <item>
+      <author>Laura Zhou</author>
+      <dc:creator>Laura Zhou</dc:creator>
+      <description>During a high-profile trip to the southern tech hub of Shenzhen, Elon Musk said his young son loved China because the country “makes almost everything” – including his toys.
+In a short video released on Thursday, the SpaceX and Tesla chief executive described himself as a “huge fan” of both China and its technology in a meeting with Ren Hongbin, chairman of the China Council for the Promotion of International Trade.
+Musk then turned to his six-year-old son, X Æ A-Xii, who was seated beside...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3375042/elon-musk-says-his-6-year-old-son-loves-china-because-its-toy-paradise</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3375042/elon-musk-says-his-6-year-old-son-loves-china-because-its-toy-paradise</link>
+      <pubDate>Thu, 19 Nov 2026 07:42:43 +0000</pubDate>
+      <title>‘Toy paradise’: Elon Musk says his 6-year-old son loves China</title>
+      <enclosure length="3000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/cbefe777-f06a-42ba-90d6-395cf7fc27e5_a58b3068.jpg?itok=DoVM2ubF&amp;v=1795074161"/>
+      <media:content height="2000" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/cbefe777-f06a-42ba-90d6-395cf7fc27e5_a58b3068.jpg?itok=DoVM2ubF&amp;v=1795074161" width="3000"/>
+    </item>
+    <item>
+      <author>Danny Mok</author>
+      <dc:creator>Danny Mok</dc:creator>
+      <description>Hong Kong police have arrested 123 people and uncovered 108 fraud cases involving about HK$68 million (US$8.7 million) as part of a two-week operation against phone scams and money laundering.
+The citywide crackdown was conducted by the commercial crime bureau and regional units. Officers arrested 95 men and 28 women aged between 14 and 75.
+Police said on Thursday that most of those detained held stooge bank accounts or were registered users of telephone numbers linked to scams.
+The suspects...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3375033/hong-kong-police-arrest-123-and-uncover-108-cases-anti-fraud-operation</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3375033/hong-kong-police-arrest-123-and-uncover-108-cases-anti-fraud-operation</link>
+      <pubDate>Thu, 19 Nov 2026 07:06:03 +0000</pubDate>
+      <title>Hong Kong police arrest 123 and uncover 108 cases in anti-fraud operation</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/6ceff926-b385-4462-b881-e5fe087e42b5_d0becc27.jpg?itok=iJcVFH5m&amp;v=1795071951"/>
+      <media:content height="3352" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/6ceff926-b385-4462-b881-e5fe087e42b5_d0becc27.jpg?itok=iJcVFH5m&amp;v=1795071951" width="4095"/>
+    </item>
+    <item>
+      <author>Cao Jiaxuan</author>
+      <dc:creator>Cao Jiaxuan</dc:creator>
+      <description>US Secretary of State Marco Rubio was once again generous in his admiration for China’s grand architecture, this time at the Apec summit’s welcome dinner ahead of Thursday’s main meeting.
+At the Shenzhen International Communication Centre on Wednesday night, Chinese President Xi Jinping and first lady Peng Liyuan welcomed US President Donald Trump and other leaders to the southern tech hub.
+A video showed Rubio speaking to China’s ambassador to the United States, Xie Feng, and US ambassador to...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3375032/apec-summit-finds-marco-rubio-again-admiring-chinese-architecture</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3375032/apec-summit-finds-marco-rubio-again-admiring-chinese-architecture</link>
+      <pubDate>Thu, 19 Nov 2026 06:59:01 +0000</pubDate>
+      <title>Apec summit finds Marco Rubio again admiring Chinese architecture</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/cf0bc251-effb-4434-8cb3-b7d090af8d45_6db2efe8.jpg?itok=kTMdp6Zv&amp;v=1795073529"/>
+      <media:content height="2157" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/cf0bc251-effb-4434-8cb3-b7d090af8d45_6db2efe8.jpg?itok=kTMdp6Zv&amp;v=1795073529" width="4096"/>
+    </item>
+    <item>
+      <author>Shi Huang</author>
+      <dc:creator>Shi Huang</dc:creator>
+      <description>In Chongzuo, Guangxi, at the southernmost tip of China, steep limestone peaks rise abruptly, disappearing into the humid and dense tropical rainforest.
+For tens of thousands of years, this green labyrinth of interwoven vegetation has not only swallowed sunlight and footprints but also preserved the secrets of ancient humans.
+In Baxian Cave and Naxian Cave on the west bank of the Zuojiang River, archaeologists identified nine tiny ancient human teeth among more than 18,000 mammalian...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/science/article/3374985/homo-erectus-teeth-found-chinas-rainforest-topple-theory-human-evolution</guid>
+      <link>https://www.scmp.com/news/china/science/article/3374985/homo-erectus-teeth-found-chinas-rainforest-topple-theory-human-evolution</link>
+      <pubDate>Thu, 19 Nov 2026 06:46:43 +0000</pubDate>
+      <title>Homo erectus teeth found in China’s rainforest topple theory of human evolution</title>
+      <enclosure length="4000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/58104545-82c0-4281-ae94-2b0bfb90b8da_01809ea4.jpg?itok=Yb1ujW3y&amp;v=1795055779"/>
+      <media:content height="2666" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/58104545-82c0-4281-ae94-2b0bfb90b8da_01809ea4.jpg?itok=Yb1ujW3y&amp;v=1795055779" width="4000"/>
+    </item>
+    <item>
+      <author>Leopold Chen</author>
+      <dc:creator>Leopold Chen</dc:creator>
+      <description>The United Nations agency for intellectual property (IP) has pledged to deepen cooperation with Hong Kong on dispute resolution, education and commercialisation as the city’s government plans to expand a pilot scheme for lending backed by intangible assets.
+At the Business of IP Asia Forum on Thursday, Shen Changyu, deputy director general of the World Intellectual Property Organization (WIPO), said the agency stood ready to help Hong Kong use IP to advance its ambitions in finance, trade and...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375029/un-intellectual-property-agency-pledges-deeper-cooperation-hong-kong</guid>
+      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375029/un-intellectual-property-agency-pledges-deeper-cooperation-hong-kong</link>
+      <pubDate>Thu, 19 Nov 2026 06:42:23 +0000</pubDate>
+      <title>UN intellectual property agency pledges deeper cooperation with Hong Kong</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/35d7ad5d-b95f-4225-9140-ffe8408d910c_16db1abf.jpg?itok=k39uvssu&amp;v=1795070542"/>
+      <media:content height="2419" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/35d7ad5d-b95f-4225-9140-ffe8408d910c_16db1abf.jpg?itok=k39uvssu&amp;v=1795070542" width="4095"/>
+    </item>
+    <item>
+      <author>Denise Tsang,Matthew Cheng</author>
+      <dc:creator>Denise Tsang,Matthew Cheng</dc:creator>
+      <description>Hong Kong’s leader has pledged to deepen Greater Bay Area development and accelerate the Northern Metropolis megaproject after attending Apec meetings, where he briefly spoke with Chinese President Xi Jinping.
+Chief Executive John Lee Ka-chiu on Thursday outlined strategies for deepening Hong Kong’s integration into the bay area through infrastructure development, aligning rules and standards, and promoting cross-border mobility and exchanges.
+He also secured agreements and held bilateral talks...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375026/greater-bay-area-potential-enormous-john-lee-tells-xi-apec-ceo-summit</guid>
+      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375026/greater-bay-area-potential-enormous-john-lee-tells-xi-apec-ceo-summit</link>
+      <pubDate>Thu, 19 Nov 2026 06:32:02 +0000</pubDate>
+      <title>Greater Bay Area has ‘enormous’ potential, John Lee tells Xi at Apec</title>
+      <enclosure length="3000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/4b6b59d0-6f21-414a-8681-3007c8d32c6e_82006735.jpg?itok=BDloD8xL&amp;v=1795069916"/>
+      <media:content height="2000" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/4b6b59d0-6f21-414a-8681-3007c8d32c6e_82006735.jpg?itok=BDloD8xL&amp;v=1795069916" width="3000"/>
+    </item>
+    <item>
+      <author>Dewey Sim</author>
+      <dc:creator>Dewey Sim</dc:creator>
+      <description>Xi Jinping has urged his American counterpart, Donald Trump, to “do the right thing” on Taiwan, and called for the two powers to manage their differences to keep tensions in check.
+During their talks on the sidelines of the Apec summit in Shenzhen on Thursday, Xi told Trump that sustaining the current stable and positive momentum in ties depended on acting on the consensus reached by the two leaders, and that both sides needed to step up communication, according to Xinhua.
+“The two sides should...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3375023/talks-xi-get-under-way-trump-asks-china-do-more-us-farmers</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3375023/talks-xi-get-under-way-trump-asks-china-do-more-us-farmers</link>
+      <pubDate>Thu, 19 Nov 2026 06:24:25 +0000</pubDate>
+      <title>Xi tells Trump to ‘do the right thing’ on Taiwan; urges two sides to manage differences</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/b473bd26-35fa-4826-9984-d15560b2f8a8_3581ade5.jpg?itok=d5FUd1-x&amp;v=1795070630"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/b473bd26-35fa-4826-9984-d15560b2f8a8_3581ade5.jpg?itok=d5FUd1-x&amp;v=1795070630" width="4095"/>
+    </item>
+    <item>
+      <author>The Korea Times</author>
+      <dc:creator>The Korea Times</dc:creator>
+      <description>The man facing allegations of artificial intelligence-assisted cheating was found dead on Thursday after South Korean police began searching for him.
+Lee Jin-woo, a Seoul National University (SNU) dental student, had gone missing since the previous night after telling reporters he would dispel the cheating allegations by publicly demonstrating his abilities by solving College Scholastic Ability Test (CSAT) questions in a live stream on Thursday.
+Lee was found in cardiac arrest at around 1.12pm...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/asia/east-asia/article/3375021/south-koreas-top-law-exam-scorer-found-cardiac-arrest-amid-ai-fraud-scandal</guid>
+      <link>https://www.scmp.com/news/asia/east-asia/article/3375021/south-koreas-top-law-exam-scorer-found-cardiac-arrest-amid-ai-fraud-scandal</link>
+      <pubDate>Thu, 19 Nov 2026 05:59:38 +0000</pubDate>
+      <title>South Korea’s top law exam scorer found dead amid AI fraud scandal</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/a1551caa-5508-4b8f-af8c-e98383c8479d_0c498e1c.jpg?itok=xypOibFl&amp;v=1795067965"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/a1551caa-5508-4b8f-af8c-e98383c8479d_0c498e1c.jpg?itok=xypOibFl&amp;v=1795067965" width="4095"/>
+    </item>
+    <item>
+      <author>dpa</author>
+      <dc:creator>dpa</dc:creator>
+      <description>A Vincent van Gogh painting has set a record after selling for US$190.4 million at a Sotheby’s auction in New York.
+At its first appearance at auction, the painting Chataigniers en fleurs (Blossoming Chestnut Trees) set the highest price a Van Gogh painting has sold for at auction and the second highest for any artwork sold at Sotheby’s.
+Gustav Klimt’s Portrait of Elisabeth Lederer holds that honour, sold a year ago at Sotheby’s for US$236.4 million.
+The Dutch artist painted the landscape scene...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/world/united-states-canada/article/3375017/van-gogh-painting-sells-record-us1904-million-after-dispute</guid>
+      <link>https://www.scmp.com/news/world/united-states-canada/article/3375017/van-gogh-painting-sells-record-us1904-million-after-dispute</link>
+      <pubDate>Thu, 19 Nov 2026 05:45:48 +0000</pubDate>
+      <title>Van Gogh painting sells for record US$190.4 million after dispute</title>
+      <enclosure length="4000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/07fecd53-d4ed-4b4c-a7e8-f93775ca1f1d_246aaac7.jpg?itok=VJQtfWHj&amp;v=1795067147"/>
+      <media:content height="2667" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/07fecd53-d4ed-4b4c-a7e8-f93775ca1f1d_246aaac7.jpg?itok=VJQtfWHj&amp;v=1795067147" width="4000"/>
+    </item>
+    <item>
+      <author>Aidan Jones</author>
+      <dc:creator>Aidan Jones</dc:creator>
+      <description>Campaigners in Asia are taking advantage of the presence of global leaders in the region this week to urge governments to redouble efforts to uproot the scam centres whose bosses continue to swindle billions of dollars from hideouts in Myanmar and other parts of the Mekong.
+In a reminder of the scale of the scam crisis, Malaysian lawmakers on Monday heard that their citizens have lost 6.95 billion ringgit (US$1.6 billion) to scams in the last three years, while the Global Anti-Scam Alliance...</description>
+      <guid isPermaLink="true">https://www.scmp.com/week-asia/health-environment/article/3375016/crackdowns-failed-stop-southeast-asias-scam-centres-heres-what-advocates-want-next</guid>
+      <link>https://www.scmp.com/week-asia/health-environment/article/3375016/crackdowns-failed-stop-southeast-asias-scam-centres-heres-what-advocates-want-next</link>
+      <pubDate>Thu, 19 Nov 2026 05:44:19 +0000</pubDate>
+      <title>Crackdowns failed to stop Southeast Asia’s scam centres. Here’s what advocates want next</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/6bdea98c-c37e-46b2-ace8-198334cdaef0_2b13e997.jpg?itok=EdzE3Qom&amp;v=1795067057"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/6bdea98c-c37e-46b2-ace8-198334cdaef0_2b13e997.jpg?itok=EdzE3Qom&amp;v=1795067057" width="4095"/>
+    </item>
+    <item>
+      <author>Chong Ming Lee</author>
+      <dc:creator>Chong Ming Lee</dc:creator>
+      <description>Anthropic’s record-shattering US$81.3 billion initial public offering (IPO) is handing the US artificial intelligence powerhouse a massive war chest to wage a global price war, piling fresh valuation and monetisation pressure on lower-cost Chinese rivals, according to analysts.
+The San Francisco-based creator of the Claude chatbot priced its shares at US$83 apiece on Wednesday, above its marketed range of US$70 to US$78, giving the firm a market capitalisation of around US$1.5 trillion ahead of...</description>
+      <guid isPermaLink="true">https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals</guid>
+      <link>https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals</link>
+      <pubDate>Thu, 19 Nov 2026 05:30:07 +0000</pubDate>
+      <title>Anthropic’s record US$81.3 billion IPO arms US AI giant for price war with Chinese rivals</title>
+      <enclosure length="4000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fa3bdbd5-1f67-49ce-9e03-09cd5a7621e2_f88211c5.jpg?itok=2JoX-mXy&amp;v=1795064221"/>
+      <media:content height="2667" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fa3bdbd5-1f67-49ce-9e03-09cd5a7621e2_f88211c5.jpg?itok=2JoX-mXy&amp;v=1795064221" width="4000"/>
+    </item>
+    <item>
+      <author>Phoebe Zhang,Carol Yang</author>
+      <dc:creator>Phoebe Zhang,Carol Yang</dc:creator>
+      <description>As world leaders start a new day of talks at the Apec summit in Shenzhen, US President Donald Trump was seen seemingly dozing off in his seat.
+While President Xi Jinping was outlining China’s hopes for the Asia-Pacific, the 80-year-old appeared to nod off, live feed showed. Meanwhile, Russian President Vladimir Putin’s gaze remained fixed on the proceedings, and Canadian Prime Minister Mark Carney and Hong Kong’s leader John Lee took notes.
+Japanese Prime Minister Sanae Takaichi was seen smiling...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3375006/after-days-travel-and-diplomacy-trump-seems-nod-during-apec-speeches</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3375006/after-days-travel-and-diplomacy-trump-seems-nod-during-apec-speeches</link>
+      <pubDate>Thu, 19 Nov 2026 04:57:30 +0000</pubDate>
+      <title>After days of travel and diplomacy, Trump seems to nod off during Apec speeches</title>
+      <enclosure length="4094" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/f2b882ee-c851-4c40-9b6c-a894e35d57dc_c9f82ac3.jpg?itok=XG1bjDsZ&amp;v=1795064249"/>
+      <media:content height="2282" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/f2b882ee-c851-4c40-9b6c-a894e35d57dc_c9f82ac3.jpg?itok=XG1bjDsZ&amp;v=1795064249" width="4094"/>
+    </item>
+    <item>
+      <author>Amber Wang</author>
+      <dc:creator>Amber Wang</dc:creator>
+      <description>When Chinese President Xi Jinping broke decades of diplomatic precedent to greet US President Donald Trump on the tarmac in Shenzhen on Wednesday, cameras caught a woman in a striking yellow dress standing a few steps from the two leaders.
+That ever-present figure is Monica Crowley, the 35th chief of protocol of the United States.
+
+In high-stakes summitry, she is an invisible stage manager responsible for the diplomatic logistics and ceremonial choreography of the US president’s foreign...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3375003/meet-monica-crowley-us-protocol-chief-orchestrating-trumps-apec-optics</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3375003/meet-monica-crowley-us-protocol-chief-orchestrating-trumps-apec-optics</link>
+      <pubDate>Thu, 19 Nov 2026 04:42:09 +0000</pubDate>
+      <title>Meet Monica Crowley, the US protocol chief orchestrating Trump’s Apec optics</title>
+      <enclosure length="4080" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/e729d4e2-06a4-4a7c-9feb-1be2b70e68e0_69ede481.jpg?itok=iORC3AmR&amp;v=1795064750"/>
+      <media:content height="3327" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/e729d4e2-06a4-4a7c-9feb-1be2b70e68e0_69ede481.jpg?itok=iORC3AmR&amp;v=1795064750" width="4080"/>
+    </item>
+    <item>
+      <author>Iman Muttaqin Yusof</author>
+      <dc:creator>Iman Muttaqin Yusof</dc:creator>
+      <description>Malaysians spent weeks expecting a disaster alert on their phones on Thursday – only to be told close to midnight on Wednesday that it would not be coming, causing them to question why the communications regulator waited so long to let them know.
+Since October, local media have been reporting that Malaysia is preparing to launch a nationwide system to send flood warnings directly to mobile phones, with the first trial to start on Thursday. It would cover flood-prone parts of the capital, Kuala...</description>
+      <guid isPermaLink="true">https://www.scmp.com/week-asia/health-environment/article/3374998/malaysians-question-slow-response-over-false-mobile-flood-warning-trial</guid>
+      <link>https://www.scmp.com/week-asia/health-environment/article/3374998/malaysians-question-slow-response-over-false-mobile-flood-warning-trial</link>
+      <pubDate>Thu, 19 Nov 2026 04:10:08 +0000</pubDate>
+      <title>Malaysians question slow response over ‘false’ mobile flood warning trial</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/cfa27a78-ddf0-4974-86ad-c072b3eac325_82b27565.jpg?itok=qfC98lHE&amp;v=1795061398"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/cfa27a78-ddf0-4974-86ad-c072b3eac325_82b27565.jpg?itok=qfC98lHE&amp;v=1795061398" width="4095"/>
+    </item>
+    <item>
+      <author>Chong Ming Lee</author>
+      <dc:creator>Chong Ming Lee</dc:creator>
+      <description>As Chinese President Xi Jinping and US President Donald Trump meet this week in Shenzhen on the sidelines of the Apec meeting, the question of how to manage the risks of frontier AI systems is expected to be a major agenda item. In the second of a three-part series profiling Chinese organisations at the forefront of AI safety efforts, we take a look at a small social enterprise that has become a trusted adviser to China’s hottest AI firms.
+In 2020, tucked inside Beijing’s traditional hutongs –...</description>
+      <guid isPermaLink="true">https://www.scmp.com/tech/tech-trends/article/3374905/how-little-known-beijing-ai-safety-group-became-adviser-chinas-tech-giants</guid>
+      <link>https://www.scmp.com/tech/tech-trends/article/3374905/how-little-known-beijing-ai-safety-group-became-adviser-chinas-tech-giants</link>
+      <pubDate>Thu, 19 Nov 2026 04:00:14 +0000</pubDate>
+      <title>How a little-known Beijing AI safety group became an adviser to China’s tech giants</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/ec82f41b-3eaf-414d-98f7-0acdc0ba4805_9504dd01.jpg?itok=jPg-kD1i&amp;v=1794995767"/>
+      <media:content height="2735" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/ec82f41b-3eaf-414d-98f7-0acdc0ba4805_9504dd01.jpg?itok=jPg-kD1i&amp;v=1794995767" width="4095"/>
+    </item>
+    <item>
+      <author>Carol Yang</author>
+      <dc:creator>Carol Yang</dc:creator>
+      <description>Apec leaders were given Chinese-style scarves to wear for the group summit photo on Thursday.
+It was a pared-back nod to the forum’s tradition of dressing attendees in the host economy’s sartorial heritage.
+The scarves came in two colours: red and blue. Most leaders, including Chinese President Xi Jinping, opted for red, while US President Donald Trump and his Russian counterpart Vladimir Putin wore blue.
+The hem of each scarf is embroidered with the summit emblem, which features 21 intertwined...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3374995/apec-leaders-suit-scarf-family-photo-shenzhen</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3374995/apec-leaders-suit-scarf-family-photo-shenzhen</link>
+      <pubDate>Thu, 19 Nov 2026 03:40:31 +0000</pubDate>
+      <title>Apec leaders suit up with Chinese-style scarves for family photo in Shenzhen</title>
+      <enclosure length="3000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/e79eaa1e-060f-449d-998a-3e8acb13967b_177daa92.jpg?itok=cTl0D47g&amp;v=1795059629"/>
+      <media:content height="2000" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/e79eaa1e-060f-449d-998a-3e8acb13967b_177daa92.jpg?itok=cTl0D47g&amp;v=1795059629" width="3000"/>
+    </item>
+    <item>
+      <author>Alyssa Chen</author>
+      <dc:creator>Alyssa Chen</dc:creator>
+      <description>Under the neon glow of the Shenzhen skyline on Wednesday evening, US President Donald Trump offered onlookers an unexpected view of himself.
+As his armoured presidential limousine – known as “The Beast” – glided down Shenzhen’s avenues en route to the Apec welcome dinner, Trump was clearly visible as he looked through the thick glass to view the southern tech hub’s nightscape.
+
+Video footage circulating online showed Trump gazing at the skyscrapers and raising his fist towards the delighted...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3374994/chinese-onlookers-get-new-view-trump-he-takes-view-shenzhen</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3374994/chinese-onlookers-get-new-view-trump-he-takes-view-shenzhen</link>
+      <pubDate>Thu, 19 Nov 2026 03:14:45 +0000</pubDate>
+      <title>Chinese onlookers get a new view of Trump as he takes in the view of Shenzhen</title>
+      <enclosure length="1984" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/3eaaa414-6497-49cb-af43-10eec2161076_ac07beca.jpg?itok=jYgil9w5&amp;v=1795057656"/>
+      <media:content height="1328" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/3eaaa414-6497-49cb-af43-10eec2161076_ac07beca.jpg?itok=jYgil9w5&amp;v=1795057656" width="1984"/>
+    </item>
+    <item>
+      <author>Phoebe Zhang</author>
+      <dc:creator>Phoebe Zhang</dc:creator>
+      <description>When Japanese Prime Minister Sanae Takaichi arrived at the Shenzhen International Communication Centre for a welcome banquet for the Apec leaders on Wednesday night, an ensemble on the stage switched to a bittersweet tune.
+The music arranged to welcome Takaichi was the Japanese hit “Ue o muite arukou”, known as the Sukiyaki song in the West. It was first released in Japan in 1961 and performed by the late singer Kyu Sakamoto.
+The lyrics tell the story of someone who looks up while walking alone,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3374988/i-look-when-i-walk-1961-hit-sukiyaki-welcomes-japans-takaichi-apec-gala</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3374988/i-look-when-i-walk-1961-hit-sukiyaki-welcomes-japans-takaichi-apec-gala</link>
+      <pubDate>Thu, 19 Nov 2026 02:51:51 +0000</pubDate>
+      <title>‘I look up when I walk’: 1961 hit Sukiyaki welcomes Japan’s Takaichi at Apec gala</title>
+      <enclosure length="3248" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/de89acbd-78ab-4481-ab39-0f44765988f2_e420e5ae.jpg?itok=MBfarvG7&amp;v=1795056530"/>
+      <media:content height="2165" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/de89acbd-78ab-4481-ab39-0f44765988f2_e420e5ae.jpg?itok=MBfarvG7&amp;v=1795056530" width="3248"/>
+    </item>
+    <item>
+      <author>Reuters</author>
+      <dc:creator>Reuters</dc:creator>
+      <description>Myanmar’s military-backed leader Min Aung Hlaing said on Wednesday his administration is reconsidering the country’s relationship with Asean but would continue discussions with its members.
+The former junta chief turned president, whose coup against an elected civilian government ‌in 2021 triggered a nationwide civil war, also told parliament he plans to hold a peace conference in February, with the aim of ending fighting within his five-year term.
+The state-run Global New Light of Myanmar...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/asia/southeast-asia/article/3374989/angry-over-indignity-myanmar-review-future-ties-asean</guid>
+      <link>https://www.scmp.com/news/asia/southeast-asia/article/3374989/angry-over-indignity-myanmar-review-future-ties-asean</link>
+      <pubDate>Thu, 19 Nov 2026 02:50:26 +0000</pubDate>
+      <title>Angry over ‘indignity’, Myanmar to review future ties with Asean</title>
+      <enclosure length="2667" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/f80bb65d-29b5-4e33-9823-e28359219efe_c4638693.jpg?itok=53w6MoiO&amp;v=1795056624"/>
+      <media:content height="1777" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/f80bb65d-29b5-4e33-9823-e28359219efe_c4638693.jpg?itok=53w6MoiO&amp;v=1795056624" width="2667"/>
+    </item>
+    <item>
+      <author>Fran Lu</author>
+      <dc:creator>Fran Lu</dc:creator>
+      <description>Millions across China were moved by the story of a girl with leukaemia whose dying wish – to have one last lesson with her classmates – was fulfilled shortly before her death.
+Yao Yingbei, nicknamed Beibei, was still in ninth grade at Songjiang Secondary School in southwest China’s Guizhou province at the age of 18 because of her poor health.
+Beibei was diagnosed with leukaemia five years ago and had to take a temporary leave from school for treatment.
+Her parents had another child and tried to...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/people-culture/trending-china/article/3374983/chinese-student-attends-final-class-classmates-hospital-bed-leukaemia-death</guid>
+      <link>https://www.scmp.com/news/people-culture/trending-china/article/3374983/chinese-student-attends-final-class-classmates-hospital-bed-leukaemia-death</link>
+      <pubDate>Thu, 19 Nov 2026 02:08:24 +0000</pubDate>
+      <title>Dying wish of Chinese student to attend final class with peers before leukaemia death fulfilled</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fce01945-4402-46b2-a06c-ed39d7f582b3_96e75c32.jpg?itok=I9Pf4En9&amp;v=1795054095"/>
+      <media:content height="2292" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fce01945-4402-46b2-a06c-ed39d7f582b3_96e75c32.jpg?itok=I9Pf4En9&amp;v=1795054095" width="4095"/>
+    </item>
+    <item>
+      <author>The Star</author>
+      <dc:creator>The Star</dc:creator>
+      <description>A business proposition turned ugly when a Vietnamese woman was allegedly forced to strip naked after she followed a man into a car in Malaysia, believing they were going to discuss offers.
+The Malaysian Chinese Association’s Public Services and Complaints Department head Michael Chong said that the 32-year-old victim had been approached by a man on October 28 after he offered her a 1,000 ringgit (US$243) loan.
+“She said no but then offered to refer her Vietnamese friends to him in exchange for a...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/asia/southeast-asia/article/3374982/vietnamese-woman-forced-strip-malaysia-over-us2433-extortion-bid</guid>
+      <link>https://www.scmp.com/news/asia/southeast-asia/article/3374982/vietnamese-woman-forced-strip-malaysia-over-us2433-extortion-bid</link>
+      <pubDate>Thu, 19 Nov 2026 02:02:25 +0000</pubDate>
+      <title>Vietnamese woman forced to strip in Malaysia over US$2,433 extortion bid</title>
+      <enclosure length="1240" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/ca357e55-6b20-42aa-93c6-6af712151a68_d3df2b65.jpg?itok=zA8ubTlx&amp;v=1795053735"/>
+      <media:content height="948" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/ca357e55-6b20-42aa-93c6-6af712151a68_d3df2b65.jpg?itok=zA8ubTlx&amp;v=1795053735" width="1240"/>
+    </item>
+    <item>
+      <author>Emily Hung</author>
+      <dc:creator>Emily Hung</dc:creator>
+      <description>Hong Kong’s railway operator is investigating whether two back-to-back signalling faults at HKU station are related, following disruptions to morning commuters for two days in a row.
+The MTR Corporation apologised to passengers and said Thursday’s disruption on the Island line lasted nearly an hour, from 7.43am to 8.38am.
+A separate signalling equipment fault at HKU station disrupted services from 8.27am to 10.33am on Wednesday, causing long queues at North Point station.
+In response to an...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/transport/article/3374981/hong-kong-mtr-island-line-disrupted-second-signalling-fault-2-days</guid>
+      <link>https://www.scmp.com/news/hong-kong/transport/article/3374981/hong-kong-mtr-island-line-disrupted-second-signalling-fault-2-days</link>
+      <pubDate>Thu, 19 Nov 2026 01:53:07 +0000</pubDate>
+      <title>Hong Kong’s MTR Corp probes whether back-to-back HKU station faults are linked</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/a0c698ea-535d-4f88-a11b-5b921fa2753a_07e4f689.jpg?itok=ouhCj70F&amp;v=1795053172"/>
+      <media:content height="3072" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/a0c698ea-535d-4f88-a11b-5b921fa2753a_07e4f689.jpg?itok=ouhCj70F&amp;v=1795053172" width="4096"/>
+    </item>
+    <item>
+      <author>Liu Zhen</author>
+      <dc:creator>Liu Zhen</dc:creator>
+      <description>The United States conducted an intercontinental ballistic missile test less than two hours before President Donald Trump landed in China on Wednesday for the Apec summit and a high-stakes trilateral meeting with his Chinese and Russian counterparts.
+According to a statement from the US Air Force Global Strike Command, an unarmed Minuteman III missile was launched at 11.01pm Pacific Time on Tuesday from Vandenberg Space Force Base, California, in a test designated Glory Trip 257.
+
+
+The launch...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/military/article/3374979/us-launched-unarmed-icbm-test-hours-trumps-air-force-one-landed-china</guid>
+      <link>https://www.scmp.com/news/china/military/article/3374979/us-launched-unarmed-icbm-test-hours-trumps-air-force-one-landed-china</link>
+      <pubDate>Thu, 19 Nov 2026 01:42:08 +0000</pubDate>
+      <title>US launched unarmed ICBM test hours before Trump’s Air Force One landed in China</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/377be208-74ad-4c0d-809b-7dc4aa222723_effd087a.jpg?itok=FYKDHA7J&amp;v=1795052283"/>
+      <media:content height="2726" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/377be208-74ad-4c0d-809b-7dc4aa222723_effd087a.jpg?itok=FYKDHA7J&amp;v=1795052283" width="4095"/>
+    </item>
+    <item>
+      <author>Khushboo Razdan</author>
+      <dc:creator>Khushboo Razdan</dc:creator>
+      <description>US President Donald Trump has described China and Russia as “natural enemies” whose partnership “should never have been allowed to happen”, while defending former Nvidia CEO Jensen Huang as an irreplaceable genius.
+He was speaking in a Fox News interview given just before a bilateral meeting with Chinese President Xi Jinping and a trilateral with Xi and Russian leader Vladimir Putin.
+Trump said China and Russia were driven together by competing needs rather than affinity. “They have 1.4 billion...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3374980/natural-enemies-trump-china-russia-ties-he-plays-down-nvidia-tragedy</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3374980/natural-enemies-trump-china-russia-ties-he-plays-down-nvidia-tragedy</link>
+      <pubDate>Thu, 19 Nov 2026 01:38:23 +0000</pubDate>
+      <title>‘Natural enemies’: Trump on China-Russia ties as he plays down Nvidia ‘tragedy’</title>
+      <enclosure length="3525" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/a447b3b4-a328-4e5f-9876-be48a44a57b0_57466c02.jpg?itok=SE2ZI8c7&amp;v=1795052302"/>
+      <media:content height="2350" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/a447b3b4-a328-4e5f-9876-be48a44a57b0_57466c02.jpg?itok=SE2ZI8c7&amp;v=1795052302" width="3525"/>
+    </item>
+    <item>
+      <author>SCMP</author>
+      <dc:creator>SCMP</dc:creator>
+      <description>We have put together stories from our coverage of Apec in Shenzhen. If you would like to see more of our reporting, please consider subscribing.
+1. After days of travel and diplomacy, Trump seems to nod off during Apec speeches
+As world leaders start a new day of talks at the Apec summit in Shenzhen, US President Donald Trump was seen seemingly dozing off in his seat.
+2. Elon Musk says his 6-year-old son loves China because it’s a ‘toy paradise’
+
+During a high-profile trip to the southern tech...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3374974/pengs-english-and-cantonese-classics-shenzhen-apec-details-you-may-have-missed</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3374974/pengs-english-and-cantonese-classics-shenzhen-apec-details-you-may-have-missed</link>
+      <pubDate>Thu, 19 Nov 2026 01:33:25 +0000</pubDate>
+      <title>Trump seems to doze off, Elon Musk’s son: the Shenzhen Apec details you may have missed</title>
+      <enclosure length="4094" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/c177e064-4cce-441c-9ed0-92c804cf4dc1_a9ca8e27.jpg?itok=3L2v4R5u&amp;v=1795075764"/>
+      <media:content height="2282" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/c177e064-4cce-441c-9ed0-92c804cf4dc1_a9ca8e27.jpg?itok=3L2v4R5u&amp;v=1795075764" width="4094"/>
+    </item>
+    <item>
+      <author>SCMP Reporters</author>
+      <dc:creator>SCMP Reporters</dc:creator>
+      <description>This live article is freely available to our registered users. Please log in or create an account.
+World leaders are gathering in Shenzhen on Thursday for the Asia-Pacific Economic Cooperation (Apec) plenary, looking for ways to promote trade and investment at a time of rising global uncertainty.
+Chinese President Xi Jinping, US President Donald Trump, Russian President Vladimir Putin, Canadian Prime Minister Mark Carney and Australian Prime Minister Anthony Albanese are among the leaders...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3374977/world-leaders-gather-talk-trade-and-investment-apec-chinas-tech-hub-shenzhen</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3374977/world-leaders-gather-talk-trade-and-investment-apec-chinas-tech-hub-shenzhen</link>
+      <pubDate>Thu, 19 Nov 2026 01:32:46 +0000</pubDate>
+      <title>Trump says that US, Russia, China should lead on nuclear arms control</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/6b8788a5-19d6-46ac-8344-513d60022ccc_b29cfa84.jpg?itok=0-aeuQqs&amp;v=1795078158"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/6b8788a5-19d6-46ac-8344-513d60022ccc_b29cfa84.jpg?itok=0-aeuQqs&amp;v=1795078158" width="4095"/>
+    </item>
+    <item>
+      <author>Ronny Tong</author>
+      <dc:creator>Ronny Tong</dc:creator>
+      <description>If you ask what constitutes treason, most people would probably answer: treason is assisting an enemy to harm one’s country. If national security laws existed at the time, historical figures like Qin Hui, Wu Sangui and even Wang Jingwei might all have been found guilty of treason. If you further ask whether treason applies only during times of war, the question becomes somewhat complicated.
+Logically and as a matter of principle, treason is an act of betraying one’s country; the emphasis is on...</description>
+      <guid isPermaLink="true">https://www.scmp.com/opinion/hong-kong-opinion/article/3374219/treason-or-not-betraying-ones-country-wont-be-tolerated</guid>
+      <link>https://www.scmp.com/opinion/hong-kong-opinion/article/3374219/treason-or-not-betraying-ones-country-wont-be-tolerated</link>
+      <pubDate>Thu, 19 Nov 2026 01:30:06 +0000</pubDate>
+      <title>Treason or not, betraying one’s country won’t be tolerated</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/a59f4558-5927-4b1b-90f3-75029bafa2a2_cf89c5cb.jpg?itok=IkwD-ebE&amp;v=1794901634"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/a59f4558-5927-4b1b-90f3-75029bafa2a2_cf89c5cb.jpg?itok=IkwD-ebE&amp;v=1794901634" width="4095"/>
+    </item>
+    <item>
+      <author>Zhang Tong</author>
+      <dc:creator>Zhang Tong</dc:creator>
+      <description>Peking University professor Li Yulong’s team celebrated when six scientists detailing their research on detecting neural signals were accepted for the Society for Neuroscience’s 56th annual meeting in Washington – but only four obtained US visas to participate in it.
+Li has been regularly attending the world’s largest neuroscience gathering since he was a student in 2000. He described it as an essential forum for sharing findings with researchers worldwide, but said his team’s visa difficulties...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3374973/us-china-science-ties-fray-visa-hurdles-and-security-scrutiny-grow</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3374973/us-china-science-ties-fray-visa-hurdles-and-security-scrutiny-grow</link>
+      <pubDate>Thu, 19 Nov 2026 01:00:10 +0000</pubDate>
+      <title>US-China science ties fray as visa hurdles and security scrutiny grow</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/bd17fa23-1264-4f29-a614-b8724f5ea9ca_33b28f98.jpg?itok=2kH-Y4hY&amp;v=1795050008"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/bd17fa23-1264-4f29-a614-b8724f5ea9ca_33b28f98.jpg?itok=2kH-Y4hY&amp;v=1795050008" width="4095"/>
+    </item>
+    <item>
+      <author>Liu Zhen</author>
+      <dc:creator>Liu Zhen</dc:creator>
+      <description>World leaders have descended on the southern Chinese city of Shenzhen for the Apec summit, and two of them likely brought their “nuclear button” with them.
+The United States president’s famous briefcase – nicknamed the “nuclear football” – has yet to be sighted in the Chinese city. The so-called emergency satchel is actually a bulky black briefcase containing war plans and it can be used to send nuclear orders to the Pentagon.
+But the Russian equivalent, known as the Cheget, made an unexpected...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3374972/apec-brings-world-leaders-and-probably-2-nuclear-briefcases-shenzhen</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3374972/apec-brings-world-leaders-and-probably-2-nuclear-briefcases-shenzhen</link>
+      <pubDate>Thu, 19 Nov 2026 00:49:44 +0000</pubDate>
+      <title>Apec brings world leaders and probably 2 ‘nuclear briefcases’ to Shenzhen</title>
+      <enclosure length="4094" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/9062e941-2747-41c7-b5e0-b87a8c105289_4efa21b0.jpg?itok=idP0tbPr&amp;v=1795049371"/>
+      <media:content height="2211" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/9062e941-2747-41c7-b5e0-b87a8c105289_4efa21b0.jpg?itok=idP0tbPr&amp;v=1795049371" width="4094"/>
+    </item>
+    <item>
+      <author>Teresa Elena Frontado,Igor Patrick</author>
+      <dc:creator>Teresa Elena Frontado,Igor Patrick</dc:creator>
+      <description>A bipartisan US congressional commission has urged lawmakers to declare China’s detention of hundreds of Panama-flagged ships a form of “economic coercion” and to let the US president respond with sanctions, nearly 10 months after Panama’s Supreme Court stripped a subsidiary of Hong Kong-based CK Hutchison Holdings of its right to run two ports on the Panama Canal.
+In its annual report to Congress, released on Wednesday, the US-China Economic and Security Review Commission said Beijing had made...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/us/article/3374807/us-panel-urges-congress-punish-china-over-panama-flagged-ship-detentions</guid>
+      <link>https://www.scmp.com/news/us/article/3374807/us-panel-urges-congress-punish-china-over-panama-flagged-ship-detentions</link>
+      <pubDate>Thu, 19 Nov 2026 00:43:34 +0000</pubDate>
+      <title>US panel urges Congress to punish China over Panama-flagged ship detentions</title>
+      <enclosure length="3500" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/08a2deab-f810-4477-a8cf-84f9d8d4d79f_730367bd.jpg?itok=1YFEr-vB&amp;v=1794957022"/>
+      <media:content height="2333" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/08a2deab-f810-4477-a8cf-84f9d8d4d79f_730367bd.jpg?itok=1YFEr-vB&amp;v=1794957022" width="3500"/>
+    </item>
+    <item>
+      <author>Roetta Wang</author>
+      <dc:creator>Roetta Wang</dc:creator>
+      <description>Some second-hand luxury goods shops have said they fell victim to a suspected fraud involving two consignment stores that abruptly closed in Hong Kong, pushing the total number of police reports to 216 and total losses to HK$38 million (US$4.8 million), the South China Morning Post has learned.
+More than 240 people have joined a victims’ concern group, including other second-hand shops that lent merchandise to Vootic in Causeway Bay and Obsessplanet in Admiralty, both of which shut down suddenly...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3374960/hk38m-lost-luxury-consignment-shop-closures-hit-other-stores-hong-kong</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3374960/hk38m-lost-luxury-consignment-shop-closures-hit-other-stores-hong-kong</link>
+      <pubDate>Thu, 19 Nov 2026 00:30:06 +0000</pubDate>
+      <title>HK$38m lost as luxury consignment shop closures leave other stores out of pocket</title>
+      <enclosure length="3973" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fdbf5ff0-affe-483e-99e9-b6ca2797095a_ac1b1899.jpg?itok=ZN-M4G09&amp;v=1795018856"/>
+      <media:content height="2648" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fdbf5ff0-affe-483e-99e9-b6ca2797095a_ac1b1899.jpg?itok=ZN-M4G09&amp;v=1795018856" width="3973"/>
+    </item>
+    <item>
+      <author>Fan Chen</author>
+      <dc:creator>Fan Chen</dc:creator>
+      <description>South Korean first lady Kim Hea Kyung has charmed Chinese social media users with her warmth towards ground staff, personal style and affection for her husband – fuelling online “shipping” of Seoul’s first couple.
+Accompanying South Korean President Lee Jae Myung, Kim arrived in Shenzhen early on Wednesday for the Asia-Pacific Economic Cooperation (Apec) summit.
+Like other visiting dignitaries, Lee and Kim received a red-carpet welcome with an honour guard. More than 100 dancers dressed in white...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3374971/south-korean-first-lady-kim-hea-kyungs-warmth-and-style-captivate-chinese-social-media</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3374971/south-korean-first-lady-kim-hea-kyungs-warmth-and-style-captivate-chinese-social-media</link>
+      <pubDate>Thu, 19 Nov 2026 00:20:55 +0000</pubDate>
+      <title>South Korean first lady Kim Hea Kyung’s warmth and style captivate Chinese social media</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/d05ce710-e58d-4080-99ae-8bcb0f6c1a67_582d0654.jpg?itok=1tuVoPxR&amp;v=1795047644"/>
+      <media:content height="2878" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/d05ce710-e58d-4080-99ae-8bcb0f6c1a67_582d0654.jpg?itok=1tuVoPxR&amp;v=1795047644" width="4095"/>
+    </item>
+    <item>
+      <author>Resty Woro Yuniar</author>
+      <dc:creator>Resty Woro Yuniar</dc:creator>
+      <description>Indonesian women are still being trafficked to China as brides despite repeated crackdowns, according to police, with analysts blaming economic desperation and a cultural reliance on matchmakers for fuelling the practice.
+Last week, Indonesia’s national police said they foiled an attempt to send three Indonesian women to marry men in mainland China, in a scheme involving recruitment agencies in Indonesia and Hong Kong.
+Three people were named as suspects, including an Indonesian recruiter and a...</description>
+      <guid isPermaLink="true">https://www.scmp.com/week-asia/people/article/3374952/bride-catalogues-and-fake-weddings-inside-indonesias-china-marriage-trade</guid>
+      <link>https://www.scmp.com/week-asia/people/article/3374952/bride-catalogues-and-fake-weddings-inside-indonesias-china-marriage-trade</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:11 +0000</pubDate>
+      <title>Indonesia’s China marriage trade: from ‘bride catalogues’ to fake weddings</title>
+      <enclosure length="3500" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/f03ac049-455f-4fc1-b78a-83d0c82d771d_3567c2ba.jpg?itok=lBgLtXmw&amp;v=1795011704"/>
+      <media:content height="2333" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/f03ac049-455f-4fc1-b78a-83d0c82d771d_3567c2ba.jpg?itok=lBgLtXmw&amp;v=1795011704" width="3500"/>
+    </item>
+    <item>
+      <author>Nayan Seth</author>
+      <dc:creator>Nayan Seth</dc:creator>
+      <description>The personal rapport between US President Donald Trump and Chinese leader Xi Jinping is being put to its sternest test yet amid growing congressional pressure over AI chip curbs and broader calls in Washington for a more assertive policy on China, according to experts.
+The two leaders are set to hold formal talks on Thursday on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen.
+While Trump may want to preserve a cordial rapport with Xi and a tactical thaw between...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3374969/xi-trump-ties-tested-calls-grow-washington-tougher-china-policy</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3374969/xi-trump-ties-tested-calls-grow-washington-tougher-china-policy</link>
+      <pubDate>Wed, 18 Nov 2026 23:10:44 +0000</pubDate>
+      <title>Xi-Trump ties tested as calls grow in Washington for tougher China policy</title>
+      <enclosure length="3478" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/8fb91728-0be5-488b-b447-49024e1854f6_3c6d2ba5.jpg?itok=wM2vPVlu&amp;v=1795043432"/>
+      <media:content height="2417" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/8fb91728-0be5-488b-b447-49024e1854f6_3c6d2ba5.jpg?itok=wM2vPVlu&amp;v=1795043432" width="3478"/>
+    </item>
+    <item>
+      <author>Reuters</author>
+      <dc:creator>Reuters</dc:creator>
+      <description>⁠Christian Emmanuel Sanon, a ⁠US-Haitian pastor accused of conspiring ⁠to assassinate and usurp the Caribbean nation’s last sitting president, has been convicted of all charges linked to the murder by a judge in Miami, the Miami Herald reported on Wednesday.
+Sanon, 68, could face up to life ‌in prison. Prosecutors say the conspirators had for a time planned to replace President Jovenel Moise – who was shot in his bedroom in 2021 – with Sanon, though he was later sidelined in favour of another...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/world/americas/article/3374968/us-court-convicts-florida-pastor-over-plot-assassinate-haitis-president</guid>
+      <link>https://www.scmp.com/news/world/americas/article/3374968/us-court-convicts-florida-pastor-over-plot-assassinate-haitis-president</link>
+      <pubDate>Wed, 18 Nov 2026 23:05:08 +0000</pubDate>
+      <title>US court convicts Florida pastor over plot to assassinate Haiti’s president</title>
+      <enclosure length="3888" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/74a8f886-877e-44ed-80ec-05a3324eef32_28eed995.jpg?itok=qQVudR04&amp;v=1795043093"/>
+      <media:content height="2592" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/74a8f886-877e-44ed-80ec-05a3324eef32_28eed995.jpg?itok=qQVudR04&amp;v=1795043093" width="3888"/>
+    </item>
+    <item>
+      <author>Han Li,Lucy Quaggin</author>
+      <dc:creator>Han Li,Lucy Quaggin</dc:creator>
+      <description>Jurors began deliberating on Wednesday in the US government’s criminal case against Huawei Technologies, following a two-month trial that has been one of the most high-profile prosecutions of a Chinese technology giant in recent years.
+Huawei, a Shenzhen-based company, is the world’s largest telecoms equipment maker and a major smartphone manufacturer. It faces 12 criminal counts, including racketeering conspiracy, stealing trade secrets, bank fraud and obstruction of justice.
+US prosecutors...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/us/article/3374967/huawei-case-enters-jury-deliberations-after-2-month-battle-us-courtroom</guid>
+      <link>https://www.scmp.com/news/us/article/3374967/huawei-case-enters-jury-deliberations-after-2-month-battle-us-courtroom</link>
+      <pubDate>Wed, 18 Nov 2026 21:02:10 +0000</pubDate>
+      <title>Huawei case enters jury deliberations after 2-month battle in US courtroom</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/8c3a2877-f7a8-4027-9b53-c329afc54e9f_10b616d4.jpg?itok=rqwZ7wFM&amp;v=1795035716"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/8c3a2877-f7a8-4027-9b53-c329afc54e9f_10b616d4.jpg?itok=rqwZ7wFM&amp;v=1795035716" width="4095"/>
+    </item>
+    <item>
+      <author>Associated Press</author>
+      <dc:creator>Associated Press</dc:creator>
+      <description>The United States and Venezuela have signed a deal to re-establish military ties that will range from conducting joint training to intelligence sharing, US Defence Secretary Pete Hegseth said on Wednesday in Caracas while visiting the South American nation’s interim leaders.
+Hegseth touted how US forces in January captured then-Venezuelan president Nicolas Maduro, telling an audience of diplomats and military officials from both countries that now Venezuela “has gone from our most aggressive...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/world/americas/article/3374965/us-and-venezuela-sign-deal-re-establish-military-ties-during-hegseth-visit</guid>
+      <link>https://www.scmp.com/news/world/americas/article/3374965/us-and-venezuela-sign-deal-re-establish-military-ties-during-hegseth-visit</link>
+      <pubDate>Wed, 18 Nov 2026 19:01:08 +0000</pubDate>
+      <title>Hegseth hails ‘compliant’ Venezuela as US signs new military pact</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/7d003073-7a9c-4f1a-9687-d6e6e18f8b36_d270f03f.jpg?itok=IIzGtGn-&amp;v=1795057182"/>
+      <media:content height="2731" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/7d003073-7a9c-4f1a-9687-d6e6e18f8b36_d270f03f.jpg?itok=IIzGtGn-&amp;v=1795057182" width="4096"/>
+    </item>
+    <item>
+      <author>Associated Press</author>
+      <dc:creator>Associated Press</dc:creator>
+      <description>El Salvador’s President Nayib Bukele said on Wednesday that his troops had demolished the lavish home of a prominent gang leader in Haiti known as Jeff. It was not immediately clear if he was killed.
+Bukele posted a video on social media that begins with old footage of Jeff posing in front of his mansion in the Caribbean country and then cuts to Salvadorean helicopters flying towards it as they fire shot after shot, with big plumes of smoke rising from Jeff’s home.
+“My gift to the Haitian people...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/world/americas/article/3374964/el-salvadors-bukele-says-his-troops-destroyed-gang-leaders-mansion-haiti</guid>
+      <link>https://www.scmp.com/news/world/americas/article/3374964/el-salvadors-bukele-says-his-troops-destroyed-gang-leaders-mansion-haiti</link>
+      <pubDate>Wed, 18 Nov 2026 18:34:47 +0000</pubDate>
+      <title>El Salvador’s president says forces in Haiti demolished gang leader’s lavish home</title>
+      <enclosure length="802" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/e97fadfb-845c-40ee-9e05-44d3455f6c72_ca7dbca6.jpg?itok=_ztJFfM1&amp;v=1795063459"/>
+      <media:content height="1342" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/e97fadfb-845c-40ee-9e05-44d3455f6c72_ca7dbca6.jpg?itok=_ztJFfM1&amp;v=1795063459" width="802"/>
+    </item>
+  </channel>
+</rss>

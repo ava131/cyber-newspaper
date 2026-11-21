@@ -1,0 +1,11 @@
+{
+  "location":"吴江 · 汾湖",
+  "point_label":"汾湖（黎里）预报点",
+  "latitude":31.04038,
+  "longitude":120.845,
+  "timezone":"Asia/Shanghai",
+  "provider":"Open-Meteo",
+  "endpoint":"https://api.open-meteo.com/v1/forecast",
+  "location_source":"https://www.wujiang.gov.cn/zgwj/llz/ljwj_tts.shtml",
+  "coordinate_source":"https://zh.wikipedia.org/wiki/%E9%BB%8E%E9%87%8C%E9%95%87"
+}

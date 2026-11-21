@@ -1,0 +1,58 @@
+{
+  "_comment": "RSS候选信源。每次运行记录实际成功、失败和条目数；配置存在不代表抓取已成功。documents为需要直接阅读的原始页面。",
+  "sources": [
+    { "id": "bbc_world",      "name": "BBC World",        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",              "channel": "world",     "weight": 0.85, "lang": "en" },
+    { "id": "guardian_world", "name": "The Guardian",     "url": "https://www.theguardian.com/world/rss",                    "channel": "world",     "weight": 0.8,  "lang": "en" },
+    { "id": "aljazeera",      "name": "Al Jazeera",       "url": "https://www.aljazeera.com/xml/rss/all.xml",                "channel": "world",     "weight": 0.8,  "lang": "en" },
+    { "id": "npr_world",      "name": "NPR World",        "url": "https://feeds.npr.org/1004/rss.xml",                       "channel": "world",     "weight": 0.7,  "lang": "en" },
+    { "id": "scmp",           "name": "South China Morning Post", "url": "https://www.scmp.com/rss/91/feed",                  "channel": "world",     "weight": 0.85, "lang": "en" },
+    { "id": "zaobao",         "name": "联合早报",          "url": "https://www.zaobao.com/rss/realtime/china",                "channel": "china",     "weight": 0.85, "lang": "zh" },
+    { "id": "nytimes_cn",     "name": "纽约时报中文网",     "url": "https://cn.nytimes.com/rss/",                             "channel": "china",     "weight": 0.8,  "lang": "zh" },
+    { "id": "ft",             "name": "Financial Times",  "url": "https://www.ft.com/rss/home",                              "channel": "finance",   "weight": 0.9,  "lang": "en" },
+    { "id": "ftchinese",      "name": "FT 中文网",         "url": "https://www.ftchinese.com/rss/news",                       "channel": "finance",   "weight": 0.9,  "lang": "zh" },
+    { "id": "wsj_markets",    "name": "WSJ Markets",      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",            "channel": "markets",   "weight": 0.9,  "lang": "en" },
+    { "id": "wsj_business",   "name": "WSJ Business",     "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",          "channel": "markets",   "weight": 0.85, "lang": "en" },
+    { "id": "economist",      "name": "The Economist",    "url": "https://www.economist.com/finance-and-economics/rss.xml",  "channel": "finance",   "weight": 0.9,  "lang": "en" },
+    { "id": "36kr",           "name": "36氪",             "url": "https://www.36kr.com/feed",                                "channel": "tech",      "weight": 0.75, "lang": "zh" },
+    { "id": "ithome",         "name": "IT之家",           "url": "https://www.ithome.com/rss/",                              "channel": "tech",      "weight": 0.6,  "lang": "zh" },
+    { "id": "sspai",          "name": "少数派",           "url": "https://sspai.com/feed",                                   "channel": "tech",      "weight": 0.55, "lang": "zh" },
+    { "id": "ars",            "name": "Ars Technica",     "url": "https://arstechnica.com/feed/",                            "channel": "tech",      "weight": 0.7,  "lang": "en" },
+    { "id": "hn_best",        "name": "Hacker News",      "url": "https://hnrss.org/best",                                   "channel": "tech",      "weight": 0.65, "lang": "en" },
+    { "id": "quanta",         "name": "Quanta Magazine",  "url": "https://www.quantamagazine.org/feed/",                     "channel": "science",   "weight": 0.85, "lang": "en" },
+    { "id": "phys",           "name": "Phys.org",         "url": "https://phys.org/rss-feed/",                               "channel": "science",   "weight": 0.65, "lang": "en" },
+    { "id": "smithsonian",    "name": "Smithsonian",      "url": "https://www.smithsonianmag.com/rss/latest_articles/",      "channel": "science",   "weight": 0.7,  "lang": "en" },
+    { "id": "atlas",          "name": "Atlas Obscura",    "url": "https://www.atlasobscura.com/feeds/latest",                "channel": "curious",   "weight": 0.8,  "lang": "en" },
+    { "id": "fed_monetary", "name": "美联储货币政策", "url": "https://www.federalreserve.gov/feeds/press_monetary.xml", "channel": "finance", "weight": 1.0, "lang": "en" },
+    { "id": "ecb_press", "name": "欧洲央行", "url": "https://www.ecb.europa.eu/rss/press.html", "channel": "finance", "weight": 1.0, "lang": "en" },
+    { "id": "boj_news", "name": "日本银行", "url": "https://www.boj.or.jp/en/rss/whatsnew.xml", "channel": "finance", "weight": 1.0, "lang": "en" },
+    { "id": "un_news", "name": "联合国新闻", "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "channel": "world", "weight": 0.95, "lang": "en" },
+    { "id": "cna_world", "name": "CNA世界", "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=1044", "channel": "world", "weight": 0.8, "lang": "en" },
+    { "id": "bbc_business", "name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "channel": "finance", "weight": 0.8, "lang": "en" },
+    { "id": "scmp_business", "name": "SCMP Business", "url": "https://www.scmp.com/rss/92/feed", "channel": "finance", "weight": 0.85, "lang": "en" },
+    { "id": "cnbc_finance", "name": "CNBC Finance", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "channel": "finance", "weight": 0.8, "lang": "en" },
+    { "id": "chinanews_finance", "name": "中国新闻网财经", "url": "https://www.chinanews.com.cn/rss/finance.xml", "channel": "finance", "weight": 0.85, "lang": "zh" },
+    { "id": "chinanews_world", "name": "中国新闻网国际", "url": "https://www.chinanews.com.cn/rss/world.xml", "channel": "world", "weight": 0.85, "lang": "zh" },
+    { "id": "nature", "name": "Nature", "url": "https://www.nature.com/nature.rss", "channel": "science", "weight": 0.9, "lang": "en" },
+    { "id": "arxiv_ai", "name": "arXiv cs.AI", "url": "https://rss.arxiv.org/rss/cs.AI", "channel": "research", "weight": 0.95, "lang": "en" },
+    { "id": "arxiv_cl", "name": "arXiv cs.CL", "url": "https://rss.arxiv.org/rss/cs.CL", "channel": "research", "weight": 0.95, "lang": "en" },
+    { "id": "vllm_releases", "name": "vLLM Releases", "url": "https://github.com/vllm-project/vllm/releases.atom", "channel": "research", "weight": 1.0, "lang": "en" },
+    { "id": "vllm_ascend_releases", "name": "vLLM Ascend Releases", "url": "https://github.com/vllm-project/vllm-ascend/releases.atom", "channel": "research", "weight": 1.0, "lang": "en" },
+    { "id": "huggingface_blog", "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "channel": "tech", "weight": 0.9, "lang": "en" },
+    { "id": "nvidia_blog", "name": "NVIDIA Blog", "url": "https://blogs.nvidia.com/feed/", "channel": "tech", "weight": 0.9, "lang": "en" },
+    { "id": "google_research", "name": "Google Research", "url": "https://research.google/blog/rss/", "channel": "research", "weight": 0.95, "lang": "en" }
+  ],
+  "documents": [
+    { "id": "f_hkcna", "name": "香港中通社：每日金融数据", "url": "https://www.hkcna.hk/cn/content/s6afe5b6fe4b04d9df119f1e9.html", "channel": "finance" },
+    { "id": "c_lot", "name": "苏富比：《盛开的栗树》拍品档案", "url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et", "channel": "culture" },
+    { "id": "c_poem", "name": "维基文库：王维《山居秋暝》", "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E5%B1%85%E7%A7%8B%E6%9A%9D", "channel": "culture" }
+  ],
+  "markets": {
+    "indices": [
+      { "code": "sh000001", "label": "上证指数" },
+      { "code": "sz399001", "label": "深证成指" },
+      { "code": "sz399006", "label": "创业板指" },
+      { "code": "hkHSI",    "label": "恒生指数" }
+    ],
+    "quote_api": "https://qt.gtimg.cn/q="
+  }
+}

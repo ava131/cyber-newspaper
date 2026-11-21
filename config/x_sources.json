@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "token_environment_variable": "X_BEARER_TOKEN",
+  "endpoint": "https://api.x.com/2/tweets/search/recent",
+  "max_requests_per_run": 3,
+  "max_results_per_request": 10,
+  "queries": [
+    {"channel": "world", "query": "(from:WhiteHouse OR from:MFA_China) -is:retweet"},
+    {"channel": "finance", "query": "(from:federalreserve OR from:Nasdaq) -is:retweet"},
+    {"channel": "research", "query": "(\"KV cache\" OR \"speculative decoding\" OR vLLM) lang:en -is:retweet"}
+  ],
+  "editorial_role": "寻找当事人表态、研究发布与早期线索；保留原帖，分析回到正式文件、论文或公告。",
+  "billing_note": "官方API按量计费。默认禁用；配置enabled并显式使用--live后才发请求。单次最多30条，开发者控制台另设真实支出上限。",
+  "docs": "https://docs.x.com/x-api/posts/search/introduction"
+}

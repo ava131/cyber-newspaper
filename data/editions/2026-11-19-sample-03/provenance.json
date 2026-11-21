@@ -1,0 +1,786 @@
+{
+  "edition": "2026-11-19-sample-03",
+  "collected_at": "2026-11-19T17:33:08.692540+08:00",
+  "pages": 6,
+  "sections": 4,
+  "feed_sources_requested": 39,
+  "feed_sources_ok": 36,
+  "rss_candidates": 2664,
+  "fetch_requests": 53,
+  "fetch_success": 49,
+  "source_types_adopted": {
+    "document": 12,
+    "rss_item": 11,
+    "quotes": 1
+  },
+  "source_records_adopted": 24,
+  "source_domains_adopted": 16,
+  "market_instruments": 18,
+  "original_market_field_values": 108,
+  "computed_market_values": 36,
+  "market_comparisons_pp": {
+    "nvda_gap": 3.31,
+    "a_gap": 2.62
+  },
+  "llm_evidence_excerpts": 24,
+  "llm_content_blocks": 44,
+  "llm_paragraphs": 64,
+  "llm_nonwhitespace_characters": 6795,
+  "characters_by_page": {
+    "politics": 861,
+    "politics-depth": 1308,
+    "finance": 1089,
+    "finance-stocks": 1202,
+    "technology": 1253,
+    "culture": 1082
+  },
+  "previous_llm_characters": 3386,
+  "content_growth_ratio": 2.007,
+  "blocks_by_kind": {
+    "report": 19,
+    "analysis": 24,
+    "speculation": 1
+  },
+  "rss_time_accounting": {
+    "within_24h": 851,
+    "older_than_24h": 1719,
+    "missing_date": 30,
+    "duplicate_url": 64
+  },
+  "artwork": {
+    "path": "raw/vangogh.jpg",
+    "source": "c_lot",
+    "title": "盛开的栗树 / Châtaigniers en fleurs",
+    "artist": "Vincent van Gogh",
+    "year": "1890",
+    "caption": "梵高《盛开的栗树》，布面油画，70×58厘米。图片来自苏富比拍品档案，完整呈现，未作AI重绘。",
+    "url": "https://sothebys-md.brightspotcdn.com/dims4/default/c22bbdb/2147483647/strip/false/crop/7093x8593%2B0%2B0/resize/1024x1241%21/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fda%2F7f%2F389287e24b4690f0b14d2f0dec01%2Fn12368-9r749-t1-rx02-v2-a.jpg",
+    "sha256": "09b8881187526043bd28daa8b3c54a4e5af966f281a8d31f9d8205ad58e17356",
+    "bytes": 685425
+  },
+  "poem_origin": "public_domain_original_text_from_Wikisource_not_LLM_composed",
+  "x_status": {
+    "collected_at": "2026-11-19T09:32:58.168973+00:00",
+    "status": "disabled",
+    "posts": [],
+    "requests": 0,
+    "errors": [],
+    "reason": "实时采集需X开发者Bearer Token、可用额度和显式启用；支持导入官方API JSON。"
+  },
+  "writer": "GPT-6（本次会话）",
+  "independent_reviewer_agent": false,
+  "source_records": [
+    {
+      "id": "c_lot",
+      "title": "苏富比：《盛开的栗树》拍品档案",
+      "url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et",
+      "final_url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.349701+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/c_lot.txt",
+      "sha256": "96d6a32b7054a85a1d78d71dbfda2a55d35fd45bc0ed9c2d97a0b0325b620fb2",
+      "response_bytes": 211040,
+      "short_title": "苏富比"
+    },
+    {
+      "id": "c_poem",
+      "title": "维基文库：王维《山居秋暝》",
+      "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E5%B1%85%E7%A7%8B%E6%9A%9D",
+      "final_url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E5%B1%85%E7%A7%8B%E6%9A%9D",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.362060+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/c_poem.txt",
+      "sha256": "e2b4297e52989230b77c6695a7560a47280f6b817bc8424149446fa08de59682",
+      "response_bytes": 60493,
+      "short_title": "维基文库"
+    },
+    {
+      "id": "c_vangogh",
+      "title": "BBC：梵高拍卖",
+      "url": "https://www.bbc.com/news/articles/c5dj1dkwzvzwo",
+      "final_url": "https://www.bbc.com/news/articles/c5dj1dkwzvzwo",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.055895+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/c_vangogh.txt",
+      "sha256": "dc419f9a068fed1805b8bb90dd0501bdf5610f94ad9c010074b63539306d0f4c",
+      "response_bytes": 270141,
+      "short_title": "BBC"
+    },
+    {
+      "id": "f_fed",
+      "title": "美联储：10月27日至28日会议纪要",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+      "final_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.039732+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/f_fed.txt",
+      "sha256": "9c77d2927e106daaaa235a4dd48984a9831adf63702a08b6b4aa0b8c16201bb3",
+      "response_bytes": 122840,
+      "short_title": "美联储"
+    },
+    {
+      "id": "f_hkcna",
+      "title": "香港中通社：每日金融数据",
+      "url": "https://www.hkcna.hk/cn/content/s6afe5b6fe4b04d9df119f1e9.html",
+      "final_url": "https://www.hkcna.hk/cn/content/s6afe5b6fe4b04d9df119f1e9.html",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.327166+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/f_hkcna.txt",
+      "sha256": "7e583f44d81f9053d60b0ad13301c8f7cbb7871d21f46e8b4d3d879a70fb6a18",
+      "response_bytes": 112072,
+      "short_title": "香港中通社"
+    },
+    {
+      "id": "market_quotes",
+      "title": "腾讯行情接口",
+      "url": "https://qt.gtimg.cn/q=sh000001,sz399001,sz399006,sh000688,hkHSI,hkHSTECH,us.DJI,us.IXIC,us.INX,sh512480,sh512800,sh512660,sh512170,usNVDA,usMSFT,usGOOGL,hk09988,hk00700",
+      "final_url": "https://qt.gtimg.cn/q=sh000001,sz399001,sz399006,sh000688,hkHSI,hkHSTECH,us.DJI,us.IXIC,us.INX,sh512480,sh512800,sh512660,sh512170,usNVDA,usMSFT,usGOOGL,hk09988,hk00700",
+      "category": "quotes",
+      "fetched_at": "2026-11-19T17:33:05.338381+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/market_quotes.txt",
+      "sha256": "3dbc5232a3866c18249be47696dcda712e34da6610f5ca869183885441a36aaf",
+      "response_bytes": 7842,
+      "short_title": "腾讯行情接口"
+    },
+    {
+      "id": "p_airport",
+      "title": "新华社／辽宁省政府：机场迎接",
+      "url": "https://www.ln.gov.cn/web/ywdt/rdgz/2026111908315914821/",
+      "final_url": "https://www.ln.gov.cn/web/ywdt/rdgz/2026111908315914821/",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.039572+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/p_airport.txt",
+      "sha256": "a4ce932bded71e2487565aa0d30062ea0c2c4f38feac247a71b15b341fa37d23",
+      "response_bytes": 66188,
+      "short_title": "新华社／辽宁省政府"
+    },
+    {
+      "id": "p_meeting",
+      "title": "新华社：习近平在深圳会见特朗普",
+      "url": "https://www.xinhuanet.com/politics/leaders/20261119/f888648ca1f04a05bfa02fea3bac27fe/c.html",
+      "final_url": "https://www.xinhuanet.com/politics/leaders/20261119/f888648ca1f04a05bfa02fea3bac27fe/c.html",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.030508+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/p_meeting.txt",
+      "sha256": "e5d0dd11de07e749467fc61bf27f7eb3b533b9843f46cd7c9fdce67680af93c3",
+      "response_bytes": 7237,
+      "short_title": "新华社"
+    },
+    {
+      "id": "p_russia",
+      "title": "外交部：习近平会见普京",
+      "url": "https://www.fmprc.gov.cn/zyxw/202611/t20261118_12062007.shtml",
+      "final_url": "https://www.fmprc.gov.cn/zyxw/202611/t20261118_12062007.shtml",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.031218+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/p_russia.txt",
+      "sha256": "b34efa799c72a8cdd00a004890b62486dad3ababd1069a7732876088d89b3e7d",
+      "response_bytes": 63331,
+      "short_title": "外交部"
+    },
+    {
+      "id": "p_trilateral",
+      "title": "外交部：三方会晤预告",
+      "url": "https://www.fmprc.gov.cn/wjdt_674879/wsrc_674883/202611/t20261116_12059654.shtml",
+      "final_url": "https://www.fmprc.gov.cn/wjdt_674879/wsrc_674883/202611/t20261116_12059654.shtml",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.036840+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/p_trilateral.txt",
+      "sha256": "7b2e9165803ee7afdd83a31d7206aa993bdd40c99ee94b13940ea4b5f56ab02b",
+      "response_bytes": 58751,
+      "short_title": "外交部"
+    },
+    {
+      "id": "rss_136cb5f577db",
+      "title": "Anthropic raises $81bn in record IPO",
+      "short_title": "Financial Times · 摘要",
+      "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
+      "category": "rss_item",
+      "parent_feed": "ft",
+      "published": "2026-11-19T07:04:26+00:00",
+      "fetched_at": "2026-11-19T17:32:59.111294+08:00",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/ft.xml"
+    },
+    {
+      "id": "rss_15da897db9d5",
+      "title": "商务部：1—10月社会消费商品和服务零售总额同比增长2.5%",
+      "short_title": "中国新闻网财经 · 摘要",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734733.shtml",
+      "category": "rss_item",
+      "parent_feed": "chinanews_finance",
+      "published": "2026-11-19T08:56:15+00:00",
+      "fetched_at": "2026-11-19T17:33:02.945037+08:00",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/chinanews_finance.xml"
+    },
+    {
+      "id": "rss_5a9c64a2d43f",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "short_title": "BBC World · 摘要",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "category": "rss_item",
+      "parent_feed": "bbc_world",
+      "published": "2026-11-18T23:04:06+00:00",
+      "fetched_at": "2026-11-19T17:32:57.740760+08:00",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/bbc_world.xml"
+    },
+    {
+      "id": "rss_5ebb755ab9a9",
+      "title": "强气旋风暴逼近 印度东部沿海逾4.6万人转移避险",
+      "short_title": "中国新闻网国际 · 摘要",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734736.shtml",
+      "category": "rss_item",
+      "parent_feed": "chinanews_world",
+      "published": "2026-11-19T08:56:51+00:00",
+      "fetched_at": "2026-11-19T17:33:03.130308+08:00",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/chinanews_world.xml"
+    },
+    {
+      "id": "rss_8ca305d12520",
+      "title": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议",
+      "short_title": "中国新闻网国际 · 摘要",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734468.shtml",
+      "category": "rss_item",
+      "parent_feed": "chinanews_world",
+      "published": "2026-11-19T02:11:13+00:00",
+      "fetched_at": "2026-11-19T17:33:03.130308+08:00",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/chinanews_world.xml"
+    },
+    {
+      "id": "rss_91854a92b6c9",
+      "title": "A股收评：超4800只个股飘绿，三大指数集体收跌",
+      "short_title": "中国新闻网财经 · 摘要",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734675.shtml",
+      "category": "rss_item",
+      "parent_feed": "chinanews_finance",
+      "published": "2026-11-19T07:52:21+00:00",
+      "fetched_at": "2026-11-19T17:33:02.945037+08:00",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/chinanews_finance.xml"
+    },
+    {
+      "id": "rss_a38af942c1ac",
+      "title": "乌克兰称袭击俄罗斯两座炼油厂",
+      "short_title": "中国新闻网国际 · 摘要",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734629.shtml",
+      "category": "rss_item",
+      "parent_feed": "chinanews_world",
+      "published": "2026-11-19T07:28:00+00:00",
+      "fetched_at": "2026-11-19T17:33:03.130308+08:00",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/chinanews_world.xml"
+    },
+    {
+      "id": "rss_b1eacb0f2acb",
+      "title": "Tencent says US chip curbs ‘unfortunate’ and may slow AI training in short run",
+      "short_title": "SCMP Business · 摘要",
+      "url": "https://www.scmp.com/tech/big-tech/article/3374902/tencent-profit-dips-sixfold-increase-ai-infrastructure-spending-sacrifices-margin",
+      "category": "rss_item",
+      "parent_feed": "scmp_business",
+      "published": "2026-11-18T09:49:49+00:00",
+      "fetched_at": "2026-11-19T17:33:02.801572+08:00",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/scmp_business.xml"
+    },
+    {
+      "id": "rss_c001576464ae",
+      "title": "辽宁省算力券政策正式落地实施",
+      "short_title": "中国新闻网财经 · 摘要",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734549.shtml",
+      "category": "rss_item",
+      "parent_feed": "chinanews_finance",
+      "published": "2026-11-19T03:29:11+00:00",
+      "fetched_at": "2026-11-19T17:33:02.945037+08:00",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/chinanews_finance.xml"
+    },
+    {
+      "id": "rss_c717b9808100",
+      "title": "v0.32.0rc1",
+      "short_title": "vLLM Ascend Releases · 摘要",
+      "url": "https://github.com/vllm-project/vllm-ascend/releases/tag/v0.32.0rc1",
+      "category": "rss_item",
+      "parent_feed": "vllm_ascend_releases",
+      "published": "2026-11-10T16:45:28+00:00",
+      "fetched_at": "2026-11-19T17:33:03.473835+08:00",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/vllm_ascend_releases.xml"
+    },
+    {
+      "id": "rss_ecb256426dd1",
+      "title": "Crimean Bridge attacked again, Russia says",
+      "short_title": "BBC World · 摘要",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "category": "rss_item",
+      "parent_feed": "bbc_world",
+      "published": "2026-11-19T07:32:06+00:00",
+      "fetched_at": "2026-11-19T17:32:57.740760+08:00",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/bbc_world.xml"
+    },
+    {
+      "id": "t_aws",
+      "title": "AWS：ElastiCache分布式KV缓存",
+      "url": "https://aws.amazon.com/blogs/database/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/",
+      "final_url": "https://aws.amazon.com/blogs/database/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.047831+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/t_aws.txt",
+      "sha256": "4f20d4367f721b6bb2be317e62928cc07ef32b57005ea66b1288b0f49fd8c91b",
+      "response_bytes": 1676971,
+      "short_title": "AWS"
+    },
+    {
+      "id": "t_offload",
+      "title": "arXiv：FlashOffloading",
+      "url": "https://arxiv.org/abs/2611.07542",
+      "final_url": "https://arxiv.org/abs/2611.07542",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.050520+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/t_offload.txt",
+      "sha256": "d388a0a7cc6dbc025f56ad8000a72726cd08696cf97760075bca2119e2a1eed2",
+      "response_bytes": 43999,
+      "short_title": "arXiv"
+    },
+    {
+      "id": "t_quant",
+      "title": "arXiv：Beyond Bitwidth",
+      "url": "https://arxiv.org/abs/2611.21974",
+      "final_url": "https://arxiv.org/abs/2611.21974",
+      "category": "document",
+      "fetched_at": "2026-11-19T17:32:57.053243+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/t_quant.txt",
+      "sha256": "6b41bf333cf053812e364b740ede1842f05018b328b21318e4c9f9ae95ef1f9a",
+      "response_bytes": 42012,
+      "short_title": "arXiv"
+    }
+  ],
+  "story_provenance": [
+    {
+      "id": "p_record",
+      "kind": "report",
+      "sources": [
+        "p_airport",
+        "p_meeting",
+        "p_russia",
+        "p_trilateral"
+      ],
+      "evidence": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E05"
+      ]
+    },
+    {
+      "id": "p_protocol",
+      "kind": "analysis",
+      "sources": [
+        "p_airport",
+        "p_meeting"
+      ],
+      "evidence": [
+        "E01",
+        "E05"
+      ]
+    },
+    {
+      "id": "p_text",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_brief1",
+      "kind": "report",
+      "sources": [
+        "rss_ecb256426dd1"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_brief2",
+      "kind": "report",
+      "sources": [
+        "rss_5a9c64a2d43f"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_ukraine",
+      "kind": "report",
+      "sources": [
+        "rss_a38af942c1ac"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_accounts",
+      "kind": "analysis",
+      "sources": [
+        "p_meeting",
+        "p_russia",
+        "p_trilateral"
+      ],
+      "evidence": [
+        "E01",
+        "E02",
+        "E03",
+        "E04"
+      ]
+    },
+    {
+      "id": "p_constraints",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_watch",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_three_paths",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_smaller",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_speculation",
+      "kind": "speculation",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_gaza",
+      "kind": "report",
+      "sources": [
+        "rss_8ca305d12520"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_weather",
+      "kind": "report",
+      "sources": [
+        "rss_5ebb755ab9a9"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_event",
+      "kind": "report",
+      "sources": [
+        "f_fed"
+      ],
+      "evidence": [
+        "E06",
+        "E07",
+        "E08"
+      ]
+    },
+    {
+      "id": "f_transmission",
+      "kind": "analysis",
+      "sources": [
+        "f_fed"
+      ],
+      "evidence": [
+        "E07"
+      ]
+    },
+    {
+      "id": "f_read",
+      "kind": "analysis",
+      "sources": [
+        "f_fed"
+      ],
+      "evidence": [
+        "E07"
+      ]
+    },
+    {
+      "id": "f_breadth",
+      "kind": "report",
+      "sources": [
+        "rss_91854a92b6c9"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_breadth_read",
+      "kind": "analysis",
+      "sources": [
+        "f_hkcna"
+      ],
+      "evidence": [
+        "E23",
+        "E24"
+      ]
+    },
+    {
+      "id": "f_macro_brief",
+      "kind": "report",
+      "sources": [
+        "rss_15da897db9d5"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_sectors",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_nvda",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_company_tencent",
+      "kind": "report",
+      "sources": [
+        "rss_b1eacb0f2acb"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_company_read",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_relative",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_action",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_checklist",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_watchlist",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "t_event",
+      "kind": "report",
+      "sources": [
+        "t_aws"
+      ],
+      "evidence": [
+        "E09",
+        "E10",
+        "E11"
+      ]
+    },
+    {
+      "id": "t_mechanism",
+      "kind": "analysis",
+      "sources": [
+        "t_aws"
+      ],
+      "evidence": [
+        "E11"
+      ]
+    },
+    {
+      "id": "t_practice",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "t_paper1",
+      "kind": "report",
+      "sources": [
+        "t_offload"
+      ],
+      "evidence": [
+        "E12",
+        "E13"
+      ]
+    },
+    {
+      "id": "t_paper2",
+      "kind": "report",
+      "sources": [
+        "t_quant"
+      ],
+      "evidence": [
+        "E14",
+        "E15"
+      ]
+    },
+    {
+      "id": "t_release",
+      "kind": "report",
+      "sources": [
+        "rss_c717b9808100"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "t_industry",
+      "kind": "report",
+      "sources": [
+        "rss_136cb5f577db"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "t_subsidy",
+      "kind": "report",
+      "sources": [
+        "rss_c001576464ae"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "t_industry_read",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "c_look",
+      "kind": "analysis",
+      "sources": [
+        "c_lot"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "c_brush",
+      "kind": "analysis",
+      "sources": [
+        "c_lot"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "c_context",
+      "kind": "report",
+      "sources": [
+        "c_lot"
+      ],
+      "evidence": [
+        "E20",
+        "E21"
+      ]
+    },
+    {
+      "id": "c_poetry_read",
+      "kind": "analysis",
+      "sources": [
+        "c_poem"
+      ],
+      "evidence": [
+        "E22"
+      ]
+    },
+    {
+      "id": "c_event",
+      "kind": "report",
+      "sources": [
+        "c_vangogh"
+      ],
+      "evidence": [
+        "E16",
+        "E17",
+        "E18"
+      ]
+    },
+    {
+      "id": "c_history",
+      "kind": "report",
+      "sources": [
+        "c_vangogh"
+      ],
+      "evidence": [
+        "E19"
+      ]
+    },
+    {
+      "id": "c_question",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    }
+  ],
+  "fetch_failures": [
+    {
+      "id": "f_nvidia",
+      "title": "AP：亚洲市场与英伟达表现",
+      "url": "https://apnews.com/article/206c84045137824feabe052a29ff6140",
+      "category": "document",
+      "status": "failed",
+      "fetched_at": "2026-11-19T17:32:57.045115+08:00",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "zaobao",
+      "title": "联合早报",
+      "url": "https://www.zaobao.com/rss/realtime/china",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-19T17:32:58.469212+08:00",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    },
+    {
+      "id": "un_news",
+      "title": "联合国新闻",
+      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-19T17:33:01.868928+08:00",
+      "error": "not well-formed (invalid token): line 1, column 0"
+    },
+    {
+      "id": "cna_world",
+      "title": "CNA世界",
+      "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=1044",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-19T17:33:02.332709+08:00",
+      "error": "Feed contains no parseable articles"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="”renderer”" content="”webkit”" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+	<META HTTP-EQUIV="pragma" CONTENT="no-cache"><META HTTP-EQUIV="Cache-Control" CONTENT="no-store, must-revalidate">
+<style>
+@media screen and (max-width: 750px){
+ #con_con *{max-width:100% !important;overflow-x:auto !important;}
+}
+</style>
+</META></META></meta><script src="/cms_files/default/script/jslib/jquery.js"></script>
+ <script src="/cms_files/default/script/jslib/jquery.cookie.js"></script>
+ <script src="/cms_files/default/script/layui/layui.all.js"></script>
+ <script src="/cms_files/default/script/layui/layer/layer.js"></script>
+ <script src="/script/webglobal.js"></script>
+ <script src="/plugins/libs/require.js"></script>
+ <script src="/plugins/libs/load.js"></script>
+ <script src="/script/webgray.js"></script>
+ <link rel="stylesheet" href="/cms_files/default/css/article.css" />
+<link rel="stylesheet" href="/cms_files/default/css/iconfont.css" />
+<link rel="stylesheet" href="/cms_files/default/script/layui/css/layui.css" />
+<title>习近平会见美国总统特朗普</title>
+<meta name="SiteName" content="中华人民共和国工业和信息化部">
+<meta name="SiteDomain" content="www.miit.gov.cn">
+<meta name="SiteIDCode" content="bm07000001">
+<meta name="ColumnName" content="时政要闻">
+<meta name="ColumnType" content="时政要闻">
+<meta name="ArticleTitle" content="习近平会见美国总统特朗普">
+<meta name="PubDate" content="2026-11-19 17:38">
+<meta name="ContentSource" content="新华社">
+<meta name="Keywords" content="关系,中美,国,稳定,习近平">
+<meta name="Author" content="">
+<meta name="Description" content="新华社深圳11月19日电（记者杨依军、王攀）11月19日下午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的美国总统特朗普。习近平指出，过去几个月，从北京到华盛顿，我和特朗普总统共同探索中美两个大国正确相处之道，确立了“中美建设性战略稳定关系”的新定位，并赋予其“基于尊重、公平、对等”的新内涵，受到中美两国人民认可和国际社会欢迎。">
+<meta name="Url" content="/xwfb/szyw/art/2026/art_ea887ddfeeb54ccd8437dfd526b096f4.html">
+<meta name="MakeTime" content="2026-11-19 17:40:01">
+
+<meta id="pagetype" content="1">
+</meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
+
+<body id="page_type" alt="文章页" class="wzy-wrapper">
+<link type="text/css" href="/cms_files/webmiit/tplobject/gxbsy/e38ea647c8eb4b28b489e49d61fcbd1e/images/layout.css" rel="stylesheet" />
+<link href="/cms_files/webmiit/tplobject/gxbsy/e38ea647c8eb4b28b489e49d61fcbd1e/images/main.css" type="text/css" rel="stylesheet">
+
+<script type="text/javascript" src="/cms_files/webmiit/tplobject/gxbsy/e38ea647c8eb4b28b489e49d61fcbd1e/images/pdy_tyyr.js"></script>
+
+<div class="w1100 head clearfix"><script src="/cms_files/filemanager/script/201911/6b79016112cc4d66aeb22aa6d9d999dc.js" type="text/javascript" charset="utf-8"></script>
+</div>
+<script src="/cms_files/filemanager/script/20201/f77a47db235946388a3ee648b566c5ac.js" type="text/javascript" charset="utf-8"></script>
+<!-- <div style="background:url(/cms_files/webmiit/tplobject/gxbsy/e38ea647c8eb4b28b489e49d61fcbd1e/images/7037090.png) repeat-x; width:100%; height:10px;"></div> -->
+
+<div class="w980 center mnav">
+    <span>
+      <a href="/index.html">首页</a>  >  
+      <a href="/xwfb/index.html">新闻发布</a>  >  
+      <a href="/xwfb/szyw/index.html">时政要闻</a>
+    </span>
+</div>
+
+<div class="w980 center cmain">
+
+
+
+
+    <script src="/cms_files/filemanager/1226211233/script/20238/ac3a4b2a769f440d86dc4b78a6dc142d.js" type="text/javascript" charset="utf-8"></script>
+    
+    <div class="ctitle">
+        
+        <h1 id="con_title">习近平会见美国总统特朗普</h1>
+        
+    
+    </div>
+    
+    <div class="cinfo center">
+        <span id="con_time">发布时间：2026-11-19 17:00</span>  <span>来源：新华社</span>
+    </div>
+    
+    
+    <div class="ccontent center" id="con_con" style="font-size:14px;font-family:'宋体';">
+        <p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-align: center;"><img src="https://www.gov.cn/yaowen/liebiao/202611/W020261119603149636275_ORIGIN.JPG" width="800" title="" alt="" style="text-size-adjust: none; margin: 0px; padding: 0px; border: none; list-style: none; max-width: 100%;" /></p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="text-size-adjust: none; margin: 0px; padding: 0px; border: 0px; list-style: none; color: rgb(0, 0, 255);">11月19日下午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的美国总统特朗普。新华社记者 燕雁 摄</span><br /></p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 2em;">新华社深圳11月19日电（记者杨依军、王攀）11月19日下午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的美国总统特朗普。</p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-align: center;"><img src="https://www.gov.cn/yaowen/liebiao/202611/W020261119603159606801_ORIGIN.JPG" width="800" title="" alt="" style="text-size-adjust: none; margin: 0px; padding: 0px; border: none; list-style: none; max-width: 100%;" /></p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="text-size-adjust: none; margin: 0px; padding: 0px; border: 0px; list-style: none; color: rgb(0, 0, 255);">11月19日下午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的美国总统特朗普。新华社记者 李涛 摄</span></p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 2em;">习近平指出，过去几个月，从北京到华盛顿，我和特朗普总统共同探索中美两个大国正确相处之道，确立了“中美建设性战略稳定关系”的新定位，并赋予其“基于尊重、公平、对等”的新内涵，受到中美两国人民认可和国际社会欢迎。中美关系总体稳定向好，给两国人民带来实实在在的利益，也给世界注入稳定性和确定性。我期待同特朗普总统一道，继续为中美关系领航掌舵，确保这艘大船始终沿着正确航线扬帆远航。</p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 2em;">习近平强调，构建中美建设性战略稳定关系是前无古人的开创性事业，需要敢闯敢试、脚踏实地、善作善成。中美元首外交的引领作用不可替代。要延续中美关系目前的稳定向好势头，关键是要在落实元首共识上付诸行动。双方团队的沟通也要跟上。要拉长合作清单、压缩问题清单，一时解决不了的分歧要建设性管控，防止矛盾升级。在台湾问题上，美方要坚持做正确的事，避免中美关系出现大的波折。经贸领域要加强沟通，解决彼此关切，争取互利互惠。两国在禁毒、非法移民遣返、打击电信网络诈骗等领域的合作卓有成效，可以本着尊重、公平、对等的原则继续加强合作。中美应当加强沟通和协调，防范人工智能安全风险，确保人工智能始终处于人类控制之下。</p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-align: center;"><img src="https://www.gov.cn/yaowen/liebiao/202611/W020261119605735461568_ORIGIN.JPG" width="800" title="" alt="" style="text-size-adjust: none; margin: 0px; padding: 0px; border: none; list-style: none; max-width: 100%;" /></p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="text-size-adjust: none; margin: 0px; padding: 0px; border: 0px; list-style: none; color: rgb(0, 0, 255);">11月19日下午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的美国总统特朗普。新华社记者 燕雁 摄</span><br /></p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-align: center;"><img src="https://www.gov.cn/yaowen/liebiao/202611/W020261119605735991120_ORIGIN.JPG" width="800" title="" alt="" style="text-size-adjust: none; margin: 0px; padding: 0px; border: none; list-style: none; max-width: 100%;" /></p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="text-size-adjust: none; margin: 0px; padding: 0px; border: 0px; list-style: none; color: rgb(0, 0, 255);">11月19日下午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的美国总统特朗普。新华社记者 燕雁 摄</span></p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 2em;">特朗普非常感谢中方对他的热情接待，表示建交40多年来，美中关系取得显著进展。我同习近平主席保持密切交往，友谊日益深厚，共同引领美中关系发展。两国贸易、投资关系不断加强，芬太尼等领域合作取得成效。双方应保持美中关系稳定发展势头，在农产品、能源、超级智能等领域加强合作，公平处理好各自关切。美国不支持“台独”。祝贺中方成功举办亚太经合组织领导人非正式会议。美国非常强大，中国也非常强大，两国要共同引领和促进世界和平稳定。</p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 2em;">双方认为此次会晤是积极、建设性的，同意制定建设性战略稳定关系行动计划，落实两国元首共识，构建基于尊重、公平、对等的中美建设性战略稳定关系。</p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 2em;">两国元首还就共同关心的国际和地区问题交换了意见。</p><p style="text-size-adjust: none; margin-top: 15px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 2em;">蔡奇、王毅、何立峰、黄坤明等参加会见。</p>
+        
+        
+    
+    
+    
+    </div>
+    
+    <!--二维码-->
+    <div id="ewmzs"></div>
+    
+    <div class="article_fd">
+        <div class="article_fd_l">
+            <div class="share">
+                <!--分享代码开始-->
+                <div id="shareSc"></div>
+                <!--分享代码结束-->
+            </div>
+    
+        </div>
+    
+        <div class="article_fd_r">
+            <a href="javascript:window.scrollTo(0,0);">【返回顶部】</a>
+            <a href="javascript:window.opener=null;window.open('','_self');window.close();">【关闭窗口】</a>
+            <a href="javascript:window.print()">【打印本页】</a>
+        </div>
+    
+    </div>
+           <style>
+    .cinfo span{ margin-right:20px}
+    </style>       
+    
+    <script>
+        $(function () {
+            
+setTimeout(function () { 
+    $(".related li span").each(function(){
+if($(this).text()=="1970-01-01"){
+    $(this).parent().hide()
+}
+    })
+}, 100)
+            
+               var ua = window.navigator.userAgent.toLowerCase();
+if (window.screen.width < 648) {
+ $(".ccontent a").each(function(){
+     if ($(this).attr("href").indexOf("attach")!==-1) {
+         $(this).attr("download",$(this).text());
+         if (ua.match(/micromessenger/i) == 'micromessenger') {
+                    $(this).on("click",function () {
+                        atturl = "https://www.miit.gov.cn"+$(this).attr("href")
+                        wx.miniProgram.navigateTo({
+                     url:"/pages/file-upload/main?url="+encodeURIComponent(atturl)
+                     });
+                     
+                     return false;
+                    })
+                 // 打开微信特定页面，然后下载文件
+             } 
+
+     }
+    
+ })
+}
+        })
+     
+    </script><script>
+var authorizedReadUnitId = "00b7637ec0b14bee92af907af807db7e";
+</script><script id="00b7637ec0b14bee92af907af807db7e" src="/cms_files/default/script/AuthorizedRead/unitbuild.js?v=3.1.3-GXB" webId="8d828e408d90447786ddbe128d495e9e" parseType="build" url="/api-gateway/jpaas-publish-server/front/page/build/unit" queryData="{&quot;parseType&quot;:&quot;build&quot;,&quot;webId&quot;:&quot;8d828e408d90447786ddbe128d495e9e&quot;,&quot;tplSetId&quot;:&quot;209741b2109044b5b7695700b2bec37e&quot;,&quot;pageType&quot;:&quot;article&quot;,&quot;tagId&quot;:&quot;文章正文2&quot;,&quot;editType&quot;:&quot;null&quot;,&quot;pageId&quot;:&quot;ea887ddfeeb54ccd8437dfd526b096f4&quot;}"></script>
+
+</div>
+
+<script src="/cms_files/filemanager/script/20201/840397482ca5455aa2209d4942e43e72.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" src="/cms_files/webmiit/tplobject/gxbsy/e38ea647c8eb4b28b489e49d61fcbd1e/images/shareSc.js"></script>
+</link></body>
+</html>

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "E01",
+    "source": "p_meeting",
+    "quote": "11月19日下午，国家主席习近平在深圳会见",
+    "claim": "中美元首于11月19日下午在深圳会见"
+  },
+  {
+    "id": "E02",
+    "source": "p_russia",
+    "quote": "2026年11月18日，国家主席习近平在深圳会见",
+    "claim": "中俄会见发生于11月18日"
+  },
+  {
+    "id": "E03",
+    "source": "p_russia",
+    "quote": "贸易、能源、教育",
+    "claim": "俄方通稿提到的合作领域"
+  },
+  {
+    "id": "E04",
+    "source": "p_trilateral",
+    "quote": "11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤",
+    "claim": "三方会晤为官方事先宣布的安排，本稿未将其写成已经达成协议"
+  },
+  {
+    "id": "E05",
+    "source": "p_airport",
+    "quote": "深圳宝安国际机场迎接",
+    "claim": "习近平在深圳机场迎接特朗普"
+  },
+  {
+    "id": "E06",
+    "source": "f_fed",
+    "quote": "3-3/4 to 4 percent",
+    "claim": "10月会议维持3.75%至4%目标区间"
+  },
+  {
+    "id": "E07",
+    "source": "f_fed",
+    "quote": "further action to raise the target range",
+    "claim": "纪要反映进一步加息倾向"
+  },
+  {
+    "id": "E08",
+    "source": "f_fed",
+    "quote": "December 8–9, 2026",
+    "claim": "下一次FOMC会议日期"
+  },
+  {
+    "id": "E09",
+    "source": "t_aws",
+    "quote": "by up to 40%",
+    "claim": "AWS报告推理成本最多降低40%，不是本项目实测"
+  },
+  {
+    "id": "E10",
+    "source": "t_aws",
+    "quote": "by up to 80%",
+    "claim": "AWS报告TTFT最多降低80%，不是所有场景的收益"
+  },
+  {
+    "id": "E11",
+    "source": "t_aws",
+    "quote": "through the open-source LMCache connector",
+    "claim": "AWS方案通过LMCache连接器接入推理引擎"
+  },
+  {
+    "id": "E12",
+    "source": "t_offload",
+    "quote": "under a 30 ms TPOT constraint",
+    "claim": "FlashOffloading摘要中的服务约束"
+  },
+  {
+    "id": "E13",
+    "source": "t_offload",
+    "quote": "up to 1.91",
+    "claim": "FlashOffloading摘要中的decode最大吞吐提升"
+  },
+  {
+    "id": "E14",
+    "source": "t_quant",
+    "quote": "all seven tested INT2 grids degenerate on generation",
+    "claim": "Beyond Bitwidth摘要报告的INT2生成退化"
+  },
+  {
+    "id": "E15",
+    "source": "t_quant",
+    "quote": "Final checkpoints were not retained",
+    "claim": "论文摘要说明未保留最终checkpoint"
+  },
+  {
+    "id": "E16",
+    "source": "c_vangogh",
+    "quote": "$190.4m",
+    "claim": "梵高作品成交金额1.904亿美元"
+  },
+  {
+    "id": "E17",
+    "source": "c_vangogh",
+    "quote": "$117.2 million set in 2022",
+    "claim": "此前梵高作品拍卖纪录为2022年的1.172亿美元"
+  },
+  {
+    "id": "E18",
+    "source": "c_vangogh",
+    "quote": "painted in 1890",
+    "claim": "本次拍卖作品作于1890年"
+  },
+  {
+    "id": "E19",
+    "source": "c_vangogh",
+    "quote": "a mutually satisfactory resolution",
+    "claim": "BBC报道两家族就流转争议达成解决方案"
+  }
+]

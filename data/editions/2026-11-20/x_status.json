@@ -1,0 +1,8 @@
+{
+  "collected_at": "2026-11-20T01:28:48.066569+00:00",
+  "status": "disabled",
+  "posts": [],
+  "requests": 0,
+  "errors": [],
+  "reason": "实时采集需X开发者Bearer Token、可用额度和显式启用；支持导入官方API JSON。"
+}

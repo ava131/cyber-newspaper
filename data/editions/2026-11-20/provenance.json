@@ -1,0 +1,803 @@
+{
+  "edition": "2026-11-20",
+  "collected_at": "2026-11-20T09:25:03.179704+08:00",
+  "enriched_at": "2026-11-20T09:28:05.450156+08:00",
+  "pages": 6,
+  "sections": 4,
+  "feed_sources_requested": 39,
+  "feed_sources_ok": 36,
+  "rss_candidates": 2653,
+  "fetch_requests": 55,
+  "fetch_success": 48,
+  "source_records_adopted": 21,
+  "source_types_adopted": {
+    "document": 11,
+    "web_excerpt": 2,
+    "rss_item": 6,
+    "quotes": 2
+  },
+  "source_domains_adopted": 16,
+  "market_instruments": 18,
+  "original_market_field_values": 108,
+  "computed_market_values": 36,
+  "market_comparisons": {
+    "nvda_gap": 1.044762,
+    "a_gap": 2.616923,
+    "nvda_two_day": -6.098031648012359
+  },
+  "market_context": {
+    "mode": "morning_before_AH_open",
+    "baseline_edition": "2026-11-19-sample-03",
+    "AH_snapshot_label": "11/19",
+    "US_snapshot_label": "11/19",
+    "note": "美股采用11/19常规收盘接口；A股、港股沿用11/19存档快照。今日盘前及竞价另记，未纳入本表。"
+  },
+  "archived_AH_instruments": 12,
+  "llm_content_blocks": 46,
+  "llm_paragraphs": 71,
+  "llm_nonwhitespace_characters": 7465,
+  "characters_by_page": {
+    "politics": 1038,
+    "politics-depth": 1356,
+    "finance": 1237,
+    "finance-stocks": 1300,
+    "technology": 1462,
+    "culture": 1072
+  },
+  "blocks_by_kind": {
+    "report": 15,
+    "analysis": 30,
+    "speculation": 1
+  },
+  "evidence_excerpt_checks": 23,
+  "rss_time_accounting": {
+    "within_24h": 799,
+    "older_than_24h": 1761,
+    "future_date": 1,
+    "missing_date": 30,
+    "duplicate_url": 62
+  },
+  "writer": "GPT-6（本次会话）",
+  "independent_reviewer_agent": false,
+  "x_status": {
+    "collected_at": "2026-11-20T01:28:48.066569+00:00",
+    "status": "disabled",
+    "posts": [],
+    "requests": 0,
+    "errors": [],
+    "reason": "实时采集需X开发者Bearer Token、可用额度和显式启用；支持导入官方API JSON。"
+  },
+  "artwork": {
+    "path": "raw/vermeer.jpg",
+    "source": "c_art_web",
+    "title": "持天平的女人 / Woman Holding a Balance",
+    "artist": "Johannes Vermeer",
+    "year": "约1664年",
+    "caption": "维米尔《持天平的女人》，约1664年，布面油画。美国国家美术馆，Widener Collection。绘画表面39.7×35.5厘米；馆方公版图像。",
+    "alt": "维米尔《持天平的女人》：蓝衣女子在窗边提着小天平，桌上有首饰，背后悬挂一幅画。",
+    "url": "https://api.nga.gov/iiif/c948cf32-e6c7-41a0-a053-0ad0562960c4/full/%21800%2C800/0/default.jpg",
+    "sha256": "7cfcbf1937d7b2d00515c3c7aa70e2926be1792f51401b4b43ca8b925d0e63e7",
+    "bytes": 108722
+  },
+  "poem_origin": "public_domain_original_verified_against_source",
+  "source_records": [
+    {
+      "id": "c_art_web",
+      "title": "美国国家美术馆：持天平的女人（网页工具摘录）",
+      "url": "https://www.nga.gov/artworks/1236-woman-holding-balance",
+      "retrieval_method": "web_open_excerpt_archived_by_editor",
+      "category": "web_excerpt",
+      "status": "ok",
+      "fetched_at": "2026-11-20T09:37:03.494822+08:00",
+      "raw_path": "data/editions/2026-11-20/raw/c_art_web.txt",
+      "sha256": "e47b65bf58011430e5dda48cd54fd69e5449d9adae52819508bc179a30644957",
+      "short_title": "美国国家美术馆"
+    },
+    {
+      "id": "c_poem",
+      "title": "维基文库：柳宗元《江雪》",
+      "url": "https://zh.wikisource.org/wiki/%E6%B1%9F%E9%9B%AA",
+      "final_url": "https://zh.wikisource.org/wiki/%E6%B1%9F%E9%9B%AA",
+      "category": "document",
+      "fetched_at": "2026-11-20T09:26:50.156317+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/c_poem.txt",
+      "sha256": "54685918926933444529c7d14c232670918cd8f54a73f0ca96c2e94b27e32b3f",
+      "response_bytes": 58680,
+      "short_title": "维基文库"
+    },
+    {
+      "id": "f_anthropic",
+      "title": "Anthropic：IPO定价公告",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "final_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "category": "document",
+      "fetched_at": "2026-11-20T09:26:48.958358+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/f_anthropic.txt",
+      "sha256": "2f577170a4f7eeef79a603151116863a3dc9b49a9ef9e7cbb261a74c37bb37b5",
+      "response_bytes": 133603,
+      "short_title": "Anthropic"
+    },
+    {
+      "id": "f_breadth",
+      "title": "央广财经／东方财富：11月19日A股收评",
+      "url": "https://finance.eastmoney.com/a/202611193935011146.html",
+      "final_url": "https://finance.eastmoney.com/a/202611193935011146.html",
+      "category": "document",
+      "fetched_at": "2026-11-20T09:28:05.062353+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/f_breadth.txt",
+      "sha256": "d81c803da1d973305db4ed1bc5dc6d6d4203134f99a876c6d1f288906f8e7e0b",
+      "response_bytes": 62586,
+      "short_title": "央广财经／东方财富"
+    },
+    {
+      "id": "f_fed",
+      "title": "美联储：10月27日至28日会议纪要",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+      "final_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+      "category": "document",
+      "fetched_at": "2026-11-20T09:26:48.955610+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/f_fed.txt",
+      "sha256": "34b9b91b6690c09b68d3ab52a94ca209a6a5c047b16983d638b19a013beae6ac",
+      "response_bytes": 122840,
+      "short_title": "美联储"
+    },
+    {
+      "id": "f_nvidia",
+      "title": "NVIDIA：2027财年第三季度业绩",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "final_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "category": "document",
+      "fetched_at": "2026-11-20T09:26:48.952917+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/f_nvidia.txt",
+      "sha256": "2e952b2165b23d8d40abd3fe49976f9e9adab508d8d20d61829c54156193e039",
+      "response_bytes": 397944,
+      "short_title": "NVIDIA"
+    },
+    {
+      "id": "market_quotes",
+      "title": "腾讯行情接口",
+      "url": "https://qt.gtimg.cn/q=sh000001,sz399001,sz399006,sh000688,hkHSI,hkHSTECH,us.DJI,us.IXIC,us.INX,sh512480,sh512800,sh512660,sh512170,usNVDA,usMSFT,usGOOGL,hk09988,hk00700",
+      "final_url": "https://qt.gtimg.cn/q=sh000001,sz399001,sz399006,sh000688,hkHSI,hkHSTECH,us.DJI,us.IXIC,us.INX,sh512480,sh512800,sh512660,sh512170,usNVDA,usMSFT,usGOOGL,hk09988,hk00700",
+      "category": "quotes",
+      "fetched_at": "2026-11-20T09:24:34.317857+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/market_quotes.txt",
+      "sha256": "6fbe735e1b0d1241bf66700418a40d15c891cad7355a60212de61100a9c636ff",
+      "response_bytes": 7063,
+      "short_title": "腾讯行情接口"
+    },
+    {
+      "id": "market_quotes_prior",
+      "title": "腾讯行情：11/19 A股及港股存档快照",
+      "url": "https://qt.gtimg.cn/q=sh000001,sz399001,sz399006,sh000688,hkHSI,hkHSTECH,us.DJI,us.IXIC,us.INX,sh512480,sh512800,sh512660,sh512170,usNVDA,usMSFT,usGOOGL,hk09988,hk00700",
+      "final_url": "https://qt.gtimg.cn/q=sh000001,sz399001,sz399006,sh000688,hkHSI,hkHSTECH,us.DJI,us.IXIC,us.INX,sh512480,sh512800,sh512660,sh512170,usNVDA,usMSFT,usGOOGL,hk09988,hk00700",
+      "category": "quotes",
+      "fetched_at": "2026-11-19T17:33:05.338381+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-19-sample-03/raw/market_quotes.txt",
+      "sha256": "3dbc5232a3866c18249be47696dcda712e34da6610f5ca869183885441a36aaf",
+      "response_bytes": 7842,
+      "retrieval_method": "prior_edition_snapshot",
+      "archived_edition": "2026-11-19-sample-03",
+      "short_title": "腾讯行情"
+    },
+    {
+      "id": "p_bilateral",
+      "title": "新华社／工信部：习近平会见特朗普",
+      "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_ea887ddfeeb54ccd8437dfd526b096f4.html",
+      "final_url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_ea887ddfeeb54ccd8437dfd526b096f4.html",
+      "category": "document",
+      "fetched_at": "2026-11-20T09:26:48.944822+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/p_bilateral.txt",
+      "sha256": "4e8419bb885fee952c89726c63597fd6502342b8698cff492fbc7886d99202b3",
+      "response_bytes": 15327,
+      "short_title": "新华社／工信部"
+    },
+    {
+      "id": "p_declaration_web",
+      "title": "新华社／国防部：和平宣言（网页检索摘录）",
+      "url": "https://www.mod.gov.cn/gfbw/qwfb/16500893.html",
+      "retrieval_method": "web_search_result_excerpt_archived_by_editor",
+      "category": "web_excerpt",
+      "status": "ok",
+      "fetched_at": "2026-11-20T09:37:03.494644+08:00",
+      "raw_path": "data/editions/2026-11-20/raw/p_declaration_web.txt",
+      "sha256": "aea5e86832bace524dcfbfb353a951a085beebd4c2785bc33a224d58e101aebd",
+      "short_title": "新华社／国防部"
+    },
+    {
+      "id": "p_trilateral",
+      "title": "新华社／中央网信办：三方会晤",
+      "url": "https://www.cac.gov.cn/2026-11/19/c_1796843547804751.htm",
+      "final_url": "https://www.cac.gov.cn/2026-11/19/c_1796843547804751.htm",
+      "category": "document",
+      "fetched_at": "2026-11-20T09:26:48.950249+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/p_trilateral.txt",
+      "sha256": "c3f17fc52cef8f8a921299e3408fab88c252e5bd361c58d4ff1f9cd605161206",
+      "response_bytes": 21263,
+      "short_title": "新华社／中央网信办"
+    },
+    {
+      "id": "rss_0ca67de47cbb",
+      "title": "国家邮政局公布2026年1-10月邮政行业运行情况",
+      "short_title": "中国新闻网财经 · RSS摘要",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735033.shtml",
+      "category": "rss_item",
+      "published": "2026-11-20T01:10:16+00:00",
+      "fetched_at": "2026-11-20T09:24:31.791994+08:00",
+      "raw_path": "data/editions/2026-11-20/raw/chinanews_finance.xml",
+      "parent_feed": "chinanews_finance"
+    },
+    {
+      "id": "rss_7c69c01b1674",
+      "title": "国际能源署：中东冲突很可能对能源市场构成持久影响",
+      "short_title": "中国新闻网国际 · RSS摘要",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734995.shtml",
+      "category": "rss_item",
+      "published": "2026-11-19T23:39:17+00:00",
+      "fetched_at": "2026-11-20T09:24:31.847038+08:00",
+      "raw_path": "data/editions/2026-11-20/raw/chinanews_world.xml",
+      "parent_feed": "chinanews_world"
+    },
+    {
+      "id": "rss_913b50caa243",
+      "title": "韩国最高法院将前总理韩德洙涉内乱案发回重审",
+      "short_title": "中国新闻网国际 · RSS摘要",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734993.shtml",
+      "category": "rss_item",
+      "published": "2026-11-19T23:35:17+00:00",
+      "fetched_at": "2026-11-20T09:24:31.847038+08:00",
+      "raw_path": "data/editions/2026-11-20/raw/chinanews_world.xml",
+      "parent_feed": "chinanews_world"
+    },
+    {
+      "id": "rss_92ca9ff24709",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "short_title": "BBC World · RSS摘要",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "category": "rss_item",
+      "published": "2026-11-20T00:50:24+00:00",
+      "fetched_at": "2026-11-20T09:24:26.421257+08:00",
+      "raw_path": "data/editions/2026-11-20/raw/bbc_world.xml",
+      "parent_feed": "bbc_world"
+    },
+    {
+      "id": "rss_a178720431e7",
+      "title": "California targets Nvidia in China AI chip probe",
+      "short_title": "BBC Business · RSS摘要",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "category": "rss_item",
+      "published": "2026-11-19T23:04:30+00:00",
+      "fetched_at": "2026-11-20T09:24:31.466799+08:00",
+      "raw_path": "data/editions/2026-11-20/raw/bbc_business.xml",
+      "parent_feed": "bbc_business"
+    },
+    {
+      "id": "rss_c885923a8176",
+      "title": "Anthropic shares jump 17% after record Wall Street listing",
+      "short_title": "Financial Times · RSS摘要",
+      "url": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+      "category": "rss_item",
+      "published": "2026-11-19T21:02:09+00:00",
+      "fetched_at": "2026-11-20T09:24:26.441194+08:00",
+      "raw_path": "data/editions/2026-11-20/raw/ft.xml",
+      "parent_feed": "ft"
+    },
+    {
+      "id": "t_moe",
+      "title": "Hugging Face：180B模型与32GB内存",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "final_url": "https://huggingface.co/blog/moe-expert-streaming",
+      "category": "document",
+      "fetched_at": "2026-11-20T09:26:49.158455+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/t_moe.txt",
+      "sha256": "4cdb2564ab8b316012c4a330219eaf45ceb784a1e41399085e3ec29bda8b22ee",
+      "response_bytes": 217125,
+      "short_title": "Hugging Face"
+    },
+    {
+      "id": "t_narrow",
+      "title": "arXiv：NarrowSpec",
+      "url": "https://arxiv.org/abs/2611.23835",
+      "final_url": "https://arxiv.org/abs/2611.23835",
+      "category": "document",
+      "fetched_at": "2026-11-20T09:26:48.963628+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/t_narrow.txt",
+      "sha256": "02a2447baed4bd33e4220183bf477da88ef101d4ce79380a298e98fb8253953a",
+      "response_bytes": 41261,
+      "short_title": "arXiv"
+    },
+    {
+      "id": "t_release",
+      "title": "vLLM官方：v0.34.0发布",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+      "final_url": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+      "category": "document",
+      "fetched_at": "2026-11-20T09:26:48.960984+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/t_release.txt",
+      "sha256": "e7798d3a6396631d664dc37367cd67e28db501417ef2fbacf7e34c131488fb11",
+      "response_bytes": 562951,
+      "short_title": "vLLM官方"
+    },
+    {
+      "id": "t_shelf",
+      "title": "arXiv：ShelfKV",
+      "url": "https://arxiv.org/abs/2611.23769",
+      "final_url": "https://arxiv.org/abs/2611.23769",
+      "category": "document",
+      "fetched_at": "2026-11-20T09:26:49.087170+08:00",
+      "status": "ok",
+      "raw_path": "data/editions/2026-11-20/raw/t_shelf.txt",
+      "sha256": "a723077ccf43c30b2f5c8c2ac886ef22a30d86772a5b9d6ecb47670b58eee689",
+      "response_bytes": 42260,
+      "short_title": "arXiv"
+    }
+  ],
+  "story_provenance": [
+    {
+      "id": "p_lead",
+      "kind": "report",
+      "sources": [
+        "p_declaration_web"
+      ],
+      "evidence": [
+        "E01",
+        "E02",
+        "E03"
+      ]
+    },
+    {
+      "id": "p_bilateral",
+      "kind": "report",
+      "sources": [
+        "p_bilateral"
+      ],
+      "evidence": [
+        "E04",
+        "E05"
+      ]
+    },
+    {
+      "id": "p_oil_words",
+      "kind": "analysis",
+      "sources": [
+        "p_declaration_web"
+      ],
+      "evidence": [
+        "E01"
+      ]
+    },
+    {
+      "id": "p_yesterday",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_europe",
+      "kind": "report",
+      "sources": [
+        "rss_92ca9ff24709"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_korea",
+      "kind": "report",
+      "sources": [
+        "rss_913b50caa243"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_energy_watch",
+      "kind": "report",
+      "sources": [
+        "rss_7c69c01b1674"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_interests",
+      "kind": "analysis",
+      "sources": [
+        "p_declaration_web",
+        "p_trilateral"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_judicial",
+      "kind": "analysis",
+      "sources": [
+        "p_declaration_web"
+      ],
+      "evidence": [
+        "E03"
+      ]
+    },
+    {
+      "id": "p_absent",
+      "kind": "analysis",
+      "sources": [
+        "p_trilateral"
+      ],
+      "evidence": [
+        "E06"
+      ]
+    },
+    {
+      "id": "p_energy_map",
+      "kind": "analysis",
+      "sources": [
+        "p_declaration_web"
+      ],
+      "evidence": [
+        "E01"
+      ]
+    },
+    {
+      "id": "p_watch_next",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_tea",
+      "kind": "speculation",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "p_limits",
+      "kind": "analysis",
+      "sources": [
+        "p_declaration_web"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "p_ai_clause",
+      "kind": "analysis",
+      "sources": [
+        "p_bilateral"
+      ],
+      "evidence": [
+        "E05"
+      ]
+    },
+    {
+      "id": "f_overnight",
+      "kind": "report",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_profit_price",
+      "kind": "analysis",
+      "sources": [
+        "f_nvidia"
+      ],
+      "evidence": [
+        "E09",
+        "E10"
+      ]
+    },
+    {
+      "id": "f_fed_ai",
+      "kind": "analysis",
+      "sources": [
+        "f_fed"
+      ],
+      "evidence": [
+        "E07",
+        "E08"
+      ]
+    },
+    {
+      "id": "f_a_breadth",
+      "kind": "report",
+      "sources": [
+        "f_breadth",
+        "market_quotes_prior"
+      ],
+      "evidence": [
+        "E13",
+        "E14"
+      ]
+    },
+    {
+      "id": "f_sectors",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes_prior"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_opening",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_macro",
+      "kind": "report",
+      "sources": [
+        "rss_0ca67de47cbb"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_rule",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_nvda_again",
+      "kind": "analysis",
+      "sources": [
+        "f_nvidia",
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_nvda_news",
+      "kind": "report",
+      "sources": [
+        "rss_a178720431e7"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_platforms",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_hongkong",
+      "kind": "analysis",
+      "sources": [
+        "market_quotes_prior"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "f_ipo",
+      "kind": "report",
+      "sources": [
+        "f_anthropic",
+        "rss_c885923a8176"
+      ],
+      "evidence": [
+        "E11",
+        "E12"
+      ]
+    },
+    {
+      "id": "f_ipo_read",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_own",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "f_position",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "t_main",
+      "kind": "report",
+      "sources": [
+        "t_release"
+      ],
+      "evidence": [
+        "E15",
+        "E16"
+      ]
+    },
+    {
+      "id": "t_why",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "t_how",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "t_narrow",
+      "kind": "report",
+      "sources": [
+        "t_narrow"
+      ],
+      "evidence": [
+        "E17",
+        "E18"
+      ]
+    },
+    {
+      "id": "t_shelf",
+      "kind": "report",
+      "sources": [
+        "t_shelf"
+      ],
+      "evidence": [
+        "E19"
+      ]
+    },
+    {
+      "id": "t_moe",
+      "kind": "report",
+      "sources": [
+        "t_moe"
+      ],
+      "evidence": [
+        "E20"
+      ]
+    },
+    {
+      "id": "t_moe_read",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "t_industry",
+      "kind": "analysis",
+      "sources": [
+        "f_anthropic"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "c_look",
+      "kind": "analysis",
+      "sources": [
+        "c_art_web"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "c_light",
+      "kind": "analysis",
+      "sources": [
+        "c_art_web"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "c_background",
+      "kind": "analysis",
+      "sources": [
+        "c_art_web"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "c_poetry",
+      "kind": "analysis",
+      "sources": [
+        "c_poem"
+      ],
+      "evidence": [
+        "E23"
+      ]
+    },
+    {
+      "id": "c_record",
+      "kind": "report",
+      "sources": [
+        "c_art_web"
+      ],
+      "evidence": [
+        "E21",
+        "E22"
+      ]
+    },
+    {
+      "id": "c_compare",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    },
+    {
+      "id": "c_question",
+      "kind": "analysis",
+      "sources": [],
+      "evidence": []
+    }
+  ],
+  "fetch_failures": [
+    {
+      "id": "scmp",
+      "title": "South China Morning Post",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-20T09:24:26.433031+08:00",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "id": "zaobao",
+      "title": "联合早报",
+      "url": "https://www.zaobao.com/rss/realtime/china",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-20T09:24:26.435762+08:00",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "id": "cna_world",
+      "title": "CNA世界",
+      "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=1044",
+      "category": "feed",
+      "status": "failed",
+      "fetched_at": "2026-11-20T09:24:31.454441+08:00",
+      "error": "Feed contains no parseable articles"
+    },
+    {
+      "id": "p_declaration",
+      "title": "新华社／国防部：中俄美元首和平宣言",
+      "url": "https://www.mod.gov.cn/gfbw/qwfb/16500893.html",
+      "category": "document",
+      "status": "failed",
+      "fetched_at": "2026-11-20T09:26:48.944111+08:00",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mod.gov.cn'. (_ssl.c:1129)>"
+    },
+    {
+      "id": "c_art",
+      "title": "美国国家美术馆：持天平的女人",
+      "url": "https://www.nga.gov/artworks/1236-woman-holding-balance",
+      "category": "document",
+      "status": "failed",
+      "fetched_at": "2026-11-20T09:26:49.358777+08:00",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "p_text",
+      "title": "新华社／人民网：中俄美元首和平宣言全文",
+      "url": "https://politics.people.com.cn/n1/2026/1119/c1024-40837220.html",
+      "category": "document",
+      "status": "failed",
+      "fetched_at": "2026-11-20T09:28:05.058729+08:00",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'politics.people.com.cn'. (_ssl.c:1129)>"
+    },
+    {
+      "id": "c_catalog",
+      "title": "美国国家美术馆：持天平的女人研究档案",
+      "url": "https://www.nga.gov/research/publications/online-editions/dutch-paintings-seventeenth-century-woman-holding-balance-c",
+      "category": "document",
+      "status": "failed",
+      "fetched_at": "2026-11-20T09:28:05.062173+08:00",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

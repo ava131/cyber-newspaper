@@ -1,0 +1,951 @@
+{
+  "edition_name": "赛博日报 · 2026年11月20日早报",
+  "comparison_edition": "2026-11-19-sample-03",
+  "politics_rail": [
+    [
+      "能源",
+      "先看供应，再看价格"
+    ],
+    [
+      "核风险",
+      "把最坏的结果往后推"
+    ],
+    [
+      "执行",
+      "从四项原则追到具体动作"
+    ]
+  ],
+  "tech_rail": [
+    [
+      "01 / MEASURE",
+      "实测剩余显存",
+      "先过热身与图捕获"
+    ],
+    [
+      "02 / ALLOCATE",
+      "把空间交给KV",
+      "容量与调度一起改变"
+    ],
+    [
+      "03 / CHECK",
+      "重看单请求时延",
+      "吞吐提高，还要守住TPOT"
+    ]
+  ],
+  "culture_note": "今天留意两种安静：一幅画把一整间屋子收拢到一只手，一首诗把整个世界减到只剩一条舟。慢一点，细节才有机会出现。",
+  "artwork": {
+    "path": "raw/vermeer.jpg",
+    "source": "c_art_web",
+    "title": "持天平的女人 / Woman Holding a Balance",
+    "artist": "Johannes Vermeer",
+    "year": "约1664年",
+    "caption": "维米尔《持天平的女人》，约1664年，布面油画。美国国家美术馆，Widener Collection。绘画表面39.7×35.5厘米；馆方公版图像。",
+    "alt": "维米尔《持天平的女人》：蓝衣女子在窗边提着小天平，桌上有首饰，背后悬挂一幅画。",
+    "url": "https://api.nga.gov/iiif/c948cf32-e6c7-41a0-a053-0ad0562960c4/full/%21800%2C800/0/default.jpg"
+  },
+  "poem": {
+    "title": "江雪",
+    "author": "柳宗元 · 唐",
+    "source": "c_poem",
+    "rights": "唐代公版原文；保留维基文库所用字形。",
+    "lines": [
+      "千山鳥飛絕，萬徑人蹤滅。",
+      "孤舟簑笠翁，獨釣寒江雪。"
+    ]
+  },
+  "spreads": [
+    {
+      "label": "时政",
+      "pages": [
+        "politics",
+        "politics-depth"
+      ]
+    },
+    {
+      "label": "财经",
+      "pages": [
+        "finance",
+        "finance-stocks"
+      ]
+    },
+    {
+      "label": "科技",
+      "pages": [
+        "technology"
+      ]
+    },
+    {
+      "label": "艺文",
+      "pages": [
+        "culture"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E01",
+      "source": "p_declaration_web",
+      "quote": "三国计划增加精炼石油产品的生产和供应"
+    },
+    {
+      "id": "E02",
+      "source": "p_declaration_web",
+      "quote": "三国将就减少核风险、防止核扩散进行对话"
+    },
+    {
+      "id": "E03",
+      "source": "p_declaration_web",
+      "quote": "国际刑事法院以及其他类似机构不得滥用管辖权"
+    },
+    {
+      "id": "E04",
+      "source": "p_bilateral",
+      "quote": "同意制定建设性战略稳定关系行动计划"
+    },
+    {
+      "id": "E05",
+      "source": "p_bilateral",
+      "quote": "防范人工智能安全风险，确保人工智能始终处于人类控制之下"
+    },
+    {
+      "id": "E06",
+      "source": "p_trilateral",
+      "quote": "三国元首还就乌克兰危机、防止核武器扩散、中东局势、朝鲜半岛等重大国际和地区问题交换了意见"
+    },
+    {
+      "id": "E07",
+      "source": "f_fed",
+      "quote": "3-3/4 to 4 percent"
+    },
+    {
+      "id": "E08",
+      "source": "f_fed",
+      "quote": "returns on AI investment turned out to be disappointing to investors"
+    },
+    {
+      "id": "E09",
+      "source": "f_nvidia",
+      "quote": "$115.8 billion, up 20% from the previous quarter and up 103% from a year ago"
+    },
+    {
+      "id": "E10",
+      "source": "f_nvidia",
+      "quote": "74.8% and 74.9%"
+    },
+    {
+      "id": "E11",
+      "source": "f_anthropic",
+      "quote": "$83.00 per share"
+    },
+    {
+      "id": "E12",
+      "source": "f_anthropic",
+      "quote": "980,000,000 shares"
+    },
+    {
+      "id": "E13",
+      "source": "f_breadth",
+      "quote": "全市场超4800只个股下跌"
+    },
+    {
+      "id": "E14",
+      "source": "f_breadth",
+      "quote": "沪深两市全天合计成交额达1.31万亿元"
+    },
+    {
+      "id": "E15",
+      "source": "t_release",
+      "quote": "KV cache is sized from memory actually free"
+    },
+    {
+      "id": "E16",
+      "source": "t_release",
+      "quote": "per-token decode latency can rise on some models"
+    },
+    {
+      "id": "E17",
+      "source": "t_narrow",
+      "quote": "half or a quarter of that width"
+    },
+    {
+      "id": "E18",
+      "source": "t_narrow",
+      "quote": "1.13-1.44x on GB10"
+    },
+    {
+      "id": "E19",
+      "source": "t_shelf",
+      "quote": "up to 20.3 points at matched GPU memory"
+    },
+    {
+      "id": "E20",
+      "source": "t_moe",
+      "quote": "Published November 18, 2026"
+    },
+    {
+      "id": "E21",
+      "source": "c_art_web",
+      "quote": "painted surface: 39.7 x 35.5 cm"
+    },
+    {
+      "id": "E22",
+      "source": "c_art_web",
+      "quote": "c. 1664"
+    },
+    {
+      "id": "E23",
+      "source": "c_poem",
+      "quote": "孤舟簑笠翁，獨釣寒江雪。"
+    }
+  ],
+  "pages": [
+    {
+      "id": "politics",
+      "section": "politics",
+      "label": "时政 · 现场",
+      "english": "THE WORLD / RECORD",
+      "kicker": "深圳会晤之后 · 读正式文本",
+      "headline": "昨天摆好桌子，\n今天看清账单",
+      "deck": "和平宣言公布了四项共识。比合影更值得逐字看的，是能源、核风险与国际司法这些具体名词；比名词更值得追的，是谁开始动手执行。",
+      "blocks": [
+        {
+          "id": "p_lead",
+          "kind": "report",
+          "placement": "main",
+          "title": "发生了什么：三方把共识写了下来",
+          "evidence": [
+            "E01",
+            "E02",
+            "E03"
+          ],
+          "paragraphs": [
+            "新华社公布，习近平、普京与特朗普于11月19日在深圳会晤，并发表和平宣言。文件列出四项内容：推动联合国改革，增加精炼石油产品生产与供应，反对国际刑事法院等机构滥用管辖权，以及就降低核风险和防扩散开展对话。",
+            "这份文件比一场原则性会谈更具体，但还没有成为细到日期、数量和责任部门的实施清单。能源条款说的是精炼产品供应，核条款说的是风险与对话。把原文里的对象读准，比直接把它翻译成全面和解，更有助于判断下一步。"
+          ],
+          "source_ids": [
+            "p_declaration_web"
+          ]
+        },
+        {
+          "id": "p_bilateral",
+          "kind": "report",
+          "placement": "main",
+          "title": "中美这一条线：从稳定关系走向行动计划",
+          "evidence": [
+            "E04",
+            "E05"
+          ],
+          "paragraphs": [
+            "新华社的双边会见通稿称，中美同意制定建设性战略稳定关系行动计划。中方谈到经贸沟通、现有合作领域与分歧管控；双方也在公开表述中涉及人工智能合作或风险治理。",
+            "这里的进展，是把关系定位往执行安排推进了一步。今天还不能从这句话推出一张已经生效的关税或技术许可清单。后续若出现工作层磋商、部门任务和明确期限，行动计划才会逐渐有可以核对的轮廓。"
+          ],
+          "source_ids": [
+            "p_bilateral"
+          ]
+        },
+        {
+          "id": "p_oil_words",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "为什么偏偏是成品油？",
+          "evidence": [
+            "E01"
+          ],
+          "paragraphs": [
+            "原油、炼油能力、成品油运输与终端供应，是不同的环节。宣言点出精炼产品，意味着观察时不能只盯一桶原油的价格。炼厂开工、柴油与汽油供给、航运和实际交付，才更接近这句话要触碰的问题。",
+            "从政治上看，这也是一项各方都容易向国内解释的合作：稳定供应可以被描述成降低生活与生产成本。它的吸引力，在于能把安全议题接到普通人的账单上；它的难处，在于真正增供需要企业、设施和通道一起配合。"
+          ],
+          "source_ids": [
+            "p_declaration_web"
+          ]
+        },
+        {
+          "id": "p_yesterday",
+          "kind": "analysis",
+          "placement": "feature",
+          "title": "昨日回看：确实有了文本，兑现仍要往下追",
+          "paragraphs": [
+            "昨天我们盯的是合影之后有没有动词、主语与期限。现在动词和议题都有了：增加供应、制定计划、开展对话。下一步应提高观察标准，去找数量、日程和执行者。对新闻的判断也应该跟着证据升级，不能一直停在见面有没有意义这个问题上。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_europe",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "欧洲也想进入谈判席",
+          "rss_title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "rss_source": "bbc_world",
+          "paragraphs": [
+            "BBC今晨摘要称，乌克兰的欧洲盟友在柏林会晤后表示，已形成统一谈判立场，准备与俄罗斯就结束战争进行对话。深圳之外，另一些参与者也在争取谈判中的位置。"
+          ],
+          "source_ids": [
+            "rss_92ca9ff24709"
+          ]
+        },
+        {
+          "id": "p_korea",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "韩国：前总理案件发回重审",
+          "rss_title": "韩国最高法院将前总理韩德洙涉内乱案发回重审",
+          "rss_source": "chinanews_world",
+          "paragraphs": [
+            "中新社报道，韩国最高法院19日撤销韩德洙涉内乱案二审判决中的部分有罪认定，并发回高等法院重审。最高法院仍认定其行为构成参与内乱重要任务罪。"
+          ],
+          "source_ids": [
+            "rss_913b50caa243"
+          ]
+        },
+        {
+          "id": "p_energy_watch",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "能源风险没有随会晤散场",
+          "rss_title": "国际能源署：中东冲突很可能对能源市场构成持久影响",
+          "rss_source": "chinanews_world",
+          "paragraphs": [
+            "中新社引述国际能源署19日发布的世界能源展望称，中东冲突很可能对能源市场产生持久影响。对话提供缓和空间，现实中的供应与基础设施风险仍需逐项观察。"
+          ],
+          "source_ids": [
+            "rss_7c69c01b1674"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "politics-depth",
+      "section": "politics",
+      "label": "时政 · 纵深",
+      "english": "THE WORLD / INTERESTS",
+      "kicker": "大国博弈 · 共识的边界与交换",
+      "headline": "和平两个字，\n各自都有算盘",
+      "deck": "三个大国愿意共同给风险设栏杆，已经是一件事。栏杆里面如何分配利益、栏杆外谁的声音更小，是另一层更值得读的故事。",
+      "blocks": [
+        {
+          "id": "p_interests",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "共同利益先从最坏结果开始",
+          "sources": [
+            "p_trilateral",
+            "p_declaration_web"
+          ],
+          "paragraphs": [
+            "竞争者不必先喜欢彼此，才会愿意降低失控风险。核危机、供应中断与大规模市场震荡，一旦发生，可能让原本想占便宜的一方也付出过高代价。先把最坏结果排远一点，是比全面解决分歧更容易找到的交集。",
+            "这给三方留下了一个有用的空间：在少数问题上合作，同时继续在其他问题上竞争。接下来若还出现摩擦，不宜立刻判定会晤失效；应先看摩擦有没有碰到已经约定的底线，以及沟通机制有没有起作用。"
+          ],
+          "source_ids": [
+            "p_declaration_web",
+            "p_trilateral"
+          ]
+        },
+        {
+          "id": "p_judicial",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "那句不显眼的司法条款，反而很有分量",
+          "evidence": [
+            "E03"
+          ],
+          "paragraphs": [
+            "公开文本把国家同意、官员豁免与国际司法管辖放在了一起。这透露的是另一种共同关切：大国希望在涉及本国官员和核心利益的议题上，保有较强的主权控制。它与能源合作不同，触碰的是谁有权审判、谁来划定边界。",
+            "从制度竞争的角度看，这一条比礼宾画面更能显示三方此刻的交集。但不能据此推断已有秘密豁免交易。可以继续追的是，各国在具体案件、国际机构表决与后续外交表态中，是否开始采取更一致的动作。"
+          ],
+          "source_ids": [
+            "p_declaration_web"
+          ]
+        },
+        {
+          "id": "p_absent",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "桌边坐三个人，受影响的远不止三个人",
+          "evidence": [
+            "E06"
+          ],
+          "paragraphs": [
+            "会谈涉及乌克兰、中东和朝鲜半岛，很多受影响的人并没有坐在这张桌前。大国降低冲突风险，对他们可能有利；大国若替他们定义可接受结果，也会引发不安。欧洲今晨强调统一立场，正可以放在参与权这个角度理解。",
+            "真正耐久的安排，需要把冲突当事方和执行者接进来。否则，最高层说可以，地面上的人却没有动力照做，协议就容易只剩新闻价值。观察谁被邀请到下一轮，比猜谁在合影里站得更近，更接近实际的利益分配。"
+          ],
+          "source_ids": [
+            "p_trilateral"
+          ]
+        },
+        {
+          "id": "p_energy_map",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "能源是一座桥，也是一道算术题",
+          "evidence": [
+            "E01"
+          ],
+          "paragraphs": [
+            "对能源消费者，增供意味着缓解成本压力的可能；对生产者，增加数量又要计算价格与收入。三方说同一句稳定供应，企业和财政部门拿回去算的账未必相同。能写进宣言，说明这个方向可谈；如何把负担分出去，才是谈判的深水区。",
+            "因此，别把增供承诺直接等同于油价必跌。若运输、保险、炼厂或地区冲突仍是瓶颈，新增产能未必很快变成终端可用的燃料。可以把政治承诺当成一个起点，再用开工率、出口安排和交付变化去检验。"
+          ],
+          "source_ids": [
+            "p_declaration_web"
+          ]
+        },
+        {
+          "id": "p_watch_next",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "未来一周，盯这三种文件",
+          "paragraphs": [
+            "第一种是具体部门的执行说明，回答谁负责、何时谈。第二种是企业和监管机构的实际调整，回答许可、订单、运输有没有变化。第三种是受影响各方的回应，回答谁接受、谁保留意见。三类文件如果彼此能对上，新闻才真正从外交会场走进现实。",
+            "也给判断留一个退出条件：如果只有讲话反复转述，没有新的任务、安排与行为，缓和预期就不应无限加码。好消息可以先改善气氛，持续改变局面却需要持续付出成本。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_tea",
+          "kind": "speculation",
+          "placement": "feature",
+          "title": "茶水间推演：先给世界买一份保险",
+          "paragraphs": [
+            "大胆猜一笔：三方此刻最想共同购买的，可能是一份不让竞争突然变成系统事故的保险。北京提供组织对话的场地，华盛顿和莫斯科提供最高层直接参与，各自保留回家继续谈条件的空间。神棍版一句话：先约好牌桌别掀，至于谁赢这一把，没人打算先说。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_limits",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "文本里暂时没有的东西",
+          "sources": [
+            "p_declaration_web"
+          ],
+          "paragraphs": [
+            "这份四点宣言没有列出统一停火时刻表、成品油增供配额或全面制裁调整。阅读时给这些空白留位置，才能看出后续文件究竟补上了什么。"
+          ],
+          "source_ids": [
+            "p_declaration_web"
+          ]
+        },
+        {
+          "id": "p_ai_clause",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "AI也进入了最高层议题",
+          "evidence": [
+            "E05"
+          ],
+          "paragraphs": [
+            "中美通稿里的AI安全表述，说明竞争之外还有治理议题。能否形成技术标准、评估合作或具体沟通渠道，要看后续安排。产业合作与安全治理也可能以不同速度推进。"
+          ],
+          "source_ids": [
+            "p_bilateral"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "section": "finance",
+      "label": "财经 · 盘前",
+      "english": "MONEY / MORNING MAP",
+      "kicker": "隔夜美股 · A港昨日快照 · 今日盘前",
+      "headline": "财报还在长，\n股价先往下走",
+      "deck": "纳指隔夜跌逾2%，英伟达再次跑输。今天开盘前更值得想清楚的，是市场正在重算哪一笔账，以及昨日本就偏冷的A股能否承接新一轮压力。",
+      "blocks": [
+        {
+          "id": "f_overnight",
+          "kind": "report",
+          "placement": "main",
+          "title": "先看价格：三个美股指数一起回撤",
+          "quote_codes": [
+            "us.DJI",
+            "us.IXIC",
+            "us.INX",
+            "usNVDA"
+          ],
+          "paragraphs": [
+            "11月19日美股常规收盘接口显示，道指 {{us.DJI_pct}}，纳指 {{us.IXIC_pct}}，标普500 {{us.INX_pct}}。英伟达收于 {{usNVDA_price}} 美元，单日 {{usNVDA_pct}}，相对纳指落后 {{nvda_gap}} 个百分点。",
+            "这一页的美股对应刚结束的交易日。A股、港股对应11月19日存档快照；今天上午竞价时段出现的价格另存，不把它们当成全天走势。先统一时间，再谈涨跌的含义，能少掉很多看起来热闹的误判。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        },
+        {
+          "id": "f_profit_price",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "赚钱更多，为什么仍然可能跌？",
+          "evidence": [
+            "E09",
+            "E10"
+          ],
+          "paragraphs": [
+            "英伟达17日公告的季度收入为1158亿美元，同比增加103%，GAAP毛利率74.8%。经营数字仍然强劲，而股价随后下跌，说明交易者衡量的东西不止本季赚了多少。市场还在问未来增长需要付出什么，以及现在的价格已经提前支付了多少。",
+            "好业绩能否推高股价，取决于它有没有超过价格里原本包含的想象。若投资者担心扩张越来越贵、客户回报越来越慢，已经兑现的增长也可能不足以提高他们愿意支付的倍数。经营与估值两条线，需要放在同一张纸上看。"
+          ],
+          "source_ids": [
+            "f_nvidia"
+          ]
+        },
+        {
+          "id": "f_fed_ai",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "美联储纪要里，AI不只是科技话题",
+          "evidence": [
+            "E07",
+            "E08"
+          ],
+          "paragraphs": [
+            "18日公布的10月会议纪要不仅记录了3.75%至4%的政策利率区间，也讨论了AI投资回报若让投资者失望时的金融稳定风险。也就是说，算力采购、资产估值与融资结构，已经被放进同一套风险讨论。",
+            "这条链的关键是回款。设备厂商收到订单，不代表终端客户已经从AI服务赚回成本；客户筹到钱，也不代表融资可以永远按原条件续上。看产业景气时，不能让链条上一家公司的增长，替所有参与者担保。"
+          ],
+          "source_ids": [
+            "f_fed"
+          ]
+        },
+        {
+          "id": "f_a_breadth",
+          "kind": "report",
+          "placement": "main",
+          "title": "A股昨日底色：少数强，很多弱",
+          "evidence": [
+            "E13",
+            "E14"
+          ],
+          "quote_codes": [
+            "sh000001",
+            "sz399006",
+            "sh000688"
+          ],
+          "paragraphs": [
+            "央广财经昨日收评称，全市场超过4800只股票下跌，两市成交约1.31万亿元。接口存档里，上证指数 {{sh000001_pct}}，创业板指 {{sz399006_pct}}，科创50 {{sh000688_pct}}。科创50相对创业板领先 {{a_gap}} 个百分点。",
+            "这组组合更接近局部方向有资金、大多数股票仍承压。指数中一小块的强势，不能自动替手里的另一篮子股票解围。今天若出现高开或低开，还要看上涨家数与成交能否同步跟上。"
+          ],
+          "source_ids": [
+            "f_breadth",
+            "market_quotes_prior"
+          ]
+        },
+        {
+          "id": "f_sectors",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "行业：别把半导体都装进同一个故事",
+          "quote_codes": [
+            "sh512480",
+            "sh512800",
+            "sh512660",
+            "sh512170"
+          ],
+          "paragraphs": [
+            "昨日样本里，半导体ETF {{sh512480_pct}}，银行ETF {{sh512800_pct}}，军工与医疗ETF分别 {{sh512660_pct}}、{{sh512170_pct}}。这些是四只代理标的的表现。海外算力股下跌，会给情绪施压；国内设备、材料与不同终端的经营驱动，还要各自核对。"
+          ],
+          "source_ids": [
+            "market_quotes_prior"
+          ]
+        },
+        {
+          "id": "f_opening",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "今天开盘，先看压力有没有扩散",
+          "paragraphs": [
+            "观察顺序可以是科技方向、市场宽度、成交。若科技走弱而银行等权重托住指数，账户体感仍可能偏冷；若更多行业一起恢复并有成交支持，修复的范围才扩大。一个指数点位，装不下这两种盘面。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "f_macro",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "国内短讯：快递收入继续增长",
+          "rss_title": "国家邮政局公布2026年1-10月邮政行业运行情况",
+          "rss_source": "chinanews_finance",
+          "paragraphs": [
+            "中新网引述国家邮政局数据，1至10月快递业务收入同比增长6.6%。它提供物流需求的一项观察，但落到快递公司利润，还需要继续看件量、单票收入与履约成本。"
+          ],
+          "source_ids": [
+            "rss_0ca67de47cbb"
+          ]
+        },
+        {
+          "id": "f_rule",
+          "kind": "analysis",
+          "placement": "feature",
+          "title": "盘前先写一个条件，别先写一个结论",
+          "paragraphs": [
+            "如果今天想交易反弹，先说明什么现象才算承接有效：是更多股票止跌，还是你关注的公司相对同业转强。若条件没有出现，就不能用跌得够多了替代。若只是做长期研究，今天的任务可以是更新估值和经营假设，不必让每一条新闻都催出一笔订单。"
+          ],
+          "source_ids": []
+        }
+      ]
+    },
+    {
+      "id": "finance-stocks",
+      "section": "finance",
+      "label": "财经 · 个股",
+      "english": "MONEY / COMPANY FILES",
+      "kicker": "英伟达 · 平台公司 · 新股热潮",
+      "headline": "同一场AI热潮，\n五张不同的账",
+      "deck": "芯片、云、广告、平台与新上市模型公司，承接的是同一股想象，承担的却是不同的现金流压力。今天把公司拆开看，也把买入理由拆开看。",
+      "blocks": [
+        {
+          "id": "f_nvda_again",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "英伟达：昨天的弱势，今天有了续集",
+          "quote_codes": [
+            "usNVDA",
+            "us.IXIC"
+          ],
+          "sources": [
+            "f_nvidia"
+          ],
+          "paragraphs": [
+            "昨天样报里，英伟达已经跑输纳指；隔夜再次落后 {{nvda_gap}} 个百分点。程序按两个连续交易日的价格计算，11月18日至19日累计变化为 {{nvda_two_day}}%。相对弱势连续出现，说明需要继续追公司层面的风险定价。",
+            "可以把问题拆成三件事：订单和交付有没有变，客户融资与采购能力有没有变，管理和监管不确定性有没有改变投资者要求的回报。即使收入仍强，这三项中任何一项抬高风险，市场愿付的价格也可能下移。"
+          ],
+          "source_ids": [
+            "f_nvidia",
+            "market_quotes"
+          ]
+        },
+        {
+          "id": "f_nvda_news",
+          "kind": "report",
+          "placement": "main",
+          "title": "新增公司消息：加州方面调查芯片业务",
+          "rss_title": "California targets Nvidia in China AI chip probe",
+          "rss_source": "bbc_business",
+          "paragraphs": [
+            "BBC今晨的公开标题与摘要称，加州方面正针对英伟达对华AI芯片相关业务展开调查，并将此事放在公司近期管理层变化的背景下报道。本版把它列为新增调查线索，具体范围和后续认定继续追官方信息。"
+          ],
+          "source_ids": [
+            "rss_a178720431e7"
+          ]
+        },
+        {
+          "id": "f_platforms",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "微软与谷歌：看使用量，也看服务成本",
+          "quote_codes": [
+            "usMSFT",
+            "usGOOGL"
+          ],
+          "paragraphs": [
+            "微软隔夜 {{usMSFT_pct}}，谷歌 {{usGOOGL_pct}}。两家公司都有AI叙事，也有各自成熟业务的现金来源。比较时要看新增服务把成本放进了哪里，又从哪里收钱。用户增长、调用增长和利润增长，可能以不同速度发生。",
+            "对云与软件公司，新增算力若能形成留存、付费与更高毛利，就有机会进入正循环；如果补贴很重、单位成本迟迟下不来，漂亮的使用量也可能带来更大的账单。下一轮财报，值得把收入增速和资本开支一起翻。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        },
+        {
+          "id": "f_hongkong",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "腾讯、阿里：今天的竞价，先别写成答案",
+          "quote_codes": [
+            "hk00700",
+            "hk09988"
+          ],
+          "paragraphs": [
+            "昨日存档里，腾讯 {{hk00700_pct}}，阿里 {{hk09988_pct}}。今天盘前接口已出现新的报价，但此时还不能拿它们证明资金已经完成转向。港股受外围情绪影响，也有公司自身的投入与回报问题。",
+            "对这两类平台，重点仍是主业现金流能否支撑新增投资，以及AI能否在云收入、广告效率或付费产品里找到兑现路径。若价格先修复，可以观察持续性；若价格继续走弱，就回头检查原来的盈利假设，而不是只换一个更宏大的行业故事。"
+          ],
+          "source_ids": [
+            "market_quotes_prior"
+          ]
+        },
+        {
+          "id": "f_ipo",
+          "kind": "report",
+          "placement": "main",
+          "title": "另一端：Anthropic上市首日上涨17%",
+          "evidence": [
+            "E11",
+            "E12"
+          ],
+          "rss_title": "Anthropic shares jump 17% after record Wall Street listing",
+          "rss_source": "ft",
+          "paragraphs": [
+            "Anthropic18日公告将IPO发行价定为每股83美元，共发行9.8亿股，其中包含老股出售，老股所得不进入公司账户。FT的19日收盘报道标题称，上市首日股价上涨17%。一个AI公司跌，另一个AI公司上市受追捧，可以在同一天发生。"
+          ],
+          "source_ids": [
+            "f_anthropic",
+            "rss_c885923a8176"
+          ]
+        },
+        {
+          "id": "f_ipo_read",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "同是上涨，不同的人赚得不同",
+          "paragraphs": [
+            "发行价涨幅回答的是相对配售价格的回报，盘中买入者的成本可能完全不同。新股第一天尤其如此。看见上市涨了多少，先找比较基准，再考虑那是不是自己实际能参与的交易。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "f_own",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "给观察名单多记一列",
+          "paragraphs": [
+            "每个名字旁边记下近期最需要验证的一项：订单质量、AI变现、现金流或风险处置。下次股价动时，先看那一列有没有新证据。长期看好四个字，无法替代一个可以被证伪的判断。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "f_position",
+          "kind": "analysis",
+          "placement": "feature",
+          "title": "今天对你的意义：先决定自己在赚哪种钱",
+          "paragraphs": [
+            "若买的是盈利持续增长，应该追盈利与估值；若买的是短期事件修复，就要盯事件是否兑现、相对表现是否改善。两种交易都能做，但理由和退出条件要提前对应。最容易失控的，是短线被套后临时宣布长期持有，或长期研究途中被一根分时线改了信仰。",
+            "把仓位大小也放进来：一个判断再有吸引力，若它错了就会让你无法继续判断，仓位已经先替风险作出了决定。今天可以先检查集中度、融资压力和备用资金，再看哪一个下跌的名字最让自己心动。"
+          ],
+          "source_ids": []
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "section": "technology",
+      "label": "科技",
+      "english": "SYSTEMS / INFERENCE",
+      "kicker": "vLLM 0.34 · 推测解码 · 多模态KV",
+      "headline": "显存多装一点，\n请求就一定更快吗？",
+      "deck": "vLLM新版本重新安排KV空间，两篇新论文分别给草稿模型和视觉缓存动刀。今天的技术主线：省出来的资源，到底兑现成了容量、吞吐，还是单请求速度。",
+      "blocks": [
+        {
+          "id": "t_main",
+          "kind": "report",
+          "placement": "main",
+          "title": "新版本：KV容量按热身后的剩余显存来定",
+          "evidence": [
+            "E15",
+            "E16"
+          ],
+          "paragraphs": [
+            "11月18日发布的vLLM 0.34.0，把可扩展KV缓存设为默认：在图捕获与热身后，按实际剩余显存分配缓存。官方说明，这能在不少模型上容纳更多token，并改善高并发吞吐与首token时延。",
+            "同一份发布说明也记录，一些H200模型在并发128时逐token时延会上升6%至18%。这是这次升级最值得一起读的两面：能接住更多请求，未必意味着每个请求生成下一字都更快。"
+          ],
+          "source_ids": [
+            "t_release"
+          ]
+        },
+        {
+          "id": "t_why",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "系统的最优点，会随业务目标移动",
+          "paragraphs": [
+            "当缓存容量更大，调度器可以把更多活跃请求留在GPU上，减少等待或缓存压力；但共享同一套计算资源的请求也可能增多。容量、并发、吞吐与交互时延，在这里互相牵动。只看总token数，很容易看漏用户实际等了多久。",
+            "做在线助手，你可能更在意首token和高分位逐token时延；做离线批处理，吞吐可能更重要。相同的版本更新，放进这两种业务可以得到不同的取舍。先写服务目标，再判断默认配置是否适合。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "t_how",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "值得直接做的一组对照实验",
+          "paragraphs": [
+            "固定模型、精度和提示分布，比较旧配置与新默认。先用小并发量测单请求，再逐步增加负载，同时记录缓存容量、排队、吞吐、首token和逐token时延。把平均值与高分位一起保留，避免少数很慢的请求被总量冲淡。",
+            "接着改变长短请求比例。若生产流量里长输入与短交互混在一起，缓存分配和调度的收益就会变化。升级的最终结论可以很具体：在哪种请求组合、哪段负载区间，满足你的时延目标时能多接多少工作。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "t_narrow",
+          "kind": "report",
+          "placement": "paper",
+          "title": "NarrowSpec：草稿模型不必长得和目标一样宽",
+          "evidence": [
+            "E17",
+            "E18"
+          ],
+          "paragraphs": [
+            "11月18日提交、19日进入论文雷达。作者把读取目标隐状态的草稿模型缩到一半或四分之一宽度，同时尽量保持接受率。在SGLang、B200与GB10测试中，batch 1、temperature 0时，端到端解码加速分别为1.06至1.12倍、1.13至1.44倍。",
+            "对推测解码，这提醒我们把草稿耗时与接受收益一起算。草稿越强不一定越划算，窄一点若仍能提出足够多可接受token，就可能更便宜。换模型或硬件后，仍应重新量测完整路径。"
+          ],
+          "source_ids": [
+            "t_narrow"
+          ]
+        },
+        {
+          "id": "t_shelf",
+          "kind": "report",
+          "placement": "paper",
+          "title": "ShelfKV：想得越久，别把图忘了",
+          "evidence": [
+            "E19"
+          ],
+          "paragraphs": [
+            "11月18日提交的ShelfKV研究多轮视觉推理：文本推理越长，视觉KV越容易在共用预算里被挤出。方法把视觉项保存在CPU，按需换回注意力槽位。作者在同GPU显存条件下报告，相对其比较的强基线，多轮任务最多提高20.3个百分点。",
+            "这里的收益首先是质量。它把必须保住的信息与此刻必须占GPU的位置分开了。实验时除了准确率，还应补看CPU到GPU传输和交换调度的时延，才能判断是否适合交互业务。"
+          ],
+          "source_ids": [
+            "t_shelf"
+          ]
+        },
+        {
+          "id": "t_moe",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "本地模型：180B参数，32GB内存",
+          "evidence": [
+            "E20"
+          ],
+          "sources": [
+            "t_moe"
+          ],
+          "paragraphs": [
+            "Hugging Face18日的一篇实践文章展示，用Transformers把MoE专家从SSD流式载入，在32GB Mac上运行180B规模模型。它讨论的是专家卸载与缓存工程，不意味着180B权重完整塞进32GB内存。"
+          ],
+          "source_ids": [
+            "t_moe"
+          ]
+        },
+        {
+          "id": "t_moe_read",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "能运行之后，再问用起来怎样",
+          "paragraphs": [
+            "专家卸载把容量问题搬到了存储、搬运与命中率上。选型时可以继续问：长提示预填充等多久，持续对话有没有变慢，SSD带宽与缓存是否稳定。参数规模是入口，完整任务体验才是目标。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "t_industry",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "上市之后，优化会更像一门生意",
+          "sources": [
+            "f_anthropic"
+          ],
+          "paragraphs": [
+            "模型公司进入公开市场，推理支出更容易和收入一起被追问。缓存、草稿模型与路由优化，最终都要回答同一个经营问题：在守住质量和时延的条件下，多服务一个用户要付多少钱。"
+          ],
+          "source_ids": [
+            "f_anthropic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "section": "culture",
+      "label": "艺文",
+      "english": "ARTS / A QUIET MOMENT",
+      "kicker": "一幅画 · 一首诗 · 把判断放慢一点",
+      "headline": "天平还没落下，\n世界先安静了一秒",
+      "deck": "今天看维米尔《持天平的女人》，再读柳宗元《江雪》。画里那只手没有急着给出结果；诗里那个独钓的人，也没有向谁解释自己的用途。",
+      "blocks": [
+        {
+          "id": "c_look",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "先找那只很小的天平",
+          "sources": [
+            "c_art_web"
+          ],
+          "paragraphs": [
+            "第一眼容易先看到女子的蓝衣和白色头巾，随后才发现她指间悬着细细的天平。两只小盘几乎融进暗处。你得停一下，才看清画面真正的动作：她没有急着把什么东西举给我们看，而是在等一件很轻的东西稳定。",
+            "桌上有首饰、盒子与揉起的蓝布，物品并不稀少；画的中心却没有堆满。那一小块墙面给手、细线和秤盘留出了空间。繁复的生活在周围，注意力被收拢到一个尚未结束的动作里。"
+          ],
+          "source_ids": [
+            "c_art_web"
+          ]
+        },
+        {
+          "id": "c_light",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "光没有照亮所有东西，所以我们愿意往里看",
+          "sources": [
+            "c_art_web"
+          ],
+          "paragraphs": [
+            "光从左上方进入，先落在头巾、脸与手上。蓝色衣服有亮的边，也有往暗处沉下去的部分。房间没有被均匀地交代清楚，观看因此有了顺序：先见人，再见手，最后慢慢分辨桌面与背后的画。",
+            "这和一张把每个角落都拍清楚的说明照片不同。维米尔让一些地方退后，使你愿意在另一些地方停留。安静并不只是人物不动，更来自画家怎样安排我们看见和暂时看不见的东西。"
+          ],
+          "source_ids": [
+            "c_art_web"
+          ]
+        },
+        {
+          "id": "c_background",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "身后的大画，让眼前的小动作变重了",
+          "sources": [
+            "c_art_web"
+          ],
+          "paragraphs": [
+            "女子身后是一幅带着宗教审判场景的画：上方有人物在光中，下方人群在暗色里翻动。把它与手中的秤放在一起，很容易想到衡量与判断。一个动作发生在日常桌边，另一种判断来自更大的信仰图景。",
+            "不必急着把她翻译成一句道德格言。画的吸引力，恰恰也在于她的表情没有替观众完成全部解释。她看起来平静，可平静里面仍有分量；我们知道她在衡量，却不能替她宣布最后的结果。"
+          ],
+          "source_ids": [
+            "c_art_web"
+          ]
+        },
+        {
+          "id": "c_poetry",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "《江雪》先把世界减掉，才让一个人出现",
+          "evidence": [
+            "E23"
+          ],
+          "paragraphs": [
+            "千山、万径把空间撑得很大，鸟飞绝、人踪灭又把声音和行迹一层层撤走。直到后两句，舟、老人和钓这一件小事才出现。诗没有先告诉你他很孤独，而是先让你走过一个几乎无人的世界。",
+            "独钓最有劲的地方，是仍然在做。雪大，江寒，世界没有替这个动作提供热闹的背景，他却把注意力留在自己的竿上。可以读成孤独，也可以读成一种不肯被环境全部带走的坚持。二十个字，留下的空白比说出来的还多。"
+          ],
+          "source_ids": [
+            "c_poem"
+          ]
+        },
+        {
+          "id": "c_record",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "作品小档案",
+          "evidence": [
+            "E21",
+            "E22"
+          ],
+          "paragraphs": [
+            "馆方将画作定年为约1664年，媒材为布面油画，绘画表面约39.7×35.5厘米。它收藏于美国国家美术馆。这里呈现馆方开放的公版图像，可点击放大。"
+          ],
+          "source_ids": [
+            "c_art_web"
+          ]
+        },
+        {
+          "id": "c_compare",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "两种安静，各有自己的密度",
+          "paragraphs": [
+            "《江雪》减去人群、声音和痕迹，维米尔却留下织物、珠宝与室内层次。一个靠删减，一个靠安排。安静未必来自东西少，也可能来自终于知道此刻该看哪里。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "c_question",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "今天给自己三十秒",
+          "paragraphs": [
+            "看画时，先别找寓意，也别问值多少钱。只找三处光：头巾上的一处、手上的一处、桌边的一处。等眼睛走完这三处，再回来看天平。也许慢一点之后，你会看见第一次没注意到的重量。"
+          ],
+          "source_ids": []
+        }
+      ]
+    }
+  ]
+}

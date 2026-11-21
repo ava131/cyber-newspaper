@@ -1,0 +1,103 @@
+{
+  "base_edition": "2026-11-19-sample-02",
+  "edition_name": "六版扩刊 · 第三样",
+  "evidence": [
+    {"id": "E20", "source": "c_lot", "quote": "70 by 58 cm.", "claim": "拍品档案记录尺寸为70×58厘米"},
+    {"id": "E21", "source": "c_lot", "quote": "Executed in Auvers on 24 May 1890.", "claim": "拍品档案记录创作时间地点为1890年5月24日奥维尔"},
+    {"id": "E22", "source": "c_poem", "quote": "明月松間照，清泉石上流。", "claim": "王维《山居秋暝》的原文名句"},
+    {"id": "E23", "source": "f_hkcna", "quote": "全市场超4100只个股下跌", "claim": "11月18日市场宽度，明确与19日分开"},
+    {"id": "E24", "source": "f_hkcna", "quote": "沪深两市成交额1.37万亿", "claim": "11月18日沪深成交额"}
+  ],
+  "additions": [
+    {"id": "p_protocol", "title": "礼宾是一种语言，但合同是另一种", "kind": "analysis", "placement": "main", "evidence": ["E01", "E05"], "paragraphs": [
+      "机场迎接把重视程度放到了镜头前。这样的画面能改善会谈气氛，也能向国内外解释为什么值得坐下来。读礼宾，读的是双方愿意给这段关系多少政治空间；读成果，才轮到具体政策和执行。两者可以互相帮助，却不能互相代替。",
+      "真正值得翻回去看的，是热烈画面之后的公报。有没有某个议题突然从原则变成了期限？有没有一项原本需要逐次批准的事项，变成了常态机制？这类细节没那么上镜，却能决定企业下一笔订单、人员下一次往来和下一轮摩擦如何处理。"
+    ]},
+    {"id": "p_text", "title": "把通稿里的动词读一遍", "kind": "analysis", "placement": "main", "paragraphs": [
+      "外交文字很适合先圈动词。讨论，说明议题进入了桌面；同意继续沟通，说明事情还没谈完；决定建立机制，开始涉及执行安排；完成签署，才出现可供核对的文本。动词每往前走一步，政治意愿就多付出一点组织成本。",
+      "再看主语。双方共同承诺，与一方表示希望，分量不同。最后看附件：谁负责、何时开会、如何复核。如果一份报道只把最响亮的形容词摘出来，你读到的多半是气氛。把动词、主语和期限放回去，才能看清进度。"
+    ]},
+    {"id": "p_ukraine", "title": "会场外：乌方称袭击两座炼油厂", "kind": "report", "placement": "sidebar", "rss_title": "乌克兰称袭击俄罗斯两座炼油厂", "paragraphs": ["中新社报道，乌克兰总参谋部表示，乌军于17日至18日袭击俄罗斯克拉斯诺达尔边疆区的两座炼油厂。这里采用的是乌方发布的信息。"]},
+    {"id": "p_gaza", "title": "加沙地面行动再起争议", "kind": "report", "placement": "sidebar", "rss_title": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议", "paragraphs": ["中新社综合报道，以军在加沙中部、黄线以西发动军事行动，哈马斯谴责违反停火协议。谈判与地面行动之间的距离，仍是地区局势的一条风险线。"]},
+    {"id": "p_constraints", "title": "坐到桌前，也带着各自国内的观众", "kind": "analysis", "placement": "main", "paragraphs": [
+      "谈判并不只发生在三个人之间。领导人还要把结果带回国内，向议会、企业、军方和选民解释。一个能执行的交换，需要让对手也有办法说服自己的支持者。把对方逼到只能公开拒绝的位置，有时会让本来可谈的交易消失。",
+      "这也是很多大国会谈喜欢先从程序入手的原因。恢复联系、成立工作组、安排下一次会面，成本比立即改变核心政策低，却能让双方保留面子。程序看上去温吞，实际作用是给更难的交换铺一条能走的路。"
+    ]},
+    {"id": "p_three_paths", "title": "后续走向：看三个岔路口", "kind": "analysis", "placement": "main", "paragraphs": [
+      "第一条路是技术性缓和：几件可操作的小事先推进，大分歧暂时搁置。它不够传奇，却最容易让企业与人员往来得到实际好处。判断信号是工作层日程变密，具体限制出现可核对的调整。",
+      "第二条路是议题打包：各方把不同领域的让步放到一起，寻找彼此都能接受的组合。这样的交易需要更多执行细节，也更容易因某一环卡住而拖延。第三条路是只有政治展示，政策摩擦照旧。接下来若只有漂亮口号，执行层没有动作，就应把预期往这条路上修。"
+    ]},
+    {"id": "p_smaller", "title": "三张大桌之外，小国最怕什么", "kind": "analysis", "placement": "main", "paragraphs": [
+      "大国关系降温，对周边经济体可能是好事：贸易预期更稳定，企业不必为每次摩擦立刻改一次供应链。但另一种担心也随之而来——自己的利益，会不会在自己不在场的时候被别人打包讨论。",
+      "所以，听到大国协调，既要看它减少了什么冲突，也要看受影响的一方有没有参与后续安排。能把更多国家纳入可执行规则的协调，比三个人都说关系不错，更有可能形成长一点的稳定。"
+    ]},
+    {"id": "p_weather", "title": "印度东部沿海转移居民避险", "kind": "report", "placement": "sidebar", "rss_title": "强气旋风暴逼近 印度东部沿海逾4.6万人转移避险", "paragraphs": ["中新网引述当地消息称，强气旋风暴逼近印度东部沿海，奥迪沙邦已转移超过4.6万人。大国新闻之外，天气仍在直接改变许多人的今天。"]},
+    {"id": "f_transmission", "title": "利率怎样传到股票价格上", "kind": "analysis", "placement": "main", "evidence": ["E07"], "paragraphs": [
+      "第一段传导发生在估值里。投资者手上如果有收益更高的低风险选择，就会要求股票给出更高的预期回报。价格不动而盈利预期也不动，这笔账就难成立。越依赖很远未来利润的公司，对这次重算通常越敏感。",
+      "第二段发生在企业自己身上。借新钱、续旧债、建设数据中心，资金成本都会进入经营决策。但现金充足、眼前就能产生利润的企业，与靠持续融资支撑扩张的企业，承受力不同。这也是为什么同一条鹰派消息落地，板块内部还会继续分化。"
+    ]},
+    {"id": "f_breadth", "title": "A股收盘：指数分化，个股更冷", "kind": "report", "placement": "main", "rss_title": "A股收评：超4800只个股飘绿，三大指数集体收跌", "paragraphs": ["中新网收评称，19日全市场超过4800只个股下跌，三大指数集体收低，科创50上涨。板块方面，电脑硬件、贵金属、文化传媒走弱，半导体、摩托车和酒类飘红。涨的方向并不等于市场整体都好做。"]},
+    {"id": "f_breadth_read", "title": "手里的股票，为何总跟指数不一样", "kind": "analysis", "placement": "main", "evidence": ["E23", "E24"], "paragraphs": [
+      "18日的市场已经出现过类似落差：香港新闻网记录，沪深成交约1.37万亿元，指数小涨，全市场仍有超过4100只股票下跌。这是前一交易日的背景。今天收评里的下跌家数更多，意味着读盘还得多看一层市场宽度。",
+      "市值加权指数可能被少数权重股托住，你持有的股票却分布在另一些地方。看指数，是看一只篮子的总价；看上涨家数、成交与领涨持续性，才更接近大多数持仓的体感。拿一个指数的红色，给整个账户的风险打包盖章，容易漏掉这层差别。"
+    ]},
+    {"id": "f_macro_brief", "title": "消费数据短读", "kind": "report", "placement": "sidebar", "rss_title": "商务部：1—10月社会消费商品和服务零售总额同比增长2.5%", "paragraphs": ["中新网引述商务部数据，1—10月社会消费商品和服务零售总额同比增长2.5%。这组宏观口径可以提供消费背景；落到个股，还需对照品类、价格带和企业自己的经营数字。"]},
+    {"id": "f_company_tencent", "title": "腾讯：算力扩张，先看现金流怎么走", "kind": "report", "placement": "main", "rss_title": "Tencent says US chip curbs ‘unfortunate’ and may slow AI training in short run", "paragraphs": ["SCMP昨日报道，腾讯第三季度资本开支大幅增加，AI基础设施投入拖累利润与自由现金流；报道也提到芯片限制可能在短期影响训练。这条公司消息与今日港股表现放在一起看，提供了比科技股普跌更具体的观察入口。"]},
+    {"id": "f_company_read", "title": "AI投入不是只问花了多少", "kind": "analysis", "placement": "main", "paragraphs": [
+      "扩张期的公司可能同时出现收入增长和自由现金流承压。你要判断的是，新增投入在修一条更好的路，还是把旧问题铺得更大。短期利润被压住，本身还不足以下结论；关键是新投入能否在之后的产品、收入和单位成本里找到回声。",
+      "对腾讯、阿里这类平台，可以把观察顺序固定下来：先看主业有没有提供稳定现金，再看AI业务的收入或使用量，最后看新增资本开支与回报之间隔了多久。如果只见支出不断抬升，兑现线索却越来越模糊，就该提高自己要求的安全余量。"
+    ]},
+    {"id": "f_relative", "title": "同是科技股，先跟对参照物", "kind": "analysis", "placement": "main", "quote_codes": ["usNVDA", "usMSFT", "usGOOGL", "hk09988", "hk00700"], "paragraphs": [
+      "英伟达面对的是算力采购、供给与客户回报的链条；微软、谷歌还要同时处理云业务、软件或广告现金流；港股平台又处在不同的交易环境里。五个名字都能放进AI概念，五张利润表却不能合成一张。",
+      "做相对比较时，先选同一个时段、同一个市场的参照，再问具体业务。若公司跌、同业涨，值得找公司层面的新信息；若公司和板块同跌，就继续看它是更抗跌还是更脆弱。跨市场的每日涨跌可以放在一页读，但不要当成同一场比赛的即时名次。"
+    ]},
+    {"id": "f_checklist", "title": "下一次交易前，写下这三句话", "kind": "analysis", "placement": "feature", "paragraphs": [
+      "我买的是什么变化？我预计这个变化要多久才能兑现？出现什么新事实，我会承认自己看错？把这三句写清楚，新闻才容易变成决策依据。否则，涨的时候你会说长期看好，跌的时候又只剩希望它反弹。",
+      "今天这份报纸能帮你把观察对象分开：宏观是否继续收紧，A股强势是否只集中在少数方向，AI公司投入是否开始兑现。下一步的动作，取决于你原来押的是哪一条，而不是哪条标题最响。"
+    ]},
+    {"id": "t_subsidy", "title": "国内短讯：辽宁推出算力券", "kind": "report", "placement": "sidebar", "rss_title": "辽宁省算力券政策正式落地实施", "paragraphs": ["中新网报道，辽宁财政与数据部门推出算力券补贴，目标是降低市场主体使用算力的成本。看这类政策，可以进一步追到账单端：谁有资格领、补贴哪类任务、能否形成持续使用。"]},
+    {"id": "t_release", "title": "代码雷达：vLLM Ascend 0.32.0rc1", "kind": "report", "placement": "paper", "rss_title": "v0.32.0rc1", "rss_source": "vllm_ascend_releases", "paragraphs": ["11月10日发布记录回看。项目官方Release Feed列出v0.32.0首个候选版，对齐上游vLLM 0.32.0，并增加模型支持和推理优化。关注框架更新时，把发布日期、版本线和具体模型一起记下来，再决定是否值得迁移。"]},
+    {"id": "c_look", "title": "先看路，再看树，最后看见人", "kind": "analysis", "placement": "main", "paragraphs": [
+      "先把成交价从脑子里拿开。画的下半部是一条浅色道路，从眼前斜向左侧收进去；右边的栗树几乎占满画面，树冠不是轻轻飘着，而是一团团向外伸展。道路把你带进画里，树木把你的目光向上托。",
+      "再找人物。路边的人很小，在庞大的树冠下近乎只是几笔颜色。他们没有把生活演给观众看，只是从这里走过。画面因此有一个有趣的比例：树木像主角，人的日常像一段不停下来的低声伴奏。"
+    ]},
+    {"id": "c_brush", "title": "它没有把每片叶子画清楚，却让你觉得风在动", "kind": "analysis", "placement": "main", "paragraphs": [
+      "树叶由短促、厚重的笔触挤在一起，黄、绿与深色相互穿插。你靠近看，会先见到颜料的方向；退远一点，这些方向又汇成枝叶的起伏。画家给你的不是一张叶片标本表，而是一种正在生长的感觉。",
+      "上方的深蓝把亮色树冠推向前面，下方浅色路面又让眼睛有地方歇一歇。如果整幅画都同样热闹，热闹就会变成噪音。这幅画的劲，在于它一边堆叠，一边留出通道：颜色可以拥挤，目光仍然走得过去。"
+    ]},
+    {"id": "c_context", "title": "一张70×58厘米的画，装下了多少东西", "kind": "report", "placement": "main", "evidence": ["E20", "E21"], "paragraphs": ["苏富比拍品档案将它记录为布面油画，尺寸70×58厘米，创作于1890年5月24日的奥维尔。知道这两个信息，再看密集的树冠和路上那些小人物，会发现眼前是一张并不巨大的画布，却塞进了强烈的空间与运动。"]},
+    {"id": "c_poetry_read", "title": "王维的安静，也有声音和人", "kind": "analysis", "placement": "main", "evidence": ["E22"], "paragraphs": [
+      "这首诗最有意思的地方，是空山并不空。先有雨后与晚秋，再有月光、清泉；接着竹林传来声音，莲叶移动，人才被读者慢慢发现。王维没有宣布此地很安静，而是安排几个细小的动静，让你自己感觉到安静。",
+      "把它与这幅栗树放在一起读，形式上相隔很远，目光走过的路径却有相似处：先被自然包围，再在自然里遇见人。一个用笔触把气息推到眼前，一个用次序把注意力一点点安顿下来。午休时读，正好。"
+    ]},
+    {"id": "c_question", "title": "今日留白：知道它很贵，会改变你怎么观看吗", "kind": "analysis", "placement": "sidebar", "paragraphs": ["如果先看画，再看价格，你可能留意颜色、人物和路的方向。若先看价格，再看画，你会本能地寻找它凭什么这么贵。两种观看都真实。今天可以试一个小动作：把题名和价格遮住，先给自己三十秒，再决定最想停在哪个地方。"]}
+  ],
+  "overrides": {
+    "p_speculation": {"paragraphs": ["大胆猜一笔：三方最容易谈成的，也许是先别把彼此逼到必须翻脸的位置。北京要稳定的周边与交易空间，华盛顿要可拿回去展示的成果，莫斯科要自己的议题始终留在桌上。眼前先给对方一点余地，换的是下一轮还能讨价还价。神棍版一句话：今天先排座次，明天再报价格。"]},
+    "f_watchlist": {"placement": "sidebar", "paragraphs": ["微软、谷歌与英伟达隔夜分化，腾讯和阿里的港股报价也明显走弱。观察顺序可以固定：先读公司消息，再看同业，最后看市场。这样，下一次价格突然动起来，你才知道自己要翻哪一页资料。"]},
+    "f_nvda": {"placement": "main"},
+    "f_action": {"placement": "main"},
+    "f_sectors": {"placement": "sidebar"},
+    "c_event": {"placement": "sidebar"},
+    "c_history": {"placement": "sidebar"},
+    "c_price": {"placement": "sidebar"},
+    "c_escher": {"placement": "sidebar"},
+    "c_margin": {"placement": "sidebar"}
+  },
+  "pages": [
+    {"id": "politics", "section": "politics", "label": "时政 · 现场", "english": "THE WORLD / NEWS", "kicker": "深圳 · 外交现场与公开文本", "headline": "深圳的三张椅子，\n坐着三本不同的账", "deck": "把官方消息、会谈程序和场外战事放在左页；翻到右页，再拆开大国各自的利益和后续走向。", "block_ids": ["p_record", "p_protocol", "p_text", "p_brief1", "p_brief2", "p_ukraine"]},
+    {"id": "politics-depth", "section": "politics", "label": "时政 · 纵深", "english": "THE WORLD / ANALYSIS", "kicker": "大国博弈 · 谈判成本 · 大胆推演", "headline": "同一张合影，\n三种不同的盘算", "deck": "会谈能不能改变局面，取决于各方愿意付出的成本。把目光从握手移到期限、任务和利益交换上。", "block_ids": ["p_accounts", "p_constraints", "p_watch", "p_three_paths", "p_smaller", "p_speculation", "p_gaza", "p_weather"]},
+    {"id": "finance", "section": "finance", "label": "财经 · 大盘", "english": "MONEY / MACRO", "kicker": "美联储 · A股港股 · 隔夜美股", "headline": "钱更贵了，\n故事得重新算账", "deck": "美联储纪要偏鹰，市场却不是整齐地涨或跌。把利率、指数与市场宽度接起来，才看得清今天的钱在往哪里走。", "block_ids": ["f_event", "f_transmission", "f_read", "f_breadth", "f_breadth_read", "f_macro_brief", "f_sectors"]},
+    {"id": "finance-stocks", "section": "finance", "label": "财经 · 个股", "english": "MONEY / WATCHLIST", "kicker": "观察名单 · 经营逻辑 · 交易前的判断", "headline": "股价已经动了，\n你的理由变了吗？", "deck": "把英伟达、微软、谷歌、腾讯和阿里拆开读。价格是一张表，经营是另一张表；两张表对起来，才开始接近决策。", "block_ids": ["f_nvda", "f_company_tencent", "f_company_read", "f_relative", "f_action", "f_checklist", "f_watchlist"]},
+    {"id": "technology", "section": "technology", "label": "科技", "english": "SYSTEMS & IDEAS", "kicker": "AI动态 · 推理系统 · 论文与代码雷达", "headline": "模型读过的东西，\n为什么还要再算一遍？", "deck": "KV缓存、推理成本和框架更新放到一起读。既看圈内新闻，也看哪些机制值得进入你下一轮实验。", "block_ids": ["t_event", "t_mechanism", "t_practice", "t_paper1", "t_paper2", "t_release", "t_industry", "t_subsidy", "t_industry_read"]},
+    {"id": "culture", "section": "culture", "label": "艺文", "english": "ARTS & LETTERS", "kicker": "每日一幅 · 一诗短读 · 一点哲思", "headline": "先把价格放下，\n看一会儿这棵树", "deck": "今天看梵高《盛开的栗树》，再读王维《山居秋暝》。一页纸，从市场的喧闹里借回一点观看的时间。", "block_ids": ["c_look", "c_brush", "c_context", "c_poetry_read", "c_event", "c_history", "c_question"]}
+  ],
+  "spreads": [
+    {"label": "时政", "pages": ["politics", "politics-depth"]},
+    {"label": "财经", "pages": ["finance", "finance-stocks"]},
+    {"label": "科技", "pages": ["technology"]},
+    {"label": "艺文", "pages": ["culture"]}
+  ],
+  "poem": {"title": "山居秋暝", "author": "王维 · 唐", "source": "c_poem", "lines": ["空山新雨後，天氣晚來秋。", "明月松間照，清泉石上流。", "竹喧歸浣女，蓮動下漁舟。", "隨意春芳歇，王孫自可留。"], "rights": "古典公版原文；采用维基文库所列文本"},
+  "artwork": {"path": "raw/vangogh.jpg", "source": "c_lot", "title": "盛开的栗树 / Châtaigniers en fleurs", "artist": "Vincent van Gogh", "year": "1890", "caption": "梵高《盛开的栗树》，布面油画，70×58厘米。图片来自苏富比拍品档案，完整呈现，未作AI重绘。", "url": "https://sothebys-md.brightspotcdn.com/dims4/default/c22bbdb/2147483647/strip/false/crop/7093x8593%2B0%2B0/resize/1024x1241%21/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fda%2F7f%2F389287e24b4690f0b14d2f0dec01%2Fn12368-9r749-t1-rx02-v2-a.jpg"}
+}

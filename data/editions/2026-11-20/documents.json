@@ -1,0 +1,14 @@
+[
+  {"id":"p_declaration","name":"新华社／国防部：中俄美元首和平宣言","url":"https://www.mod.gov.cn/gfbw/qwfb/16500893.html"},
+  {"id":"p_bilateral","name":"新华社／工信部：习近平会见特朗普","url":"https://www.miit.gov.cn/xwfb/szyw/art/2026/art_ea887ddfeeb54ccd8437dfd526b096f4.html"},
+  {"id":"p_trilateral","name":"新华社／中央网信办：三方会晤","url":"https://www.cac.gov.cn/2026-11/19/c_1796843547804751.htm"},
+  {"id":"f_nvidia","name":"NVIDIA：2027财年第三季度业绩","url":"https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"},
+  {"id":"f_fed","name":"美联储：10月27日至28日会议纪要","url":"https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"},
+  {"id":"f_anthropic","name":"Anthropic：IPO定价公告","url":"https://www.anthropic.com/news/anthropic-prices-initial-public-offering"},
+  {"id":"t_release","name":"vLLM官方：v0.34.0发布","url":"https://github.com/vllm-project/vllm/releases/tag/v0.34.0"},
+  {"id":"t_narrow","name":"arXiv：NarrowSpec","url":"https://arxiv.org/abs/2611.23835"},
+  {"id":"t_shelf","name":"arXiv：ShelfKV","url":"https://arxiv.org/abs/2611.23769"},
+  {"id":"t_moe","name":"Hugging Face：180B模型与32GB内存","url":"https://huggingface.co/blog/moe-expert-streaming"},
+  {"id":"c_art","name":"美国国家美术馆：持天平的女人","url":"https://www.nga.gov/artworks/1236-woman-holding-balance"},
+  {"id":"c_poem","name":"维基文库：柳宗元《江雪》","url":"https://zh.wikisource.org/wiki/%E6%B1%9F%E9%9B%AA"}
+]

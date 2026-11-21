@@ -1,0 +1,966 @@
+{
+  "edition_name": "赛博日报 · 2026年11月21日周末刊",
+  "issue_label": "周末刊",
+  "weather_required": true,
+  "comparison_edition": "2026-11-20",
+  "politics_rail": [
+    [
+      "贸易",
+      "先拆手续形成的墙"
+    ],
+    [
+      "规则",
+      "便利背后有共同标准"
+    ],
+    [
+      "时间",
+      "谈成之后，还要等生效"
+    ]
+  ],
+  "tech_rail": [
+    [
+      "01 / POOL",
+      "让不同缓存共用空间",
+      "先看各层状态差异"
+    ],
+    [
+      "02 / STREAM",
+      "边计算，边搬下一层",
+      "把传输藏进计算间隙"
+    ],
+    [
+      "03 / SCHEDULE",
+      "按队列选择执行方式",
+      "吞吐、时延一起验收"
+    ]
+  ],
+  "culture_note": "今天从汾湖的天气读到莫奈的一池水。先看桥怎样横过去，再看倒影怎样沉下来；画里没有人物，眼睛仍然有一条可以散步的路。",
+  "artwork": {
+    "path": "raw/monet.jpg",
+    "source": "c_commons",
+    "title": "睡莲池上的桥 / Bridge over a Pond of Water Lilies",
+    "artist": "Claude Monet",
+    "year": "1899",
+    "caption": "莫奈《睡莲池上的桥》，1899年，布面油画，92.7×73.7厘米，大都会艺术博物馆藏。图像取自Wikimedia Commons，来源页标记CC0。",
+    "alt": "莫奈《睡莲池上的桥》：浅绿拱桥横过池塘，睡莲浮在水面，绿色树木与倒影交织。",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bridge_over_a_Pond_of_Water_Lilies_MET_DT1854.jpg/960px-Bridge_over_a_Pond_of_Water_Lilies_MET_DT1854.jpg"
+  },
+  "poem": {
+    "title": "观书有感 · 其一",
+    "author": "朱熹 · 南宋",
+    "source": "c_poem",
+    "rights": "宋代公版原文；保留维基文库所用字形。",
+    "lines": [
+      "半畝方塘一鑑開，",
+      "天光雲影共徘徊。",
+      "問渠那得清如許，",
+      "為有源頭活水來。"
+    ]
+  },
+  "spreads": [
+    {
+      "label": "时政",
+      "pages": [
+        "politics",
+        "politics-depth"
+      ]
+    },
+    {
+      "label": "财经",
+      "pages": [
+        "finance",
+        "finance-stocks"
+      ]
+    },
+    {
+      "label": "科技",
+      "pages": [
+        "technology"
+      ]
+    },
+    {
+      "label": "艺文",
+      "pages": [
+        "culture"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E01",
+      "source": "p_uk_text",
+      "quote": "aim to apply this agreement from 1 March 2028"
+    },
+    {
+      "id": "E02",
+      "source": "p_uk_text",
+      "quote": "linking the EU and the UK Emissions Trading Systems"
+    },
+    {
+      "id": "E03",
+      "source": "p_uk_text",
+      "quote": "allow 100 000 young people from the EU and the UK respectively"
+    },
+    {
+      "id": "E04",
+      "source": "p_uk_summary",
+      "quote": "applying the same rules"
+    },
+    {
+      "id": "E05",
+      "source": "p_uk_summary",
+      "quote": "up to £200 per certificate"
+    },
+    {
+      "id": "E06",
+      "source": "p_uk_summary",
+      "quote": "no later than January 2030"
+    },
+    {
+      "id": "E07",
+      "source": "p_us",
+      "quote": "绝不能让核冲突发生"
+    },
+    {
+      "id": "E08",
+      "source": "f_nasdaq",
+      "quote": "core retail sales grow 0.6% from September"
+    },
+    {
+      "id": "E09",
+      "source": "f_nasdaq",
+      "quote": "remains 7% above its IPO price"
+    },
+    {
+      "id": "E10",
+      "source": "f_nasdaq",
+      "quote": "Monday: Manufacturing and Services PMIs"
+    },
+    {
+      "id": "E11",
+      "source": "f_nvidia",
+      "quote": "$115.8 billion, up 20% from the previous quarter and up 103% from a year ago"
+    },
+    {
+      "id": "E12",
+      "source": "t_tide",
+      "quote": "up to 2.04x as many agent turns"
+    },
+    {
+      "id": "E13",
+      "source": "t_tide",
+      "quote": "evaluated on GB300 and GH200"
+    },
+    {
+      "id": "E14",
+      "source": "t_morph",
+      "quote": "jointly optimizes layer-selection scores and model weights"
+    },
+    {
+      "id": "E15",
+      "source": "t_harness",
+      "quote": "Published November 20, 2026"
+    },
+    {
+      "id": "E16",
+      "source": "t_harness",
+      "quote": "55% pass@1, with average token usage of 1.5K"
+    },
+    {
+      "id": "E17",
+      "source": "t_duplex",
+      "quote": "November 20, 2026"
+    },
+    {
+      "id": "E18",
+      "source": "c_commons",
+      "quote": "(92.7 x 73.7 cm)"
+    },
+    {
+      "id": "E19",
+      "source": "c_commons",
+      "quote": "Creative Commons CC0 1.0 Universal Public Domain Dedication"
+    },
+    {
+      "id": "E20",
+      "source": "c_poem",
+      "quote": "為有源頭活水來。"
+    }
+  ],
+  "pages": [
+    {
+      "id": "politics",
+      "section": "politics",
+      "label": "时政 · 现场",
+      "english": "THE WORLD / EUROPE",
+      "kicker": "英欧峰会 · 把邻居重新接起来",
+      "headline": "十年之后，\n英国重算邻居的账",
+      "deck": "2016年公投十年后，英国与欧盟又坐下来拆贸易手续、接碳市场、谈青年往来。宏大的身份叙事之外，地理距离和企业账单，始终没有搬走。",
+      "blocks": [
+        {
+          "id": "p_event",
+          "kind": "report",
+          "placement": "main",
+          "title": "发生了什么：几项具体合作完成谈判",
+          "sources": [
+            "p_joint"
+          ],
+          "evidence": [
+            "E01",
+            "E02",
+            "E03"
+          ],
+          "paragraphs": [
+            "英国与欧盟20日在布鲁塞尔举行第二次峰会。双方公布的联合声明确认，在食品与动植物检疫合作、碳排放交易体系衔接、青年交流安排等方面完成谈判，并继续推进安全、能源和人员往来合作。",
+            "先看时间：食品检疫协议目标从2028年3月1日适用，碳市场衔接目标在2028年实施。青年交流安排也有后续法律与执行步骤。它们已经从愿景走向更具体的约定，离所有便利立刻进入日常生活，还有一段路。"
+          ],
+          "source_ids": [
+            "p_joint",
+            "p_uk_text"
+          ]
+        },
+        {
+          "id": "p_food",
+          "kind": "report",
+          "placement": "main",
+          "title": "一张证书的成本，比口号更容易量出来",
+          "evidence": [
+            "E04",
+            "E05"
+          ],
+          "paragraphs": [
+            "英国政府的成果说明称，共同检疫区域将采用相同规则，减少许多食品、农产品、动物与植物跨境所需的证书和检查。政府估计，仅出口卫生证书一项，企业就可能每份节省最多200英镑。",
+            "这是一个能落到具体业务的变化：冷链多等一天、货车多停一站、文件多办一次，都会进入成本。减少这些摩擦，首先改善的是贸易的可预测性。至于省下的钱有多少进入零售价，还要看竞争、汇率和企业自己的定价。"
+          ],
+          "source_ids": [
+            "p_uk_summary"
+          ]
+        },
+        {
+          "id": "p_carbon",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "碳市场为什么也要重新接？",
+          "evidence": [
+            "E02"
+          ],
+          "sources": [
+            "p_uk_summary"
+          ],
+          "paragraphs": [
+            "同一条产业链跨过边境，如果两边使用不同的排放核算与履约安排，企业就得同时管理两套规则。衔接碳市场的吸引力，在于减少重复成本，并让投资更容易按同一套预期来算。",
+            "这里也藏着合作的价格：享受更顺畅的市场连接，就需要在规则、监督和争端处理上接受更多协调。方便不是凭空来的。政治上称它为务实合作，企业拿到的则是一组更容易衔接的经营条件。"
+          ],
+          "source_ids": [
+            "p_uk_summary",
+            "p_uk_text"
+          ]
+        },
+        {
+          "id": "p_timing",
+          "kind": "analysis",
+          "placement": "feature",
+          "title": "读这条新闻，最该圈出的其实是日期",
+          "paragraphs": [
+            "谈判完成、签署、生效、企业实际用上，是四个不同节点。它们之间可能隔着法律程序、系统改造与过渡安排。判断新闻分量，既要承认政治关系正在转暖，也要把兑现时间写在旁边。否则，容易把未来两三年的变化，提前全记进今天的价格。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_us_after",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "深圳之后：特朗普继续释放积极表态",
+          "evidence": [
+            "E07"
+          ],
+          "paragraphs": [
+            "新华社报道，特朗普20日回到白宫后称中俄美元首会晤意义重大，并强调三方对防止核冲突形成共识。昨天关注的和平宣言，进入各方对国内解释成果的阶段。"
+          ],
+          "source_ids": [
+            "p_us"
+          ]
+        },
+        {
+          "id": "p_denmark",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "丹麦驱逐俄罗斯武官",
+          "rss_title": "丹麦驱逐俄罗斯武官，俄表示将“适当回应”",
+          "rss_source": "chinanews_world",
+          "paragraphs": [
+            "中新网综合报道，丹麦20日宣布驱逐俄罗斯国防武官，要求其七日内离境；俄方表示将作适当回应。最高层对话之外，欧洲安全关系里的摩擦仍在继续。"
+          ],
+          "source_ids": [
+            "rss_952d5c95525e"
+          ]
+        },
+        {
+          "id": "p_japan",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "日本安保草案出现新的敏感讨论",
+          "rss_title": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
+          "rss_source": "chinanews_world",
+          "paragraphs": [
+            "新华社引述共同社报道，日本安保文件修订草案涉及研究核动力潜艇，以及紧急情况下核武器运入日本的安排。这是媒体披露的草案内容，后续正式文件值得继续跟踪。"
+          ],
+          "source_ids": [
+            "rss_f31d2ae11e47"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "politics-depth",
+      "section": "politics",
+      "label": "时政 · 纵深",
+      "english": "THE WORLD / RULES AND POWER",
+      "kicker": "市场 · 主权 · 战略选择",
+      "headline": "想离得更近，\n总要交一点规则费",
+      "deck": "英欧关系重置的深处，是一笔比关税更细的交易：市场便利换规则协调。与此同时，华盛顿又想给海外数据中心投资加一道新边界。两条新闻，都在讨论钱该往哪里走。",
+      "blocks": [
+        {
+          "id": "p_geography",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "政治可以改关系，地理仍然收运费",
+          "sources": [
+            "p_uk_summary"
+          ],
+          "paragraphs": [
+            "邻近市场的价值，不只在于谁买你的东西，还在于路短、供应商密、维修快、人员能迅速往返。政治关系改变之后，这些条件不会自动消失；新增的手续和不确定性，却会叠到企业头上。英欧这次重新拆手续，正是在减去其中一部分。",
+            "所以，这场靠近可以同时满足两种需要：政府可以证明自己改善经济，企业可以降低日常交易成本。它未必要求双方先解决所有身份分歧，只需要承认，有一些账继续各算各的，实在太贵。"
+          ],
+          "source_ids": [
+            "p_uk_summary"
+          ]
+        },
+        {
+          "id": "p_rule_price",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "规则本身，就是大市场的一种力量",
+          "evidence": [
+            "E04"
+          ],
+          "paragraphs": [
+            "一个足够大的市场，能够让周边企业主动研究它的标准，因为进入市场的收益值得这么做。边境外的伙伴希望减少摩擦，也就更愿意讨论共同规则。这种力量不必总以制裁出现，有时藏在一份技术附件和一套认证程序里。",
+            "对英国而言，协调可以换来便利，也意味着某些政策选择不能再只算国内这一面。对欧盟而言，开放合作同时保住共同标准，有助于避免形成规则套利。双方都可以称之为双赢，但各自获得的东西并不相同。"
+          ],
+          "source_ids": [
+            "p_uk_summary"
+          ]
+        },
+        {
+          "id": "p_domestic",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "为什么先谈食品、碳和年轻人？",
+          "sources": [
+            "p_uk_text",
+            "p_uk_summary"
+          ],
+          "paragraphs": [
+            "这些议题都能找到具体受益者：出口商、制造企业、学校与有出行计划的年轻人。政府因此更容易把抽象关系改善翻译成国内能理解的成果。与一步到位改变身份定位相比，分项合作也给反对者留下更小、更具体的争论对象。",
+            "但安排越细，兑现越需要耐心。监管部门要协调，企业要适配，预算和资格要讲清。政治人物在峰会上完成的工作，是让这些事情获得继续推进的授权；后面的执行，才决定公众最终愿不愿意认账。"
+          ],
+          "source_ids": [
+            "p_uk_summary",
+            "p_uk_text"
+          ]
+        },
+        {
+          "id": "p_us_wall",
+          "kind": "report",
+          "placement": "main",
+          "title": "另一边：美国想给数据中心投资画边界",
+          "rss_title": "Trump threatens ban on US firms building AI data centres overseas",
+          "rss_source": "bbc_business",
+          "rss_items": [
+            {
+              "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+              "source": "ft"
+            }
+          ],
+          "paragraphs": [
+            "BBC20日报道，特朗普威胁限制美国企业在海外建设AI数据中心，但当时没有提供多少具体政策细节。FT同日公开标题则提到，他威胁对境外建设的数据中心征收巨额税款。这是新的政策表态，具体范围仍要看正式安排。"
+          ],
+          "source_ids": [
+            "rss_9013294358e3",
+            "rss_d020b8aa67dc"
+          ]
+        },
+        {
+          "id": "p_compute_border",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "从芯片流向，进一步管到投资地点",
+          "paragraphs": [
+            "如果政策真的落到数据中心选址，它影响的就不只是设备卖给谁，还包括资本、电力需求和长期合同落在哪个国家。企业会在电价、供电、客户距离、税负和许可之间重算账。限制越广，越可能把原先商业上最省的路径变成政策上最难的路径。",
+            "这也解释了为什么一边的国家想减少边境摩擦，另一边却想增加资本跨境的条件。大国争的既是市场，也是未来生产能力所在的位置。对企业来说，最怕的往往是规则迟迟不清，已经谈好的项目却先进入等待。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_tea",
+          "kind": "speculation",
+          "placement": "feature",
+          "title": "茶水间推演：邻居修门，强国立墙",
+          "paragraphs": [
+            "大胆推一笔：英欧更愿意把彼此绑紧，未必只是旧情复燃，也可能是在给更不稳定的外部环境准备一块共同的地板。美国若继续把算力当战略资产管理，其他经济体也会更急着保住自己的投资与规则空间。神棍版一句话：世界越难预测，邻居之间那扇旧门，反而越值钱。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "p_youth",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "青年安排：名额与日期要一起看",
+          "evidence": [
+            "E03",
+            "E06"
+          ],
+          "paragraphs": [
+            "官方文件设想英欧双方各有十万名年轻人参与交流，最长停留三年；英国说明预计最迟2030年1月开始有人实际出行。新闻中的机会，与今天就能申请，隔着执行时间。"
+          ],
+          "source_ids": [
+            "p_uk_summary",
+            "p_uk_text"
+          ]
+        },
+        {
+          "id": "p_follow",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "下一步看什么",
+          "paragraphs": [
+            "英欧看法律程序和行业落地说明；美国看数据中心政策是否出现文件、适用对象与例外。两边都可以用同一把尺子：先看规则，再看谁因此改变真实投资。"
+          ],
+          "source_ids": []
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "section": "finance",
+      "label": "财经 · 周末复盘",
+      "english": "MONEY / FRIDAY CLOSE",
+      "kicker": "周五收盘 · 风险重定价 · 下周观察",
+      "headline": "纳指跌逾5%，\n这次不只是一只股票",
+      "deck": "英伟达单日下跌约14%，A股与港股科技方向也转冷。好财报没能扭转价格，市场正在同时重估增长、融资和信任。周末适合把这三笔账分开。",
+      "blocks": [
+        {
+          "id": "f_prices",
+          "kind": "report",
+          "placement": "main",
+          "title": "发生了什么：美股抛售继续加深",
+          "quote_codes": [
+            "us.IXIC",
+            "us.INX",
+            "us.DJI",
+            "usNVDA"
+          ],
+          "paragraphs": [
+            "11月20日交易日的接口数据显示，纳指 {{us.IXIC_pct}}，标普500 {{us.INX_pct}}，道指 {{us.DJI_pct}}。英伟达收于 {{usNVDA_price}} 美元，单日 {{usNVDA_pct}}，相对纳指落后 {{nvda_gap}} 个百分点。",
+            "今天是周六。这一页采用周五已结束交易日的快照，A股、港股与美股都保留各自时标。它们能放在一起看风险传导，却仍有交易时段先后的差别，不能把全部下跌都归给同一条刚出现的消息。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        },
+        {
+          "id": "f_goodnews",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "利好已经出现，为什么还接不住？",
+          "evidence": [
+            "E08"
+          ],
+          "sources": [
+            "f_nasdaq",
+            "f_nvidia"
+          ],
+          "paragraphs": [
+            "纳斯达克经济研究团队周五复盘指出，本周有英伟达业绩超预期、Anthropic完成大型IPO，以及核心零售销售环比增长0.6%等消息，市场仍然卖出。增长证据存在，投资者却不愿继续按原来的价格承担同样的风险。",
+            "这类行情里，可以分开问三件事：盈利预期有没有下修，资金成本和可得性有没有变化，投资者对数字的信任有没有下降。三者都能压低股价，但修复路径不同。多一份好财报，只能直接回答其中一部分。"
+          ],
+          "source_ids": [
+            "f_nasdaq",
+            "f_nvidia"
+          ]
+        },
+        {
+          "id": "f_chain",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "当风险从一个名字沿着融资链往外走",
+          "paragraphs": [
+            "算力投资连着设备厂商、云平台、模型公司、融资者与电力基础设施。某一环的回报被怀疑，其他参与者就会检查自己的应收、合同和资本投入。价格下跌又可能提高融资难度，使原本只是预期的问题开始影响计划。",
+            "这并不意味着整条链已经出事，而是解释为什么单看终端需求还不够。订单可以很强，客户的资金来源却变得更贵；业务可以继续增长，股东要求的回报也可以同时提高。市场今天重算的，可能正是这些连接处。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "f_ah",
+          "kind": "report",
+          "placement": "main",
+          "title": "A港市场：科技方向的承接更弱了",
+          "quote_codes": [
+            "sh000001",
+            "sz399001",
+            "sz399006",
+            "sh000688",
+            "hkHSI",
+            "hkHSTECH"
+          ],
+          "paragraphs": [
+            "周五上证指数 {{sh000001_pct}}，深证成指 {{sz399001_pct}}，创业板指 {{sz399006_pct}}，科创50 {{sh000688_pct}}；恒生指数 {{hkHSI_pct}}，恒生科技 {{hkHSTECH_pct}}。科创50相对创业板的差距为 {{a_gap}} 个百分点。",
+            "昨天样报里，科创50还与其他A股指数分化；周五这块也回撤。这个变化值得记下来：此前局部强势不再足够托住科技方向。下周若想判断修复，不能只看指数翻红，还要观察这类相对强弱能否重新建立。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        },
+        {
+          "id": "f_bank",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "行业温度：银行样本与科技反向",
+          "quote_codes": [
+            "sh512480",
+            "sh512800",
+            "sh512660",
+            "sh512170"
+          ],
+          "paragraphs": [
+            "四个ETF样本里，半导体 {{sh512480_pct}}，军工 {{sh512660_pct}}，医疗 {{sh512170_pct}}，银行 {{sh512800_pct}}。银行走强提供了分化线索，尚不足以证明风险已经消退。要继续看资金是在短暂停靠，还是愿意重新扩大配置范围。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        },
+        {
+          "id": "f_ipo",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "新股热度也开始回吐",
+          "evidence": [
+            "E09"
+          ],
+          "paragraphs": [
+            "纳斯达克周五复盘称，Anthropic在首日较发行价上涨17%后，周五相对发行价的涨幅剩约7%。它仍高于发行价，但不同入场价格的投资者，体验已经明显不同。"
+          ],
+          "source_ids": [
+            "f_nasdaq"
+          ]
+        },
+        {
+          "id": "f_calendar",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "下周日历：从故事回到数据",
+          "evidence": [
+            "E10"
+          ],
+          "sources": [
+            "f_nasdaq"
+          ],
+          "paragraphs": [
+            "纳斯达克列出的下周关注点包括周一制造业与服务业PMI初值、周二消费者信心，以及周三PCE通胀和消费数据。宏观数据会继续影响增长与资金价格的判断。"
+          ],
+          "source_ids": [
+            "f_nasdaq"
+          ]
+        },
+        {
+          "id": "f_weekend",
+          "kind": "analysis",
+          "placement": "feature",
+          "title": "周末这两天，可以先做一件不靠预测的事",
+          "paragraphs": [
+            "把账户里最相似的风险合并看一遍。几个不同代码，可能同时依赖同一批算力买家、同一种融资环境或同一个估值故事。若它们一起跌，分散了名字未必分散了原因。先看清共同暴露，再决定下周要新增什么，通常比急着猜最低点更有用。"
+          ],
+          "source_ids": []
+        }
+      ]
+    },
+    {
+      "id": "finance-stocks",
+      "section": "finance",
+      "label": "财经 · 个股",
+      "english": "MONEY / RISK FILES",
+      "kicker": "英伟达 · 阿里 · 五只观察股票",
+      "headline": "同叫AI，\n有人跌14%，有人涨",
+      "deck": "英伟达的公司风险叠上市场抛售，阿里却走出相反方向。今天不把所有科技股装进一句话，逐个检查价格背后变了什么，以及哪些理由还站得住。",
+      "blocks": [
+        {
+          "id": "f_nvda",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "英伟达：相对弱势已经扩大",
+          "quote_codes": [
+            "usNVDA",
+            "us.IXIC"
+          ],
+          "paragraphs": [
+            "周五英伟达跌幅比纳指多 {{nvda_gap}} 个百分点；按连续两个交易日价格计算，11月19日至20日累计变化为 {{nvda_two_day}}%。昨天需要追公司层面的风险，今天这个任务变得更迫切。只用整个科技板块弱来解释，已经漏掉很大一部分差异。",
+            "可以把资料分成经营、治理与融资三栏。收入与交付回答客户是否仍在采购；治理与调查影响对数字和管理的信任；融资则影响客户能否继续扩张。同一份优秀业绩，无法一次性消除另外两栏的不确定性。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        },
+        {
+          "id": "f_probe",
+          "kind": "report",
+          "placement": "main",
+          "title": "新增线索：监管调查涉及会计问题",
+          "rss_title": "Nvidia faces US regulator’s probe into its accounting",
+          "rss_source": "ft",
+          "paragraphs": [
+            "FT20日公开标题与摘要报道，美国证券交易委员会正调查英伟达会计相关问题。这是媒体披露的调查线索，本版据其公开摘要列出；调查进展与最终认定仍需追后续材料。它与昨天加州方面的芯片业务调查报道，关注点并不相同。"
+          ],
+          "source_ids": [
+            "rss_7e4274b8921a"
+          ]
+        },
+        {
+          "id": "f_ali",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "阿里：市场下跌，也有人愿意接另一张账",
+          "quote_codes": [
+            "hk09988",
+            "hkHSTECH"
+          ],
+          "rss_title": "Alibaba accelerates pivot to in-house chips after reporting jump in sales",
+          "rss_source": "scmp_business",
+          "paragraphs": [
+            "阿里周五 {{hk09988_pct}}，恒生科技 {{hkHSTECH_pct}}。SCMP19日的财报报道说，公司收入和利润改善，管理层强调自研芯片与下一代模型训练。这是与价格一起可读的一条公司背景，不能单独证明每一笔买盘的动机。",
+            "值得继续追的是，云业务增长、自研基础设施与资本投入能否形成相互支持的闭环。若自研减少外部限制，却把成本抬得过高，仍要重算回报；若订单与利润同步改善，股价就有更具体的支撑。方向相反的走势，提醒我们把公司差异保留下来。"
+          ],
+          "source_ids": [
+            "market_quotes",
+            "rss_84025ed8e849"
+          ]
+        },
+        {
+          "id": "f_msftgoog",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "微软、谷歌：这次跌得少，也要看靠什么",
+          "quote_codes": [
+            "usMSFT",
+            "usGOOGL",
+            "us.IXIC"
+          ],
+          "paragraphs": [
+            "微软周五 {{usMSFT_pct}}，谷歌 {{usGOOGL_pct}}，都小于纳指的跌幅。相对抗跌是事实，背后的原因却需要更多证据。成熟业务现金流、资产负债表和投资者持仓结构，都可能影响同一天的表现。",
+            "研究时可以先对照新增AI资本开支与主业回款，再看云、广告或软件的增长质量。如果核心业务能稳定供血，公司更容易承受较长的兑现周期；但若新增投入不断加速，成熟业务也不能永远替回报缺口买单。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        },
+        {
+          "id": "f_tencent",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "腾讯：看相对表现，别跳过经营问题",
+          "quote_codes": [
+            "hk00700",
+            "hkHSTECH"
+          ],
+          "paragraphs": [
+            "腾讯周五 {{hk00700_pct}}，也小于恒生科技跌幅。它与英伟达并不承担同一张利润表：平台业务、内容与广告、算力投入的周期不同。把所有价格变化翻译成同一个AI泡沫判断，会抹掉这些差别。",
+            "下一步仍然可以围绕现金流提问：主业能提供多少资金，新投入何时影响收入与成本，新增支出有没有明确的产品和客户承接。相对抗跌可以让它进入观察视野，经营证据才决定观察能不能变成长期理由。"
+          ],
+          "source_ids": [
+            "market_quotes"
+          ]
+        },
+        {
+          "id": "f_dip",
+          "kind": "analysis",
+          "placement": "feature",
+          "title": "暴跌之后，先问自己买的是什么修复",
+          "paragraphs": [
+            "买反弹，押的是恐慌缓解和资金重新承接；买长期价值，押的是经营兑现足以覆盖现在的价格。两种判断需要不同的证据。如果公司风险还在增加，就不能只靠跌幅变大证明更安全；如果经营没有变化，也不必让每个负面标题自动推翻全部研究。",
+            "周末把原先的买入理由写出来，再添一行：哪项新事实已经改变它。能写清改变了什么，就能讨论价格与仓位；只剩它曾经很贵、现在便宜很多，仍然缺少一套可以落地的估值理由。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "f_liquidity",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "仓位也会改变你读新闻的方式",
+          "paragraphs": [
+            "当单一方向过重，同一条消息更容易被读成必须立刻行动。留出足够的现金与判断空间，能让研究不被短期波动完全接管。仓位合理，才更容易承认一个观点需要更新。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "f_order",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "下周观察顺序",
+          "paragraphs": [
+            "先看新增公司信息，再看相对同业的价格，最后看市场宽度。尤其留意：风险消息继续出现时，价格是否仍创新低；有利消息出现后，买盘又能否持续。反应本身，也是信息。"
+          ],
+          "source_ids": []
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "section": "technology",
+      "label": "科技",
+      "english": "SYSTEMS / CACHE AND AGENTS",
+      "kicker": "TideCache · 混合模型 · Agent效率",
+      "headline": "显存不够，\n先别让每层都占满",
+      "deck": "一篇新论文给混合架构重新安排缓存：不同状态共用物理空间，下一层前缀边算边搬。另一个方向则减少agent自己绕的路，让效率从任务完成率里长出来。",
+      "blocks": [
+        {
+          "id": "t_tide_news",
+          "kind": "report",
+          "placement": "main",
+          "title": "TideCache：混合模型，不能只按一类KV来管",
+          "evidence": [
+            "E12",
+            "E13"
+          ],
+          "sources": [
+            "t_tide"
+          ],
+          "paragraphs": [
+            "11月19日提交、20日进入研究视野的TideCache，面向CPU—GPU超级芯片上的混合模型服务。它用统一缓存池、逐层流式搬运与请求调度，把不同层状态的空间需求一起管理，而不是让每一块缓存长期占着固定份额。",
+            "作者在SGLang、GB300和GH200的七组模型／平台配置中报告，相对配有HiCache的基线，完成的agent轮次最多达2.04倍，整体P50逐token时延降低20%至59%。这些数字对应论文的硬件与工作负载，不是对所有服务器的统一承诺。"
+          ],
+          "source_ids": [
+            "t_tide"
+          ]
+        },
+        {
+          "id": "t_mechanism",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "为什么混合架构让内存管理更难？",
+          "sources": [
+            "t_tide"
+          ],
+          "paragraphs": [
+            "全局注意力层与有界状态层，对上下文增长的反应不同。如果仍给它们套一份静态配额，就可能出现这一边缺空间、另一边留空位。把物理页重新分配，可以先解决这类不均衡，而不必要求上层接口跟着改写。",
+            "逐层搬运又利用了另一个机会：有些层正在计算时，可以预取下一层会用到的前缀。它试图把传输藏进计算的时间里。真正要测的是，两者能否重叠，以及省下的显存是否让更多请求顺利完成。"
+          ],
+          "source_ids": [
+            "t_tide"
+          ]
+        },
+        {
+          "id": "t_experiment",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "对你的实验，最有用的是这组三分法",
+          "paragraphs": [
+            "先分清容量不足、搬运太慢与调度失配。容量不足看各层状态占用；搬运太慢看带宽和可重叠的计算窗口；调度失配看请求长短、队列与驻留策略。三个问题都可能表现为GPU没有跑出预期吞吐，却需要不同的优化。",
+            "再用agent任务验收。只量一段固定长度生成，容易漏掉多轮前缀复用、工具返回和请求暂停。保留完成轮次、首token、高分位时延与总成本，才能看出优化是否真正帮助任务完成，而只是把某一个局部数字做得好看。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "t_morph_news",
+          "kind": "report",
+          "placement": "paper",
+          "title": "FlashMorph2：选哪些层保留完整注意力？",
+          "evidence": [
+            "E14"
+          ],
+          "sources": [
+            "t_morph"
+          ],
+          "paragraphs": [
+            "11月18日论文回看。FlashMorph2研究把现有Transformer转换为混合注意力模型时，怎样挑选保留完整注意力的层。作者直接评估离散混合架构，用其自身状态运行，并联合更新选层分数和模型权重，减少替代指标与最终模型之间的落差。",
+            "这条思路值得拿走：若后面还要训练恢复能力，前面挑结构时就应考虑恢复之后的表现。它优化的是质量与效率的取舍，不应把论文里的质量提升误读成同等幅度的推理加速。"
+          ],
+          "source_ids": [
+            "t_morph"
+          ]
+        },
+        {
+          "id": "t_harness_news",
+          "kind": "report",
+          "placement": "paper",
+          "title": "Harness Adapter：少想一点，也可能做对更多",
+          "evidence": [
+            "E15",
+            "E16"
+          ],
+          "sources": [
+            "t_harness"
+          ],
+          "paragraphs": [
+            "Hugging Face20日发布的实践，用真实agent框架内的强化学习，为Qwen3.8-27B训练LoRA适配器。作者报告，在pi框架的Terminal-Bench 2.1上，pass@1从39%升至55%，平均token用量从约2.9K降至1.5K。",
+            "效率来源包含更少的推理和工具调用，以及更高的首次完成率。这提醒我们：推理优化既可以把每个token算得便宜，也可以让任务少产生无效token。复现时应使用独立任务集，确认省下来的步骤没有靠记住测试题获得。"
+          ],
+          "source_ids": [
+            "t_harness"
+          ]
+        },
+        {
+          "id": "t_google",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "Google：Duplex接进Gemini任务",
+          "evidence": [
+            "E17"
+          ],
+          "sources": [
+            "t_duplex"
+          ],
+          "paragraphs": [
+            "Google Research20日介绍，Duplex的商家电话能力已经整合进Gemini任务。系统从早期固定场景，演进为处理预约等任务的对话基础设施。模型能力之外，产品还需要处理真实电话里的变更与打断。"
+          ],
+          "source_ids": [
+            "t_duplex"
+          ]
+        },
+        {
+          "id": "t_hardware",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "换到别的平台，先画数据怎么走",
+          "paragraphs": [
+            "TideCache利用CPU—GPU系统的传输条件。迁移到另一种互连和内存架构时，最先该核对的是带宽、同步与预取窗口。机制可以借，性能倍数要用自己的流量重新测。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "t_bottom",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "同一笔成本，两条优化路径",
+          "paragraphs": [
+            "一条改系统，让缓存、计算和搬运更合拍；一条改agent行为，让它少绕路。最终都应该落到同一个问题：质量和时延守住时，完成一个真实任务需要多少钱。"
+          ],
+          "source_ids": []
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "section": "culture",
+      "label": "艺文",
+      "english": "ARTS / WATER AND REFLECTIONS",
+      "kicker": "莫奈 · 朱熹 · 在一池水里看两层世界",
+      "headline": "桥上有一条路，\n水里还有一片天",
+      "deck": "今天看莫奈《睡莲池上的桥》，读朱熹《观书有感》。一个让树木在水里再长一次，一个把方塘看成镜子。我们可以先不赶着解释，看看自己的目光往哪里走。",
+      "blocks": [
+        {
+          "id": "c_bridge",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "桥把画面横着抱了一下",
+          "sources": [
+            "c_commons"
+          ],
+          "paragraphs": [
+            "浅绿的桥横过画面，弧线并不陡，像轻轻把两边的树木连起来。栏杆给眼睛一个稳定的方向，周围的短笔触则不停向上、向下伸展。有了这道弧，繁密的绿色就不只是铺满，而有了可以停靠的秩序。",
+            "画里没有人，你仍然能想象走到桥上会怎样。莫奈没有把这条路线直接送到观众脚下，而是让我们隔着一池水看它。你想过去，又会先被水面的细节留住。观看因此既有去处，也有一点舍不得赶路。"
+          ],
+          "source_ids": [
+            "c_commons"
+          ]
+        },
+        {
+          "id": "c_water",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "睡莲横着浮，倒影竖着沉",
+          "sources": [
+            "c_commons"
+          ],
+          "paragraphs": [
+            "睡莲由一块块浅粉、淡黄和亮绿铺在水上，多数笔触沿水面横向展开；树木的倒影却拖着细长的竖线往下走。同一个地方于是出现两层空间：近处能想象摸到的叶片，以及看得见、却伸手碰不到的深处。",
+            "绿色并不只有一种。冷一点的蓝绿、发黄的嫩绿、夹着红褐的暗色彼此叠着，让桥、树与水能够相近，又不完全混在一起。靠近看是许多方向不同的颜料，退远一点，湿润的空气才慢慢合起来。"
+          ],
+          "source_ids": [
+            "c_commons"
+          ]
+        },
+        {
+          "id": "c_sky",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "没有给天空单独留一大块，画却不闷",
+          "sources": [
+            "c_commons"
+          ],
+          "paragraphs": [
+            "上半部几乎被植物占满，传统风景画里那片开阔的天空退了场。但水面和叶片上的亮色仍在替光说话。画家没有把每一处反光解释清楚，我们却能从这些明暗之间感到白天的气息。",
+            "这很适合慢慢看：先沿桥走一遍，再沿着一条倒影往下看，最后找几处粉白的睡莲。每换一条路线，画面就重新组织一次。它的丰富，不只在东西多，也在于目光可以用不同的速度经过同一个池塘。"
+          ],
+          "source_ids": [
+            "c_commons"
+          ]
+        },
+        {
+          "id": "c_poetry",
+          "kind": "analysis",
+          "placement": "main",
+          "title": "朱熹先让你看见，再问为什么清",
+          "evidence": [
+            "E20"
+          ],
+          "paragraphs": [
+            "前两句几乎是一幅小画：方塘像镜子打开，天光与云影在里面一起移动。到第三句，才突然追问清澈从何而来。最后的活水把静止的镜面变成了持续更新的东西，诗的意思也从景物走向读书与认识。",
+            "它有趣的地方，是没有一开始就说人应该如何学习，而是先让眼睛获得一个经验，再借经验转过去。把它与莫奈放在一起，不必把两人讲成同一种哲学；只需发现，水既能让我们看见外面，也能提醒我们，清楚地看见需要条件。"
+          ],
+          "source_ids": [
+            "c_poem"
+          ]
+        },
+        {
+          "id": "c_record",
+          "kind": "report",
+          "placement": "sidebar",
+          "title": "作品小档案",
+          "evidence": [
+            "E18",
+            "E19"
+          ],
+          "sources": [
+            "c_commons"
+          ],
+          "paragraphs": [
+            "作品作于1899年，布面油画，约92.7×73.7厘米，现藏大都会艺术博物馆。此处原作图像来自Wikimedia Commons，来源页标记CC0；可点画放大。"
+          ],
+          "source_ids": [
+            "c_commons"
+          ]
+        },
+        {
+          "id": "c_fenhu",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "读完，可以去看一眼自己的水边",
+          "paragraphs": [
+            "今天头版有汾湖天气。若有空到水边，不妨留意同一棵树在岸上和水里有什么不同：颜色、方向、清晰程度，都会变。风一吹，世界没有换，倒影已经重新写过一遍。"
+          ],
+          "source_ids": []
+        },
+        {
+          "id": "c_question",
+          "kind": "analysis",
+          "placement": "sidebar",
+          "title": "今天的三十秒",
+          "paragraphs": [
+            "先找画里最亮的一片睡莲，再找最暗的一处水。把目光在两者之间慢慢移动，看看桥是否也跟着变了颜色。有时，变化来自旁边那一块，而不是你盯着的东西本身。"
+          ],
+          "source_ids": []
+        }
+      ]
+    }
+  ]
+}
